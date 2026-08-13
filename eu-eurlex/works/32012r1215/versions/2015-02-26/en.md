@@ -4,10 +4,10 @@ title: 'Regulation (EU) No 1215/2012'
 valid_from: '2015-02-26'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R1215-20150226'
-source_sha256: 'ff4f52e598be9894ca0243de3c681f1d423e4eb987016959eab155ee4c797999'
+source_sha256: '7dd895b469274ef5001cc00a8c5b7c9a7062f7845c355f9753692e75883322bf'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — SCOPE AND DEFINITIONS
@@ -18,19 +18,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 **1.** This Regulation shall apply in civil and commercial matters whatever the nature of the court or tribunal. It shall not extend, in particular, to revenue, customs or administrative matters or to the liability of the State for acts and omissions in the exercise of State authority (*acta iure imperii*).
 
-**2.** This Regulation shall not apply to:
-
-(a) the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship or out of a relationship deemed by the law applicable to such relationship to have comparable effects to marriage;
-
-(b) bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;
-
-(c) social security;
-
-(d) arbitration;
-
-(e) maintenance obligations arising from a family relationship, parentage, marriage or affinity;
-
-(f) wills and succession, including maintenance obligations arising by reason of death.
+**2.** This Regulation shall not apply to:(a) the status or legal capacity of natural persons, rights in property arising out of a matrimonial relationship or out of a relationship deemed by the law applicable to such relationship to have comparable effects to marriage;(b) bankruptcy, proceedings relating to the winding-up of insolvent companies or other legal persons, judicial arrangements, compositions and analogous proceedings;(c) social security;(d) arbitration;(e) maintenance obligations arising from a family relationship, parentage, marriage or affinity;(f) wills and succession, including maintenance obligations arising by reason of death.
 
 <a id="art_2"></a>
 
@@ -96,7 +84,7 @@ For the purposes of this Regulation, ‘court’ includes the following authorit
 
 A person domiciled in a Member State may be sued in another Member State:
 
-(1) (a) in matters relating to a contract, in the courts for the place of performance of the obligation in question; (b) for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be: - in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should have been delivered, in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should have been delivered, - in the case of the provision of services, the place in a Member State where, under the contract, the services were provided or should have been provided; in the case of the provision of services, the place in a Member State where, under the contract, the services were provided or should have been provided; (c) if point (b) does not apply then point (a) applies;
+(1) (a) in matters relating to a contract, in the courts for the place of performance of the obligation in question; (b) for the purpose of this provision and unless otherwise agreed, the place of performance of the obligation in question shall be: — in the case of the sale of goods, the place in a Member State where, under the contract, the goods were delivered or should have been delivered, — in the case of the provision of services, the place in a Member State where, under the contract, the services were provided or should have been provided; (c) if point (b) does not apply then point (a) applies;
 
 (2) in matters relating to tort, delict or quasi-delict, in the courts for the place where the harmful event occurred or may occur;
 
@@ -142,13 +130,7 @@ In matters relating to insurance, jurisdiction shall be determined by this Secti
 
 ### Article 11
 
-**1.** An insurer domiciled in a Member State may be sued:
-
-(a) in the courts of the Member State in which he is domiciled;
-
-(b) in another Member State, in the case of actions brought by the policyholder, the insured or a beneficiary, in the courts for the place where the claimant is domiciled; or
-
-(c) if he is a co-insurer, in the courts of a Member State in which proceedings are brought against the leading insurer.
+**1.** An insurer domiciled in a Member State may be sued:(a) in the courts of the Member State in which he is domiciled;(b) in another Member State, in the case of actions brought by the policyholder, the insured or a beneficiary, in the courts for the place where the claimant is domiciled; or(c) if he is a co-insurer, in the courts of a Member State in which proceedings are brought against the leading insurer.
 
 **2.** An insurer who is not domiciled in a Member State but has a branch, agency or other establishment in one of the Member States shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that Member State.
 
@@ -206,7 +188,7 @@ The following are the risks referred to in point 5 of Article 15:
 
 (4) any risk or interest connected with any of those referred to in points 1 to 3;
 
-(5) notwithstanding points 1 to 4, all ‘large risks’ as defined in Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II).
+(5) notwithstanding points 1 to 4, all ‘large risks’ as defined in Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (14).
 
 ### SECTION 4 — Jurisdiction over consumer contracts
 
@@ -214,13 +196,7 @@ The following are the risks referred to in point 5 of Article 15:
 
 ### Article 17
 
-**1.** In matters relating to a contract concluded by a person, the consumer, for a purpose which can be regarded as being outside his trade or profession, jurisdiction shall be determined by this Section, without prejudice to Article 6 and point 5 of Article 7, if:
-
-(a) it is a contract for the sale of goods on instalment credit terms;
-
-(b) it is a contract for a loan repayable by instalments, or for any other form of credit, made to finance the sale of goods; or
-
-(c) in all other cases, the contract has been concluded with a person who pursues commercial or professional activities in the Member State of the consumer’s domicile or, by any means, directs such activities to that Member State or to several States including that Member State, and the contract falls within the scope of such activities.
+**1.** In matters relating to a contract concluded by a person, the consumer, for a purpose which can be regarded as being outside his trade or profession, jurisdiction shall be determined by this Section, without prejudice to Article 6 and point 5 of Article 7, if:(a) it is a contract for the sale of goods on instalment credit terms;(b) it is a contract for a loan repayable by instalments, or for any other form of credit, made to finance the sale of goods; or(c) in all other cases, the contract has been concluded with a person who pursues commercial or professional activities in the Member State of the consumer’s domicile or, by any means, directs such activities to that Member State or to several States including that Member State, and the contract falls within the scope of such activities.
 
 **2.** Where a consumer enters into a contract with a party who is not domiciled in a Member State but has a branch, agency or other establishment in one of the Member States, that party shall, in disputes arising out of the operations of the branch, agency or establishment, be deemed to be domiciled in that Member State.
 
@@ -262,11 +238,7 @@ The provisions of this Section may be departed from only by an agreement:
 
 ### Article 21
 
-**1.** An employer domiciled in a Member State may be sued:
-
-(a) in the courts of the Member State in which he is domiciled; or
-
-(b) in another Member State: (i) in the courts for the place where or from where the employee habitually carries out his work or in the courts for the last place where he did so; or (ii) if the employee does not or did not habitually carry out his work in any one country, in the courts for the place where the business which engaged the employee is or was situated.
+**1.** An employer domiciled in a Member State may be sued:(a) in the courts of the Member State in which he is domiciled; or(b) in another Member State:(i) in the courts for the place where or from where the employee habitually carries out his work or in the courts for the last place where he did so; or(ii) if the employee does not or did not habitually carry out his work in any one country, in the courts for the place where the business which engaged the employee is or was situated.
 
 **2.** An employer not domiciled in a Member State may be sued in a court of a Member State in accordance with point (b) of paragraph 1.
 
@@ -312,13 +284,7 @@ The following courts of a Member State shall have exclusive jurisdiction, regard
 
 ### Article 25
 
-**1.** If the parties, regardless of their domicile, have agreed that a court or the courts of a Member State are to have jurisdiction to settle any disputes which have arisen or which may arise in connection with a particular legal relationship, that court or those courts shall have jurisdiction, unless the agreement is null and void as to its substantive validity under the law of that Member State. Such jurisdiction shall be exclusive unless the parties have agreed otherwise. The agreement conferring jurisdiction shall be either:
-
-(a) in writing or evidenced in writing;
-
-(b) in a form which accords with practices which the parties have established between themselves; or
-
-(c) in international trade or commerce, in a form which accords with a usage of which the parties are or ought to have been aware and which in such trade or commerce is widely known to, and regularly observed by, parties to contracts of the type involved in the particular trade or commerce concerned.
+**1.** If the parties, regardless of their domicile, have agreed that a court or the courts of a Member State are to have jurisdiction to settle any disputes which have arisen or which may arise in connection with a particular legal relationship, that court or those courts shall have jurisdiction, unless the agreement is null and void as to its substantive validity under the law of that Member State. Such jurisdiction shall be exclusive unless the parties have agreed otherwise. The agreement conferring jurisdiction shall be either:(a) in writing or evidenced in writing;(b) in a form which accords with practices which the parties have established between themselves; or(c) in international trade or commerce, in a form which accords with a usage of which the parties are or ought to have been aware and which in such trade or commerce is widely known to, and regularly observed by, parties to contracts of the type involved in the particular trade or commerce concerned.
 
 **2.** Any communication by electronic means which provides a durable record of the agreement shall be equivalent to ‘writing’.
 
@@ -354,7 +320,7 @@ Where a court of a Member State is seised of a claim which is principally concer
 
 **2.** The court shall stay the proceedings so long as it is not shown that the defendant has been able to receive the document instituting the proceedings or an equivalent document in sufficient time to enable him to arrange for his defence, or that all necessary steps have been taken to this end.
 
-**3.** Article 19 of Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) shall apply instead of paragraph 2 of this Article if the document instituting the proceedings or an equivalent document had to be transmitted from one Member State to another pursuant to that Regulation.
+**3.** Article 19 of Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents) (15) shall apply instead of paragraph 2 of this Article if the document instituting the proceedings or an equivalent document had to be transmitted from one Member State to another pursuant to that Regulation.
 
 **4.** Where Regulation (EC) No 1393/2007 is not applicable, Article 15 of the Hague Convention of 15 November 1965 on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters shall apply if the document instituting the proceedings or an equivalent document had to be transmitted abroad pursuant to that Convention.
 
@@ -396,11 +362,7 @@ Where a court of a Member State is seised of a claim which is principally concer
 
 ### Article 32
 
-**1.** For the purposes of this Section, a court shall be deemed to be seised:
-
-(a) at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the claimant has not subsequently failed to take the steps he was required to take to have service effected on the defendant; or
-
-(b) if the document has to be served before being lodged with the court, at the time when it is received by the authority responsible for service, provided that the claimant has not subsequently failed to take the steps he was required to take to have the document lodged with the court.
+**1.** For the purposes of this Section, a court shall be deemed to be seised:(a) at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the claimant has not subsequently failed to take the steps he was required to take to have service effected on the defendant; or(b) if the document has to be served before being lodged with the court, at the time when it is received by the authority responsible for service, provided that the claimant has not subsequently failed to take the steps he was required to take to have the document lodged with the court.
 
 The authority responsible for service referred to in point (b) shall be the first authority receiving the documents to be served.
 
@@ -410,19 +372,9 @@ The authority responsible for service referred to in point (b) shall be the firs
 
 ### Article 33
 
-**1.** Where jurisdiction is based on Article 4 or on Articles 7, 8 or 9 and proceedings are pending before a court of a third State at the time when a court in a Member State is seised of an action involving the same cause of action and between the same parties as the proceedings in the court of the third State, the court of the Member State may stay the proceedings if:
+**1.** Where jurisdiction is based on Article 4 or on Articles 7, 8 or 9 and proceedings are pending before a court of a third State at the time when a court in a Member State is seised of an action involving the same cause of action and between the same parties as the proceedings in the court of the third State, the court of the Member State may stay the proceedings if:(a) it is expected that the court of the third State will give a judgment capable of recognition and, where applicable, of enforcement in that Member State; and(b) the court of the Member State is satisfied that a stay is necessary for the proper administration of justice.
 
-(a) it is expected that the court of the third State will give a judgment capable of recognition and, where applicable, of enforcement in that Member State; and
-
-(b) the court of the Member State is satisfied that a stay is necessary for the proper administration of justice.
-
-**2.** The court of the Member State may continue the proceedings at any time if:
-
-(a) the proceedings in the court of the third State are themselves stayed or discontinued;
-
-(b) it appears to the court of the Member State that the proceedings in the court of the third State are unlikely to be concluded within a reasonable time; or
-
-(c) the continuation of the proceedings is required for the proper administration of justice.
+**2.** The court of the Member State may continue the proceedings at any time if:(a) the proceedings in the court of the third State are themselves stayed or discontinued;(b) it appears to the court of the Member State that the proceedings in the court of the third State are unlikely to be concluded within a reasonable time; or(c) the continuation of the proceedings is required for the proper administration of justice.
 
 **3.** The court of the Member State shall dismiss the proceedings if the proceedings in the court of the third State are concluded and have resulted in a judgment capable of recognition and, where applicable, of enforcement in that Member State.
 
@@ -432,23 +384,9 @@ The authority responsible for service referred to in point (b) shall be the firs
 
 ### Article 34
 
-**1.** Where jurisdiction is based on Article 4 or on Articles 7, 8 or 9 and an action is pending before a court of a third State at the time when a court in a Member State is seised of an action which is related to the action in the court of the third State, the court of the Member State may stay the proceedings if:
+**1.** Where jurisdiction is based on Article 4 or on Articles 7, 8 or 9 and an action is pending before a court of a third State at the time when a court in a Member State is seised of an action which is related to the action in the court of the third State, the court of the Member State may stay the proceedings if:(a) it is expedient to hear and determine the related actions together to avoid the risk of irreconcilable judgments resulting from separate proceedings;(b) it is expected that the court of the third State will give a judgment capable of recognition and, where applicable, of enforcement in that Member State; and(c) the court of the Member State is satisfied that a stay is necessary for the proper administration of justice.
 
-(a) it is expedient to hear and determine the related actions together to avoid the risk of irreconcilable judgments resulting from separate proceedings;
-
-(b) it is expected that the court of the third State will give a judgment capable of recognition and, where applicable, of enforcement in that Member State; and
-
-(c) the court of the Member State is satisfied that a stay is necessary for the proper administration of justice.
-
-**2.** The court of the Member State may continue the proceedings at any time if:
-
-(a) it appears to the court of the Member State that there is no longer a risk of irreconcilable judgments;
-
-(b) the proceedings in the court of the third State are themselves stayed or discontinued;
-
-(c) it appears to the court of the Member State that the proceedings in the court of the third State are unlikely to be concluded within a reasonable time; or
-
-(d) the continuation of the proceedings is required for the proper administration of justice.
+**2.** The court of the Member State may continue the proceedings at any time if:(a) it appears to the court of the Member State that there is no longer a risk of irreconcilable judgments;(b) the proceedings in the court of the third State are themselves stayed or discontinued;(c) it appears to the court of the Member State that the proceedings in the court of the third State are unlikely to be concluded within a reasonable time; or(d) the continuation of the proceedings is required for the proper administration of justice.
 
 **3.** The court of the Member State may dismiss the proceedings if the proceedings in the court of the third State are concluded and have resulted in a judgment capable of recognition and, where applicable, of enforcement in that Member State.
 
@@ -480,11 +418,7 @@ Application may be made to the courts of a Member State for such provisional, in
 
 ### Article 37
 
-**1.** A party who wishes to invoke in a Member State a judgment given in another Member State shall produce:
-
-(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity; and
-
-(b) the certificate issued pursuant to Article 53.
+**1.** A party who wishes to invoke in a Member State a judgment given in another Member State shall produce:(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity; and(b) the certificate issued pursuant to Article 53.
 
 **2.** The court or authority before which a judgment given in another Member State is invoked may, where necessary, require the party invoking it to provide, in accordance with Article 57, a translation or a transliteration of the contents of the certificate referred to in point (b) of paragraph 1. The court or authority may require the party to provide a translation of the judgment instead of a translation of the contents of the certificate if it is unable to proceed without such a translation.
 
@@ -526,19 +460,9 @@ An enforceable judgment shall carry with it by operation of law the power to pro
 
 ### Article 42
 
-**1.** For the purposes of enforcement in a Member State of a judgment given in another Member State, the applicant shall provide the competent enforcement authority with:
+**1.** For the purposes of enforcement in a Member State of a judgment given in another Member State, the applicant shall provide the competent enforcement authority with:(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity; and(b) the certificate issued pursuant to Article 53, certifying that the judgment is enforceable and containing an extract of the judgment as well as, where appropriate, relevant information on the recoverable costs of the proceedings and the calculation of interest.
 
-(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity; and
-
-(b) the certificate issued pursuant to Article 53, certifying that the judgment is enforceable and containing an extract of the judgment as well as, where appropriate, relevant information on the recoverable costs of the proceedings and the calculation of interest.
-
-**2.** For the purposes of enforcement in a Member State of a judgment given in another Member State ordering a provisional, including a protective, measure, the applicant shall provide the competent enforcement authority with:
-
-(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity;
-
-(b) the certificate issued pursuant to Article 53, containing a description of the measure and certifying that: (i) the court has jurisdiction as to the substance of the matter; (ii) the judgment is enforceable in the Member State of origin; and
-
-(c) where the measure was ordered without the defendant being summoned to appear, proof of service of the judgment.
+**2.** For the purposes of enforcement in a Member State of a judgment given in another Member State ordering a provisional, including a protective, measure, the applicant shall provide the competent enforcement authority with:(a) a copy of the judgment which satisfies the conditions necessary to establish its authenticity;(b) the certificate issued pursuant to Article 53, containing a description of the measure and certifying that:(i) the court has jurisdiction as to the substance of the matter;(ii) the judgment is enforceable in the Member State of origin; and(c) where the measure was ordered without the defendant being summoned to appear, proof of service of the judgment.
 
 **3.** The competent enforcement authority may, where necessary, require the applicant to provide, in accordance with Article 57, a translation or a transliteration of the contents of the certificate.
 
@@ -550,11 +474,7 @@ An enforceable judgment shall carry with it by operation of law the power to pro
 
 **1.** Where enforcement is sought of a judgment given in another Member State, the certificate issued pursuant to Article 53 shall be served on the person against whom the enforcement is sought prior to the first enforcement measure. The certificate shall be accompanied by the judgment, if not already served on that person.
 
-**2.** Where the person against whom enforcement is sought is domiciled in a Member State other than the Member State of origin, he may request a translation of the judgment in order to contest the enforcement if the judgment is not written in or accompanied by a translation into either of the following languages:
-
-(a) a language which he understands; or
-
-(b) the official language of the Member State in which he is domiciled or, where there are several official languages in that Member State, the official language or one of the official languages of the place where he is domiciled.
+**2.** Where the person against whom enforcement is sought is domiciled in a Member State other than the Member State of origin, he may request a translation of the judgment in order to contest the enforcement if the judgment is not written in or accompanied by a translation into either of the following languages:(a) a language which he understands; or(b) the official language of the Member State in which he is domiciled or, where there are several official languages in that Member State, the official language or one of the official languages of the place where he is domiciled.
 
 Where a translation of the judgment is requested under the first subparagraph, no measures of enforcement may be taken other than protective measures until that translation has been provided to the person against whom enforcement is sought.
 
@@ -566,13 +486,7 @@ This paragraph shall not apply if the judgment has already been served on the pe
 
 ### Article 44
 
-**1.** In the event of an application for refusal of enforcement of a judgment pursuant to Subsection 2 of Section 3, the court in the Member State addressed may, on the application of the person against whom enforcement is sought:
-
-(a) limit the enforcement proceedings to protective measures;
-
-(b) make enforcement conditional on the provision of such security as it shall determine; or
-
-(c) suspend, either wholly or in part, the enforcement proceedings.
+**1.** In the event of an application for refusal of enforcement of a judgment pursuant to Subsection 2 of Section 3, the court in the Member State addressed may, on the application of the person against whom enforcement is sought:(a) limit the enforcement proceedings to protective measures;(b) make enforcement conditional on the provision of such security as it shall determine; or(c) suspend, either wholly or in part, the enforcement proceedings.
 
 **2.** The competent authority in the Member State addressed shall, on the application of the person against whom enforcement is sought, suspend the enforcement proceedings where the enforceability of the judgment is suspended in the Member State of origin.
 
@@ -584,17 +498,7 @@ This paragraph shall not apply if the judgment has already been served on the pe
 
 ### Article 45
 
-**1.** On the application of any interested party, the recognition of a judgment shall be refused:
-
-(a) if such recognition is manifestly contrary to public policy (ordre public) in the Member State addressed;
-
-(b) where the judgment was given in default of appearance, if the defendant was not served with the document which instituted the proceedings or with an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence, unless the defendant failed to commence proceedings to challenge the judgment when it was possible for him to do so;
-
-(c) if the judgment is irreconcilable with a judgment given between the same parties in the Member State addressed;
-
-(d) if the judgment is irreconcilable with an earlier judgment given in another Member State or in a third State involving the same cause of action and between the same parties, provided that the earlier judgment fulfils the conditions necessary for its recognition in the Member State addressed; or
-
-(e) if the judgment conflicts with: (i) Sections 3, 4 or 5 of Chapter II where the policyholder, the insured, a beneficiary of the insurance contract, the injured party, the consumer or the employee was the defendant; or (ii) Section 6 of Chapter II.
+**1.** On the application of any interested party, the recognition of a judgment shall be refused:(a) if such recognition is manifestly contrary to public policy (ordre public) in the Member State addressed;(b) where the judgment was given in default of appearance, if the defendant was not served with the document which instituted the proceedings or with an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence, unless the defendant failed to commence proceedings to challenge the judgment when it was possible for him to do so;(c) if the judgment is irreconcilable with a judgment given between the same parties in the Member State addressed;(d) if the judgment is irreconcilable with an earlier judgment given in another Member State or in a third State involving the same cause of action and between the same parties, provided that the earlier judgment fulfils the conditions necessary for its recognition in the Member State addressed; or(e) if the judgment conflicts with:(i) Sections 3, 4 or 5 of Chapter II where the policyholder, the insured, a beneficiary of the insurance contract, the injured party, the consumer or the employee was the defendant; or(ii) Section 6 of Chapter II.
 
 **2.** In its examination of the grounds of jurisdiction referred to in point (e) of paragraph 1, the court to which the application was submitted shall be bound by the findings of fact on which the court of origin based its jurisdiction.
 
@@ -744,13 +648,7 @@ No legalisation or other similar formality shall be required for documents issue
 
 ### Article 63
 
-**1.** For the purposes of this Regulation, a company or other legal person or association of natural or legal persons is domiciled at the place where it has its:
-
-(a) statutory seat;
-
-(b) central administration; or
-
-(c) principal place of business.
+**1.** For the purposes of this Regulation, a company or other legal person or association of natural or legal persons is domiciled at the place where it has its:(a) statutory seat;(b) central administration; or(c) principal place of business.
 
 **2.** For the purposes of Ireland, Cyprus and the United Kingdom, ‘statutory seat’ means the registered office or, where there is no such office anywhere, the place of incorporation or, where there is no such place anywhere, the place under the law of which the formation took place.
 
@@ -770,7 +668,7 @@ Without prejudice to any more favourable provisions of national laws, persons do
 
 **2.** Judgments given in a Member State by virtue of point 2 of Article 8 or Article 13 shall be recognised and enforced in accordance with Chapter III in any other Member State. Any effects which judgments given in the Member States included in the list referred to in paragraph 1 may have, in accordance with the law of those Member States, on third parties by application of paragraph 1 shall be recognised in all Member States.
 
-**3.** The Member States included in the list referred to in paragraph 1 shall, within the framework of the European Judicial Network in civil and commercial matters established by Council Decision 2001/470/EC (‘the European Judicial Network’) provide information on how to determine, in accordance with their national law, the effects of the judgments referred to in the second sentence of paragraph 2.
+**3.** The Member States included in the list referred to in paragraph 1 shall, within the framework of the European Judicial Network in civil and commercial matters established by Council Decision 2001/470/EC (16) (‘the European Judicial Network’) provide information on how to determine, in accordance with their national law, the effects of the judgments referred to in the second sentence of paragraph 2.
 
 ## CHAPTER VI — TRANSITIONAL PROVISIONS
 
@@ -818,11 +716,7 @@ Subject to Articles 70 and 71, this Regulation shall, as between the Member Stat
 
 **1.** This Regulation shall not affect any conventions to which the Member States are parties and which, in relation to particular matters, govern jurisdiction or the recognition or enforcement of judgments.
 
-**2.** With a view to its uniform interpretation, paragraph 1 shall be applied in the following manner:
-
-(a) this Regulation shall not prevent a court of a Member State which is party to a convention on a particular matter from assuming jurisdiction in accordance with that convention, even where the defendant is domiciled in another Member State which is not party to that convention. The court hearing the action shall, in any event, apply Article 28 of this Regulation;
-
-(b) judgments given in a Member State by a court in the exercise of jurisdiction provided for in a convention on a particular matter shall be recognised and enforced in the other Member States in accordance with this Regulation.
+**2.** With a view to its uniform interpretation, paragraph 1 shall be applied in the following manner:(a) this Regulation shall not prevent a court of a Member State which is party to a convention on a particular matter from assuming jurisdiction in accordance with that convention, even where the defendant is domiciled in another Member State which is not party to that convention. The court hearing the action shall, in any event, apply Article 28 of this Regulation;(b) judgments given in a Member State by a court in the exercise of jurisdiction provided for in a convention on a particular matter shall be recognised and enforced in the other Member States in accordance with this Regulation.
 
 Where a convention on a particular matter to which both the Member State of origin and the Member State addressed are parties lays down conditions for the recognition or enforcement of judgments, those conditions shall apply. In any event, the provisions of this Regulation on recognition and enforcement of judgments may be applied.
 
@@ -832,11 +726,7 @@ Where a convention on a particular matter to which both the Member State of orig
 
 **1.** For the purposes of this Regulation, a court common to several Member States as specified in paragraph 2 (a ‘common court’) shall be deemed to be a court of a Member State when, pursuant to the instrument establishing it, such a common court exercises jurisdiction in matters falling within the scope of this Regulation.
 
-**2.** For the purposes of this Regulation, each of the following courts shall be a common court:
-
-(a) the Unified Patent Court established by the Agreement on a Unified Patent Court signed on 19 February 2013 (the ‘UPC Agreement’); and
-
-(b) the Benelux Court of Justice established by the Treaty of 31 March 1965 concerning the establishment and statute of a Benelux Court of Justice (the ‘Benelux Court of Justice Treaty’).
+**2.** For the purposes of this Regulation, each of the following courts shall be a common court:(a) the Unified Patent Court established by the Agreement on a Unified Patent Court signed on 19 February 2013 (the ‘UPC Agreement’); and(b) the Benelux Court of Justice established by the Treaty of 31 March 1965 concerning the establishment and statute of a Benelux Court of Justice (the ‘Benelux Court of Justice Treaty’).
 
 <a id="art_71b"></a>
 
@@ -916,13 +806,7 @@ The Commission shall make the information publicly available through any appropr
 
 ### Article 76
 
-**1.** The Member States shall notify the Commission of:
-
-(a) the rules of jurisdiction referred to in Articles 5(2) and 6(2);
-
-(b) the rules on third-party notice referred to in Article 65; and
-
-(c) the conventions referred to in Article 69.
+**1.** The Member States shall notify the Commission of:(a) the rules of jurisdiction referred to in Articles 5(2) and 6(2);(b) the rules on third-party notice referred to in Article 65; and(c) the conventions referred to in Article 69.
 
 **2.** The Commission shall, on the basis of the notifications by the Member States referred to in paragraph 1, establish the corresponding lists.
 
@@ -971,578 +855,3 @@ This Regulation shall repeal Regulation (EC) No 44/2001. References to the repea
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
 It shall apply from 10 January 2015, with the exception of Articles 75 and 76, which shall apply from 10 January 2014.
-
-<a id="anx_i"></a>
-
-### ANNEX I
-
-CERTIFICATE CONCERNING A JUDGMENT IN CIVIL AND COMMERCIAL MATTERS
-
-Article 53 of Regulation (EU) No 1215/2012 of the European Parliament and of the Council on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
-
-1. COURT OF ORIGIN
-
-1.1. Name:
-
-1.2. Address:
-
-1.2.1. Street and number/PO box:
-
-1.2.2. Place and postal code:
-
-1.2.3. Member State:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK
-
-1.3. Telephone:
-
-1.4. Fax:
-
-1.5. E-mail (if available):
-
-2. CLAIMANT(S) (1)
-
-2.1. Surname and given name(s)/name of company or organisation:
-
-2.2. Identification number (if applicable and if available):
-
-2.3. Date (dd/mm/yyyy) and place of birth or, if legal person, of incorporation/formation/registration (if relevant and if available):
-
-2.4. Address:
-
-2.4.1. Street and number/PO box:
-
-2.4.2. Place and postal code:
-
-2.4.3. Country:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK Other (please specify (ISO-code))
-
-2.5. E-mail (if available):
-
-3. DEFENDANT(S) (2)
-
-3.1. Surname and given name(s)/name of company or organisation:
-
-3.2. Identification number (if applicable and if available):
-
-3.3. Date (dd/mm/yyyy) and place of birth or, if legal person, of incorporation/formation/registration (if relevant and if available):
-
-3.4. Address:
-
-3.4.1. Street and number/PO box:
-
-3.4.2. Place and postal code:
-
-3.4.3. Country:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK Other (please specify (ISO-code))
-
-3.5. E-mail (if available):
-
-4. THE JUDGMENT
-
-4.1. Date (dd/mm/yyyy) of the judgment:
-
-4.2. Reference number of the judgment:
-
-4.3. The judgment was given in default of appearance:
-
-4.3.1. No
-
-4.3.2. Yes (please indicate the date (dd/mm/yyyy) on which the document instituting the proceedings or an equivalent document was served on the defendant):
-
-4.4. The judgment is enforceable in the Member State of origin without any further conditions having to be met:
-
-4.4.1. Yes (please indicate the date (dd/mm/yyyy) on which the judgment was declared enforceable, if applicable):
-
-4.4.2. Yes, but only against the following person(s) (please specify):
-
-4.4.3. Yes, but limited to part(s) of the judgment (please specify):
-
-4.4.4. The judgment does not contain an enforceable obligation
-
-4.5. As of the date of issue of the certificate, the judgment has been served on the defendant(s):
-
-4.5.1. Yes (please indicate the date of service (dd/mm/yyyy) if known):
-
-4.5.1.1. The judgment was served in the following language(s):
-
-BG ES CS DK DE ET EL EN FR HR GA IT LV LT HU MT NL PL PT RO SK SL FI SV Other (please specify (ISO-code))
-
-4.5.2. Not to the knowledge of the court
-
-4.6. Terms of the judgment and interest:
-
-4.6.1. Judgment on a monetary claim (3)
-
-4.6.1.1. Short description of the subject-matter of the case:
-
-4.6.1.2. The court has ordered:
-
-(surname and given name(s)/name of company or organisation) (4)
-
-to make a payment to:
-
-(surname and given name(s)/name of company or organisation)
-
-4.6.1.2.1. If more than one person has been held liable for one and the same claim, the whole amount may be collected from any one of them:
-
-4.6.1.2.1.1. Yes
-
-4.6.1.2.1.2. No
-
-4.6.1.3. Currency:
-
-euro (EUR) Bulgarian lev (BGN) Czech koruna (CZK) Danish krone (DKK) kuna (HRK) Hungarian forint (HUF) Polish zloty (PLN) pound sterling (GBP) Romanian leu (RON) Swedish krona (SEK) other (please specify (ISO code)):
-
-4.6.1.4. Principal amount:
-
-4.6.1.4.1. Amount to be paid in one sum
-
-4.6.1.4.2. Amount to be paid in instalments (5)
-
-Due date (dd/mm/yyyy)
-
-Amount
-
-4.6.1.4.3. Amount to be paid regularly
-
-4.6.1.4.3.1. per day
-
-4.6.1.4.3.2. per week
-
-4.6.1.4.3.3. other (state frequency):
-
-4.6.1.4.3.4. From date (dd/mm/yyyy) or event:
-
-4.6.1.4.3.5. If applicable, until (date (dd/mm/yyyy) or event):
-
-4.6.1.5. Interest, if applicable:
-
-4.6.1.5.1. Interest:
-
-4.6.1.5.1.1. Not specified in the judgment
-
-4.6.1.5.1.2. Yes, specified in the judgment as follows:
-
-4.6.1.5.1.2.1. Amount:
-
-or:
-
-4.6.1.5.1.2.2. Rate … %
-
-4.6.1.5.1.2.3. Interest due from (date (dd/mm/yyyy) or event) to (date (dd/mm/yyyy) or event) (6)
-
-4.6.1.5.2. Statutory interest (if applicable) to be calculated in accordance with (please specify relevant statute):
-
-4.6.1.5.2.1. Interest due from (date (dd/mm/yyyy) or event) to (date (dd/mm/yyyy) or event) (6)
-
-4.6.1.5.3. Capitalisation of interest (if applicable, please specify):
-
-4.6.2. Judgment ordering a provisional, including a protective, measure:
-
-4.6.2.1. Short description of the subject matter of the case and the measure ordered:
-
-4.6.2.2. The measure was ordered by a court having jurisdiction as to the substance of the matter:
-
-4.6.2.2.1. Yes
-
-4.6.3. Other type of judgment:
-
-4.6.3.1. Short description of the subject-matter of the case and the ruling by the court:
-
-4.7. Costs (7):
-
-4.7.1. Currency:
-
-euro (EUR) Bulgarian lev (BGN) Czech koruna (CZK) Danish krone (DKK) kuna (HRK) Hungarian forint (HUF) Polish zloty (PLN) pound sterling (GBP) Romanian leu (RON) Swedish krona (SEK) other (please specify (ISO code)):
-
-4.7.2. The following person(s) against whom enforcement is sought has/have been ordered to bear the costs:
-
-4.7.2.1. Surname and given name(s)/name of company or organisation: (8)
-
-4.7.2.2. If more than one person has been ordered to bear the costs, the whole amount may be collected from any one of them:
-
-4.7.2.2.1. Yes
-
-4.7.2.2.2. No
-
-4.7.3. The costs of which recovery is sought are as follows: (9)
-
-4.7.3.1. The costs have been fixed in the judgment by way of a total amount (please specify amount):
-
-4.7.3.2. The costs have been fixed in the judgment by way of a percentage of total costs (please specify percentage of total):
-
-4.7.3.3. Liability for the costs has been determined in the judgment and the exact amounts are as follows:
-
-4.7.3.3.1. Court fees:
-
-4.7.3.3.2. Lawyers’ fees:
-
-4.7.3.3.3. Cost of service of documents:
-
-4.7.3.3.4. Other:
-
-4.7.3.4. Other (please specify):
-
-4.7.4. Interest on costs:
-
-4.7.4.1. Not applicable
-
-4.7.4.2. Interest specified in the judgment
-
-4.7.4.2.1. Amount:
-
-or
-
-4.7.4.2.2. Rate … %
-
-4.7.4.2.2.1. Interest due from (date (dd/mm/yyyy) or event) to (date (dd/mm/yyyy) or event) (6)
-
-4.7.4.3. Statutory interest (if applicable) to be calculated in accordance with (please specify relevant statute):
-
-4.7.4.3.1. Interest due from (date (dd/mm/yyyy) or event) to (date (dd/mm/yyyy) or event): (6)
-
-4.7.4.4. Capitalisation of interest (if applicable, please specify):
-
-Done at: …
-
-Signature and/or stamp of the court of origin:
-
-(1) Insert information for all claimants if the judgment concerns more than one.
-
-(2) Insert information for all defendants if the judgment concerns more than one.
-
-(3) If the judgment only concerns costs relating to a claim which has been decided in an earlier judgment, leave point 4.6.1. blank and go to point 4.7.
-
-(4) If more than one person has been ordered to make a payment, insert information for all persons.
-
-(5) Insert information for each instalment.
-
-(6) Insert information for all periods if more than one.
-
-(7) This point also covers situations where the costs are awarded in a separate judgment.
-
-(8) Insert information for all persons if more than one.
-
-(9) In the event that the costs may be recovered from several persons, insert the breakdown for each person separately.
-
-<a id="anx_ii"></a>
-
-### ANNEX II
-
-CERTIFICATE CONCERNING AN AUTHENTIC INSTRUMENT/COURT SETTLEMENT (1) IN CIVIL AND COMMERCIAL MATTERS
-
-Article 60 of Regulation (EU) No 1215/2012 of the European Parliament and of the Council on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters
-
-1. COURT OR COMPETENT AUTHORITY ISSUING THE CERTIFICATE
-
-1.1. Name:
-
-1.2. Address:
-
-1.2.1. Street and number/PO box:
-
-1.2.2. Place and postal code:
-
-1.2.3. Member State:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK
-
-1.3. Telephone:
-
-1.4. Fax:
-
-1.5. E-mail (if available):
-
-2. AUTHENTIC INSTRUMENT
-
-2.1. Authority which has drawn up the authentic instrument (if different from the authority issuing the certificate)
-
-2.1.1. Name and designation of authority:
-
-2.1.2. Address:
-
-2.2. Date (dd/mm/yyyy) on which the authentic instrument was drawn up by the authority referred to in point 2.1:
-
-2.3. Reference number of the authentic instrument (if applicable):
-
-2.4. Date (dd/mm/yyyy) on which the authentic instrument was registered in the Member State of origin (to be filled in only if the date of registration determines the legal effect of the instrument and this date is different from the date indicated in point 2.2):
-
-2.4.1. Reference number in the register (if applicable):
-
-3. COURT SETTLEMENT
-
-3.1. Court which approved the court settlement or before which the court settlement was concluded (if different from the court issuing the certificate)
-
-3.1.1. Name of court:
-
-3.1.2. Address:
-
-3.2. Date (dd/mm/yyyy) of the court settlement:
-
-3.3. Reference number of the court settlement:
-
-4. PARTIES TO THE AUTHENTIC INSTRUMENT/COURT SETTLEMENT:
-
-4.1. Name(s) of creditor(s) (surname and given name(s)/name of company or organisation) (2):
-
-4.1.1. Identification number (if applicable and if available):
-
-4.1.2. Date (dd/mm/yyyy) and place of birth or, if legal person, of incorporation/formation/registration (if relevant and if available):
-
-4.2. Name(s) of debtor(s) (surname and given name(s)/name of company or organisation) (3):
-
-4.2.1. Identification number (if applicable and if available):
-
-4.2.2. Date (dd/mm/yyyy) and place of birth or, if legal person, of incorporation/formation/registration (if relevant and if available):
-
-4.3. Name of other parties, if any (surname and given name(s)/name of company or organisation) (4):
-
-4.3.1. Identification number (if applicable and if available):
-
-4.3.2. Date (dd/mm/yyyy) and place of birth or, if legal person, of incorporation/formation/registration (if relevant and if available):
-
-5. ENFORCEABILITY OF THE AUTHENTIC INSTRUMENT/COURT SETTLEMENT IN THE MEMBER STATE OF ORIGIN
-
-5.1. The authentic instrument/court settlement is enforceable in the Member State of origin:
-
-5.1.1. Yes
-
-5.2. Terms of the authentic instrument/court settlement and interest
-
-5.2.1. Authentic instrument/court settlement relating to a monetary claim
-
-5.2.1.1. Short description of the subject matter:
-
-5.2.1.2. Under the authentic instrument/court settlement:
-
-(surname and given name(s)/name of company or organisation) (5)
-
-has to make a payment to:
-
-(surname and given name(s)/name of company or organisation)
-
-5.2.1.2.1. If more than one person has been held liable for one and the same claim, the whole amount may be collected from any one of them:
-
-5.2.1.2.1.1. Yes
-
-5.2.1.2.1.2. No
-
-5.2.1.3. Currency:
-
-euro (EUR) Bulgarian lev (BGN) Czech koruna (CZK) Danish krone (DKK) kuna (HRK) Hungarian forint (HUF) Polish zloty (PLN) pound sterling (GBP) Romanian leu (RON) Swedish krona (SEK) other (please specify (ISO code)):
-
-5.2.1.4. Principal amount:
-
-5.2.1.4.1. Amount to be paid in one sum
-
-5.2.1.4.2. Amount to be paid in instalments (6)
-
-Due date (dd/mm/yyyy)
-
-Amount
-
-5.2.1.4.3. Amount to be paid regularly
-
-5.2.1.4.3.1. per day
-
-5.2.1.4.3.2. per week
-
-5.2.1.4.3.3. other (state frequency):
-
-5.2.1.4.3.4. From date (dd/mm/yyyy) or event:
-
-5.2.1.4.3.5. If applicable, until (date (dd/mm/yyyy) or event)
-
-5.2.1.5. Interest, if applicable
-
-5.2.1.5.1. Interest:
-
-5.2.1.5.1.1. Not specified in the authentic instrument/court settlement
-
-5.2.1.5.1.2. Yes, specified in the authentic instrument/court settlement as follows:
-
-5.2.1.5.1.2.1. Amount:
-
-or
-
-5.2.1.5.1.2.2. Rate … %
-
-5.2.1.5.1.2.3. Interest due from (date (dd/mm/yyyy) or event) to (date (dd/mm/yyyy) or event) (7)
-
-5.2.1.5.2. Statutory interest (if applicable) to be calculated in accordance with (please specify relevant statute):
-
-5.2.1.5.2.1. Interest due from (date (dd/mm/yyyy) or event) to (date (dd/mm/yyyy) or event) (7)
-
-5.2.1.5.3. Capitalisation of interest (if applicable, please specify):
-
-5.2.2. Authentic instrument/court settlement relating to a non-monetary enforceable obligation:
-
-5.2.2.1. Short description of the enforceable obligation
-
-5.2.2.2. The obligation referred to in point 5.2.2.1. is enforceable against the following person(s) (8) (surname and given name(s)/name of company or organisation):
-
-Done at: …
-
-Signature and/or stamp of the court or competent authority issuing the certificate:
-
-(1) Delete as appropriate throughout the certificate.
-
-(2) Insert information for all creditors if more than one.
-
-(3) Insert information for all debtors if more than one.
-
-(4) Insert information for other parties (if any).
-
-(5) If more than one person has been ordered to make a payment, insert information for all persons.
-
-(6) Insert information for each instalment.
-
-(7) Insert information for all periods if more than one.
-
-(8) Insert information for all persons if more than one.
-
-<a id="anx_iii"></a>
-
-### ANNEX III
-
-**CORRELATION TABLE**
-
-| Regulation (EC) No 44/2001 | This Regulation |
-| --- | --- |
-| Article 1(1) | Article 1(1) |
-| Article 1(2), introductory words | Article 1(2), introductory words |
-| Article 1(2) point (a) | Article 1(2), points (a) and (f) |
-| Article 1(2), points (b) to (d) | Article 1(2), points (b) to (d) |
-| — | Article 1(2), point (e) |
-| Article 1(3) | — |
-| — | Article 2 |
-| Article 2 | Article 4 |
-| Article 3 | Article 5 |
-| Article 4 | Article 6 |
-| Article 5, introductory words | Article 7, introductory words |
-| Article 5, point (1) | Article 7, point (1) |
-| Article 5, point (2) | — |
-| Article 5, points (3) and (4) | Article 7, points (2) and (3) |
-| — | Article 7, point (4) |
-| Article 5, points (5) to (7) | Article 7, points (5) to (7) |
-| Article 6 | Article 8 |
-| Article 7 | Article 9 |
-| Article 8 | Article 10 |
-| Article 9 | Article 11 |
-| Article 10 | Article 12 |
-| Article 11 | Article 13 |
-| Article 12 | Article 14 |
-| Article 13 | Article 15 |
-| Article 14 | Article 16 |
-| Article 15 | Article 17 |
-| Article 16 | Article 18 |
-| Article 17 | Article 19 |
-| Article 18 | Article 20 |
-| Article 19, points (1) and (2) | Article 21(1) |
-| — | Article 21(2) |
-| Article 20 | Article 22 |
-| Article 21 | Article 23 |
-| Article 22 | Article 24 |
-| Article 23(1) and (2) | Article 25(1) and (2) |
-| Article 23(3) | — |
-| Article 23(4) and (5) | Article 25(3) and (4) |
-| — | Article 25(5) |
-| Article 24 | Article 26(1) |
-| — | Article 26(2) |
-| Article 25 | Article 27 |
-| Article 26 | Article 28 |
-| Article 27(1) | Article 29(1) |
-| — | Article 29(2) |
-| Article 27(2) | Article 29(3) |
-| Article 28 | Article 30 |
-| Article 29 | Article 31(1) |
-| — | Article 31(2) |
-| — | Article 31(3) |
-| — | Article 31(4) |
-| Article 30 | Article 32(1), points (a) and (b) |
-| — | Article 32(1), second subparagraph |
-| — | Article 32(2) |
-| — | Article 33 |
-| — | Article 34 |
-| Article 31 | Article 35 |
-| Article 32 | Article 2, point (a) |
-| Article 33 | Article 36 |
-| — | Article 37 |
-| — | Article 39 |
-| — | Article 40 |
-| — | Article 41 |
-| — | Article 42 |
-| — | Article 43 |
-| — | Article 44 |
-| Article 34 | Article 45(1), points (a) to (d) |
-| Article 35(1) | Article 45(1), point (e) |
-| Article 35(2) | Article 45(2) |
-| Article 35(3) | Article 45(3) |
-| — | Article 45(4) |
-| Article 36 | Article 52 |
-| Article 37(1) | Article 38, point (a) |
-| Article 38 | — |
-| Article 39 | — |
-| Article 40 | — |
-| Article 41 | — |
-| Article 42 | — |
-| Article 43 | — |
-| Article 44 | — |
-| Article 45 | — |
-| Article 46 | — |
-| Article 47 | — |
-| Article 48 | — |
-| — | Article 46 |
-| — | Article 47 |
-| — | Article 48 |
-| — | Article 49 |
-| — | Article 50 |
-| — | Article 51 |
-| — | Article 54 |
-| Article 49 | Article 55 |
-| Article 50 | — |
-| Article 51 | Article 56 |
-| Article 52 | — |
-| Article 53 | — |
-| Article 54 | Article 53 |
-| Article 55(1) | — |
-| Article 55(2) | Article 37(2), Article 47(3) and Article 57 |
-| Article 56 | Article 61 |
-| Article 57(1) | Article 58(1) |
-| Article 57(2) | — |
-| Article 57(3) | Article 58(2) |
-| Article 57(4) | Article 60 |
-| Article 58 | Article 59 and Article 60 |
-| Article 59 | Article 62 |
-| Article 60 | Article 63 |
-| Article 61 | Article 64 |
-| Article 62 | Article 3 |
-| Article 63 | — |
-| Article 64 | — |
-| Article 65 | Article 65(1) and (2) |
-| — | Article 65(3) |
-| Article 66 | Article 66 |
-| Article 67 | Article 67 |
-| Article 68 | Article 68 |
-| Article 69 | Article 69 |
-| Article 70 | Article 70 |
-| Article 71 | Article 71 |
-| Article 72 | Article 72 |
-| — | Article 73 |
-| Article 73 | Article 79 |
-| Article 74(1) | Article 75, first paragraph, points (a), (b) and (c), and Article 76(1), point (a) |
-| Article 74(2) | Article 77 |
-| — | Article 78 |
-| — | Article 80 |
-| Article 75 | — |
-| Article 76 | Article 81 |
-| Annex I | Article 76(1), point (a) |
-| Annex II | Article 75, point (a) |
-| Annex III | Article 75, point (b) |
-| Annex IV | Article 75, point (c) |
-| Annex V | Annex I and Annex II |
-| Annex VI | Annex II |
-| — | Annex III |

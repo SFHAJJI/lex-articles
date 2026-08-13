@@ -4,10 +4,10 @@ title: 'Directive 2014/41/EU'
 valid_from: '2014-05-01'
 valid_to: '2022-03-12'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0041-20140501'
-source_sha256: 'ccc37aa3a63ddeeb489ec11e9238ccec67d10494676f21d5ecf2ae1fc0aa45d9'
+source_sha256: '791dd3fe84a199b9b40438d0b1f4d811004a54e048a1a58d4dca8557082a4d19'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — THE EUROPEAN INVESTIGATION ORDER
@@ -16,7 +16,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 ### Article 1 — The European Investigation Order and obligation to execute it
 
-**1.** A European Investigation Order (EIO) is a judicial decision which has been issued or validated by a judicial authority of a Member State (‘the issuing State’) to have one or several specific investigative measure(s) carried out in another Member State (‘the executing State’) to obtain evidence in accordance with this Directive.
+**1.** A European Investigation Order (EIO) is a judicial decision which has been issued or validated by a judicial authority of a Member State ►C1 (‘the issuing State’)** ◄ ** to have one or several specific investigative measure(s) carried out in another Member State (‘the executing State’) to obtain evidence in accordance with this Directive.
 
 The EIO may also be issued for obtaining evidence that is already in the possession of the competent authorities of the executing State.
 
@@ -44,7 +44,7 @@ For the purposes of this Directive the following definitions apply:
 
 ### Article 3 — Scope of the EIO
 
-The EIO shall cover any investigative measure with the exception of the setting up of a joint investigation team and the gathering of evidence within such a team as provided in Article 13 of the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union (‘the Convention’) and in Council Framework Decision 2002/465/JHA, other than for the purposes of applying, respectively, Article 13(8) of the Convention and Article 1(8) of the Framework Decision.
+The EIO shall cover any investigative measure with the exception of the setting up of a joint investigation team and the gathering of evidence within such a team as provided in Article 13 of the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union (14) (‘the Convention’) and in Council Framework Decision 2002/465/JHA (15), other than for the purposes of applying, respectively, Article 13(8) of the Convention and Article 1(8) of the Framework Decision.
 
 <a id="art_4"></a>
 
@@ -88,11 +88,7 @@ The EIO shall, in particular, contain the following information:
 
 ### Article 6 — Conditions for issuing and transmitting an EIO
 
-**1.** The issuing authority may only issue an EIO where the following conditions have been met:
-
-(a) the issuing of the EIO is necessary and proportionate for the purpose of the proceedings referred to in Article 4 taking into account the rights of the suspected or accused person; and
-
-(b) the investigative measure(s) indicated in the EIO could have been ordered under the same conditions in a similar domestic case.
+**1.** The issuing authority may only issue an EIO where the following conditions have been met:(a) the issuing of the EIO is necessary and proportionate for the purpose of the proceedings referred to in Article 4 taking into account the rights of the suspected or accused person; and(b) the investigative measure(s) indicated in the EIO could have been ordered under the same conditions in a similar domestic case.
 
 **2.** The conditions referred to in paragraph 1 shall be assessed by the issuing authority in each case.
 
@@ -108,7 +104,7 @@ The EIO shall, in particular, contain the following information:
 
 **3.** Without prejudice to Article 2(d), each Member State may designate a central authority or, where its legal system so provides, more than one central authority, to assist the competent authorities. A Member State may, if necessary due to the organisation of its internal judicial system, make its central authority(ies) responsible for the administrative transmission and receipt of EIOs, as well as for other official correspondence relating to EIOs.
 
-**4.** The issuing authority may transmit EIOs via the telecommunications system of the European Judicial Network (EJN), as set up by Council Joint Action. 98/428/JHA.
+**4.** The issuing authority may transmit EIOs via the telecommunications system of the European Judicial Network (EJN), as set up by Council Joint Action. 98/428/JHA (16).
 
 **5.** If the identity of the executing authority is unknown, the issuing authority shall make all necessary inquiries, including via the EJN contact points, in order to obtain the information from the executing State.
 
@@ -148,23 +144,9 @@ The EIO shall, in particular, contain the following information:
 
 ### Article 10 — Recourse to a different type of investigative measure
 
-**1.** The executing authority shall have, wherever possible, recourse to an investigative measure other than that provided for in the EIO where:
+**1.** The executing authority shall have, wherever possible, recourse to an investigative measure other than that provided for in the EIO where:(a) the investigative measure indicated in the EIO does not exist under the law of the executing State; or(b) the investigative measure indicated in the EIO would not be available in a similar domestic case.
 
-(a) the investigative measure indicated in the EIO does not exist under the law of the executing State; or
-
-(b) the investigative measure indicated in the EIO would not be available in a similar domestic case.
-
-**2.** Without prejudice to Article 11, paragraph (1) does not apply to the following investigative measures, which always have to be available under the law of the executing State:
-
-(a) the obtaining of information or evidence which is already in the possession of the executing authority and the information or evidence could have been obtained, in accordance with the law of the executing State, in the framework of criminal proceedings or for the purposes of the EIO;
-
-(b) the obtaining of information contained in databases held by police or judicial authorities and directly accessible by the executing authority in the framework of criminal proceedings;
-
-(c) the hearing of a witness, expert, victim, suspected or accused person or third party in the territory of the executing State;
-
-(d) any non-coercive investigative measure as defined under the law of the executing State;
-
-(e) the identification of persons holding a subscription of a specified phone number or IP address.
+**2.** Without prejudice to Article 11, paragraph (1) does not apply to the following investigative measures, which always have to be available under the law of the executing State:(a) the obtaining of information or evidence which is already in the possession of the executing authority and the information or evidence could have been obtained, in accordance with the law of the executing State, in the framework of criminal proceedings or for the purposes of the EIO;(b) the obtaining of information contained in databases held by police or judicial authorities and directly accessible by the executing authority in the framework of criminal proceedings;(c) the hearing of a witness, expert, victim, suspected or accused person or third party in the territory of the executing State;(d) any non-coercive investigative measure as defined under the law of the executing State;(e) the identification of persons holding a subscription of a specified phone number or IP address.
 
 **3.** The executing authority may also have recourse to an investigative measure other than that indicated in the EIO where the investigative measure selected by the executing authority would achieve the same result by less intrusive means than the investigative measure indicated in the EIO.
 
@@ -176,23 +158,7 @@ The EIO shall, in particular, contain the following information:
 
 ### Article 11 — Grounds for non-recognition or non-execution
 
-**1.** Without prejudice to Article 1(4), recognition or execution of an EIO may be refused in the executing State where:
-
-(a) there is an immunity or a privilege under the law of the executing State which makes it impossible to execute the EIO or there are rules on determination and limitation of criminal liability relating to freedom of the press and freedom of expression in other media, which make it impossible to execute the EIO;
-
-(b) in a specific case the execution of the EIO would harm essential national security interests, jeopardise the source of the information or involve the use of classified information relating to specific intelligence activities;
-
-(c) the EIO has been issued in proceedings referred to in Article 4(b) and (c) and the investigative measure would not be authorised under the law of the executing State in a similar domestic case;
-
-(d) the execution of the EIO would be contrary to the principle of *ne bis in idem*;
-
-(e) the EIO relates to a criminal offence which is alleged to have been committed outside the territory of the issuing State and wholly or partially on the territory of the executing State, and the conduct in connection with which the EIO is issued is not an offence in the executing State;
-
-(f) there are substantial grounds to believe that the execution of the investigative measure indicated in the EIO would be incompatible with the executing State's obligations in accordance with Article 6 TEU and the Charter;
-
-(g) the conduct for which the EIO has been issued does not constitute an offence under the law of the executing State, unless it concerns an offence listed within the categories of offences set out in Annex D, as indicated by the issuing authority in the EIO, if it is punishable in the issuing State by a custodial sentence or a detention order for a maximum period of at least three years; or
-
-(h) the use of the investigative measure indicated in the EIO is restricted under the law of the executing State to a list or category of offences or to offences punishable by a certain threshold, which does not include the offence covered by the EIO.
+**1.** Without prejudice to Article 1(4), recognition or execution of an EIO may be refused in the executing State where:(a) there is an immunity or a privilege under the law of the executing State which makes it impossible to execute the EIO or there are rules on determination and limitation of criminal liability relating to freedom of the press and freedom of expression in other media, which make it impossible to execute the EIO;(b) in a specific case the execution of the EIO would harm essential national security interests, jeopardise the source of the information or involve the use of classified information relating to specific intelligence activities;(c) the EIO has been issued in proceedings referred to in Article 4(b) and (c) and the investigative measure would not be authorised under the law of the executing State in a similar domestic case;(d) the execution of the EIO would be contrary to the principle of *ne bis in idem*;(e) the EIO relates to a criminal offence which is alleged to have been committed outside the territory of the issuing State and wholly or partially on the territory of the executing State, and the conduct in connection with which the EIO is issued is not an offence in the executing State;(f) there are substantial grounds to believe that the execution of the investigative measure indicated in the EIO would be incompatible with the executing State's obligations in accordance with Article 6 TEU and the Charter;(g) the conduct for which the EIO has been issued does not constitute an offence under the law of the executing State, unless it concerns an offence listed within the categories of offences set out in Annex D, as indicated by the issuing authority in the EIO, if it is punishable in the issuing State by a custodial sentence or a detention order for a maximum period of at least three years; or(h) the use of the investigative measure indicated in the EIO is restricted under the law of the executing State to a list or category of offences or to offences punishable by a certain threshold, which does not include the offence covered by the EIO.
 
 **2.** Paragraphs 1(g) and 1(h) do not apply to investigative measures referred to in Article 10(2).
 
@@ -254,11 +220,7 @@ Where requested in the EIO and if possible under the law of the executing State,
 
 ### Article 15 — Grounds for postponement of recognition or execution
 
-**1.** The recognition or execution of the EIO may be postponed in the executing State where:
-
-(a) its execution might prejudice an on-going criminal investigation or prosecution, until such time as the executing State deems reasonable;
-
-(b) the objects, documents, or data concerned are already being used in other proceedings, until such time as they are no longer required for that purpose.
+**1.** The recognition or execution of the EIO may be postponed in the executing State where:(a) its execution might prejudice an on-going criminal investigation or prosecution, until such time as the executing State deems reasonable;(b) the objects, documents, or data concerned are already being used in other proceedings, until such time as they are no longer required for that purpose.
 
 **2.** As soon as the ground for postponement has ceased to exist, the executing authority shall forthwith take the necessary measures for the execution of the EIO and inform the issuing authority by any means capable of producing a written record.
 
@@ -272,21 +234,11 @@ Where a central authority has been designated in accordance with Article 7(3), t
 
 In the cases referred to in Article 7(6), this obligation applies both to the competent authority which initially received the EIO and to the executing authority to which the EIO is finally transmitted.
 
-**2.** Without prejudice to Article 10(4) and (5) the executing authority shall inform the issuing authority immediately by any means:
-
-(a) if it is impossible for the executing authority to take a decision on the recognition or execution due to the fact that the form provided for in Annex A is incomplete or manifestly incorrect;
-
-(b) if the executing authority, in the course of the execution of the EIO, considers without further enquiries that it may be appropriate to carry out investigative measures not initially foreseen, or which could not be specified when the EIO was issued, in order to enable the issuing authority to take further action in the specific case; or
-
-(c) if the executing authority establishes that, in the specific case, it cannot comply with formalities and procedures expressly indicated by the issuing authority in accordance with Article 9.
+**2.** Without prejudice to Article 10(4) and (5) the executing authority shall inform the issuing authority immediately by any means:(a) if it is impossible for the executing authority to take a decision on the recognition or execution due to the fact that the form provided for in Annex A is incomplete or manifestly incorrect;(b) if the executing authority, in the course of the execution of the EIO, considers without further enquiries that it may be appropriate to carry out investigative measures not initially foreseen, or which could not be specified when the EIO was issued, in order to enable the issuing authority to take further action in the specific case; or(c) if the executing authority establishes that, in the specific case, it cannot comply with formalities and procedures expressly indicated by the issuing authority in accordance with Article 9.
 
 Upon request by the issuing authority, the information shall be confirmed without delay by any means capable of producing a written record.
 
-**3.** Without prejudice to Article 10(4) and (5) the executing authority shall inform the issuing authority without delay by any means capable of producing a written record:
-
-(a) of any decision taken pursuant to Articles 10 or 11;
-
-(b) of any decision to postpone the execution or recognition of the EIO, the reasons for the postponement and, if possible, the expected duration of the postponement.
+**3.** Without prejudice to Article 10(4) and (5) the executing authority shall inform the issuing authority without delay by any means capable of producing a written record:(a) of any decision taken pursuant to Articles 10 or 11;(b) of any decision to postpone the execution or recognition of the EIO, the reasons for the postponement and, if possible, the expected duration of the postponement.
 
 <a id="art_17"></a>
 
@@ -322,7 +274,7 @@ When present in the territory of the executing State in the framework of the app
 
 ### Article 20 — Protection of personal data
 
-When implementing this Directive, Member States shall ensure that personal data are protected and may only be processed in accordance with Council Framework Decision 2008/977/JHA and the principles of the Council of Europe Convention for the protection of Individuals with regard to the Automatic Processing of Personal Data of 28 January 1981 and its Additional Protocol.
+When implementing this Directive, Member States shall ensure that personal data are protected and may only be processed in accordance with Council Framework Decision 2008/977/JHA (17) and the principles of the Council of Europe Convention for the protection of Individuals with regard to the Automatic Processing of Personal Data of 28 January 1981 and its Additional Protocol.
 
 Access to such data shall be restricted, without prejudice to the rights of the data subject. Only authorised persons may have access to such data.
 
@@ -336,11 +288,7 @@ Access to such data shall be restricted, without prejudice to the rights of the 
 
 The executing authority shall inform the issuing authority in advance of the detailed specifications of the part of the costs deemed exceptionally high.
 
-**3.** In exceptional situations where no agreement can be reached with regard to the costs referred to in paragraph 2, the issuing authority may decide to:
-
-(a) withdraw the EIO in whole or in part; or
-
-(b) keep the EIO, and bear the part of the costs deemed exceptionally high.
+**3.** In exceptional situations where no agreement can be reached with regard to the costs referred to in paragraph 2, the issuing authority may decide to:(a) withdraw the EIO in whole or in part; or(b) keep the EIO, and bear the part of the costs deemed exceptionally high.
 
 ## CHAPTER IV — SPECIFIC PROVISIONS FOR CERTAIN INVESTIGATIVE MEASURES
 
@@ -350,11 +298,7 @@ The executing authority shall inform the issuing authority in advance of the det
 
 **1.** An EIO may be issued for the temporary transfer of a person in custody in the executing State for the purpose of carrying out an investigative measure with a view to gathering evidence for which the presence of that person on the territory of the issuing State is required, provided that he shall be sent back within the period stipulated by the executing State.
 
-**2.** In addition to the grounds for non-recognition or non-execution referred to in Article 11 the execution of the EIO may also be refused if:
-
-(a) the person in custody does not consent; or
-
-(b) the transfer is liable to prolong the detention of the person in custody.
+**2.** In addition to the grounds for non-recognition or non-execution referred to in Article 11 the execution of the EIO may also be refused if:(a) the person in custody does not consent; or(b) the transfer is liable to prolong the detention of the person in custody.
 
 **3.** Without prejudice to paragraph 2(a), where the executing State considers it necessary in view of the person's age or physical or mental condition, the opportunity to state the opinion on the temporary transfer shall be given to the legal representative of the person in custody.
 
@@ -368,11 +312,7 @@ The executing authority shall inform the issuing authority in advance of the det
 
 **8.** Without prejudice to paragraph 6, a transferred person shall not be prosecuted or detained or subjected to any other restriction of his personal liberty in the issuing State for acts committed or convictions handed down before his departure from the territory of the executing State and which are not specified in the EIO.
 
-**9.** The immunity referred to in paragraph 8 shall cease to exist if the transferred person, having had an opportunity to leave for a period of 15 consecutive days from the date when his presence is no longer required by the issuing authorities, has either:
-
-(a) nevertheless remained in the territory; or
-
-(b) having left it, has returned.
+**9.** The immunity referred to in paragraph 8 shall cease to exist if the transferred person, having had an opportunity to leave for a period of 15 consecutive days from the date when his presence is no longer required by the issuing authorities, has either:(a) nevertheless remained in the territory; or(b) having left it, has returned.
 
 **10.** Costs resulting from the application of this Article shall be borne in accordance with Article 21, except for the costs arising from the transfer of the person to and from the issuing State which shall be borne by that State.
 
@@ -394,33 +334,13 @@ The executing authority shall inform the issuing authority in advance of the det
 
 The issuing authority may also issue an EIO for the purpose of hearing a suspected or accused person by videoconference or other audiovisual transmission.
 
-**2.** In addition to the grounds for non-recognition or non-execution referred to in Article 11, execution of an EIO may be refused if either:
+**2.** In addition to the grounds for non-recognition or non-execution referred to in Article 11, execution of an EIO may be refused if either:(a) the suspected or accused person does not consent; or(b) the execution of such an investigative measure in a particular case would be contrary to the fundamental principles of the law of the executing State.
 
-(a) the suspected or accused person does not consent; or
-
-(b) the execution of such an investigative measure in a particular case would be contrary to the fundamental principles of the law of the executing State.
-
-**3.** The issuing authority and the executing authority shall agree the practical arrangements. When agreeing such arrangements, the executing authority shall undertake to:
-
-(a) summon the witness or expert concerned, indicating the time and the venue of the hearing;
-
-(b) summon the suspected or accused persons to appear for the hearing in accordance with the detailed rules laid down in the law of the executing State and inform such persons about their rights under the law of the issuing State, in such a time as to allow them to exercise their rights of defence effectively;
-
-(c) ensure the identity of the person to be heard.
+**3.** The issuing authority and the executing authority shall agree the practical arrangements. When agreeing such arrangements, the executing authority shall undertake to:(a) summon the witness or expert concerned, indicating the time and the venue of the hearing;(b) summon the suspected or accused persons to appear for the hearing in accordance with the detailed rules laid down in the law of the executing State and inform such persons about their rights under the law of the issuing State, in such a time as to allow them to exercise their rights of defence effectively;(c) ensure the identity of the person to be heard.
 
 **4.** If in circumstances of a particular case the executing authority has no access to technical means for a hearing held by videoconference, such means may be made available to it by the issuing State by mutual agreement.
 
-**5.** Where a hearing is held by videoconference or other audiovisual transmission, the following rules shall apply:
-
-(a) the competent authority of the executing State shall be present during the hearing, where necessary assisted by an interpreter, and shall also be responsible for ensuring both the identity of the person to be heard and respect for the fundamental principles of the law of the executing State. If the executing authority is of the view that during the hearing the fundamental principles of the law of the executing State are being infringed, it shall immediately take the necessary measures to ensure that the hearing continues in accordance with those principles;
-
-(b) measures for the protection of the person to be heard shall be agreed, where necessary, between the competent authorities of the issuing State and the executing State;
-
-(c) the hearing shall be conducted directly by, or under the direction of, the competent authority of the issuing State in accordance with its own laws;
-
-(d) at the request of the issuing State or the person to be heard, the executing State shall ensure that the person to be heard is assisted by an interpreter, if necessary;
-
-(e) suspected or accused persons shall be informed in advance of the hearing of the procedural rights which would accrue to them, including the right not to testify, under the law of the executing State and the issuing State. Witnesses and experts may claim the right not to testify which would accrue to them under the law of either the executing or the issuing State and shall be informed about this right in advance of the hearing.
+**5.** Where a hearing is held by videoconference or other audiovisual transmission, the following rules shall apply:(a) the competent authority of the executing State shall be present during the hearing, where necessary assisted by an interpreter, and shall also be responsible for ensuring both the identity of the person to be heard and respect for the fundamental principles of the law of the executing State.If the executing authority is of the view that during the hearing the fundamental principles of the law of the executing State are being infringed, it shall immediately take the necessary measures to ensure that the hearing continues in accordance with those principles;(b) measures for the protection of the person to be heard shall be agreed, where necessary, between the competent authorities of the issuing State and the executing State;(c) the hearing shall be conducted directly by, or under the direction of, the competent authority of the issuing State in accordance with its own laws;(d) at the request of the issuing State or the person to be heard, the executing State shall ensure that the person to be heard is assisted by an interpreter, if necessary;(e) suspected or accused persons shall be informed in advance of the hearing of the procedural rights which would accrue to them, including the right not to testify, under the law of the executing State and the issuing State. Witnesses and experts may claim the right not to testify which would accrue to them under the law of either the executing or the issuing State and shall be informed about this right in advance of the hearing.
 
 **6.** Without prejudice to any measures agreed for the protection of persons, on the conclusion of the hearing, the executing authority shall draw up minutes indicating the date and place of the hearing, the identity of the person heard, the identities and functions of all other persons in the executing State participating in the hearing, any oaths taken and the technical conditions under which the hearing took place. The document shall be forwarded by the executing authority to the issuing authority.
 
@@ -468,11 +388,7 @@ The issuing authority may also issue an EIO for the purpose of hearing a suspect
 
 ### Article 28 — Investigative measures implying the gathering of evidence in real time, continuously and over a certain period of time
 
-**1.** When the EIO is issued for the purpose of executing an investigative measure requiring the gathering of evidence in real time, continuously and over a certain period of time, such as:its execution may be refused, in addition to the grounds for non-recognition and non-execution referred to in Article 11, if the execution of the investigative measure concerned would not be authorised in a similar domestic case.
-
-(a) the monitoring of banking or other financial operations that are being carried out through one or more specified accounts;
-
-(b) the controlled deliveries on the territory of the executing State;
+**1.** When the EIO is issued for the purpose of executing an investigative measure requiring the gathering of evidence in real time, continuously and over a certain period of time, such as:(a) the monitoring of banking or other financial operations that are being carried out through one or more specified accounts;(b) the controlled deliveries on the territory of the executing State;its execution may be refused, in addition to the grounds for non-recognition and non-execution referred to in Article 11, if the execution of the investigative measure concerned would not be authorised in a similar domestic case.
 
 **2.** The practical arrangements regarding the investigative measure referred to in paragraph 1(b) and wherever else necessary shall be agreed between the issuing State and the executing State.
 
@@ -488,11 +404,7 @@ The issuing authority may also issue an EIO for the purpose of hearing a suspect
 
 **2.** The issuing authority shall indicate in the EIO why it considers that the covert investigation is likely to be relevant for the purpose of the criminal proceedings. The decision on the recognition and execution of an EIO issued under this Article shall be taken in each individual case by the competent authorities of the executing State with due regard to its national law and procedures.
 
-**3.** In addition to the grounds for non-recognition and non-execution referred to in Article 11, the executing authority may refuse to execute an EIO referred to in paragraph 1, where:
-
-(a) the execution of the covert investigation would not be authorised in a similar domestic case; or
-
-(b) it was not possible to reach an agreement on the arrangements for the covert investigations under paragraph 4.
+**3.** In addition to the grounds for non-recognition and non-execution referred to in Article 11, the executing authority may refuse to execute an EIO referred to in paragraph 1, where:(a) the execution of the covert investigation would not be authorised in a similar domestic case; or(b) it was not possible to reach an agreement on the arrangements for the covert investigations under paragraph 4.
 
 **4.** Covert investigations shall take place in accordance with the national law and procedures of the Member State on the territory of which the covert investigation takes place. The right to act, to direct and to control the operation related to the covert investigation shall lie solely with the competent authorities of the executing State. The duration of the covert investigation, the detailed conditions, and the legal status of the officers concerned during covert investigations shall be agreed between the issuing State and the executing State with due regard to their national laws and procedures.
 
@@ -506,23 +418,13 @@ The issuing authority may also issue an EIO for the purpose of hearing a suspect
 
 **2.** Where more than one Member State is in a position to provide the complete necessary technical assistance for the same interception of telecommunications, the EIO shall be sent only to one of them. Priority shall always be given to the Member State where the subject of the interception is or will be located.
 
-**3.** An EIO referred to in paragraph 1 shall also contain the following information:
-
-(a) information for the purpose of identifying the subject of the interception;
-
-(b) the desired duration of the interception; and
-
-(c) sufficient technical data, in particular the target identifier, to ensure that the EIO can be executed.
+**3.** An EIO referred to in paragraph 1 shall also contain the following information:(a) information for the purpose of identifying the subject of the interception;(b) the desired duration of the interception; and(c) sufficient technical data, in particular the target identifier, to ensure that the EIO can be executed.
 
 **4.** The issuing authority shall indicate in the EIO the reasons why it considers the indicated investigative measure relevant for the purpose of the criminal proceedings concerned.
 
 **5.** In addition to the grounds for non-recognition or non-execution referred to in Article 11, the execution of an EIO referred to in paragraph 1 may also be refused where the investigative measure would not have been authorised in a similar domestic case. The executing State may make its consent subject to any conditions which would be observed in a similar domestic case.
 
-**6.** An EIO referred to in paragraph 1 may be executed by:
-
-(a) transmitting telecommunications immediately to the issuing State; or
-
-(b) intercepting, recording and subsequently transmitting the outcome of interception of telecommunications to the issuing State.
+**6.** An EIO referred to in paragraph 1 may be executed by:(a) transmitting telecommunications immediately to the issuing State; or(b) intercepting, recording and subsequently transmitting the outcome of interception of telecommunications to the issuing State.
 
 The issuing authority and the executing authority shall consult each other with a view to agreeing on whether the interception is carried out in accordance with point (a) or (b).
 
@@ -534,19 +436,11 @@ The issuing authority and the executing authority shall consult each other with 
 
 ### Article 31 — Notification of the Member State where the subject of the interception is located from which no technical assistance is needed
 
-**1.** Where, for the purpose of carrying out an investigative measure, the interception of telecommunications is authorised by the competent authority of one Member State (the ‘intercepting Member State’) and the communication address of the subject of the interception specified in the interception order is being used on the territory of another Member State (the ‘notified Member State’) from which no technical assistance is needed to carry out the interception, the intercepting Member State shall notify the competent authority of the notified Member State of the interception:
-
-(a) prior to the interception in cases where the competent authority of the intercepting Member State knows at the time of ordering the interception that the subject of the interception is or will be on the territory of the notified Member State;
-
-(b) during the interception or after the interception has been carried out, immediately after it becomes aware that the subject of the interception is or has been during the interception, on the territory of the notified Member State.
+**1.** Where, for the purpose of carrying out an investigative measure, the interception of telecommunications is authorised by the competent authority of one Member State (the ‘intercepting Member State’) and the communication address of the subject of the interception specified in the interception order is being used on the territory of another Member State (the ‘notified Member State’) from which no technical assistance is needed to carry out the interception, the intercepting Member State shall notify the competent authority of the notified Member State of the interception:(a) prior to the interception in cases where the competent authority of the intercepting Member State knows at the time of ordering the interception that the subject of the interception is or will be on the territory of the notified Member State;(b) during the interception or after the interception has been carried out, immediately after it becomes aware that the subject of the interception is or has been during the interception, on the territory of the notified Member State.
 
 **2.** The notification referred to in paragraph 1 shall be made by using the form set out in Annex C.
 
-**3.** The competent authority of the notified Member States may, in case where the interception would not be authorised in a similar domestic case, notify, without delay and at the latest within 96 hours after the receipt of the notification referred to in paragraph 1, the competent authority of the intercepting Member State:
-
-(a) that the interception may not be carried out or shall be terminated; and
-
-(b) where necessary, that any material already intercepted while the subject of the interception was on its territory may not be used, or may only be used under conditions which it shall specify. The competent authority of the notified Member State shall inform the competent authority of the intercepting Member State of reasons justifying those conditions.
+**3.** The competent authority of the notified Member States may, in case where the interception would not be authorised in a similar domestic case, notify, without delay and at the latest within 96 hours after the receipt of the notification referred to in paragraph 1, the competent authority of the intercepting Member State:(a) that the interception may not be carried out or shall be terminated; and(b) where necessary, that any material already intercepted while the subject of the interception was on its territory may not be used, or may only be used under conditions which it shall specify. The competent authority of the notified Member State shall inform the competent authority of the intercepting Member State of reasons justifying those conditions.
 
 **4.** Article 5(2) shall be applicable *mutatis mutandis* for the notification referred to in paragraph 2.
 
@@ -572,31 +466,19 @@ The issuing authority and the executing authority shall consult each other with 
 
 ### Article 33 — Notifications
 
-**1.** By 22 May 2017 each Member State shall notify the Commission of the following:
-
-(a) the authority or authorities which, in accordance with its national law, are competent according to Article 2(c) and (d) when this Member State is the issuing State or the executing State;
-
-(b) the languages accepted for an EIO, as referred to in Article 5(2);
-
-(c) the information regarding the designated central authority or authorities if the Member State wishes to make use of the possibility under Article 7(3). This information shall be binding upon the authorities of the issuing State.
+**1.** By 22 May 2017 each Member State shall notify the Commission of the following:(a) the authority or authorities which, in accordance with its national law, are competent according to Article 2(c) and (d) when this Member State is the issuing State or the executing State;(b) the languages accepted for an EIO, as referred to in Article 5(2);(c) the information regarding the designated central authority or authorities if the Member State wishes to make use of the possibility under Article 7(3). This information shall be binding upon the authorities of the issuing State.
 
 **2.** Each Member State may also provide the Commission the list of necessary documents it would require under Article 22(4).
 
 **3.** Member States shall inform the Commission of any subsequent changes to the information referred to in paragraphs 1 and 2.
 
-**4.** The Commission shall make the information received under this Article available to all the Member States and to the EJN. The EJN shall make the information available on the website referred to in Article 9 of the Council Decision 2008/976/JHA.
+**4.** The Commission shall make the information received under this Article available to all the Member States and to the EJN. The EJN shall make the information available on the website referred to in Article 9 of the Council Decision 2008/976/JHA (18).
 
 <a id="art_34"></a>
 
 ### Article 34 — Relations to other legal instruments, agreements and arrangements
 
-**1.** Without prejudice to their application between Member States and third States and their temporary application by virtue of Article 35, this Directive replaces, as from 22 May 2017, the corresponding provisions of the following conventions applicable between the Member States bound by this Directive:
-
-(a) European Convention on Mutual Assistance in Criminal Matters of the Council of Europe of 20 April 1959, as well as its two additional protocols, and the bilateral agreements concluded pursuant to Article 26 thereof;
-
-(b) Convention implementing the Schengen Agreement;
-
-(c) Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union and its protocol.
+**1.** Without prejudice to their application between Member States and third States and their temporary application by virtue of Article 35, this Directive replaces, as from 22 May 2017, the corresponding provisions of the following conventions applicable between the Member States bound by this Directive:(a) European Convention on Mutual Assistance in Criminal Matters of the Council of Europe of 20 April 1959, as well as its two additional protocols, and the bilateral agreements concluded pursuant to Article 26 thereof;(b) Convention implementing the Schengen Agreement;(c) Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union and its protocol.
 
 **2.** Framework Decision 2008/978/JHA is hereby replaced for the Member States bound by this Directive. Provisions of Framework Decision 2003/577/JHA are replaced for Member States bound by this Directive as regards freezing of evidence.
 
@@ -641,693 +523,3 @@ This Directive shall enter into force on the twentieth day following its publica
 ### Article 39 — Addressees
 
 This Directive is addressed to the Member States in accordance with the Treaties.
-
-<a id="anx_a"></a>
-
-### ANNEX A
-
-This EIO has been issued by a competent authority. The issuing authority certifies that the issuing of this EIO is necessary and proportionate for the purpose of the proceedings specified within it taking into account the rights of the suspected or accused person and that the investigative measures requested could have been ordered under the same conditions in a similar domestic case. I request that the investigative measure or measures specified below be carried out taking due account of the confidentiality of the investigation and that the evidence obtained as a result of the execution of the EIO be transferred.
-
-SECTION A
-
-Issuing State:
-
-Executing State:
-
-SECTION B: Urgency
-
-Please indicate if there is any urgency due to
-
-Evidence being concealed or destroyed
-
-Imminent trial date
-
-Any other reason
-
-Please specify below:
-
-Time limits for execution of the EIO are laid down in Directive 2014/41/EU. However, if a shorter or specific time limit is necessary, please provide the date and explain the reason for this:
-
-SECTION C: Investigative measure(s) to be carried out
-
-1. Describe the assistance/investigative measure(s) required AND indicate, if applicable, if it is one of the following investigative measures:
-
-Obtaining information or evidence which is already in the possession of the executing authority
-
-Obtaining information contained in databases held by police or judicial authorities
-
-Hearing
-
-witness
-
-expert
-
-suspected or accused person
-
-victim
-
-third party
-
-Identification of persons holding a subscription of a specified phone number or IP address
-
-Temporary transfer of a person held in custody to the issuing State
-
-Temporary transfer of a person held in custody to the executing State
-
-Hearing by videoconference or other audiovisual transmission
-
-witness
-
-expert
-
-suspected or accused person
-
-Hearing by telephone conference
-
-witness
-
-expert
-
-Information on bank and other financial accounts
-
-Information on banking and other financial operations
-
-Investigative measure implying the gathering of evidence in real time, continuously and over a certain period of time
-
-monitoring of banking or other financial operations
-
-controlled deliveries
-
-other
-
-Covert investigation
-
-Interception of telecommunications
-
-Provisional measure(s) to prevent the destruction, transformation, moving, transfer or disposal of an item that may be used as evidence
-
-SECTION D: Relation to an earlier EIO
-
-Indicate whether this EIO supplements an earlier EIO. If applicable, provide information relevant to identify the previous EIO (the date of issue of the EIO, the authority to which it was transmitted and, if available, the date of transmission of the EIO, and reference numbers given by the issuing and executing authorities):
-
-If relevant please indicate if an EIO has already been addressed to another Member State in the same case:
-
-SECTION E: Identity of the person concerned
-
-1. State all information, as far as known, regarding the identity of the (i) natural or (ii) legal person(s) concerned by the investigative measure (if more than one person is concerned, please provide the information for each person):
-
-(i) In the case of natural person(s)
-
-Name:
-
-First name(s):
-
-Other relevant name(s), if applicable:
-
-Aliases, if applicable:
-
-Sex:
-
-Nationality:
-
-Identity number or social security number:
-
-Type and number of the identity document(s) (ID card, passport), if available:
-
-Date of birth:
-
-Place of birth:
-
-Residence and/or known address; if address not known, state the last known address:
-
-Language(s) which the person understands:
-
-(ii) In the case of legal person(s)
-
-Name:
-
-Form of legal person:
-
-Shortened name, commonly used name or trading name, if applicable:
-
-Registered seat:
-
-Registration number:
-
-Address of the legal person:
-
-Name of the legal person’s representative:
-
-Please describe the position the concerned person currently holds in the proceedings:
-
-suspected or accused person
-
-victim
-
-witness
-
-expert
-
-third party
-
-other (please specify)
-
-2. If different from the address above, please give the location where investigative measure is to be carried out:
-
-3. Provide any other information that will assist with the execution of the EIO:
-
-SECTION F: Type of proceedings for which the EIO is issued:
-
-(a) with respect to criminal proceedings brought by, or that may be brought before, a judicial authority in respect of a criminal offence under the national law of the issuing State; or
-
-(b) proceedings brought by administrative authorities in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law, and where the decision may give rise to proceedings before a court having jurisdiction in particular in criminal matters; or
-
-(c) proceedings brought by judicial authorities in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law, and where the decision may give rise to proceedings before a court having jurisdiction in particular in criminal matters;
-
-(d) in connection with proceedings referred to in points (a), (b), and (c) which relate to offences or infringements for which a legal person may be held liable or punished in the issuing State.
-
-SECTION G: Grounds for issuing the EIO
-
-1. Summary of the facts
-
-Set out the reasons why the EIO is issued, including a summary of the underlying facts, a description of offences charged or under investigation, the stage the investigation has reached, the reasons for any risk factors and any other relevant information.
-
-2. Nature and legal classification of the offence(s) for which the EIO is issued and the applicable statutory provision/code:
-
-3. Is the offence for which the EIO is issued punishable in the issuing State by a custodial sentence or detention order of a maximum of at least three years as defined by the law of the issuing State and included in the list of offences set out below? (please tick the relevant box)
-
-participation in a criminal organisation
-
-terrorism
-
-trafficking in human beings
-
-sexual exploitation of children and child pornography
-
-illicit trafficking in narcotic drugs and psychotropic substances
-
-illicit trafficking in weapons, munitions and explosives
-
-corruption
-
-fraud, including that affecting the financial interests of the European Union within the meaning of the Convention of 26 July 1995 on the protection of the European Communities’ financial interests
-
-laundering of the proceeds of crime
-
-counterfeiting currency, including of the euro
-
-computer-related crime
-
-environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties
-
-facilitation of unauthorised entry and residence
-
-murder, grievous bodily injury
-
-illicit trade in human organs and tissue
-
-kidnapping, illegal restraint and hostage-taking
-
-racism and xenophobia
-
-organised or armed robbery
-
-illicit trafficking in cultural goods, including antiques and works of art
-
-swindling
-
-racketeering and extortion
-
-counterfeiting and piracy of products
-
-forgery of administrative documents and trafficking therein
-
-forgery of means of payment
-
-illicit trafficking in hormonal substances and other growth promoters
-
-illicit trafficking in nuclear or radioactive materials
-
-trafficking in stolen vehicles
-
-rape
-
-arson
-
-crimes within the jurisdiction of the International Criminal Court
-
-unlawful seizure of aircraft/ships
-
-sabotage
-
-SECTION H: Additional requirements for certain measures
-
-Fill out the sections relevant to the investigative measure(s) requested:
-
-SECTION H1: Transfer of a person held in custody
-
-(1) If a temporary transfer to the issuing State of a person held in custody for the purpose of the investigation is requested, please indicate whether the person consented to this measure:
-
-Yes No I request that the person’s consent is sought
-
-(2) If a temporary transfer to the executing State of a person held in custody for the purpose of investigation is requested, please indicate whether the person consented to this measure:
-
-Yes No
-
-SECTION H2: Video or telephone conference or other audiovisual transmission
-
-If hearing by videoconference or telephone conference or other audiovisual transmission is requested:
-
-Please indicate the name of the authority that will conduct the hearing (contact details/language):
-
-Please indicate reasons for requesting this measure:
-
-(a) hearing by videoconference or other audiovisual transmission:
-
-the suspected or accused person has given his/her consent
-
-(b) hearing by telephone conference
-
-SECTION H3: Provisional measures
-
-If a provisional measure to prevent the destruction, transformation, moving, transfer or disposal of an item that may be used as evidence, is requested, please indicate whether:
-
-the item is to be transferred to the issuing State
-
-the item is to remain in the executing State; please indicate an estimated date:
-
-for lifting of provisional measure:
-
-for the submission of a subsequent request concerning the item:
-
-SECTION H4: Information on bank and other financial accounts
-
-(1) If information on bank accounts or other financial accounts that the person holds or controls is requested, please indicate, for each of them, the reasons why you consider the measure relevant for the purpose of the criminal proceedings and on what grounds you presume that banks in the executing State hold the account:
-
-information on bank accounts that the person holds or in respect of which he or she has the power of attorney
-
-information on other financial accounts that the person holds or in respect of which he or she has the power of attorney
-
-(2) If information on banking operations or other financial operations is requested, please indicate, for each of them, the reasons why you consider the measure relevant for the purpose of the criminal proceedings:
-
-information on banking operations
-
-information on other financial operations
-
-Indicate the relevant period of time and the related accounts:
-
-SECTION H5: Investigative measures implying the gathering of evidence in real time, continuously and over a certain period of time
-
-If such investigative measure is requested please indicate the reasons why you consider the requested information relevant for the purpose of the criminal proceedings:
-
-SECTION H6: Covert investigations
-
-If covert investigation is requested please indicate the reasons why you consider the investigative measure likely to be relevant for the purpose of the criminal proceedings:
-
-SECTION H7: Interception of telecommunications
-
-(1) If interception of telecommunications is requested please indicate the reasons why you consider the investigative measure relevant for the purpose of the criminal proceedings:
-
-(2) Please provide following information:
-
-(a) information for the purpose of identifying the subject of the interception:
-
-(b) the desired duration of the interception:
-
-(c) technical data (in particular the target identifier — such as mobile telephone, landline telephone, email address, internet connection), to ensure that the EIO can be executed:
-
-(3) Please indicate your preference concerning the method of execution:
-
-immediate transmission
-
-recording and subsequent transmission
-
-Please indicate if you also require transcription, decoding or decrypting of the intercepted material (*):
-
-(*) Please be aware that the costs of any transcription, decoding or decrypting must be met by the issuing State.
-
-SECTION I: Formalities and procedures requested for the execution
-
-1. Tick and complete, if applicable
-
-It is requested that the executing authority comply with the following formalities and procedures (…):
-
-2. Tick and complete, if applicable
-
-It is requested that one or several officials of the issuing State assist in the execution of the EIO in support of the competent authorities of the executing State.
-
-Contact details of the officials:
-
-Languages that may be used for communication:
-
-SECTION J: Legal remedies
-
-1. Please indicate if a legal remedy has already been sought against the issuing of an EIO, and if so please provide further details (description of the legal remedy, including necessary steps to take and deadlines):
-
-2. Authority in the issuing State which can supply further information on procedures for seeking legal remedies in the issuing State and on whether legal assistance and interpretation and translation is available:
-
-Name:
-
-Contact person (if applicable):
-
-Address:
-
-Tel. No: (country code) (area/city code)
-
-Fax No: (country code) (area/city code)
-
-E-mail:
-
-SECTION K: Details of the authority which issued the EIO
-
-Tick the type of authority which issued the EIO:
-
-judicial authority
-
-(*) any other competent authority as defined by the law of the issuing State
-
-(*) Please also complete section (L)
-
-Name of authority:
-
-Name of representative/contact point:
-
-File No:
-
-Address:
-
-Tel. No: (country code) (area/city code)
-
-Fax No: (country code) (area/city code)
-
-E-mail:
-
-Languages in which it is possible to communicate with the issuing authority:
-
-If different from above, the contact details of the person(s) to contact for additional information or to make practical arrangements for the transfer of evidence:
-
-Name/Title/Organisation:
-
-Address:
-
-E-mail/Contact Phone No:
-
-Signature of the issuing authority and/or its representative certifying the content of the EIO as accurate and correct:
-
-Name:
-
-Post held (title/grade):
-
-Date:
-
-Official stamp (if available):
-
-SECTION L Details of the judicial authority which validated the EIO
-
-Please indicate the type of judicial authority which has validated this EIO:
-
-(a) judge or court
-
-(b) investigating judge
-
-(c) public prosecutor
-
-Official name of the validating authority:
-
-Name of its representative:
-
-Post held (title/grade):
-
-File no:
-
-Address:
-
-Tel. No: (country code) (area/city code)
-
-Fax No: (country code) (area/city code)
-
-E-mail:
-
-Languages in which it is possible to communicate with the validating authority:
-
-Please indicate if the main contact point for the executing authority should be the:
-
-issuing authority
-
-validating authority
-
-Signature and details of the validating authority
-
-Name:
-
-Post held (title/grade):
-
-Date:
-
-Official stamp (if available):
-
-<a id="anx_b"></a>
-
-### ANNEX B
-
-This form has to be completed by the authority of the executing State which received the EIO referred to below.
-
-(A) THE EIO CONCERNED
-
-Authority which issued the EIO:
-
-File reference:
-
-Date of issuing:
-
-Date of receipt:
-
-(B) THE AUTHORITY WHICH RECEIVED THE EIO ( 1 )
-
-Official name of the competent authority:
-
-Name of its representative:
-
-Post held (title/grade):
-
-Address:
-
-Tel. No: (country code) (area/city code)
-
-Fax No: (country code) (area/city code)
-
-E-mail:
-
-File reference:
-
-Languages in which it is possible to communicate with the authority:
-
-(C) (WHERE APPLICABLE) THE COMPETENT AUTHORITY TO WHOM THE EIO IS TRANSMITTED BY THE AUTHORITY UNDER (B)
-
-Official name of the authority:
-
-Name of its representative:
-
-Post held (title/grade):
-
-Address:
-
-Tel. No: (country code) (area/city code)
-
-Fax No: (country code) (area/city code)
-
-E-mail:
-
-Date of transmission:
-
-File reference:
-
-Language(s) that may be used for communication:
-
-( 1 ) This section is to be completed by each authority which received the EIO. This obligation falls upon the authority competent to recognise and execute the EIO and, where applicable, upon the central authority or the authority which transmitted the EIO to the competent authority.
-
-(D) ANY OTHER INFORMATION WHICH MAY BE RELEVANT FOR THE ISSUING AUTHORITY:
-
-(E) SIGNATURE AND DATE
-
-Signature:
-
-Date:
-
-Official stamp (if available):
-
-<a id="anx_c"></a>
-
-### ANNEX C
-
-This form is used in order to notify a Member State about the interception of telecommunication that will be, is or has been carried out on its territory without its technical assistance. I hereby inform … (notified Member State) of the interception.
-
-(A) ( 1 ) THE COMPETENT AUTHORITY
-
-Official name of the competent authority of intercepting Member State:
-
-Name of its representative:
-
-Post held (title/grade):
-
-Address:
-
-Tel. No: (country code) (area/city code)
-
-Fax No: (country code) (area/city code)
-
-E-mail:
-
-File reference:
-
-Date of issuing:
-
-Languages in which it is possible to communicate with the authority:
-
-(B) INFORMATION CONCERNING THE INTERCEPTION
-
-(I) Information about state of play: This notification takes place (please tick)
-
-prior to the interception
-
-during the interception
-
-after the interception
-
-(II) The (anticipated) duration of the interception (as known to the issuing authority):
-
-, starting from
-
-(III) Target of the interception: (telephone number, IP number or e-mail)
-
-(IV) Identity of the persons concerned
-
-State all information, as far as they are known, regarding the identity of the (i) natural or (ii) legal person(s) against whom the proceedings are/may be/is taking place:
-
-(i) In the case of natural person(s)
-
-Name:
-
-First name(s):
-
-Other relevant name(s), if applicable:
-
-Aliases, if applicable:
-
-Sex:
-
-Nationality:
-
-Identity number or social security number:
-
-( 1 ) The authority which is referred to here is the one which should be contacted in further correspondence with the issuing State.
-
-Date of birth:
-
-Place of birth:
-
-Residence and/or known address; if address not known, state the last known address:
-
-Language(s) which the person understands:
-
-(ii) In the case of legal person(s)
-
-Name:
-
-Form of legal person:
-
-Shortened name, commonly used name or trading name, if applicable:
-
-Registered seat
-
-Registration number:
-
-Address of the legal person:
-
-Name and contact details of the representative of the legal person:
-
-(V) Information regarding the purpose of this interception:
-
-State all information necessary, including a description of the case, legal classification of the offence(s) and the applicable statutory provision/code, in order to enable the notified authority to assess the following:
-
-whether the interception would be authorised in a similar domestic case; and whether the material obtained can be used in legal proceedings
-
-where the interception has already occurred, whether that material can be used in legal proceedings
-
-Please note that any objection to the interception or the use of already intercepted material must be made no later than 96 hours after the reception of this notification.
-
-(C) SIGNATURE AND DATE
-
-Signature:
-
-Date:
-
-Official stamp (if available):
-
-<a id="anx_d"></a>
-
-### ANNEX D
-
-- participation in a criminal organisation, participation in a criminal organisation,
-
-- terrorism, terrorism,
-
-- trafficking in human beings, trafficking in human beings,
-
-- sexual exploitation of children and child pornography, sexual exploitation of children and child pornography,
-
-- illicit trafficking in narcotic drugs and psychotropic substances, illicit trafficking in narcotic drugs and psychotropic substances,
-
-- illicit trafficking in weapons, munitions and explosives, illicit trafficking in weapons, munitions and explosives,
-
-- corruption, corruption,
-
-- fraud, including that affecting the financial interests of the European Union within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests, fraud, including that affecting the financial interests of the European Union within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests,
-
-- laundering of the proceeds of crime, laundering of the proceeds of crime,
-
-- counterfeiting currency, including of the euro, counterfeiting currency, including of the euro,
-
-- computer-related crime, computer-related crime,
-
-- environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties, environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties,
-
-- facilitation of unauthorised entry and residence, facilitation of unauthorised entry and residence,
-
-- murder, grievous bodily injury, murder, grievous bodily injury,
-
-- illicit trade in human organs and tissue, illicit trade in human organs and tissue,
-
-- kidnapping, illegal restraint and hostage-taking, kidnapping, illegal restraint and hostage-taking,
-
-- racism and xenophobia, racism and xenophobia,
-
-- organised or armed robbery, organised or armed robbery,
-
-- illicit trafficking in cultural goods, including antiques and works of art, illicit trafficking in cultural goods, including antiques and works of art,
-
-- swindling, swindling,
-
-- racketeering and extortion, racketeering and extortion,
-
-- counterfeiting and piracy of products, counterfeiting and piracy of products,
-
-- forgery of administrative documents and trafficking therein, forgery of administrative documents and trafficking therein,
-
-- forgery of means of payment, forgery of means of payment,
-
-- illicit trafficking in hormonal substances and other growth promoters, illicit trafficking in hormonal substances and other growth promoters,
-
-- illicit trafficking in nuclear or radioactive materials, illicit trafficking in nuclear or radioactive materials,
-
-- trafficking in stolen vehicles, trafficking in stolen vehicles,
-
-- rape, rape,
-
-- arson, arson,
-
-- crimes within the jurisdiction of the International Criminal Court, crimes within the jurisdiction of the International Criminal Court,
-
-- unlawful seizure of aircraft/ships, unlawful seizure of aircraft/ships,
-
-- sabotage. sabotage.

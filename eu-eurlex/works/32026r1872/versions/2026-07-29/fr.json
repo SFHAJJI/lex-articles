@@ -1,0 +1,60 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "eu-eurlex:32026r1872:2026-07-29",
+  "language": "fr",
+  "title": "Commission Implementing Regulation (EU) 2026/1872 of 29\u00A0July 2026 amending the implementing technical standards laid down in Implementing Regulation (EU)\u00A02016/2070 as regards benchmark portfolios, reporting templates and reporting instructions to be applied in the Union for the reporting referred to in Article\u00A078(2) of Directive\u00A02013/36 /EU",
+  "valid_from": "2026-07-29",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-eu-eurlex",
+    "path": "works/32026r1872/versions/2026-07-29/fr.xml",
+    "sha256": "ec0c698d2cace4f2ab04a8b8bcaf9d88de5296b6cfcd25dc32d3cfa1837a9a60",
+    "source_uri": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32026R1872"
+  },
+  "generator": {
+    "profile": "xhtml-eu/1",
+    "tool": "lex derive"
+  },
+  "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
+  "attribution": "© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "eu-eurlex:32026r1872:2026-07-29#art_1",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article premier\n\nLe règlement d’exécution (UE) 2016/2070 est modifié comme suit:\n\n| 1) | L’annexe II est remplacée par le texte figurant à l’annexe I du présent règlement. |\n| --- | --- |\n\n| 2) | L’annexe V est remplacée par le texte figurant à l’annexe II du présent règlement. |\n| --- | --- |\n\n| 3) | L’annexe VI est remplacée par le texte figurant à l’annexe III du présent règlement. |\n| --- | --- |\n\n| 4) | L’annexe VII est remplacée par le texte de l’annexe IV du présent règlement. |\n| --- | --- |\n\n| 5) | L’annexe X est remplacée par le texte figurant à l’annexe V du présent règlement. |\n| --- | --- |",
+      "text_sha256": "80a70fd7d652b583c690c96be3afd59f44c88b66f2be10a56db8ac448b77c55d",
+      "md_span": {
+        "start": 887,
+        "end": 1497
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "eu-eurlex:32026r1872:2026-07-29#art_2",
+      "eli": null,
+      "type": "article",
+      "num": null,
+      "heading": null,
+      "path": [],
+      "article_valid_from": null,
+      "text_md": "Article 2\n\nLe présent règlement entre en vigueur le vingtième jour suivant celui de sa publication au Journal officiel de l’Union européenne.",
+      "text_sha256": "f10b99b6988582f996cebeedb853ec8c883299092ed55300d3caad2fbf0b5617",
+      "md_span": {
+        "start": 1530,
+        "end": 1671
+      },
+      "citations": []
+    }
+  ],
+  "notes": [
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
+  ]
+}

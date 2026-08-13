@@ -4,10 +4,10 @@ title: 'Council Regulation (EC) No 1206/2001 of 28 May 2001 on cooperation betw
 valid_from: '2008-12-04'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02001R1206-20081204'
-source_sha256: 'c250042a0f9a1ff25d82f1eefe99ef25f22f063a9c857cf6531d1e9e31b536ad'
+source_sha256: '65b33babef96ba820218e14ef74a22f49507bcd410c6bd1f204b8f57c58e6e72'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
 ## CHAPTER I — GENERAL PROVISIONS
@@ -16,11 +16,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 ### Article 1 — Scope
 
-**1.** This Regulation shall apply in civil or commercial matters where the court of a Member State, in accordance with the provisions of the law of that State, requests:
-
-(a) the competent court of another Member State to take evidence; or
-
-(b) to take evidence directly in another Member State.
+**1.** This Regulation shall apply in civil or commercial matters where the court of a Member State, in accordance with the provisions of the law of that State, requests:(a) the competent court of another Member State to take evidence; or(b) to take evidence directly in another Member State.
 
 **2.** A request shall not be made to obtain evidence which is not intended for use in judicial proceedings, commenced or contemplated.
 
@@ -38,13 +34,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 ### Article 3 — Central body
 
-**1.** Each Member State shall designate a central body responsible for:
-
-(a) supplying information to the courts;
-
-(b) seeking solutions to any difficulties which may arise in respect of a request;
-
-(c) forwarding, in exceptional cases, at the request of a requesting court, a request to the competent court.
+**1.** Each Member State shall designate a central body responsible for:(a) supplying information to the courts;(b) seeking solutions to any difficulties which may arise in respect of a request;(c) forwarding, in exceptional cases, at the request of a requesting court, a request to the competent court.
 
 **2.** A federal State, a State in which several legal systems apply or a State with autonomous territorial entities shall be free to designate more than one central body.
 
@@ -58,21 +48,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 ### Article 4 — Form and content of the request
 
-**1.** The request shall be made using form A or, where appropriate, form I in the Annex. It shall contain the following details:
-
-(a) the requesting and, where appropriate, the requested court;
-
-(b) the names and addresses of the parties to the proceedings and their representatives, if any;
-
-(c) the nature and subject matter of the case and a brief statement of the facts;
-
-(d) a description of the taking of evidence to be performed;
-
-(e) where the request is for the examination of a person: - the name(s) and address(es) of the person(s) to be examined, the name(s) and address(es) of the person(s) to be examined, - the questions to be put to the person(s) to be examined or a statement of the facts about which he is (they are) to be examined, the questions to be put to the person(s) to be examined or a statement of the facts about which he is (they are) to be examined, - where appropriate, a reference to a right to refuse to testify under the law of the Member State of the requesting court, where appropriate, a reference to a right to refuse to testify under the law of the Member State of the requesting court, - any requirement that the examination is to be carried out under oath or affirmation in lieu thereof, and any special form to be used, any requirement that the examination is to be carried out under oath or affirmation in lieu thereof, and any special form to be used, - where appropriate, any other information that the requesting court deems necessary; where appropriate, any other information that the requesting court deems necessary;
-
-(f) where the request is for any other form of taking of evidence, the documents or other objects to be inspected;
-
-(g) where appropriate, any request pursuant to Article 10(3) and (4), and Articles 11 and 12 and any information necessary for the application thereof.
+**1.** The request shall be made using form A or, where appropriate, form I in the Annex. It shall contain the following details:(a) the requesting and, where appropriate, the requested court;(b) the names and addresses of the parties to the proceedings and their representatives, if any;(c) the nature and subject matter of the case and a brief statement of the facts;(d) a description of the taking of evidence to be performed;(e) where the request is for the examination of a person:— the name(s) and address(es) of the person(s) to be examined,— the questions to be put to the person(s) to be examined or a statement of the facts about which he is (they are) to be examined,— where appropriate, a reference to a right to refuse to testify under the law of the Member State of the requesting court,— any requirement that the examination is to be carried out under oath or affirmation in lieu thereof, and any special form to be used,— where appropriate, any other information that the requesting court deems necessary;(f) where the request is for any other form of taking of evidence, the documents or other objects to be inspected;(g) where appropriate, any request pursuant to Article 10(3) and (4), and Articles 11 and 12 and any information necessary for the application thereof.
 
 **2.** The request and all documents accompanying the request shall be exempted from authentication or any equivalent formality.
 
@@ -174,21 +150,9 @@ Where necessary, in executing a request the requested court shall apply the appr
 
 ### Article 14 — Refusal to execute
 
-**1.** A request for the hearing of a person shall not be executed when the person concerned claims the right to refuse to give evidence or to be prohibited from giving evidence,
+**1.** A request for the hearing of a person shall not be executed when the person concerned claims the right to refuse to give evidence or to be prohibited from giving evidence,(a) under the law of the Member State of the requested court; or(b) under the law of the Member State of the requesting court, and such right has been specified in the request, or, if need be, at the instance of the requested court, has been confirmed by the requesting court.
 
-(a) under the law of the Member State of the requested court; or
-
-(b) under the law of the Member State of the requesting court, and such right has been specified in the request, or, if need be, at the instance of the requested court, has been confirmed by the requesting court.
-
-**2.** In addition to the grounds referred to in paragraph 1, the execution of a request may be refused only if:
-
-(a) the request does not fall within the scope of this Regulation as set out in Article 1; or
-
-(b) the execution of the request under the law of the Member State of the requested court does not fall within the functions of the judiciary; or
-
-(c) the requesting court does not comply with the request of the requested court to complete the request pursuant to Article 8 within 30 days after the requested court asked it to do so; or
-
-(d) a deposit or advance asked for in accordance with Article 18(3) is not made within 60 days after the requested court asked for such a deposit or advance.
+**2.** In addition to the grounds referred to in paragraph 1, the execution of a request may be refused only if:(a) the request does not fall within the scope of this Regulation as set out in Article 1; or(b) the execution of the request under the law of the Member State of the requested court does not fall within the functions of the judiciary; or(c) the requesting court does not comply with the request of the requested court to complete the request pursuant to Article 8 within 30 days after the requested court asked it to do so; or(d) a deposit or advance asked for in accordance with Article 18(3) is not made within 60 days after the requested court asked for such a deposit or advance.
 
 **3.** Execution may not be refused by the requested court solely on the ground that under the law of its Member State a court of that Member State has exclusive jurisdiction over the subject matter of the action or that the law of that Member State would not admit the right of action on it.
 
@@ -226,13 +190,7 @@ In particular, the central body or the competent authority may assign a court of
 
 The central body or the competent authority shall encourage the use of communications technology, such as videoconferences and teleconferences.
 
-**5.** The central body or the competent authority may refuse direct taking of evidence only if:
-
-(a) the request does not fall within the scope of this Regulation as set out in Article 1;
-
-(b) the request does not contain all of the necessary information pursuant to Article 4; or
-
-(c) the direct taking of evidence requested is contrary to fundamental principles of law in its Member State.
+**5.** The central body or the competent authority may refuse direct taking of evidence only if:(a) the request does not fall within the scope of this Regulation as set out in Article 1;(b) the request does not contain all of the necessary information pursuant to Article 4; or(c) the direct taking of evidence requested is contrary to fundamental principles of law in its Member State.
 
 **6.** Without prejudice to the conditions laid down in accordance with paragraph 4, the requesting court shall execute the request in accordance with the law of its Member State.
 
@@ -244,11 +202,7 @@ The central body or the competent authority shall encourage the use of communica
 
 **1.** The execution of the request, in accordance with Article 10, shall not give rise to a claim for any reimbursement of taxes or costs.
 
-**2.** Nevertheless, if the requested court so requires, the requesting court shall ensure the reimbursement, without delay, of:
-
-- the fees paid to experts and interpreters, and the fees paid to experts and interpreters, and
-
-- the costs occasioned by the application of Article 10(3) and(4). the costs occasioned by the application of Article 10(3) and(4).
+**2.** Nevertheless, if the requested court so requires, the requesting court shall ensure the reimbursement, without delay, of:— the fees paid to experts and interpreters, and— the costs occasioned by the application of Article 10(3) and(4).
 
 The duty for the parties to bear these fees or costs shall be governed by the law of the Member State of the requesting court.
 
@@ -282,13 +236,7 @@ The deposit or advance shall be made by the parties if that is provided for by t
 
 **2.** This Regulation shall not preclude Member States from maintaining or concluding agreements or arrangements between two or more of them to further facilitate the taking of evidence, provided that they are compatible with this Regulation.
 
-**3.** Member States shall send to the Commission:
-
-(a) by 1 July 2003, a copy of the agreements or arrangements maintained between the Member States referred to in paragraph 2;
-
-(b) a copy of the agreements or arrangements concluded between the Member States referred to in paragraph 2 as well as drafts of such agreements or arrangements which they intend to adopt; and
-
-(c) any denunciation of, or amendments to, these agreements or arrangements.
+**3.** Member States shall send to the Commission:(a) by 1 July 2003, a copy of the agreements or arrangements maintained between the Member States referred to in paragraph 2;(b) a copy of the agreements or arrangements concluded between the Member States referred to in paragraph 2 as well as drafts of such agreements or arrangements which they intend to adopt; and(c) any denunciation of, or amendments to, these agreements or arrangements.
 
 <a id="art_22"></a>
 
@@ -319,9 +267,3 @@ No later than 1 January 2007, and every five years thereafter, the Commission sh
 **1.** This Regulation shall enter into force on 1 July 2001.
 
 **2.** This Regulation shall apply from 1 January 2004, except for Articles 19, 21 and 22, which shall apply from 1 July 2001.
-
-<a id="annex"></a>
-
-### ANNEX
-
-

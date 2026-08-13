@@ -2,7 +2,6 @@
   "lex_work_id": "eu-eurlex:32012r1215",
   "schema": "lex-articles/1",
   "profiles": [
-    "fmx4-eu/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
@@ -13,12 +12,6 @@
         "valid_to": "2015-02-25",
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "in_version": "eu-eurlex:32012r1215:2015-01-10"
-      },
-      {
-        "valid_from": "2015-02-26",
-        "valid_to": null,
-        "text_sha256": "14c3f394eab02d1eccf852b2651739cf4c062c9bac9d46683b5c5f3e61e263c2",
-        "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
     "anx_ii": [
@@ -27,12 +20,6 @@
         "valid_to": "2015-02-25",
         "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
         "in_version": "eu-eurlex:32012r1215:2015-01-10"
-      },
-      {
-        "valid_from": "2015-02-26",
-        "valid_to": null,
-        "text_sha256": "2bc6fa81f980d67a7cbe9dfea8e6cad1cffef6652d88ed5741e8b57748432a71",
-        "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
     "anx_iii": [
@@ -41,12 +28,6 @@
         "valid_to": "2015-02-25",
         "text_sha256": "cc021ba787e13cbd8cf189ce7926c1c2154e90c405cc55f1bb1437db0013cbd7",
         "in_version": "eu-eurlex:32012r1215:2015-01-10"
-      },
-      {
-        "valid_from": "2015-02-26",
-        "valid_to": null,
-        "text_sha256": "5f3469afd41bbca97c2b8ef58643c7bdd7c3d2e62beadd8ee7457d1bf886ce1a",
-        "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
     "art_1": [
@@ -65,7 +46,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "ef1714054d9cc92d908299439d84985da79411b1fc1318d8415cd432ec7c73d8",
+        "text_sha256": "c9150339935c8ceeacd45277498aa0de354b28cf108785d6652d3d5143f4a5ce",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -99,7 +80,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "bf777323615ce58a5070b96d9cfa6c3ad54d0eb87b776000c9c5d7ab7bbeaed4",
+        "text_sha256": "79ea74f579de62ea99d13777f022c137b7e6a4d4b7365de26f8c0114b61534af",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -187,7 +168,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "76d84673577e9786f7d9a178cf7ee99de20dd77797e038887ef7613701af5141",
+        "text_sha256": "e367de393c5cedeaa782de9ed71a91b44fb0a778d9316d5b494acd3868ccfca5",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -207,7 +188,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "31aa51c4ce061c6aed8b1dc4d016591701cac40cb783d2dafb3ef758de8fdfa2",
+        "text_sha256": "4a16503b6238161faf760a578db45a4b069757ea2b989439ba404312a1b7ec55",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -301,7 +282,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "b9114c20ae2978087498bea22f007273eab16bb60d370b9e45c1922f6cad903e",
+        "text_sha256": "93f046fa296e3c82c1e849bcb040b3e2213e3a17c6b8caf0c309103680730459",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -375,7 +356,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "cae442b85ac7c318bef665ba7118bf5dfef2a88b9782e9703cee14df2abdb960",
+        "text_sha256": "18a45762f6f6b9254d7c6787c7f0273ea46ab979b8d6efdbdc5a5288d9942fc8",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -429,7 +410,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "4e3691a182f1a474f1bc72677e6f3e8623796251d6a932b9be288d427b4bb700",
+        "text_sha256": "a4faf0ea98d6a112d56bc06f379bccc71f1522ce045756d6abe230c41bec7ac2",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -523,7 +504,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "c0f4d8ea780ae787bec978f8332d064dfc550c5cae7a23a21f118012fe6937d0",
+        "text_sha256": "d100bd37e2904bb7313cd122f4d68a097d5957ed9b45e42262a24a6c1e271ebc",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -543,7 +524,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "452f7f96e8de82c129d1a1f852f4b1c59637f4d175df816f2ff0e4e5030ae1ca",
+        "text_sha256": "f0fb71d34a8193cbbaf461f607195bb22675b85e1dcdb363215aed25d4f307f1",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -563,7 +544,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "9492873caf7ff7fc98aab2152eccd16319ac9eccd6c9dd04a5edbcfabab9da9f",
+        "text_sha256": "005710bcc975974a1aa0562919f03ff186ccb5d8de21ca333c3a742f7521689e",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -617,7 +598,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "9f0e15cee776dc317e2d84c1846666b40b42e77dc70cef7008bfe17efa4e6eb4",
+        "text_sha256": "3a4e8a2e20da3c37b7b67d84f32b727444591e9bf702c3f4c70142848fc09456",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -719,7 +700,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "0cfbce8d595e75d645251462fd31c6b373c8096a0990013b9fb4e6196579050d",
+        "text_sha256": "f4302f94bffb82667c38bb6f5c3d98ee640ce3cb7febf531fd92fd8dd9ddfd68",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -739,7 +720,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "f3af33ed570ce3e46934f56d4e9a95f9f8fd9429812cde04c3a2446ff480a7bc",
+        "text_sha256": "3313d4420c7546b61a7354244353c4165c30274bdbd3d72db5d43035c55a3977",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -759,7 +740,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "9e0c4c3a5fb43ef806b429cb4ba84eb53646d6a05deda46791289bf813d304ea",
+        "text_sha256": "04962421b0e39a87b2b5fbcd694a2b8ea47034a28ade07b3ef961492248b05da",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -779,7 +760,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "5575b53bf5654f67313c5844ff747e66f7cf22c6b52e98d67dc50482bd2feff6",
+        "text_sha256": "5d4544ffff89173218a9c07adf4867163dc9cfd89fffa1a7baaad389334bbc71",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1119,7 +1100,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "4f4b19b4ca7fb774d9ce6db991d019d2d82d92419409af805264f4c56dab68aa",
+        "text_sha256": "463a3039abaf63961bb2d66893b736edef33333bbc1184e6c8fe0de187bfec02",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1153,7 +1134,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "7ded1e42db699f94494b6a02c10965de554b49963cee660a4592d67957efea49",
+        "text_sha256": "cd89820624e63a90c4fd8b91bdec5d81db924d22d7ab8912632ea5b64590a4ec",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1241,7 +1222,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "d75f6365e5662cdb1c07f21b58d29dbfcff033f8cba7ce05cbcd693ef05a4836",
+        "text_sha256": "37037c16f4be1a33e5c861bad363b36d96e8950a66da20c3aa3d28bcf4a95c78",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1281,7 +1262,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "d5f93a91f19148729da559bf26f20b06590a13fb7697336e9cefc055c3f7840e",
+        "text_sha256": "c1279340a51ac59a2538f03b68e5c23c71cbdda9aa1af0c5ee664c98e01830ce",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1295,7 +1276,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "1965d5c9265bd84b14e6ac04904dfb3050ce5f83db37d136eb15f4c173887a54",
+        "text_sha256": "1b6cdf980209cfd699a37e52dce50943a1ef31be16cc23baa7a083015d2613bb",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1413,7 +1394,7 @@
       {
         "valid_from": "2015-02-26",
         "valid_to": null,
-        "text_sha256": "f0d61bf63dec5b70a805c3f5c0beae234f490f9d825e2d32bfd171913bbb891e",
+        "text_sha256": "5a50bf7b5f3ec1ca398134b3c98c1770ae272e6d06682599a36b009a43e00d84",
         "in_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
@@ -1563,6 +1544,21 @@
       "type": "inserted",
       "anchor": "art_71d",
       "at_version": "eu-eurlex:32012r1215:2015-01-10"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_i",
+      "at_version": "eu-eurlex:32012r1215:2015-02-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_ii",
+      "at_version": "eu-eurlex:32012r1215:2015-02-26"
+    },
+    {
+      "type": "removed",
+      "anchor": "anx_iii",
+      "at_version": "eu-eurlex:32012r1215:2015-02-26"
     }
   ],
   "anchors_by_language": {
@@ -1573,12 +1569,6 @@
           "valid_to": "2015-02-25",
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "14c3f394eab02d1eccf852b2651739cf4c062c9bac9d46683b5c5f3e61e263c2",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "anx_ii": [
@@ -1587,12 +1577,6 @@
           "valid_to": "2015-02-25",
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "2bc6fa81f980d67a7cbe9dfea8e6cad1cffef6652d88ed5741e8b57748432a71",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "anx_iii": [
@@ -1601,12 +1585,6 @@
           "valid_to": "2015-02-25",
           "text_sha256": "cc021ba787e13cbd8cf189ce7926c1c2154e90c405cc55f1bb1437db0013cbd7",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "5f3469afd41bbca97c2b8ef58643c7bdd7c3d2e62beadd8ee7457d1bf886ce1a",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "art_1": [
@@ -1625,7 +1603,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "ef1714054d9cc92d908299439d84985da79411b1fc1318d8415cd432ec7c73d8",
+          "text_sha256": "c9150339935c8ceeacd45277498aa0de354b28cf108785d6652d3d5143f4a5ce",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -1659,7 +1637,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "bf777323615ce58a5070b96d9cfa6c3ad54d0eb87b776000c9c5d7ab7bbeaed4",
+          "text_sha256": "79ea74f579de62ea99d13777f022c137b7e6a4d4b7365de26f8c0114b61534af",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -1747,7 +1725,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "76d84673577e9786f7d9a178cf7ee99de20dd77797e038887ef7613701af5141",
+          "text_sha256": "e367de393c5cedeaa782de9ed71a91b44fb0a778d9316d5b494acd3868ccfca5",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -1767,7 +1745,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "31aa51c4ce061c6aed8b1dc4d016591701cac40cb783d2dafb3ef758de8fdfa2",
+          "text_sha256": "4a16503b6238161faf760a578db45a4b069757ea2b989439ba404312a1b7ec55",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -1861,7 +1839,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "b9114c20ae2978087498bea22f007273eab16bb60d370b9e45c1922f6cad903e",
+          "text_sha256": "93f046fa296e3c82c1e849bcb040b3e2213e3a17c6b8caf0c309103680730459",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -1935,7 +1913,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "cae442b85ac7c318bef665ba7118bf5dfef2a88b9782e9703cee14df2abdb960",
+          "text_sha256": "18a45762f6f6b9254d7c6787c7f0273ea46ab979b8d6efdbdc5a5288d9942fc8",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -1989,7 +1967,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "4e3691a182f1a474f1bc72677e6f3e8623796251d6a932b9be288d427b4bb700",
+          "text_sha256": "a4faf0ea98d6a112d56bc06f379bccc71f1522ce045756d6abe230c41bec7ac2",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2083,7 +2061,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "c0f4d8ea780ae787bec978f8332d064dfc550c5cae7a23a21f118012fe6937d0",
+          "text_sha256": "d100bd37e2904bb7313cd122f4d68a097d5957ed9b45e42262a24a6c1e271ebc",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2103,7 +2081,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "452f7f96e8de82c129d1a1f852f4b1c59637f4d175df816f2ff0e4e5030ae1ca",
+          "text_sha256": "f0fb71d34a8193cbbaf461f607195bb22675b85e1dcdb363215aed25d4f307f1",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2123,7 +2101,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "9492873caf7ff7fc98aab2152eccd16319ac9eccd6c9dd04a5edbcfabab9da9f",
+          "text_sha256": "005710bcc975974a1aa0562919f03ff186ccb5d8de21ca333c3a742f7521689e",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2177,7 +2155,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "9f0e15cee776dc317e2d84c1846666b40b42e77dc70cef7008bfe17efa4e6eb4",
+          "text_sha256": "3a4e8a2e20da3c37b7b67d84f32b727444591e9bf702c3f4c70142848fc09456",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2279,7 +2257,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "0cfbce8d595e75d645251462fd31c6b373c8096a0990013b9fb4e6196579050d",
+          "text_sha256": "f4302f94bffb82667c38bb6f5c3d98ee640ce3cb7febf531fd92fd8dd9ddfd68",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2299,7 +2277,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "f3af33ed570ce3e46934f56d4e9a95f9f8fd9429812cde04c3a2446ff480a7bc",
+          "text_sha256": "3313d4420c7546b61a7354244353c4165c30274bdbd3d72db5d43035c55a3977",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2319,7 +2297,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "9e0c4c3a5fb43ef806b429cb4ba84eb53646d6a05deda46791289bf813d304ea",
+          "text_sha256": "04962421b0e39a87b2b5fbcd694a2b8ea47034a28ade07b3ef961492248b05da",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2339,7 +2317,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "5575b53bf5654f67313c5844ff747e66f7cf22c6b52e98d67dc50482bd2feff6",
+          "text_sha256": "5d4544ffff89173218a9c07adf4867163dc9cfd89fffa1a7baaad389334bbc71",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2679,7 +2657,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "4f4b19b4ca7fb774d9ce6db991d019d2d82d92419409af805264f4c56dab68aa",
+          "text_sha256": "463a3039abaf63961bb2d66893b736edef33333bbc1184e6c8fe0de187bfec02",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2713,7 +2691,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "7ded1e42db699f94494b6a02c10965de554b49963cee660a4592d67957efea49",
+          "text_sha256": "cd89820624e63a90c4fd8b91bdec5d81db924d22d7ab8912632ea5b64590a4ec",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2801,7 +2779,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "d75f6365e5662cdb1c07f21b58d29dbfcff033f8cba7ce05cbcd693ef05a4836",
+          "text_sha256": "37037c16f4be1a33e5c861bad363b36d96e8950a66da20c3aa3d28bcf4a95c78",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2841,7 +2819,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "d5f93a91f19148729da559bf26f20b06590a13fb7697336e9cefc055c3f7840e",
+          "text_sha256": "c1279340a51ac59a2538f03b68e5c23c71cbdda9aa1af0c5ee664c98e01830ce",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2855,7 +2833,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "1965d5c9265bd84b14e6ac04904dfb3050ce5f83db37d136eb15f4c173887a54",
+          "text_sha256": "1b6cdf980209cfd699a37e52dce50943a1ef31be16cc23baa7a083015d2613bb",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -2973,7 +2951,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "f0d61bf63dec5b70a805c3f5c0beae234f490f9d825e2d32bfd171913bbb891e",
+          "text_sha256": "5a50bf7b5f3ec1ca398134b3c98c1770ae272e6d06682599a36b009a43e00d84",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3092,29 +3070,17 @@
       "annexe_i": [
         {
           "valid_from": "2015-01-10",
-          "valid_to": "2015-02-25",
+          "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "386e21a118db64b6586c41ca816c1df126f8861f3181ba5cc6e482c70e61ea95",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "annexe_ii": [
         {
           "valid_from": "2015-01-10",
-          "valid_to": "2015-02-25",
+          "valid_to": null,
           "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "164f4d0792d17fb4b84450fcbd428dc9a858f4b5e2cd38764136fac200814e6c",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "annexe_iii": [
@@ -3127,7 +3093,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "5dbd9cf5b1f9f71a1cc49308cd75496c2aa26c4367120338ae911f8a1e6cf124",
+          "text_sha256": "5dc6c2b25e6b947efe95aa020078e59918b586436cb872132f0f581a331489a8",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3169,7 +3135,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "7c44aa375fded959f13d9784c62cc972bfe9769ef55eee5b9f24188311da7158",
+          "text_sha256": "080d2927fcdf7961696f9d3da1441f68733510fc8e47900c517f212ee2a71d04",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3257,7 +3223,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "d4153663fcf99cb267cb9f831dcb8996564d5f4b69e067cd9db11d9e9190789f",
+          "text_sha256": "8734cc923ed59a22705e5fff2fae1503cddcc7bbbdc3a16aa3124c8c659ee95f",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3277,7 +3243,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "60233ba9c32b045d29c82b200f04a535e79c67f0fb8877de4f34bf19ff8265a4",
+          "text_sha256": "779480fabb6d29370386defe2dc9dbfb20e5d3fcb7ce59d6246d13f46bf6a16c",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3371,7 +3337,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "e770e0e11622f3489a9231c6d74a1f16b911a6d2d84aaeb8cc522293341dbe89",
+          "text_sha256": "4bfcea03c62706a5bd7bd6a9467c5531cba1e6398b2408c16cbdb031464e106c",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3445,7 +3411,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "3381841089f5797e4dff8096f07036ca304c70aba941c58d381b4ab65eea83ad",
+          "text_sha256": "a2d9bda18066feef558284e9d7be19eda91905fdd09961711b8a1b549784ee6d",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3499,7 +3465,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "5aeb9db1af014c10555f208a89194d0d61f39058966b71d3b36744fe2f5e77a0",
+          "text_sha256": "16b9b18f27cf1594087a84acab852e08d64dc2ae5d311eb056f9383bc62aca48",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3593,7 +3559,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "c87f5fb2f3b2c57074005c37b935474fcc552e19d2c1e7634f53d2acd8748ba0",
+          "text_sha256": "f65ef6864fce0836a9e06b25db579a0ff79b3934902a5a83040ee61edaa6de5d",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3613,7 +3579,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "5173fc7eb48679aebfeeafec0ebe1d48970fd6edc628690a580fda0f5581dfd6",
+          "text_sha256": "e1a22bc1b4087854aa9fe78c3c75dfea26b0c8de6e8f4c5d19acb106d63b5b38",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3633,7 +3599,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "e87dc43e8c6453fc396f87c7080bf608f68d7d93309869a5678841ff0502ad11",
+          "text_sha256": "a2fecccb6235f95270551cc9da02ab8c6861cca17af907ee9e86535ee2f1cd25",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3687,7 +3653,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "232b11678d52ea31145aa6ba0fcfee982adc9e216a4867ad182a13556014a825",
+          "text_sha256": "64f6b4ce151c17a54c0d3b0bc5316260fac427f960af05cfeb7f9a85f7923bdc",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3789,7 +3755,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "78b18168fe4e62f955581b88a1b80968a6bfd9d2bbc5752bf61b4c9257a5635f",
+          "text_sha256": "cf4937ae8df34e63ca8ae26d2bbb913f81dcce3d510458f623f1e43758daafe4",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3809,7 +3775,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "1df321b53a050d56a7850d931c4add2035fb2398708c625879c3d74ff12c1e38",
+          "text_sha256": "6c9c301dcd43b055ebc81db299ef74804dc3ccf44d40a4aebbd9b852283d3872",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3829,7 +3795,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "92b5bc49c38a723d8b22a10453b8362a20fe3e7980d489d5e7e860db4824889c",
+          "text_sha256": "a16b08e0261e8c15cbf60be85d042e286ede2b88445acf9bc6bd39a7ea77c325",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -3849,7 +3815,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "4d84411c9f088e3e6d935a0caf6619c462a95817c575dd1a3f8e29e059ea382a",
+          "text_sha256": "94ed5d739795b8618c3746897d38e4e3bf4b51a422487b2a87bd647081229104",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4189,7 +4155,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "022a78b2664e0a70b9b50ea99949472b26157293cc01ddc58b97991255e75654",
+          "text_sha256": "9d9185c0c46c9e8dcdcb2b2534ace661b9a92e65d3b6365ca62099c3f5cfda90",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4223,7 +4189,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "f52a4c6ab01892200a358dc70ce01558abdde1ac58be8f229f493148d5a5b64c",
+          "text_sha256": "fd228b9fc3801d879b26efa78afbdd5448a987b263fa6d406e1d44eb740fbd6f",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4243,7 +4209,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "9995007b04aefffa9ccd682a985f1b0af04be96b9327202e742911b4b3ff0f25",
+          "text_sha256": "5e4b08a193f80e32da411872c1ff0e8f5d49b55b4cbdd66933a9b2e366756296",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4311,7 +4277,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "38d31391364f42941f27121296ab1f8dcea1818e5b088bd0f4e415c0694bd107",
+          "text_sha256": "c3b1196151ffb901b40937766d8d949a6d77f4bb8bb3600a046858ee95eca11f",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4331,7 +4297,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "58388452b0bffd48ec71c3a614669da25d16231503b9826cca8ca8bed61b1c76",
+          "text_sha256": "3444f9fdcc045b77cdb70c899bb28a602e40fbd4d5bda6ba7e9ff79eaae87c58",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4351,7 +4317,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "985311590a47d17c21c70c895d02c1dd89bd08109ec470a5d1ffdf4c10364197",
+          "text_sha256": "866f8fad5700841e1766ccef91fedc0c61a358f32faa8342f46d1c3fcc56a2e0",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4365,7 +4331,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "dcf77a44df7c5d343be963594f8e82b6fc48aed0749f864b5cbd829783ba3ee2",
+          "text_sha256": "c2e6ad48c4d7f128510cb2de0d8f416a88b60502f4758589230010854d35e24e",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4414,15 +4380,9 @@
         },
         {
           "valid_from": "2015-01-10",
-          "valid_to": "2015-02-25",
+          "valid_to": null,
           "text_sha256": "8d27c41840a4ddda3244b495188ef9dd28fad97d2517aca87b6577ad2e05ddee",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "dc8b386c7837cb5ace5299d6323afa936b9188d59301f50fec5652bedbf9f550",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "art_73": [
@@ -4441,7 +4401,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "c54b2a4e36a52ab959502baae84c948580c867ea8b57627d8923faaf2d74db84",
+          "text_sha256": "3e51edeab911d42c09c3944833d7b83ba60f1563696f4b7cf94f3a89b2e2e900",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4489,7 +4449,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "3dda07c9210bd7037274ba49cef44fcc1f6944ed25b4ff1052b84235499c4b0b",
+          "text_sha256": "292b228c944546349ce112f4d6920cafb21aae3de9606c9ea598b11b0515c556",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
@@ -4564,15 +4524,9 @@
         },
         {
           "valid_from": "2015-01-10",
-          "valid_to": "2015-02-25",
+          "valid_to": null,
           "text_sha256": "5c4101845b25354d3fdf02cede172a04ffd7e425e233e4b95b7fec5f26fcb46e",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "3f6bd264122f14a2452fe9763ab12656cfaa07db8a4d2b2feadc7b44f38b2f57",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "art_81": [
@@ -4584,15 +4538,9 @@
         },
         {
           "valid_from": "2015-01-10",
-          "valid_to": "2015-02-25",
+          "valid_to": null,
           "text_sha256": "8572943800a8f06b4a31754974b01add56c7d781dde468f829a65f5a4e323c85",
           "in_version": "eu-eurlex:32012r1215:2015-01-10"
-        },
-        {
-          "valid_from": "2015-02-26",
-          "valid_to": null,
-          "text_sha256": "b6bc707bf5c342348d122b200388914b053f28bb439720252c589fb917cb1a31",
-          "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ],
       "art_9": [
@@ -4619,7 +4567,7 @@
         {
           "valid_from": "2015-02-26",
           "valid_to": null,
-          "text_sha256": "32ecc2b69aa2cb9032e58b71201c35ab2a26c2d621a4b4451e104d3ccba749fc",
+          "text_sha256": "c817321596b1243e7aeaf87be0d16866746fdee34df771d2df6e7982a9881997",
           "in_version": "eu-eurlex:32012r1215:2015-02-26"
         }
       ]
@@ -4661,6 +4609,21 @@
         "type": "inserted",
         "anchor": "art_71d",
         "at_version": "eu-eurlex:32012r1215:2015-01-10"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_i",
+        "at_version": "eu-eurlex:32012r1215:2015-02-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_ii",
+        "at_version": "eu-eurlex:32012r1215:2015-02-26"
+      },
+      {
+        "type": "removed",
+        "anchor": "anx_iii",
+        "at_version": "eu-eurlex:32012r1215:2015-02-26"
       }
     ],
     "fr": [

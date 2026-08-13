@@ -8,12 +8,12 @@
   "valid_time_source": "publisher",
   "derived_from": {
     "corpus_repo": "lex-corpus-eu-eurlex",
-    "path": "works/32017r2382/versions/2022-09-07/en.fmx4/CL2017R2382EN0010010.0001.xml",
-    "sha256": "56c148e1530705d7e0f816b2501d0bb85467419553bb82ef6496b6b0528081ca",
+    "path": "works/32017r2382/versions/2022-09-07/en.xml",
+    "sha256": "872f4cb6f2be18c1acbd82eab5e756fac0431686da12a98f922a217065f881c3",
     "source_uri": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2382-20220907"
   },
   "generator": {
-    "profile": "fmx4-eu/1",
+    "profile": "xhtml-eu/1",
     "tool": "lex derive"
   },
   "license": "EU reuse-with-attribution (Commission Decision 2011/833/EU)",
@@ -28,11 +28,11 @@
       "heading": "Scope",
       "path": [],
       "article_valid_from": null,
-      "text_md": "**1.** This Regulation shall apply to investment firms and market operators operating a multilateral trading facility (MTF) or an organised trading facility (OTF).\n\n**2.** This Regulation shall also apply to credit institutions authorised under Directive 2013/36/EU which provide one or more investment services or perform investment activities under Directive 2014/65/EU, and wish to use tied agents under any of the following rights:\n\n(a) the right of freedom to provide investment services and activities in accordance with Article 34(5) of Directive 2014/65/EU;\n\n(b) the right of establishment in accordance with Article 35(7) of Directive 2014/65/EU.",
-      "text_sha256": "9408d40392769a1fe517b6a355d5acd235319267fc86170ce12717d794b8dbeb",
+      "text_md": "**1.** This Regulation shall apply to investment firms and market operators operating a multilateral trading facility (MTF) or an organised trading facility (OTF).\n\n**2.** This Regulation shall also apply to credit institutions authorised under Directive 2013/36/EU which provide one or more investment services or perform investment activities under Directive 2014/65/EU, and wish to use tied agents under any of the following rights:(a) the right of freedom to provide investment services and activities in accordance with Article 34(5) of Directive 2014/65/EU;(b) the right of establishment in accordance with Article 35(7) of Directive 2014/65/EU.",
+      "text_sha256": "c2d4e74873693e6855ab21b84df36841076b059f026274e3e40f37709c692de8",
       "md_span": {
-        "start": 811,
-        "end": 1466
+        "start": 812,
+        "end": 1463
       },
       "citations": []
     },
@@ -48,8 +48,8 @@
       "text_md": "**1.** Any notification or communication submitted under this Regulation shall be provided in an official Union language accepted by both the competent authority of the home Member State and by the competent authority of the host Member State.\n\nIt shall be submitted in paper form or, where accepted by the relevant competent authority, by electronic means.\n\n**2.** The competent authorities shall make publicly available information on the accepted language(s) and means of submission, including contact details for passport notifications.",
       "text_sha256": "e00627f586fa42b0e65447fbc76d20c983a755c6b0705c3d9cdd6f443bdd26ba",
       "md_span": {
-        "start": 1526,
-        "end": 2066
+        "start": 1523,
+        "end": 2063
       },
       "citations": []
     },
@@ -65,8 +65,8 @@
       "text_md": "**1.** An investment firm shall submit to the competent authority of the home Member State an investment services and activities passport notification pursuant to Article 34(2) or (5) of Directive 2014/65/EU the form set out in Annex I.\n\n**2.** An investment firm shall submit, for each Member State in which it intends to operate, a separate investment services and activities passport notification to the competent authority of the home Member State pursuant to paragraph 1.\n\n**3.** An investment firm or a credit institution referred to in Article 1(2)(a) wishing to provide investment services or activities through a tied agent established in the home Member State shall submit an investment services and activities passport notification to the competent authority of the home Member State, by filling in only those parts relevant to the tied agent in the form set out in Annex I.",
       "text_sha256": "6b62c2af35de086a14d36a853bc0e33db5e8587d7c78c551481e97423ae39274",
       "md_span": {
-        "start": 2180,
-        "end": 3065
+        "start": 2177,
+        "end": 3062
       },
       "citations": []
     },
@@ -82,8 +82,8 @@
       "text_md": "**1.** On receipt of an investment services and activities passport notification pursuant to Article 3, the competent authority of the home Member State shall assess the completeness and accuracy of the information provided.\n\n**2.** Where the information provided is found to be incomplete or incorrect, the competent authority of the home Member State shall, without undue delay, inform the investment firm or credit institution referred to in Article 1(2)(a) thereof. The competent authority of the home Member State shall indicate in which particular respect the information has been found to be incomplete or incorrect.\n\n**3.** The 1-month period referred to in Article 34(3) and in the second subparagraph of Article 34(5) of Directive 2014/65/EU shall begin upon receipt of an investment services and activities passport notification containing information that is found to be complete and correct.",
       "text_sha256": "0ee9935187327349ea89494aacf689715b94b1e821473ea2dc269e56d273d465",
       "md_span": {
-        "start": 3208,
-        "end": 4112
+        "start": 3205,
+        "end": 4109
       },
       "citations": []
     },
@@ -99,8 +99,8 @@
       "text_md": "**1.** The competent authority of the home Member State shall, within 1 month of receiving a notification pursuant to Article 3, inform the competent authority of the host Member State of that notification, using the form set out in Annex II, together with a copy of the notification.\n\n**2.** The competent authority of the home Member State shall, without undue delay, inform the investment firm or the credit institution referred to in Article 1(2)(a) about the onward communication pursuant to paragraph 1, including the date of that communication.",
       "text_sha256": "4899e7fb1eecc15942329f8079d55e2cd3e820e629dc5d3fa5de123e8493d138",
       "md_span": {
-        "start": 4236,
-        "end": 4787
+        "start": 4233,
+        "end": 4784
       },
       "citations": []
     },
@@ -116,8 +116,8 @@
       "text_md": "**1.** In the event of a change in any of the particulars of an investment services and activities passport notification, the investment firm or credit institution referred to in Article 1(2)(a) shall submit a notification to the competent authority of the home Member State using the form set out in Annex I.\n\n**2.** For the purposes of the notification pursuant to paragraph 1 of this Article, the investment firm or credit institution referred to in Article 1(2)(a) shall complete only those parts of the form set out in Annex I relevant to the changes in the particulars of the investment services and activities passport notification.\n\n**3.** For the purposes of the notification of changes related to the investment services, activities, ancillary services or financial instruments provided, the investment firm or credit institution referred to in Article 1(2)(a) shall list all the investment services, activities, ancillary services or financial instruments that it provides at the time of the notification, or intends to provide in the future.",
       "text_sha256": "6e90099124113163c9f88ed104138fe1d3d94f6fe9f6a9f997f14df0b680326a",
       "md_span": {
-        "start": 4914,
-        "end": 5967
+        "start": 4911,
+        "end": 5964
       },
       "citations": []
     },
@@ -133,8 +133,8 @@
       "text_md": "**1.** After receiving a notification pursuant to Article 6, the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex III, together with a copy of the notification pursuant to Article 6.\n\n**2.** In the event that the authorisation of an investment firm or credit institution is withdrawn or cancelled, the competent authority of the home Member State shall notify the competent authority of the host Member State, using the form set out in Annex III.",
       "text_sha256": "cab36c424ef9210599c2d2efe37935b75a1f0f28224e8ac21a790837bbdd4d07",
       "md_span": {
-        "start": 6104,
-        "end": 6692
+        "start": 6101,
+        "end": 6689
       },
       "citations": []
     },
@@ -150,8 +150,8 @@
       "text_md": "An investment firm or a market operator operating an MTF or OTF that intends to provide, within the territory of another host Member State, appropriate arrangements to facilitate access to and trading on those systems by remote users, members or participants established in that host Member State shall notify to the competent authority of the home Member State the details of the host Member State in which it intends to provide such arrangements, using the form set out in Annex IV.",
       "text_sha256": "1c4ab81fd2666df52064040806811904675a19a16b8639807b6939dc062ca770",
       "md_span": {
-        "start": 6837,
-        "end": 7321
+        "start": 6834,
+        "end": 7318
       },
       "citations": []
     },
@@ -167,8 +167,8 @@
       "text_md": "**1.** The competent authority of the home Member State shall, within 1 month of receiving the notification pursuant to Article 8, inform the competent authority of the host Member State of that notification, using the form set out in Annex V, together with a copy of the notification.\n\n**2.** The competent authority of the home Member State shall, without undue delay, inform the investment firm or the market operator operating an MTF or an OTF about the onward communication pursuant to paragraph 1, including the date of that communication.",
       "text_sha256": "6536c21a312810354246696c219b96a101670c09fa8461d08a5a9c66cbdb564e",
       "md_span": {
-        "start": 7476,
-        "end": 8021
+        "start": 7473,
+        "end": 8018
       },
       "citations": []
     },
@@ -184,8 +184,8 @@
       "text_md": "**1.** In case of a change in any of the particulars of a notification for the provision of arrangements to facilitate access to an MTF or an OTF, the investment firm or the market operator operating an MTF or an OTF shall submit a notification to the competent authority of the home Member State using the form set out in Annex IV.\n\n**2.** For the purposes of the notification pursuant to paragraph 1, the investment firm or the market operator operating an MTF or an OTF shall complete only those parts of the form set out in Annex IV relevant to the changes in the particulars of the notification for the provision of arrangements to facilitate access to an MTF or an OTF.",
       "text_sha256": "65eb343820a9bcb47141ca36d6cd937237eb4d4c0944b79a1075c3543309a077",
       "md_span": {
-        "start": 8190,
-        "end": 8865
+        "start": 8187,
+        "end": 8862
       },
       "citations": []
     },
@@ -201,8 +201,8 @@
       "text_md": "After receiving a notification pursuant to Article 10(1), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex III, together with a copy of the notification.",
       "text_sha256": "9c5733c3aa1e71e95c7bf812eae5f3d62ecbaf0de935b93bce3eda0f2a0e0a1e",
       "md_span": {
-        "start": 9044,
-        "end": 9343
+        "start": 9041,
+        "end": 9340
       },
       "citations": []
     },
@@ -218,8 +218,8 @@
       "text_md": "An investment firm wishing to establish a branch within the territory of another Member State shall submit to the competent authority of the home Member State the information as required by Article 35(2) of Directive 2014/65/EU, using the form set out in Annex VI.",
       "text_sha256": "92b944d1c14390f70dec581861bbe4788a60072f2d6e30c0147e12530e81f978",
       "md_span": {
-        "start": 9431,
-        "end": 9695
+        "start": 9428,
+        "end": 9692
       },
       "citations": []
     },
@@ -235,8 +235,8 @@
       "text_md": "**1.** An investment firm or a credit institution referred to in Article 1(2)(b) wishing to use a tied agent established in another Member State shall submit to the competent authority of the home Member State the information as required by Article 35(2) of Directive 2014/65/EU, using the form set out in Annex VII.\n\n**2.** Where an investment firm or credit institution referred to in Article 1(2)(b) wishes to use more than one tied agents in another Member State it shall complete a separate notification in respect of each tied agent it intends to use.\n\n**3.** An investment firm wishing to establish a branch which intends to use tied agents shall submit to the competent authority of the home Member State a separate tied agent passport notification in respect of each tied agent by completing the form set out in Annex VII.",
       "text_sha256": "fa4c2dfa3684fb8dedb7c305c36cb7bbdb143b145ee104c70014ad629897a4e2",
       "md_span": {
-        "start": 9787,
-        "end": 10618
+        "start": 9784,
+        "end": 10615
       },
       "citations": []
     },
@@ -252,8 +252,8 @@
       "text_md": "**1.** Upon receipt of a notification pursuant to Article 12 or 13, the competent authority of the home Member State shall assess the completeness and accuracy of the information provided.\n\n**2.** Where the information provided is found to be incomplete or incorrect, the competent authority of the home Member State shall, without undue delay, inform the investment firm or the credit institutions referred to in Article 1(2)(b) thereof. The competent authority of the home Member State shall indicate in which particular respect the information has been found to be incomplete or incorrect.\n\n**3.** The 3-month period provided for in Article 35(3) and in the second subparagraph of Article 35(7) of Directive 2014/65/EU shall begin upon receipt of a branch passport notification or tied agent passport notification containing information that is found to be complete and correct.",
       "text_sha256": "a63fa73748858f3fba91b10bb032569c9f883d62c8ace7fdec2e0cf098d393ec",
       "md_span": {
-        "start": 10771,
-        "end": 11652
+        "start": 10768,
+        "end": 11649
       },
       "citations": []
     },
@@ -269,8 +269,8 @@
       "text_md": "**1.** The competent authority of the home Member State shall, within 3 months of receiving the branch passport notification pursuant to Article 12, inform the competent authority of the host Member State of that notification, using the form set out in Annex VIII, together with a copy of the notification.\n\n**2.** The competent authority of the home Member State shall, without undue delay, inform the investment firm about the onward communication pursuant to paragraph 1, including the date of that communication.\n\n**3.** The competent authority of the host Member State shall acknowledge receipt of the notification both to the competent authority of the home Member State and the investment firm.",
       "text_sha256": "075faf0186c9d5afaff7dcba442664c7ff02a41a96302c6db201994e027abe70",
       "md_span": {
-        "start": 11750,
-        "end": 12451
+        "start": 11747,
+        "end": 12448
       },
       "citations": []
     },
@@ -286,8 +286,8 @@
       "text_md": "**1.** The competent authority of the home Member State shall, within 3 months of receiving the tied agent passport notification pursuant to Article 13, inform the competent authority of the host Member State of that notification, using the form set out in Annex IX, together with a copy of the notification.\n\n**2.** The competent authority of the home Member State shall, without undue delay, inform the investment firm or credit institution about the onward communication pursuant to paragraph 1, including the date of that communication.\n\n**3.** The competent authority of the host Member State shall acknowledge receipt of the notification both to the competent authority of the home Member State and the investment firm or credit institution referred to in Article 1(2)(b).\n\n**4.** The tied agent shall not commence its proposed investment services or activities before it is registered in the public register in the Member State where that tied agent is established, in accordance with Article 29(3) of Directive 2014/65/EU.\n\n**5.** The tied agent shall not commence its proposed investment services or activities before it has received the communication from the competent authority of the host Member State.\n\n**6.** Where such a communication is not made, the tied agent can commence its proposed investment services and activities 2 months after the date of submission of the communication by the competent authority of the home Member State, as referred to in paragraph 2.",
       "text_sha256": "d6610dced63eebcbe9394e9b5a62f94cc41be7543649e0127c39c4b447a78656",
       "md_span": {
-        "start": 12553,
-        "end": 14035
+        "start": 12550,
+        "end": 14032
       },
       "citations": []
     },
@@ -303,8 +303,8 @@
       "text_md": "**1.** In the event of a change in the particulars of a branch passport notification, the investment firm shall submit to the competent authority of the home Member State a notification using the form set out in Annex VI.\n\nThe investment firm or credit institution shall complete only those parts of the form set out in Annex VI relevant to the changes in the particulars of the branch passport notification.\n\n**2.** Where the investment firm or credit institution intends to make changes to the investment services, activities, ancillary services or financial instruments provided through tied agents, it shall notify, using the form set out in Annex VI, a list of all the investment services, activities, ancillary services or financial instruments that it provides through tied agents at the time of that notification or intends to provide through tied agents in the future.\n\n**3.** Changes to the particulars of a branch passport notification concerning the termination of the operation of the branch shall be notified using the form set out in Annex X.",
       "text_sha256": "32075f2c4a5ee148a5c11cdcc5756fda1efe126f4e04cdda4128785413069c34",
       "md_span": {
-        "start": 14136,
-        "end": 15193
+        "start": 14133,
+        "end": 15190
       },
       "citations": []
     },
@@ -320,8 +320,8 @@
       "text_md": "**1.** In the event of a change in any of the particulars of a tied agent passport notification, the investment firm or the credit institution referred to in Article 1(2)(b) shall submit to the competent authority of the home Member State a notification, using the form set out in Annex VII.\n\nThe investment firm or credit institution shall only complete those parts of the form set out in Annex VII relevant to the changes in the particulars of the tied agent passport notification.\n\n**2.** Where the investment firm intends to make changes to the investment services, activities, or financial instruments subject to a tied agent passport notification, it shall notify, in the form set out in Annex VI, a list of all the investment services, activities, or financial instruments that it provides through the tied agent at the time of notification or intends to provide in the future.\n\n**3.** Changes to the particulars of a tied agent passport notification concerning the cessation of the use of a tied agent established in another Member State shall be notified using the form set out in Annex X.",
       "text_sha256": "055007e3ec3e744530ea54c15838d7aaf1b7abfeefb999b21e01285c91a705db",
       "md_span": {
-        "start": 15302,
-        "end": 16400
+        "start": 15299,
+        "end": 16397
       },
       "citations": []
     },
@@ -337,8 +337,8 @@
       "text_md": "**1.** After receiving a notification pursuant to Article 17(1), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XI, together with a copy of the notification.\n\n**2.** After receiving a notification pursuant to Article 17(3), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XIII, together with a copy of the notification.",
       "text_sha256": "75b24332fd7527a3ad1176bbdf71083b55658204409adbc2601149a29ea83ad2",
       "md_span": {
-        "start": 16511,
-        "end": 17125
+        "start": 16508,
+        "end": 17122
       },
       "citations": []
     },
@@ -354,8 +354,8 @@
       "text_md": "**1.** After receiving a notification pursuant to Article 18(1), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XII, together with a copy of the notification.\n\n**2.** After receiving a notification pursuant to Article 18(3), the competent authority of the home Member State shall, without undue delay, communicate the notified changes to the competent authority of the host Member State, using the form set out in Annex XIII, together with a copy of the notification.",
       "text_sha256": "cb9cb9c97295f54a546b8d71c871d4d8da1ccfff408e8ecf8a5c233d58707525",
       "md_span": {
-        "start": 17240,
-        "end": 17855
+        "start": 17237,
+        "end": 17852
       },
       "citations": []
     },
@@ -371,234 +371,13 @@
       "text_md": "This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.\n\nIt shall apply from 3 January 2018.",
       "text_sha256": "05d19833afae7e84e62fec80121e7d812fe479b77eceed4d2938744c78509308",
       "md_span": {
-        "start": 17929,
-        "end": 18098
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_i",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_i",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX I",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the investment services and activities passport notification and the change ofinvestment services and activities particulars notification (1)\n\n(Articles 3 and 6 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nPart 1 — Contact Information\n\nType of notification:\n\nInvestment services and activities passport notification/change of investment services and activities particulars notification\n\nMember State in which the investment firm/credit institution intends to operate:\n\nName of investment firm/credit institution:\n\nTrading name\n\nAddress:\n\nTelephone number:\n\nEmail:\n\nName of the contact person at the investment firm/credit institution:\n\nHome Member State\n\nAuthorisation Status:\n\nAuthorised by [Home Member State Competent Authority]\n\nAuthorisation Date:\n\nPart 2 — Programme of operations\n\nIntended investment services, activities and ancillary services (*)\n\nInvestment services and activities\n\nAncillary services\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nFinancial Instruments\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Please place an (x) in the appropriate boxes.\n\n(1) For the purposes of a change of investment services and activities particulars notification please complete only the parts of the form which are relevant to the notified changes. If the intention is to make changes to the investment services, activities, ancillary services or financial instruments, please list all the investment services, activities, ancillary services or financial instruments the firm will provide.\n\nDetails of Tied Agent located in the home Member State (*)\n\nName of thetied agent\n\nAddress\n\nTelephone\n\nEmail\n\nContact\n\n(*) Please provide separate matrices with the intended investment services for each tied agent the investment firm intends to use.\n\nIntended investment services to be provided by the tied agent (*)\n\nInvestment services and activities\n\nAncillary services\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nFinancial Instruments\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Please place an (x) in the appropriate box(es). If you intend to make changes to the investment services, activities or financial instruments provided by the tied agent, please list all investment services, activities or financial instruments the tied agent will provide.",
-      "text_sha256": "30c979de4abf58a70f01285ec4993c1336906a163c8583a37c515d74d13d3182",
-      "md_span": {
-        "start": 18133,
-        "end": 20482
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_ii",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_ii",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX II",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication regarding an investment services and activities passportnotification by the competent authority of the home Member State to the competent authorityof the host Member State\n\n(Article 5 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 34(3) of Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 34(3) of the Directive 2014/65/EU, we wish to inform you that [Name of firm], (1) an investment firm authorised by [name of the competent authority of the home Member State], intends to provide the investment services and/or investment activities as well as ancillary services listed in the attached passport notification for the first time in the exercise of the right of freedom to provide investment services or activities; or (2) a credit institution authorised by [name of the competent authority of the home Member State] intends to provide, through the use of a tied agent, the investment services or activities listed in the attached passport notification for the first time, in the exercise of the right of freedom to provide investment services and activities.\n\nIf you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend as appropriate.",
-      "text_sha256": "846d66568cb3af660d1bd75eb59cacad6f624f94d64d4e6e44f176d4cbe461a8",
-      "md_span": {
-        "start": 20519,
-        "end": 22077
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_iii",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_iii",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX III",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication of a change in the particulars of an investment services and activitiespassport notification or in a notification for the provision of arrangements to facilitate access to an MTF or OTF by the competent authority of the home Member State to the competent authority of the host Member State\n\n(Articles 7 and 8 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 34(4) or Article 34(7) of Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 34(4) of the Directive 2014/65/EU, we wish to inform you that [Name of firm], an investment firm/credit institution/market operator authorised/supervised by [name of the competent authority of the home Member State], has:\n\n(a) amended the investment services and activities/ancillary services/financial instruments that intends to carry on in your territory on a cross-border basis\n\n(b) changed its name from [old name] to [new name] with effect [date of change]\n\n(c) moved to the following address with effect [date of change]\n\n(d) changed its other contact information to as follows [add any changes made to the contact information of Part 1 in Annex I] with effect [date of change]\n\n(e) engaged an additional in [name of the home Member State] registered tied agent in providing its investment services and activities in your territory on a cross-border basis\n\n(f) amended the arrangements provided in [name of the host Member State] in order to facilitate the access to and trading of the [name of the MTF or OTF]\n\n(g) ceased to provide investment services and/or perform investment activities due to the withdrawal/cancellation of its authorisation with effect [date of withdrawal/cancellation].\n\nPlease find attached a copy of the change of [investment services and activities particulars notification/particulars for the provision of arrangements to facilitate access to an MTF or OTF notification] with the relevant changes. If you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend as appropriate in accordance with the changes to be notified.",
-      "text_sha256": "412c99bb5756f0d1e0aa6f8248a9c4ee72822ceedeb1cd4319cc610fd75f5536",
-      "md_span": {
-        "start": 22116,
-        "end": 24523
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_iv",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_iv",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX IV",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the notification for the provision of arrangements to facilitate access to an MTF or OTF\n\n(Articles 8 and 10 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nPart 1 — Contact Information:\n\nType of notification:\n\nProvision of arrangements to facilitate access to an MTF/OTF/changes to the particulars of the notification for the provision of arrangements to facilitate access to an MTF/OTF\n\nMember State(s) in which the investment firm/market operator intends to provide arrangements:\n\nName of investment firm/market operator:\n\nAddress:\n\nTelephone number:\n\nEmail:\n\nName of the contact person at the investment firm/market operator:\n\nHome Member State\n\nAuthorisation Status (of the investment firm)/Applicable Law (of the market operator):\n\nAuthorised/Licensed/Supervised by [Home Member State Competent Authority]\n\nAuthorisation Date (for investment firms):\n\nName of the MTF/OTF:\n\nDate from which the arrangements will be provided:\n\nWith immediate effect\n\nPart 2 — Description of [name of the MTF/OTF] business model:\n\n[Please include at least the following information]\n\nType of traded financial instruments:\n\n[to be completed by investment firm/market operator]\n\nType of trading participants:\n\n[to be completed by investment firm/market operator]\n\nType of appropriate arrangements:\n\n[to be completed by investment firm/market operator]\n\nMarketing:\n\n[to be completed by investment firm/market operator]",
-      "text_sha256": "0be494db18923ad29cc5b18c0c285675247c4044310f00f0a802629a203e456c",
-      "md_span": {
-        "start": 24560,
-        "end": 26003
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_v",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_v",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX V",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication regarding a notification for the provision of arrangements tofacilitate access to an MTF or OTF by the competent authority of the home Member State to the competent authority of the host Member State\n\n(Article 9 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 34(7) of the Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 34(7) of the Directive 2014/65/EU, we wish to inform you that the [name of the Market Operator/Investment Firm] which operates the [name of the MTF or OTF] under the [name of the applicable national law] in [name of the home Member State], intends to provide arrangements in [name of the Member State in which intends to provide arrangements] in order to facilitate access to and trading on [name of the MTF/OTF] by remote users, members or participants established in [name of the Member State in which intends to provide arrangements], according to the attached notification.\n\nIf you have any queries, do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend accordingly.",
-      "text_sha256": "8b79e08a677dc44b1f8ec127bfe2e7a7a40063319905d78e241194fd9286f891",
-      "md_span": {
-        "start": 26038,
-        "end": 27425
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_vi",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_vi",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX VI",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the branch passport notification and change of branch particulars notification (1)\n\n(Articles 12, 17 and 19 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nPart 1 — Contact Information\n\nType of notification:\n\nBranch passport notification/change of branch particulars notification\n\nMember State in which the investment firm intends to establish a branch (2):\n\nName of the investment firm:\n\nAddress of the investment firm:\n\nTelephone number of the investment firm:\n\nEmail of the investment firm:\n\nName of the contact person at the investment firm:\n\nName of the branch:\n\nAddress of the branch:\n\nTelephone number of the branch:\n\nEmail of the branch:\n\nName(s) of those responsible for the management of the branch:\n\nHome Member State:\n\nAuthorisation Status:\n\nAuthorised by [Home Member State Competent Authority]\n\nAuthorisation Date:\n\n(1) For the purposes of a changes of branch particulars notification please complete only the parts of the forms which are relevant to the notified changes. When the investment firm intends to make changes to the investment services, activities, ancillary services or financial instruments provided by the branch, the firm shall list all investment services, activities ancillary services or financial instruments the branch will provide.\n\n(2) Please note that national corporate law may require the previous registration to a commercial registry prior to the commencement of operations by the branch.\n\nPart 2 — Programme of operations\n\nIntended investment services, activities and ancillary services provided by the branch (*)\n\nInvestment Services and activities\n\nAncillary services\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nFinancial Instruments\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Please place an (x) in the appropriate box(es).\n\nBusiness Plan and structural organisation of the branch\n\nBusiness plan\n\n1. How will the branch contribute to the strategy of the firm/group?\n\n2. What will the main functions of the branch be?\n\n3. Describe the main objectives of the branch;\n\nCommercial Strategy\n\n1. Describe the types of clients/counterparties the branch will be dealing with;\n\n2. Describe how the firm will obtain and deal with these clients;\n\nOrganisational structure\n\n1. Briefly describe how the branch fits into the corporate structure of the firm/group? (This may be facilitated by attaching an organisational chart)\n\n2. Set out the organisational structure of the branch, showing functional, geographical and legal reporting lines;\n\n3. Identify who will be responsible for the branch operations on a day to day basis? Provide details of professional experience of the persons responsible for the management of the branch (Please attach CV);\n\n4. Identify who will be responsible for the internal control functions at the branch?\n\n5. Identify who will be responsible for dealing with complaints in relation to the branch?\n\n6. Explain how will the branch report to the head office?\n\n7. Detail any critical outsourcing arrangements\n\nTied Agents (*)\n\n1. Will the branch use tied agent?\n\n2. What is the identity of the tied agent?\n\nName\n\nAddress\n\nTelephone\n\nEmail\n\nContact point\n\nreference or hyperlink to the public register where the tied agent is registered\n\nSystems & Controls\n\nProvide a brief summary of arrangements for:\n\n1. safeguarding client money and assets;\n\n4. compliance with the conduct of business and other obligations that fall under the responsibility of the Competent Authority of the host Member State according to Art 35(8) and record keeping under Art 16(6);\n\n5. staff code of Conduct, including personal account dealing;\n\n6. anti-money laundering;\n\n7. monitoring and control of critical outsourcing arrangements (if applicable);\n\n8. the name, address and contact details of the accredited compensation scheme of which the investment firm is a member;\n\nFinancial forecast\n\nAttach a forecast statement for profit and loss and cash flow, both over an initial period of thirty six month period;\n\n(*) The investment firm shall submit a separate passport notification in respect of each tied agent the branch intends to use.",
-      "text_sha256": "b6da309cd9af14b5fa9c682d7bad5a3e33ee7539ff555227a074434b151394cc",
-      "md_span": {
-        "start": 27462,
-        "end": 31612
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_vii",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_vii",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX VII",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the tied agent passport notification and change of tied agent particulars notification (1)\n\n(Articles 13, 14 and 18 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nPart 1 — Contact Information\n\nType of notification:\n\nTied agent passport notification/change of tied agent particulars notification\n\nMember State in which the investment firm/credit institution intends to use a tied agent established in the host Member State(s):\n\nName of investment firm/credit institution:\n\nAddress of the investment firm/credit institution:\n\nName of the contact person at the investment firm/credit institution:\n\nTelephone number of the investment firm/credit institution\n\nEmail of the investment firm/credit institution\n\nName of the tied agent:\n\nAddress of the tied agent:\n\nTelephone number of the tied agent:\n\nEmail of the tied agent:\n\nName(s) of those responsible for the management of the tied agent:\n\nHome Member State:\n\nAuthorisation Status:\n\nAuthorised by [Home Member State Competent Authority]\n\nAuthorisation Date:\n\nReference or hyperlink to the public register where the tied agent is registered\n\n(1) For the purposes of a change in the tied agent particulars notification, please complete only the parts of the forms relevant to the notified changes. Where changes have been made to the investment services, activities or financial instruments, the firm shall list all investment services, activities or financial instruments to be provided by the tied agent.\n\nPart 2 — Programme of operations\n\nIntended investment services or activities to be provided by the tied agent (*):\n\nInvestment services and activities\n\nAncillary services\n\nA1\n\nA2\n\nA3\n\nA4\n\nA5\n\nA6\n\nA7\n\nA8\n\nA9\n\nB1\n\nB2\n\nB3\n\nB4\n\nB5\n\nB6\n\nB7\n\nFinancial Instruments\n\nC1\n\nC2\n\nC3\n\nC4\n\nC5\n\nC6\n\nC7\n\nC8\n\nC9\n\nC10\n\nC11\n\n(*) Please place an (x) in the appropriate box(es).\n\nBusiness plan and structural organisation of the tied agent\n\nBusiness plan\n\n1. Explain how the tied agent will contribute to the strategy of the firm/group.\n\n2. Describe what the main functions of the tied agent will be.\n\n3. Describe the main objectives of the tied agent.\n\nCommercial Strategy\n\n1. Describe the types of clients/counterparties the tied agent will be dealing with.\n\n2. Describe how the firm will obtain and deal with these clients.\n\nOrganisational structure\n\n1. Briefly describe how the tied agent fits into the corporate structure of the firm/group. (This may be facilitated by attaching an organisational chart)\n\n2. Set out the organisational structure of the tied agent, showing both functional and legal reporting lines.\n\n3. Identify who will be responsible for the tied agent operations on a day to day basis? Provide details of professional experience of the persons responsible for the management of the tied agent (Please attach CV).\n\n4. Identify who will be responsible for the internal control functions at the tied agent.\n\n5. Identify who will be responsible for dealing with complaints in relation to the tied agent.\n\n6. Identify how will the tied agent report to the head office.\n\n7. Detail any critical outsourcing arrangements.\n\nSystems & Controls\n\nProvide a brief summary of arrangements for:\n\n1. safeguarding client money and assets (where applicable);\n\n2. compliance with the conduct of business and other obligations that fall under the responsibility of the Competent Authority of the host Member State according to Article 35(8) and record keeping under Article 16(6);\n\n3. staff code of Conduct, including personal account dealing;\n\n4. anti-money laundering;\n\n5. monitoring and control of critical outsourcing arrangements (where applicable);\n\n6. the name, address and contact details of the accredited compensation scheme of which the investment firm or credit institution is a member.\n\nFinancial forecast\n\nAttach a forecast statement for profit and loss and cash flow, both over an initial period of thirty six month period.",
-      "text_sha256": "4a066cc5bbef9ceb272e68c43ccc050bc5d6633acd7a3f537f79a96c242dbf73",
-      "md_span": {
-        "start": 31651,
-        "end": 35568
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_viii",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_viii",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX VIII",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication regarding a branch passport notification by the competent authorityof the home Member State to the competent authority of the host Member State\n\n(Article 15 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 35(3) of Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 35(3) of Directive 2014/65/EU, we wish to inform you that [Name of firm], an investment firm authorised by [Competent Authority of the home Member State], intends to establish a branch located in [name of the host Member State] to provide the investment services or activities as well as ancillary services listed in the attached passport notification.\n\n[Name of investment firm] is a participant in the [name of the home Member State accredited compensation scheme], which provides cover for eligible investors as required by the [name of the home Member State] legislation in respect of investment services and activities carried on by the firm from an establishment in [name of the home Member State] and through its branch in the European Economic Area.\n\nIf you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend accordingly.",
-      "text_sha256": "dbf29b9db0c87698eab8fc7493b9329a5ce6e62ee567f284365d715a1be05763",
-      "md_span": {
-        "start": 35609,
-        "end": 37124
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_ix",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_ix",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX IX",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication regarding a tied agent passport notification by the competent authority ofthe home Member State to the competent authority of the host Member State\n\n(Article 16 of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 35(3) or Article 35(7) of Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 34(3)/Article 35(7) of Directive 2014/65/EU, we wish to notify you that [Name of firm], an investment firm/credit institution authorised by [name of the competent authority of the home Member State], intends to use a tied agent located in [name of the host Member State] to provide the investment services or activities listed in the attached passport notification.\n\n[Name of investment firm/credit institution] is a participant in the [name of the home Member State accredited compensation scheme], which provides cover for eligible investors as required by the [name of the home Member State] legislation in respect of investment services and activities carried on by the firm from an establishment in [name of the home Member State] and through its tied agent in the European Economic Area.\n\nIf you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend accordingly.",
-      "text_sha256": "2dde57a54d57a88b6480e721f49ba7972c0ae6553c0d7e3156c874288308107a",
-      "md_span": {
-        "start": 37161,
-        "end": 38733
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_x",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_x",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX X",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for a change in the tied agent particulars notification concerning the termination of the operation of a branch or the cessation of the use of a tied agent established in another Member State\n\n(Articles 17(3) and 18(3) of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nNotification in accordance with Article 35(10) of Directive 2014/65/EU regarding the termination of the operation of a branch/the cessation of the use of a tied agent established in another Member State (1)\n\nPart 1 — Contact Information\n\nType of notification:\n\nTermination of the operation of a branch/the use of a tied agent\n\nMember State in which the branch/tied agent is established:\n\nName of the investment firm/credit institution:\n\nAddress of the investment firm/credit institution:\n\nTelephone number of the investment firm/credit institution:\n\nEmail of the investment firm/credit institution:\n\nName of the contact person responsible for the termination of the operations of the branch/tied agent:\n\nName of the branch/tied agent in the territory of the host Member State:\n\nHome Member State:\n\nHome Member State competent authority:\n\nAuthorisation Status:\n\nAuthorised by [name of the home Member State competent authority]\n\nAuthorisation Date:\n\nDate from which the termination will be effective:\n\n(1) Please amend accordingly.\n\nDescription of the schedule for the planned termination:\n\n[to be completed by the investment firm/credit institution]\n\nInformation on the process of winding down the business operations, including details regarding the manner in which client interests are going to be protected, complaints resolved and any outstanding liabilities discharged:\n\n[to be completed by the investment firm/credit institution]",
-      "text_sha256": "27131997efe8ba511462be90a96f4497ead5d37b390b989e0b679f4cc4da0507",
-      "md_span": {
-        "start": 38768,
-        "end": 40508
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_xi",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_xi",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX XI",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication on a change of branch particulars notification by the competent authority of the home Member State to the competent authority of the host Member State\n\n(Article 19(1) of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 35(10) of Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 35(10) of Directive 2014/65/EU, we wish to inform you that [Name of firm], an investment firm authorised by [Competent Authority of the home Member State], has:\n\n(a) amended the investment services and activities/ancillary services being provided by the [name of the branch] established in [name of the host Member State].\n\n(b) changed its branch name from [add old name of the branch] to [add new name] with effect [date of change]\n\n(c) changed its branch other contact information to as follows [add any changes to the contact information notified under Part 1 of the form set out in Annex VI to Commission Implementing Regulation (EU) 2017/2382] with effect [date of change]\n\n(d) engaged an additional tied agent located in [name of the host Member State] and provide an updated programme of operations\n\n(e) changed its own name/address/contact details from [old name/address/contact details of the investment firm] to [new name/address/contact details of the investment firm] with effect [date of change].\n\nPlease find attached a copy of the change of investment services and activities particulars notification with the relevant changes.\n\nIf you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend accordingly.",
-      "text_sha256": "09e413c28abc7779d927013d7c49ebc2c137a06208819f7aa113cffa4a7707e5",
-      "md_span": {
-        "start": 40545,
-        "end": 42456
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_xii",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_xii",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX XII",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication on a change of tied agent particulars notification by the competent authority of the home Member State to the competent authority of the host Member State\n\n(Article 20(1) of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 35(10) of Directive 2014/65/EU (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 35(10) of Directive 2014/65/EU, we wish to inform you that [Name of firm], an investment firm/credit institution authorised by [name of the competent authority of the home Member State], has:\n\n(a) amended the investment services and activities being provided by [name of the tied agent].\n\n(b) changed its tied agent name from [add old name of the tied agent] to [add new name] with effect [date of change]\n\n(c) changed its tied agent’s other contact information to as follows [add any changes to the contact information notified under Part 1 of the form set out in Annex VII to Commission Implementing Regulation (EU) 2017/2382] with effect [date of change]\n\n(d) changed its own name/address/contact details from [old name/address/contact details of the investment firm/credit institution] to [new name/address/contact details of the investment firm/credit institution] with effect [date of change].\n\nPlease find attached a copy of the change of investment services and activities particulars notification with the relevant changes.\n\nIf you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend accordingly.",
-      "text_sha256": "34b787ce3d7753c1096256ce7c8554f6a85a338bf13b5a0f2db83bd375cd41b5",
-      "md_span": {
-        "start": 42495,
-        "end": 44300
-      },
-      "citations": []
-    },
-    {
-      "anchor": "anx_xiii",
-      "provision_id": "eu-eurlex:32017r2382:2022-09-07#anx_xiii",
-      "eli": null,
-      "type": "annex",
-      "num": null,
-      "heading": "ANNEX XIII",
-      "path": [],
-      "article_valid_from": null,
-      "text_md": "Form for the communication by the competent authority of the home Member State to the competentauthority of the host Member State on the termination of the operation of a branch or of the cessationof the use of a tied agent established in a Member State outside its home Member State\n\n(Articles 19(2) and 20(2) of Commission Implementing Regulation (EU) 2017/2382)\n\nReference number:\n\nDate:\n\nCommunication in accordance with Article 35(10) of Directive 2014/65/EU regarding thetermination of the operation of a branch/the use of a tied agent established in a Member Stateoutside its home Member State (1)\n\nFROM:\n\nMember State:\n\nCompetent authority of the home Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nTO:\n\nMember State:\n\nCompetent Authority of the host Member State:\n\nAddress:\n\nDesignated contact point:\n\nTelephone number:\n\nEmail:\n\nIn accordance with Article 35(10) of Directive 2014/65/EU, we wish to inform you that [Name of firm], an investment firm/credit institution authorised by [name of the competent authority of the home Member State], has notified us the intention to terminate the operation of the branch/the use of the tied agent established in your territory with effect [date of termination].\n\nPlease find attached a copy of the notification regarding the termination of the operation of [name of the branch]/the cessation of the use of the [name of the tied agent].\n\nIf you have any queries, please do not hesitate to contact us.\n\nYours sincerely,\n\n[Signature]\n\n(1) Please amend accordingly.",
-      "text_sha256": "be4622a3f7da0abd9491a684429ab86af8ee08df167f264aa603591e70be8267",
-      "md_span": {
-        "start": 44341,
-        "end": 45886
+        "start": 17926,
+        "end": 18095
       },
       "citations": []
     }
   ],
   "notes": [
-    "boundaries: Formex ARTICLE / CONS.ANNEX elements (publisher structural markup)"
+    "boundaries: publisher eli-subdivision fragment identifiers (structural-in-presentation)"
   ]
 }

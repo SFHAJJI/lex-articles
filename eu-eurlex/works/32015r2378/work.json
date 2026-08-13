@@ -70,49 +70,49 @@
       "valid_from": "2023-01-01",
       "valid_to": "2025-04-22",
       "language": "en",
-      "provisions": 27
+      "provisions": 11
     },
     {
       "valid_from": "2023-01-01",
       "valid_to": "2025-04-22",
       "language": "fr",
-      "provisions": 27
+      "provisions": 33
     },
     {
       "valid_from": "2025-04-23",
       "valid_to": "2025-08-05",
       "language": "en",
-      "provisions": 27
+      "provisions": 11
     },
     {
       "valid_from": "2025-04-23",
       "valid_to": "2025-08-05",
       "language": "fr",
-      "provisions": 27
+      "provisions": 11
     },
     {
       "valid_from": "2025-08-06",
       "valid_to": "2025-12-31",
       "language": "en",
-      "provisions": 28
+      "provisions": 11
     },
     {
       "valid_from": "2025-08-06",
       "valid_to": "2025-12-31",
       "language": "fr",
-      "provisions": 28
+      "provisions": 11
     },
     {
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "en",
-      "provisions": 31
+      "provisions": 12
     },
     {
       "valid_from": "2026-01-01",
       "valid_to": null,
       "language": "fr",
-      "provisions": 31
+      "provisions": 12
     }
   ],
   "anchors": [
@@ -130,11 +130,8 @@
     "annexe_xii",
     "annexe_xiii",
     "annexe_xiv",
-    "annexe_xix",
     "annexe_xv",
     "annexe_xvi",
-    "annexe_xvii",
-    "annexe_xviii",
     "anx_i",
     "anx_ii",
     "anx_iii",
@@ -148,16 +145,9 @@
     "anx_xi",
     "anx_xii",
     "anx_xiii",
-    "anx_xiv",
-    "anx_xix",
-    "anx_xv",
-    "anx_xvi",
-    "anx_xvii",
-    "anx_xviii",
     "art_1",
     "art_2",
     "art_2_bis",
-    "art_2_octies",
     "art_2_quater",
     "art_2_quinquies",
     "art_2_septies",
@@ -173,7 +163,13 @@
     "art_3",
     "art_4",
     "art_5",
-    "art_premier"
+    "art_premier",
+    "format_informatique_vise_a_l_article_2_paragraphe_3",
+    "formulaire_vise_a_l_article_1er_paragraphe_2",
+    "formulaire_vise_a_l_article_2_septies_paragraphe_1",
+    "liste_visee_a_l_article_2_quinquies",
+    "liste_visee_a_l_article_2_quinquies__2",
+    "liste_visee_a_l_article_2_quinquies__3"
   ],
   "relations": {
     "amends": [],

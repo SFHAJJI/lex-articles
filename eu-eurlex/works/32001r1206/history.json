@@ -2,25 +2,16 @@
   "lex_work_id": "eu-eurlex:32001r1206",
   "schema": "lex-articles/1",
   "profiles": [
-    "fmx4-eu/1",
     "html-eu-tolerant/1",
     "xhtml-eu/1"
   ],
   "primary_language": "en",
   "anchors": {
-    "annex": [
-      {
-        "valid_from": "2008-12-04",
-        "valid_to": null,
-        "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-        "in_version": "eu-eurlex:32001r1206:2008-12-04"
-      }
-    ],
     "art_1": [
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "9890785a33e8278f82d3a31edcac80ed6ca88645bdb3f6aaadfa8c7f8902702b",
+        "text_sha256": "20c54e9a9c844c2f16d5b2234da95d68406b88cf1d37904248ddee46df22e5c6",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -60,7 +51,7 @@
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "3ed3665b73c66530208c2ebfe4ee2f749fa88b86f6fb5dd253a6565690d69545",
+        "text_sha256": "e5bc7210537ec7d42c16b3d4228a80e169d3d588aba29585d437c364c7244c3f",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -84,7 +75,7 @@
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "04591dbf0444ac2e9f23c8f3e9b773392052c89d6875243a804124d6adbb7b40",
+        "text_sha256": "8e3d686a513a717d4b712ed363bc5adf9956c02de6874ff619b2bd10ac30fdbd",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -92,7 +83,7 @@
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "b1ab31015eee289d621ef27c7cc72ef12aa2c7a7c7663c8517fdd794a8ba98a0",
+        "text_sha256": "7a2f47febbe25bedd48fb81066a3876f97c0b7c411c516eaf60490889d1a2b59",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -124,7 +115,7 @@
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "b6a516281cf8994098b42a0893c40ffd919565ede0dc654810682efe7916ca72",
+        "text_sha256": "35fe0654e26f5c0b32eeab976519955ae5eb76353c9dd88b431dd5d45b10d96c",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -156,7 +147,7 @@
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "fa7225babd586588da5e35ef76d6b103b5b694c45ed735040c02986d03547e98",
+        "text_sha256": "d4c741355b6bf757a29957b8ca1bcaf6d1e917d66ad0531a44a2d029d537a247",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -164,7 +155,7 @@
       {
         "valid_from": "2008-12-04",
         "valid_to": null,
-        "text_sha256": "b8046532f23ec8befbaccf001b61b1781eb8ca1808dc691a36e7d26e61ec8261",
+        "text_sha256": "7af7d096633b9b18fd93283d94750931930211a00c54e0675ba51e4141ac00fa",
         "in_version": "eu-eurlex:32001r1206:2008-12-04"
       }
     ],
@@ -221,11 +212,6 @@
     {
       "type": "removed",
       "anchor": "document",
-      "at_version": "eu-eurlex:32001r1206:2008-12-04"
-    },
-    {
-      "type": "inserted",
-      "anchor": "annex",
       "at_version": "eu-eurlex:32001r1206:2008-12-04"
     },
     {
@@ -351,19 +337,11 @@
   ],
   "anchors_by_language": {
     "en": {
-      "annex": [
-        {
-          "valid_from": "2008-12-04",
-          "valid_to": null,
-          "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-          "in_version": "eu-eurlex:32001r1206:2008-12-04"
-        }
-      ],
       "art_1": [
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "9890785a33e8278f82d3a31edcac80ed6ca88645bdb3f6aaadfa8c7f8902702b",
+          "text_sha256": "20c54e9a9c844c2f16d5b2234da95d68406b88cf1d37904248ddee46df22e5c6",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -403,7 +381,7 @@
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "3ed3665b73c66530208c2ebfe4ee2f749fa88b86f6fb5dd253a6565690d69545",
+          "text_sha256": "e5bc7210537ec7d42c16b3d4228a80e169d3d588aba29585d437c364c7244c3f",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -427,7 +405,7 @@
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "04591dbf0444ac2e9f23c8f3e9b773392052c89d6875243a804124d6adbb7b40",
+          "text_sha256": "8e3d686a513a717d4b712ed363bc5adf9956c02de6874ff619b2bd10ac30fdbd",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -435,7 +413,7 @@
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "b1ab31015eee289d621ef27c7cc72ef12aa2c7a7c7663c8517fdd794a8ba98a0",
+          "text_sha256": "7a2f47febbe25bedd48fb81066a3876f97c0b7c411c516eaf60490889d1a2b59",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -467,7 +445,7 @@
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "b6a516281cf8994098b42a0893c40ffd919565ede0dc654810682efe7916ca72",
+          "text_sha256": "35fe0654e26f5c0b32eeab976519955ae5eb76353c9dd88b431dd5d45b10d96c",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -499,7 +477,7 @@
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "fa7225babd586588da5e35ef76d6b103b5b694c45ed735040c02986d03547e98",
+          "text_sha256": "d4c741355b6bf757a29957b8ca1bcaf6d1e917d66ad0531a44a2d029d537a247",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -507,7 +485,7 @@
         {
           "valid_from": "2008-12-04",
           "valid_to": null,
-          "text_sha256": "b8046532f23ec8befbaccf001b61b1781eb8ca1808dc691a36e7d26e61ec8261",
+          "text_sha256": "7af7d096633b9b18fd93283d94750931930211a00c54e0675ba51e4141ac00fa",
           "in_version": "eu-eurlex:32001r1206:2008-12-04"
         }
       ],
@@ -776,11 +754,6 @@
       {
         "type": "removed",
         "anchor": "document",
-        "at_version": "eu-eurlex:32001r1206:2008-12-04"
-      },
-      {
-        "type": "inserted",
-        "anchor": "annex",
         "at_version": "eu-eurlex:32001r1206:2008-12-04"
       },
       {

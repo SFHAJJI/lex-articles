@@ -4,13 +4,15 @@ title: 'Regulation (EU) No 1215/2012'
 valid_from: '2015-02-26'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02012R1215-20150226'
-source_sha256: '6b6aa68f8dd0b007a8778cc1aa0ab19f44f433fac489144301445fc2a687779c'
+source_sha256: '3c95ac7f5f19312d933bd7dabe2c107b80d66c352b29648a5d50d0401a750ed3'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
-## CHAPITRE I — PORTÉE ET DÉFINITIONS
+## CHAPITRE I
+
+### **PORTÉE ET DÉFINITIONS**
 
 <a id="art_premier"></a>
 
@@ -18,19 +20,7 @@ generator: 'fmx4-eu/1 · lex derive'
 
 **1.** Le présent règlement s’applique en matière civile et commerciale et quelle que soit la nature de la juridiction. Il ne s’applique notamment ni aux matières fiscales, douanières ou administratives, ni à la responsabilité de l’État pour des actes ou des omissions commis dans l’exercice de la puissance publique (*acta jure imperii*).
 
-**2.** Sont exclus de son application:
-
-a) l’état et la capacité des personnes physiques, les régimes matrimoniaux ou les régimes patrimoniaux relatifs aux relations qui, selon la loi qui leur est applicable, sont réputés avoir des effets comparables au mariage;
-
-b) les faillites, concordats et autres procédures analogues;
-
-c) la sécurité sociale;
-
-d) l’arbitrage;
-
-e) les obligations alimentaires découlant de relations de famille, de parenté, de mariage ou d’alliance;
-
-f) les testaments et les successions, y compris les obligations alimentaires résultant du décès.
+**2.** Sont exclus de son application:a) l’état et la capacité des personnes physiques, les régimes matrimoniaux ou les régimes patrimoniaux relatifs aux relations qui, selon la loi qui leur est applicable, sont réputés avoir des effets comparables au mariage;b) les faillites, concordats et autres procédures analogues;c) la sécurité sociale;d) l’arbitrage;e) les obligations alimentaires découlant de relations de famille, de parenté, de mariage ou d’alliance;f) les testaments et les successions, y compris les obligations alimentaires résultant du décès.
 
 <a id="art_2"></a>
 
@@ -60,9 +50,9 @@ a) en Hongrie, dans les procédures sommaires concernant les injonctions de paye
 
 b) en Suède, dans les procédures sommaires concernant les injonctions de payer (*betalningsföreläggande*) et l’assistance (*handräckning*), l’autorité chargée du recouvrement forcé (*Kronofogdemyndigheten*).
 
-## CHAPITRE II — COMPÉTENCE
+## *SECTION 1*
 
-### SECTION 1 — Dispositions générales
+### ***Dispositions générales***
 
 <a id="art_4"></a>
 
@@ -88,7 +78,9 @@ b) en Suède, dans les procédures sommaires concernant les injonctions de payer
 
 **2.** Toute personne, quelle que soit sa nationalité, qui est domicilié sur le territoire d’un État membre, peut, comme les ressortissants de cet État membre, invoquer dans cet État membre contre ce défendeur les règles de compétence qui y sont en vigueur et notamment celles que les États membres doivent notifier à la Commission en vertu de l’article 76, paragraphe 1, point a).
 
-### SECTION 2 — Compétences spéciales
+## *SECTION 2*
+
+### ***Compétences spéciales***
 
 <a id="art_7"></a>
 
@@ -96,13 +88,13 @@ b) en Suède, dans les procédures sommaires concernant les injonctions de payer
 
 Une personne domiciliée sur le territoire d’un État membre peut être attraite dans un autre État membre:
 
-1) a) en matière contractuelle, devant la juridiction du lieu d’exécution de l’obligation qui sert de base à la demande; b) aux fins de l’application de la présente disposition, et sauf convention contraire, le lieu d’exécution de l’obligation qui sert de base à la demande est: - pour la vente de marchandises, le lieu d’un État membre où, en vertu du contrat, les marchandises ont été ou auraient dû être livrées, pour la vente de marchandises, le lieu d’un État membre où, en vertu du contrat, les marchandises ont été ou auraient dû être livrées, - pour la fourniture de services, le lieu d’un État membre où, en vertu du contrat, les services ont été ou auraient dû être fournis; pour la fourniture de services, le lieu d’un État membre où, en vertu du contrat, les services ont été ou auraient dû être fournis; c) le point a) s’applique si le point b) ne s’applique pas;
+1) a) en matière contractuelle, devant la juridiction du lieu d’exécution de l’obligation qui sert de base à la demande; b) aux fins de l’application de la présente disposition, et sauf convention contraire, le lieu d’exécution de l’obligation qui sert de base à la demande est: — pour la vente de marchandises, le lieu d’un État membre où, en vertu du contrat, les marchandises ont été ou auraient dû être livrées, — pour la fourniture de services, le lieu d’un État membre où, en vertu du contrat, les services ont été ou auraient dû être fournis; c) le point a) s’applique si le point b) ne s’applique pas;
 
 2) en matière délictuelle ou quasi délictuelle, devant la juridiction du lieu où le fait dommageable s’est produit ou risque de se produire;
 
 3) s’il s’agit d’une action en réparation de dommage ou d’une action en restitution fondées sur une infraction, devant la juridiction saisie de l’action publique, dans la mesure où, selon sa loi, cette juridiction peut connaître de l’action civile;
 
-4) s’il s’agit d’une action civile, fondée sur le droit de propriété, en restitution d’un bien culturel au sens de l’article 1^er, point 1), de la directive 93/7/CEE, engagée par la personne revendiquant le droit de récupérer un tel bien, devant la juridiction du lieu où le bien culturel est situé au moment de la saisine;
+4) s’il s’agit d’une action civile, fondée sur le droit de propriété, en restitution d’un bien culturel au sens de l’article 1er, point 1), de la directive 93/7/CEE, engagée par la personne revendiquant le droit de récupérer un tel bien, devant la juridiction du lieu où le bien culturel est situé au moment de la saisine;
 
 5) s’il s’agit d’une contestation relative à l’exploitation d’une succursale, d’une agence ou de tout autre établissement, devant la juridiction du lieu de leur situation;
 
@@ -130,7 +122,9 @@ Une personne domiciliée sur le territoire d’un État membre peut aussi être 
 
 Lorsque, en vertu du présent règlement, une juridiction d’un État membre est compétente pour connaître des actions en responsabilité du fait de l’utilisation ou de l’exploitation d’un navire, cette juridiction ou toute autre que lui substitue la loi interne de cet État membre connaît aussi des demandes relatives à la limitation de cette responsabilité.
 
-### SECTION 3 — Compétence en matière d’assurances
+## *SECTION 3*
+
+### ***Compétence en matière d’assurances***
 
 <a id="art_10"></a>
 
@@ -142,13 +136,7 @@ En matière d’assurances, la compétence est déterminée par la présente sec
 
 ### Article 11
 
-**1.** L’assureur domicilié sur le territoire d’un État membre peut être attrait:
-
-a) devant les juridictions de l’État membre où il a son domicile;
-
-b) dans un autre État membre, en cas d’actions intentées par le preneur d’assurance, l’assuré ou un bénéficiaire, devant la juridiction du lieu où le demandeur a son domicile; ou
-
-c) s’il s’agit d’un coassureur, devant la juridiction d’un État membre saisie de l’action formée contre l’apériteur de la coassurance.
+**1.** L’assureur domicilié sur le territoire d’un État membre peut être attrait:a) devant les juridictions de l’État membre où il a son domicile;b) dans un autre État membre, en cas d’actions intentées par le preneur d’assurance, l’assuré ou un bénéficiaire, devant la juridiction du lieu où le demandeur a son domicile; ouc) s’il s’agit d’un coassureur, devant la juridiction d’un État membre saisie de l’action formée contre l’apériteur de la coassurance.
 
 **2.** Lorsque l’assureur n’est pas domicilié sur le territoire d’un État membre, mais possède une succursale, une agence ou tout autre établissement dans un État membre, il est considéré pour les contestations relatives à leur exploitation comme ayant son domicile sur le territoire de cet État membre.
 
@@ -206,21 +194,17 @@ Les risques visés à l’article 15, point 5), sont les suivants:
 
 4) tout risque lié accessoirement à l’un de ceux visés aux points 1) à 3);
 
-5) sans préjudice des points 1) à 4), tous les «grands risques» au sens de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II).
+5) sans préjudice des points 1) à 4), tous les «grands risques» au sens de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l’accès aux activités de l’assurance et de la réassurance et leur exercice (solvabilité II) (1).
 
-### SECTION 4 — Compétence en matière de contrats conclus par les consommateurs
+## *SECTION 4*
+
+### ***Compétence en matière de contrats conclus par les consommateurs***
 
 <a id="art_17"></a>
 
 ### Article 17
 
-**1.** En matière de contrat conclu par une personne, le consommateur, pour un usage pouvant être considéré comme étranger à son activité professionnelle, la compétence est déterminée par la présente section, sans préjudice de l’article 6 et de l’article 7, point 5):
-
-a) lorsqu’il s’agit d’une vente à tempérament d’objets mobiliers corporels;
-
-b) lorsqu’il s’agit d’un prêt à tempérament ou d’une autre opération de crédit liés au financement d’une vente de tels objets; ou
-
-c) lorsque, dans tous les autres cas, le contrat a été conclu avec une personne qui exerce des activités commerciales ou professionnelles dans l’État membre sur le territoire duquel le consommateur a son domicile ou qui, par tout moyen, dirige ces activités vers cet État membre ou vers plusieurs États, dont cet État membre, et que le contrat entre dans le cadre de ces activités.
+**1.** En matière de contrat conclu par une personne, le consommateur, pour un usage pouvant être considéré comme étranger à son activité professionnelle, la compétence est déterminée par la présente section, sans préjudice de l’article 6 et de l’article 7, point 5):a) lorsqu’il s’agit d’une vente à tempérament d’objets mobiliers corporels;b) lorsqu’il s’agit d’un prêt à tempérament ou d’une autre opération de crédit liés au financement d’une vente de tels objets; ouc) lorsque, dans tous les autres cas, le contrat a été conclu avec une personne qui exerce des activités commerciales ou professionnelles dans l’État membre sur le territoire duquel le consommateur a son domicile ou qui, par tout moyen, dirige ces activités vers cet État membre ou vers plusieurs États, dont cet État membre, et que le contrat entre dans le cadre de ces activités.
 
 **2.** Lorsque le cocontractant du consommateur n’est pas domicilié sur le territoire d’un État membre mais possède une succursale, une agence ou tout autre établissement dans un État membre, il est considéré pour les contestations relatives à leur exploitation comme ayant son domicile sur le territoire de cet État membre.
 
@@ -248,7 +232,9 @@ Il ne peut être dérogé aux dispositions de la présente section que par des c
 
 3) qui, passées entre le consommateur et son cocontractant ayant, au moment de la conclusion du contrat, leur domicile ou leur résidence habituelle dans un même État membre, attribuent compétence aux juridictions de cet État membre, sauf si la loi de celui-ci interdit de telles conventions.
 
-### SECTION 5 — Compétence en matière de contrats individuels de travail
+## *SECTION 5*
+
+### ***Compétence en matière de contrats individuels de travail***
 
 <a id="art_20"></a>
 
@@ -262,11 +248,7 @@ Il ne peut être dérogé aux dispositions de la présente section que par des c
 
 ### Article 21
 
-**1.** Un employeur domicilié sur le territoire d’un État membre peut être attrait:
-
-a) devant les juridictions de l’État membre où il a son domicile; ou
-
-b) dans un autre État membre: i) devant la juridiction du lieu où ou à partir duquel le travailleur accomplit habituellement son travail ou devant la juridiction du dernier lieu où il a accompli habituellement son travail; ou ii) lorsque le travailleur n’accomplit pas ou n’a pas accompli habituellement son travail dans un même pays, devant la juridiction du lieu où se trouve ou se trouvait l’établissement qui a embauché le travailleur.
+**1.** Un employeur domicilié sur le territoire d’un État membre peut être attrait:a) devant les juridictions de l’État membre où il a son domicile; oub) dans un autre État membre:i) devant la juridiction du lieu où ou à partir duquel le travailleur accomplit habituellement son travail ou devant la juridiction du dernier lieu où il a accompli habituellement son travail; ouii) lorsque le travailleur n’accomplit pas ou n’a pas accompli habituellement son travail dans un même pays, devant la juridiction du lieu où se trouve ou se trouvait l’établissement qui a embauché le travailleur.
 
 **2.** Un employeur qui n’est pas domicilié sur le territoire d’un État membre peut être attrait devant les juridictions d’un État membre conformément au paragraphe 1, point b).
 
@@ -288,7 +270,9 @@ Il ne peut être dérogé aux dispositions de la présente section que par des c
 
 2) qui permettent au travailleur de saisir d’autres juridictions que celles indiquées à la présente section.
 
-### SECTION 6 — Compétences exclusives
+## *SECTION 6*
+
+### ***Compétences exclusives***
 
 <a id="art_24"></a>
 
@@ -306,19 +290,15 @@ Sont seules compétentes les juridictions ci-après d’un État membre, sans co
 
 5) en matière d’exécution des décisions, les juridictions de l’État membre du lieu de l’exécution.
 
-### SECTION 7 — Prorogation de compétence
+## *SECTION 7*
+
+### ***Prorogation de compétence***
 
 <a id="art_25"></a>
 
 ### Article 25
 
-**1.** Si les parties, sans considération de leur domicile, sont convenues d’une juridiction ou de juridictions d’un État membre pour connaître des différends nés ou à naître à l’occasion d’un rapport de droit déterminé, ces juridictions sont compétentes, sauf si la validité de la convention attributive de juridiction est entachée de nullité quant au fond selon le droit de cet État membre. Cette compétence est exclusive, sauf convention contraire des parties. La convention attributive de juridiction est conclue:
-
-a) par écrit ou verbalement avec confirmation écrite;
-
-b) sous une forme qui soit conforme aux habitudes que les parties ont établies entre elles; ou
-
-c) dans le commerce international, sous une forme qui soit conforme à un usage dont les parties ont connaissance ou étaient censées avoir connaissance et qui est largement connu et régulièrement observé dans ce type de commerce par les parties à des contrats du même type dans la branche commerciale considérée.
+**1.** Si les parties, sans considération de leur domicile, sont convenues d’une juridiction ou de juridictions d’un État membre pour connaître des différends nés ou à naître à l’occasion d’un rapport de droit déterminé, ces juridictions sont compétentes, sauf si la validité de la convention attributive de juridiction est entachée de nullité quant au fond selon le droit de cet État membre. Cette compétence est exclusive, sauf convention contraire des parties. La convention attributive de juridiction est conclue:a) par écrit ou verbalement avec confirmation écrite;b) sous une forme qui soit conforme aux habitudes que les parties ont établies entre elles; ouc) dans le commerce international, sous une forme qui soit conforme à un usage dont les parties ont connaissance ou étaient censées avoir connaissance et qui est largement connu et régulièrement observé dans ce type de commerce par les parties à des contrats du même type dans la branche commerciale considérée.
 
 **2.** Toute transmission par voie électronique qui permet de consigner durablement la convention est considérée comme revêtant une forme écrite.
 
@@ -338,7 +318,9 @@ La validité de la convention attributive de juridiction ne peut être contesté
 
 **2.** Dans les matières visées aux sections 3, 4 ou 5, lorsque le preneur d’assurance, l’assuré, un bénéficiaire du contrat d’assurance, la victime, le consommateur ou le travailleur est le défendeur, avant de se déclarer compétente en vertu du paragraphe 1, la juridiction s’assure que le défendeur est informé de son droit de contester la compétence de la juridiction et des conséquences d’une comparution ou d’une absence de comparution.
 
-### SECTION 8 — Vérification de la compétence et de la recevabilité
+## *SECTION 8*
+
+### ***Vérification de la compétence et de la recevabilité***
 
 <a id="art_27"></a>
 
@@ -354,11 +336,13 @@ La juridiction d’un État membre saisie à titre principal d’un litige pour 
 
 **2.** La juridiction sursoit à statuer aussi longtemps qu’il n’est pas établi que le défendeur a été mis à même de recevoir l’acte introductif d’instance ou un acte équivalent en temps utile pour se défendre ou que toute diligence a été faite à cette fin.
 
-**3.** L’article 19 du règlement (CE) n^o 1393/2007 du Parlement européen et du Conseil du 13 novembre 2007 relatif à la signification et à la notification dans les États membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale («signification ou notification des actes») s’applique en lieu et place du paragraphe 2 du présent article si l’acte introductif d’instance ou un acte équivalent a dû être transmis d’un État membre à un autre en exécution dudit règlement.
+**3.** L’article 19 du règlement (CE) no 1393/2007 du Parlement européen et du Conseil du 13 novembre 2007 relatif à la signification et à la notification dans les États membres des actes judiciaires et extrajudiciaires en matière civile ou commerciale («signification ou notification des actes») (2) s’applique en lieu et place du paragraphe 2 du présent article si l’acte introductif d’instance ou un acte équivalent a dû être transmis d’un État membre à un autre en exécution dudit règlement.
 
-**4.** Lorsque le règlement (CE) n^o 1393/2007 n’est pas applicable, l’article 15 de la convention de La Haye du 15 novembre 1965 relative à la signification et à la notification à l’étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale s’applique si l’acte introductif d’instance ou un acte équivalent a dû être transmis à l’étranger en exécution de cette convention.
+**4.** Lorsque le règlement (CE) no 1393/2007 n’est pas applicable, l’article 15 de la convention de La Haye du 15 novembre 1965 relative à la signification et à la notification à l’étranger des actes judiciaires et extrajudiciaires en matière civile ou commerciale s’applique si l’acte introductif d’instance ou un acte équivalent a dû être transmis à l’étranger en exécution de cette convention.
 
-### SECTION 9 — Litispendance et connexité
+## *SECTION 9*
+
+### ***Litispendance et connexité***
 
 <a id="art_29"></a>
 
@@ -396,11 +380,7 @@ La juridiction d’un État membre saisie à titre principal d’un litige pour 
 
 ### Article 32
 
-**1.** Aux fins de la présente section, une juridiction est réputée saisie:
-
-a) à la date à laquelle l’acte introductif d’instance ou un acte équivalent est déposé auprès de la juridiction, à condition que le demandeur n’ait pas négligé par la suite de prendre les mesures qu’il était tenu de prendre pour que l’acte soit notifié ou signifié au défendeur; ou
-
-b) si l’acte doit être notifié ou signifié avant d’être déposé auprès de la juridiction, à la date à laquelle il est reçu par l’autorité chargée de la notification ou de la signification, à condition que le demandeur n’ait pas négligé par la suite de prendre les mesures qu’il était tenu de prendre pour que l’acte soit déposé auprès de la juridiction.
+**1.** Aux fins de la présente section, une juridiction est réputée saisie:a) à la date à laquelle l’acte introductif d’instance ou un acte équivalent est déposé auprès de la juridiction, à condition que le demandeur n’ait pas négligé par la suite de prendre les mesures qu’il était tenu de prendre pour que l’acte soit notifié ou signifié au défendeur; oub) si l’acte doit être notifié ou signifié avant d’être déposé auprès de la juridiction, à la date à laquelle il est reçu par l’autorité chargée de la notification ou de la signification, à condition que le demandeur n’ait pas négligé par la suite de prendre les mesures qu’il était tenu de prendre pour que l’acte soit déposé auprès de la juridiction.
 
 L’autorité chargée de la notification ou de la signification visée au point b) est la première autorité ayant reçu les actes à notifier ou à signifier.
 
@@ -410,19 +390,9 @@ L’autorité chargée de la notification ou de la signification visée au point
 
 ### Article 33
 
-**1.** Lorsque la compétence est fondée sur l’article 4 ou sur les articles 7, 8 ou 9 et qu’une procédure est pendante devant une juridiction d’un État tiers au moment où une juridiction d’un État membre est saisie d’une demande entre les mêmes parties ayant le même objet et la même cause que la demande portée devant la juridiction de l’État tiers, la juridiction de l’État membre peut surseoir à statuer si:
+**1.** Lorsque la compétence est fondée sur l’article 4 ou sur les articles 7, 8 ou 9 et qu’une procédure est pendante devant une juridiction d’un État tiers au moment où une juridiction d’un État membre est saisie d’une demande entre les mêmes parties ayant le même objet et la même cause que la demande portée devant la juridiction de l’État tiers, la juridiction de l’État membre peut surseoir à statuer si:a) l’on s’attend à ce que la juridiction de l’État tiers rende une décision susceptible d’être reconnue et, le cas échéant, d’être exécutée dans ledit État membre; etb) la juridiction de l’État membre est convaincue que le sursis à statuer est nécessaire pour une bonne administration de la justice.
 
-a) l’on s’attend à ce que la juridiction de l’État tiers rende une décision susceptible d’être reconnue et, le cas échéant, d’être exécutée dans ledit État membre; et
-
-b) la juridiction de l’État membre est convaincue que le sursis à statuer est nécessaire pour une bonne administration de la justice.
-
-**2.** La juridiction de l’État membre peut poursuivre l’instance à tout moment si:
-
-a) l’instance devant la juridiction de l’État tiers fait elle-même l’objet d’un sursis à statuer ou d’un désistement;
-
-b) la juridiction de l’État membre estime que la procédure devant la juridiction de l’État tiers ne pourra vraisemblablement pas être conclue dans un délai raisonnable; ou
-
-c) la poursuite de l’instance est indispensable à une bonne administration de la justice.
+**2.** La juridiction de l’État membre peut poursuivre l’instance à tout moment si:a) l’instance devant la juridiction de l’État tiers fait elle-même l’objet d’un sursis à statuer ou d’un désistement;b) la juridiction de l’État membre estime que la procédure devant la juridiction de l’État tiers ne pourra vraisemblablement pas être conclue dans un délai raisonnable; ouc) la poursuite de l’instance est indispensable à une bonne administration de la justice.
 
 **3.** La juridiction de l’État membre met fin à l’instance si la procédure devant la juridiction de l’État tiers est conclue et a donné lieu à une décision qui est susceptible d’être reconnue et, le cas échéant, d’être exécutée dans ledit État membre.
 
@@ -432,29 +402,17 @@ c) la poursuite de l’instance est indispensable à une bonne administration de
 
 ### Article 34
 
-**1.** Lorsque la compétence est fondée sur l’article 4 ou sur les articles 7, 8 ou 9 et qu’une action est pendante devant une juridiction d’un État tiers au moment où une juridiction d’un État membre est saisie d’une demande connexe à celle portée devant la juridiction de l’État tiers, la juridiction de l’État membre peut surseoir à statuer si:
+**1.** Lorsque la compétence est fondée sur l’article 4 ou sur les articles 7, 8 ou 9 et qu’une action est pendante devant une juridiction d’un État tiers au moment où une juridiction d’un État membre est saisie d’une demande connexe à celle portée devant la juridiction de l’État tiers, la juridiction de l’État membre peut surseoir à statuer si:a) il y a intérêt à instruire et juger les demandes connexes en même temps afin d’éviter des solutions qui pourraient être inconciliables si les causes étaient jugées séparément;b) l’on s’attend à ce que la juridiction de l’État tiers rende une décision susceptible d’être reconnue et, le cas échéant, d’être exécutée dans cet État membre; et▼C1c) la juridiction de l'État membre est convaincue que le sursis à statuer est nécessaire pour une bonne administration de la justice.▼B
 
-a) il y a intérêt à instruire et juger les demandes connexes en même temps afin d’éviter des solutions qui pourraient être inconciliables si les causes étaient jugées séparément;
-
-b) l’on s’attend à ce que la juridiction de l’État tiers rende une décision susceptible d’être reconnue et, le cas échéant, d’être exécutée dans cet État membre; et
-
-c) la juridiction de l'État membre est convaincue que le sursis à statuer est nécessaire pour une bonne administration de la justice.
-
-**2.** La juridiction de l’État membre peut poursuivre l’instance à tout moment si:
-
-a) elle estime qu’il n’existe plus de risque que les décisions soient inconciliables;
-
-b) l’instance devant la juridiction de l’État tiers fait elle-même l’objet d’un sursis à statuer ou d’un désistement;
-
-c) elle estime que la procédure devant la juridiction de l’État tiers ne pourra vraisemblablement pas être conclue dans un délai raisonnable; ou
-
-d) la poursuite de l’instance est indispensable à une bonne administration de la justice.
+**2.** La juridiction de l’État membre peut poursuivre l’instance à tout moment si:a) elle estime qu’il n’existe plus de risque que les décisions soient inconciliables;b) l’instance devant la juridiction de l’État tiers fait elle-même l’objet d’un sursis à statuer ou d’un désistement;c) elle estime que la procédure devant la juridiction de l’État tiers ne pourra vraisemblablement pas être conclue dans un délai raisonnable; oud) la poursuite de l’instance est indispensable à une bonne administration de la justice.
 
 **3.** La juridiction de l’État membre peut mettre fin à l’instance si la procédure devant la juridiction de l’État tiers est conclue et a donné lieu à une décision qui est susceptible d’être reconnue et, le cas échéant, d’être exécutée dans ledit État membre.
 
 **4.** La juridiction de l’État membre applique le présent article soit à la demande d’une des parties, soit d’office, lorsque cette possibilité est prévue par le droit national.
 
-### SECTION 10 — Mesures provisoires et conservatoires
+## *SECTION 10*
+
+### ***Mesures provisoires et conservatoires***
 
 <a id="art_35"></a>
 
@@ -462,9 +420,9 @@ d) la poursuite de l’instance est indispensable à une bonne administration de
 
 Les mesures provisoires ou conservatoires prévues par la loi d’un État membre peuvent être demandées aux juridictions de cet État, même si les juridictions d’un autre État membre sont compétentes pour connaître du fond.
 
-## CHAPITRE III — RECONNAISSANCE ET EXÉCUTION
+## *SECTION 1*
 
-### SECTION 1 — Reconnaissance
+### ***Reconnaissance***
 
 <a id="art_36"></a>
 
@@ -480,11 +438,7 @@ Les mesures provisoires ou conservatoires prévues par la loi d’un État membr
 
 ### Article 37
 
-**1.** La partie qui entend invoquer, dans un État membre, une décision rendue dans un autre État membre produit:
-
-a) une copie de la décision réunissant les conditions nécessaires pour en établir l’authenticité; et
-
-b) le certificat délivré conformément à l’article 53.
+**1.** La partie qui entend invoquer, dans un État membre, une décision rendue dans un autre État membre produit:a) une copie de la décision réunissant les conditions nécessaires pour en établir l’authenticité; etb) le certificat délivré conformément à l’article 53.
 
 **2.** La juridiction ou l’autorité devant laquelle une décision rendue dans un autre État membre est invoquée peut, au besoin, exiger que la partie qui l’invoque fournisse, conformément à l’article 57, une traduction ou une translittération du contenu du certificat visé au paragraphe 1, point b). La juridiction ou l’autorité peut exiger que la partie fournisse une traduction de la décision en lieu et place d’une traduction du contenu du certificat si elle ne peut agir sans une telle traduction.
 
@@ -498,7 +452,9 @@ a) la décision est contestée dans l’État membre d’origine; ou
 
 b) une demande a été présentée aux fins d’obtenir une décision constatant l’absence de motifs de refus de reconnaissance visés à l’article 45 ou d’obtenir une décision visant à ce que la reconnaissance soit refusée sur le fondement de l’un de ces motifs.
 
-### SECTION 2 — Exécution
+## *SECTION 2*
+
+### ***Exécution***
 
 <a id="art_39"></a>
 
@@ -526,19 +482,9 @@ Une décision exécutoire emporte de plein droit l’autorisation de procéder a
 
 ### Article 42
 
-**1.** Aux fins de l’exécution dans un État membre d’une décision rendue dans un autre État membre, le demandeur communique à l’autorité compétente chargée de l’exécution:
+**1.** Aux fins de l’exécution dans un État membre d’une décision rendue dans un autre État membre, le demandeur communique à l’autorité compétente chargée de l’exécution:a) une copie de la décision réunissant les conditions nécessaires pour en établir l’authenticité; etb) le certificat, délivré conformément à l’article 53, attestant que la décision est exécutoire, et contenant un extrait de la décision ainsi que, s’il y a lieu, les informations utiles concernant les frais remboursables de la procédure et le calcul des intérêts.
 
-a) une copie de la décision réunissant les conditions nécessaires pour en établir l’authenticité; et
-
-b) le certificat, délivré conformément à l’article 53, attestant que la décision est exécutoire, et contenant un extrait de la décision ainsi que, s’il y a lieu, les informations utiles concernant les frais remboursables de la procédure et le calcul des intérêts.
-
-**2.** Aux fins de l’exécution dans un État membre d’une décision rendue dans un autre État membre ordonnant une mesure provisoire ou conservatoire, le demandeur communique à l’autorité compétente chargée de l’exécution:
-
-a) une copie de la décision réunissant les conditions nécessaires pour en établir l’authenticité;
-
-b) le certificat, délivré conformément à l’article 53, contenant une description de la mesure et attestant que: i) la juridiction est compétente pour connaître du fond, ii) la décision est exécutoire dans l’État membre d’origine; et
-
-c) lorsque la mesure a été ordonnée sans que le défendeur soit cité à comparaître, une preuve de la notification ou de la signification de la décision.
+**2.** Aux fins de l’exécution dans un État membre d’une décision rendue dans un autre État membre ordonnant une mesure provisoire ou conservatoire, le demandeur communique à l’autorité compétente chargée de l’exécution:a) une copie de la décision réunissant les conditions nécessaires pour en établir l’authenticité;b) le certificat, délivré conformément à l’article 53, contenant une description de la mesure et attestant que:i) la juridiction est compétente pour connaître du fond,ii) la décision est exécutoire dans l’État membre d’origine; etc) lorsque la mesure a été ordonnée sans que le défendeur soit cité à comparaître, une preuve de la notification ou de la signification de la décision.
 
 **3.** L’autorité compétente chargée de l’exécution peut, au besoin, exiger du demandeur, conformément à l’article 57, qu’il fournisse une traduction ou une translittération du contenu du certificat.
 
@@ -550,11 +496,7 @@ c) lorsque la mesure a été ordonnée sans que le défendeur soit cité à comp
 
 **1.** Lorsque l’exécution d’une décision rendue dans un autre État membre est demandée, le certificat délivré conformément à l’article 53 est notifié ou signifié, avant la première mesure d’exécution, à la personne contre laquelle l’exécution est demandée. Le certificat est accompagné de la décision si celle-ci n’a pas déjà été notifiée ou signifiée à la personne concernée.
 
-**2.** Lorsque la personne contre laquelle l’exécution est demandée est domiciliée dans un État membre autre que l’État membre d’origine, elle peut demander une traduction de la décision afin d’en contester l’exécution si la décision n’est pas rédigée ou accompagnée d’une traduction dans l’une des langues suivantes:
-
-a) une langue qu’elle comprend; ou
-
-b) la langue officielle de l’État membre dans lequel elle est domiciliée ou, si l’État membre en question compte plusieurs langues officielles, dans la langue officielle ou l’une des langues officielles du lieu où elle est domiciliée.
+**2.** Lorsque la personne contre laquelle l’exécution est demandée est domiciliée dans un État membre autre que l’État membre d’origine, elle peut demander une traduction de la décision afin d’en contester l’exécution si la décision n’est pas rédigée ou accompagnée d’une traduction dans l’une des langues suivantes:a) une langue qu’elle comprend; oub) la langue officielle de l’État membre dans lequel elle est domiciliée ou, si l’État membre en question compte plusieurs langues officielles, dans la langue officielle ou l’une des langues officielles du lieu où elle est domiciliée.
 
 Lorsqu’une traduction de la décision est demandée au titre du premier alinéa, aucune mesure d’exécution autre qu’une mesure conservatoire ne peut être prise jusqu’à ce que cette traduction ait été fournie à la personne contre laquelle l’exécution est demandée.
 
@@ -566,35 +508,19 @@ Le présent paragraphe ne s’applique pas si la décision a déjà été notifi
 
 ### Article 44
 
-**1.** En cas de demande de refus d’exécution d’une décision en vertu de la sous-section 2 de la section 3, la juridiction de l’État membre requis peut, à la demande de la personne contre laquelle l’exécution est demandée:
-
-a) limiter la procédure d’exécution à des mesures conservatoires;
-
-b) subordonner l’exécution à la constitution d’une sûreté qu’elle détermine; ou
-
-c) suspendre, intégralement ou partiellement, la procédure d’exécution.
+**1.** En cas de demande de refus d’exécution d’une décision en vertu de la sous-section 2 de la section 3, la juridiction de l’État membre requis peut, à la demande de la personne contre laquelle l’exécution est demandée:a) limiter la procédure d’exécution à des mesures conservatoires;b) subordonner l’exécution à la constitution d’une sûreté qu’elle détermine; ouc) suspendre, intégralement ou partiellement, la procédure d’exécution.
 
 **2.** L’autorité compétente de l’État membre requis suspend, à la demande de la personne contre laquelle l’exécution est demandée, la procédure d’exécution si la force exécutoire de la décision est suspendue dans l’État membre d’origine.
 
-### SECTION 3 — Refus de reconnaissance et d’exécution
+## Sous-section 1
 
-#### Sous-section 1 — Refus de reconnaissance
+### **Refus de reconnaissance**
 
 <a id="art_45"></a>
 
 ### Article 45
 
-**1.** À la demande de toute partie intéressée, la reconnaissance d’une décision est refusée:
-
-a) si la reconnaissance est manifestement contraire à l’ordre public de l’État membre requis;
-
-b) dans le cas où la décision a été rendue par défaut, si l’acte introductif d’instance ou un acte équivalent n’a pas été notifié ou signifié au défendeur en temps utile et de telle manière qu’il puisse se défendre, à moins qu’il n’ait pas exercé de recours à l’encontre de la décision alors qu’il était en mesure de le faire;
-
-c) si la décision est inconciliable avec une décision rendue entre les mêmes parties dans l’État membre requis;
-
-d) si la décision est inconciliable avec une décision rendue antérieurement dans un autre État membre ou dans un État tiers entre les mêmes parties dans un litige ayant le même objet et la même cause, lorsque la décision rendue antérieurement réunit les conditions nécessaires à sa reconnaissance dans l’État membre requis; ou
-
-e) si la décision méconnaît: i) les sections 3, 4 ou 5 du chapitre II lorsque le preneur d’assurance, l’assuré, un bénéficiaire du contrat d’assurance, la victime, le consommateur ou le travailleur était le défendeur, ou ii) la section 6 du chapitre II.
+**1.** À la demande de toute partie intéressée, la reconnaissance d’une décision est refusée:a) si la reconnaissance est manifestement contraire à l’ordre public de l’État membre requis;b) dans le cas où la décision a été rendue par défaut, si l’acte introductif d’instance ou un acte équivalent n’a pas été notifié ou signifié au défendeur en temps utile et de telle manière qu’il puisse se défendre, à moins qu’il n’ait pas exercé de recours à l’encontre de la décision alors qu’il était en mesure de le faire;c) si la décision est inconciliable avec une décision rendue entre les mêmes parties dans l’État membre requis;d) si la décision est inconciliable avec une décision rendue antérieurement dans un autre État membre ou dans un État tiers entre les mêmes parties dans un litige ayant le même objet et la même cause, lorsque la décision rendue antérieurement réunit les conditions nécessaires à sa reconnaissance dans l’État membre requis; oue) si la décision méconnaît:i) les sections 3, 4 ou 5 du chapitre II lorsque le preneur d’assurance, l’assuré, un bénéficiaire du contrat d’assurance, la victime, le consommateur ou le travailleur était le défendeur, ouii) la section 6 du chapitre II.
 
 **2.** Lors de l’appréciation des motifs de compétence visés au paragraphe 1, point e), la juridiction saisie de la demande est liée par les constatations de fait sur lesquelles la juridiction d’origine a fondé sa compétence.
 
@@ -602,7 +528,9 @@ e) si la décision méconnaît: i) les sections 3, 4 ou 5 du chapitre II lorsque
 
 **4.** La demande de refus de reconnaissance est présentée selon la procédure prévue à la sous-section 2 et, s’il y a lieu, à la section 4.
 
-#### Sous-section 2 — Refus d’exécution
+## Sous-section 2
+
+### **Refus d’exécution**
 
 <a id="art_46"></a>
 
@@ -652,7 +580,9 @@ La décision rendue sur le recours ne peut faire l’objet d’un pourvoi que si
 
 **2.** Lorsque la décision a été rendue en Irlande, à Chypre ou au Royaume-Uni, toute voie de recours prévue dans l’État membre d’origine est considérée comme un recours ordinaire pour l’application du paragraphe 1.
 
-### SECTION 4 — Dispositions communes
+## *SECTION 4*
+
+### ***Dispositions communes***
 
 <a id="art_52"></a>
 
@@ -700,7 +630,9 @@ Aucune caution ni aucun dépôt, sous quelque dénomination que ce soit, ne peuv
 
 **3.** Toute traduction faite en application du présent règlement l’est par une personne habilitée à effectuer des traductions dans l’un des États membres.
 
-## CHAPITRE IV — ACTES AUTHENTIQUES ET TRANSACTIONS JUDICIAIRES
+## CHAPITRE IV
+
+### **ACTES AUTHENTIQUES ET TRANSACTIONS JUDICIAIRES**
 
 <a id="art_58"></a>
 
@@ -724,7 +656,9 @@ Les transactions judiciaires exécutoires dans l’État membre d’origine sont
 
 L’autorité compétente ou la juridiction de l’État membre d’origine délivre, à la demande de toute partie intéressée, le certificat qu’elle établit en utilisant le formulaire figurant à l’annexe II. Ce certificat contient un résumé de l’obligation exécutoire consignée dans l’acte authentique ou de l’accord conclu entre les parties consigné dans la transaction judiciaire.
 
-## CHAPITRE V — DISPOSITIONS GÉNÉRALES
+## CHAPITRE V
+
+### **DISPOSITIONS GÉNÉRALES**
 
 <a id="art_61"></a>
 
@@ -744,13 +678,7 @@ Aucune légalisation ni formalité analogue n’est exigée pour les documents d
 
 ### Article 63
 
-**1.** Pour l’application du présent règlement, les sociétés et les personnes morales sont domiciliées là ou est situé:
-
-a) leur siège statutaire;
-
-b) leur administration centrale; ou
-
-c) leur principal établissement.
+**1.** Pour l’application du présent règlement, les sociétés et les personnes morales sont domiciliées là ou est situé:a) leur siège statutaire;b) leur administration centrale; ouc) leur principal établissement.
 
 **2.** Pour l’Irlande, Chypre et le Royaume-Uni, on entend par «siège statutaire» le *registered office* ou, s’il n’existe nulle part de *registered office*, le *place of incorporation* (le lieu d’acquisition de la personnalité morale) ou, s’il n’existe nulle part de lieu d’acquisition de la personnalité morale, le lieu selon la loi duquel la formation (la constitution) a été effectuée.
 
@@ -770,9 +698,11 @@ Sans préjudice de dispositions nationales plus favorables, les personnes domici
 
 **2.** Les décisions rendues dans un État membre en vertu de l’article 8, point 2), et de l’article 13 sont reconnues et exécutées conformément au chapitre III dans tout autre État membre. Les effets que les décisions rendues dans les États membres figurant sur la liste visée au paragraphe 1 peuvent produire, conformément au droit de ces États membres, à l’égard des tiers, en application du paragraphe 1, sont reconnus dans tous les États membres.
 
-**3.** Dans le cadre du réseau judiciaire européen en matière civile et commerciale créé par la décision 2001/470/CE du Conseil (ci-après dénommé «réseau judiciaire européen»), les États membres figurant sur la liste visée au paragraphe 1 fournissent des informations sur les moyens permettant de déterminer, conformément à leur droit national, les effets des décisions visés dans la deuxième phrase du paragraphe 2.
+**3.** Dans le cadre du réseau judiciaire européen en matière civile et commerciale créé par la décision 2001/470/CE du Conseil (3) (ci-après dénommé «réseau judiciaire européen»), les États membres figurant sur la liste visée au paragraphe 1 fournissent des informations sur les moyens permettant de déterminer, conformément à leur droit national, les effets des décisions visés dans la deuxième phrase du paragraphe 2.
 
-## CHAPITRE VI — DISPOSITIONS TRANSITOIRES
+## CHAPITRE VI
+
+### **DISPOSITIONS TRANSITOIRES**
 
 <a id="art_66"></a>
 
@@ -780,9 +710,11 @@ Sans préjudice de dispositions nationales plus favorables, les personnes domici
 
 **1.** Le présent règlement n’est applicable qu’aux actions judiciaires intentées, aux actes authentiques dressés ou enregistrés formellement et aux transactions judiciaires approuvées ou conclues à compter du 10 janvier 2015.
 
-**2.** Nonobstant l’article 80, le règlement (CE) n^o 44/2001 continue à s’appliquer aux décisions rendues dans les actions judiciaires intentées, aux actes authentiques dressés ou enregistrés formellement et aux transactions judiciaires approuvées ou conclues avant le 10 janvier 2015 qui entrent dans le champ d’application dudit règlement.
+**2.** Nonobstant l’article 80, le règlement (CE) no 44/2001 continue à s’appliquer aux décisions rendues dans les actions judiciaires intentées, aux actes authentiques dressés ou enregistrés formellement et aux transactions judiciaires approuvées ou conclues avant le 10 janvier 2015 qui entrent dans le champ d’application dudit règlement.
 
-## CHAPITRE VII — RELATIONS AVEC LES AUTRES INSTRUMENTS
+## CHAPITRE VII
+
+### **RELATIONS AVEC LES AUTRES INSTRUMENTS**
 
 <a id="art_67"></a>
 
@@ -810,7 +742,7 @@ Sous réserve des dispositions des articles 70 et 71, le présent règlement rem
 
 **1.** Les conventions visées à l’article 69 continuent de produire leurs effets dans les matières auxquelles le présent règlement n’est pas applicable.
 
-**2.** Elles continuent de produire leurs effets en ce qui concerne les décisions rendues, les actes authentiques dressés ou enregistrés formellement et les transactions judiciaires approuvées ou conclues avant la date d’entrée en vigueur du règlement (CE) n^o 44/2001.
+**2.** Elles continuent de produire leurs effets en ce qui concerne les décisions rendues, les actes authentiques dressés ou enregistrés formellement et les transactions judiciaires approuvées ou conclues avant la date d’entrée en vigueur du règlement (CE) no 44/2001.
 
 <a id="art_71"></a>
 
@@ -818,11 +750,7 @@ Sous réserve des dispositions des articles 70 et 71, le présent règlement rem
 
 **1.** Le présent règlement n’affecte pas les conventions auxquelles les États membres sont parties et qui, dans des matières particulières, règlent la compétence judiciaire, la reconnaissance ou l’exécution des décisions.
 
-**2.** En vue d’assurer son interprétation uniforme, le paragraphe 1 est appliqué de la manière suivante:
-
-a) le présent règlement ne fait pas obstacle à ce qu’une juridiction d’un État membre partie à une convention relative à une matière particulière puisse fonder sa compétence sur une telle convention, même si le défendeur est domicilié sur le territoire d’un autre État membre non partie à une telle convention. La juridiction saisie applique, en tout cas, l’article 28 du présent règlement;
-
-b) les décisions rendues dans un État membre par une juridiction ayant fondé sa compétence sur une convention relative à une matière particulière sont reconnues et exécutées dans les autres États membres conformément au présent règlement.
+**2.** En vue d’assurer son interprétation uniforme, le paragraphe 1 est appliqué de la manière suivante:a) le présent règlement ne fait pas obstacle à ce qu’une juridiction d’un État membre partie à une convention relative à une matière particulière puisse fonder sa compétence sur une telle convention, même si le défendeur est domicilié sur le territoire d’un autre État membre non partie à une telle convention. La juridiction saisie applique, en tout cas, l’article 28 du présent règlement;b) les décisions rendues dans un État membre par une juridiction ayant fondé sa compétence sur une convention relative à une matière particulière sont reconnues et exécutées dans les autres États membres conformément au présent règlement.
 
 Si une convention relative à une matière particulière et à laquelle sont parties l’État membre d’origine et l’État membre requis détermine les conditions de reconnaissance et d’exécution des décisions, il est fait application de ces conditions. Il peut, en tout cas, être fait application des dispositions du présent règlement relatives à la reconnaissance et à l’exécution des décisions.
 
@@ -832,11 +760,7 @@ Si une convention relative à une matière particulière et à laquelle sont par
 
 **1.** Aux fins du présent règlement, une juridiction commune à plusieurs États membres, comme précisé au paragraphe 2 (ci-après dénommée «juridiction commune»), est réputée être une juridiction d’un État membre lorsque, en vertu de l’instrument l’instituant, cette juridiction commune exerce sa compétence dans des matières relevant du champ d’application du présent règlement.
 
-**2.** Aux fins du présent règlement, chacune des juridictions suivantes constitue une juridiction commune:
-
-a) la juridiction unifiée du brevet, instituée par l’accord relatif à une juridiction unifiée du brevet signé le 19 février 2013 (ci-après dénommé «accord JUB»); et
-
-b) la Cour de justice Benelux, instituée par le traité du 31 mars 1965 relatif à l’institution et au statut d’une Cour de justice Benelux (ci-après dénommé «traité relatif à la Cour de justice Benelux»).
+**2.** Aux fins du présent règlement, chacune des juridictions suivantes constitue une juridiction commune:a) la juridiction unifiée du brevet, instituée par l’accord relatif à une juridiction unifiée du brevet signé le 19 février 2013 (ci-après dénommé «accord JUB»); etb) la Cour de justice Benelux, instituée par le traité du 31 mars 1965 relatif à l’institution et au statut d’une Cour de justice Benelux (ci-après dénommé «traité relatif à la Cour de justice Benelux»).
 
 <a id="art_71_ter"></a>
 
@@ -874,7 +798,7 @@ Cependant, en cas de demande de reconnaissance et d’exécution d’une décisi
 
 ### Article 72
 
-Le présent règlement n’affecte pas les accords par lesquels les États membres, avant l’entrée en vigueur du règlement (CE) n^o 44/2001, se sont engagés, en vertu de l’article 59 de la convention de Bruxelles de 1968, à ne pas reconnaître une décision rendue, notamment dans un autre État contractant à ladite convention, contre un défendeur qui a son domicile ou sa résidence habituelle dans un État tiers lorsque, dans un cas prévu à l’article 4 de cette convention, la décision n’a pu être fondée que sur une compétence visée à l’article 3, deuxième alinéa, de cette même convention.
+Le présent règlement n’affecte pas les accords par lesquels les États membres, avant l’entrée en vigueur du règlement (CE) no 44/2001, se sont engagés, en vertu de l’article 59 de la convention de Bruxelles de 1968, à ne pas reconnaître une décision rendue, notamment dans un autre État contractant à ladite convention, contre un défendeur qui a son domicile ou sa résidence habituelle dans un État tiers lorsque, dans un cas prévu à l’article 4 de cette convention, la décision n’a pu être fondée que sur une compétence visée à l’article 3, deuxième alinéa, de cette même convention.
 
 <a id="art_73"></a>
 
@@ -884,9 +808,11 @@ Le présent règlement n’affecte pas les accords par lesquels les États membr
 
 **2.** Le présent règlement n’affecte pas l’application de la convention de New York de 1958.
 
-**3.** Le présent règlement n’affecte pas l’application des conventions et accords bilatéraux conclus entre un État tiers et un État membre avant la date d’entrée en vigueur du règlement (CE) n^o 44/2001 qui portent sur des matières régies par le présent règlement.
+**3.** Le présent règlement n’affecte pas l’application des conventions et accords bilatéraux conclus entre un État tiers et un État membre avant la date d’entrée en vigueur du règlement (CE) no 44/2001 qui portent sur des matières régies par le présent règlement.
 
-## CHAPITRE VIII — DISPOSITIONS FINALES
+## CHAPITRE VIII
+
+### **DISPOSITIONS FINALES**
 
 <a id="art_74"></a>
 
@@ -916,13 +842,7 @@ La Commission met ces informations à la disposition du public par tout moyen ap
 
 ### Article 76
 
-**1.** Les États membres notifient à la Commission:
-
-a) les règles de compétence visées à l’article 5, paragraphe 2, et à l’article 6, paragraphe 2;
-
-b) les règles concernant l’appel en cause visées à l’article 65; et
-
-c) les conventions visées à l’article 69.
+**1.** Les États membres notifient à la Commission:a) les règles de compétence visées à l’article 5, paragraphe 2, et à l’article 6, paragraphe 2;b) les règles concernant l’appel en cause visées à l’article 65; etc) les conventions visées à l’article 69.
 
 **2.** La Commission établit les listes correspondantes sur la base des notifications effectuées par les États membres visées au paragraphe 1.
 
@@ -962,7 +882,7 @@ Le 11 janvier 2022 au plus tard, la Commission présente au Parlement européen,
 
 ### Article 80
 
-Le présent règlement abroge le règlement (CE) n^o 44/2001. Les références faites au règlement abrogé s’entendent comme faites au présent règlement et sont à lire selon le tableau de correspondance figurant à l’annexe III.
+Le présent règlement abroge le règlement (CE) no 44/2001. Les références faites au règlement abrogé s’entendent comme faites au présent règlement et sont à lire selon le tableau de correspondance figurant à l’annexe III.
 
 <a id="art_81"></a>
 
@@ -972,437 +892,19 @@ Le présent règlement entre en vigueur le vingtième jour suivant celui de sa p
 
 Il est applicable à partir du 10 janvier 2015, à l’exception des articles 75 et 76, qui sont applicables à partir du 10 janvier 2014.
 
+Le présent règlement est obligatoire dans tous ses éléments et directement applicable dans les États membres, conformément aux traités.
+
 <a id="annexe_i"></a>
 
 ### ANNEXE I
 
-CERTIFICAT RELATIF À UNE DÉCISION EN MATIÈRE CIVILE ET COMMERCIALE
 
-Article 53 du règlement (UE) no 1215/2012 du Parlement européen et du Conseil concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale
-
-1. JURIDICTION D’ORIGINE
-
-1.1. Nom:
-
-1.2. Adresse:
-
-1.2.1. Rue et numéro/boîte postale:
-
-1.2.2. Localité et code postal:
-
-1.2.3. État membre:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK
-
-1.3. Téléphone:
-
-1.4. Fax:
-
-1.5. Courriel (le cas échéant):
-
-2. DEMANDEUR(S) (1)
-
-2.1. Nom et prénom(s)/dénomination de la société ou de l’organisation:
-
-2.2. Numéro d’identification (le cas échéant et si disponible):
-
-2.3. Date (jj/mm/aaaa) et lieu de naissance ou, s’il s’agit d’une personne morale, d’acquisition de la personnalité morale/de constitution/d’immatriculation (le cas échéant et si disponible):
-
-2.4. Adresse:
-
-2.4.1. Rue et numéro/boîte postale:
-
-2.4.2. Localité et code postal:
-
-2.4.3. Pays:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK Autre [préciser (code ISO)]
-
-2.5. Courriel (le cas échéant):
-
-3. DÉFENDEUR(S) (2)
-
-3.1. Nom et prénom(s)/dénomination de la société ou de l’organisation:
-
-3.2. Numéro d’identification (le cas échéant et si disponible):
-
-3.3. Date (jj/mm/aaaa) et lieu de naissance ou, s’il s’agit d’une personne morale, d’acquisition de la personnalité morale/de constitution/d’immatriculation (le cas échéant et si disponible):
-
-3.4. Adresse:
-
-3.4.1. Rue et numéro/boîte postale:
-
-3.4.2. Localité et code postal:
-
-3.4.3. Pays:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK Autre [préciser (code ISO)]
-
-3.5. Courriel (le cas échéant):
-
-4. DÉCISION
-
-4.1. Date (jj/mm/aaaa) de la décision:
-
-4.2. Numéro de référence de la décision:
-
-4.3. La décision a été rendue par défaut:
-
-4.3.1. Non
-
-4.3.2. Oui [indiquer la date (jj/mm/aaaa) à laquelle l’acte introductif d’instance ou un acte équivalent a été notifié ou signifié au défendeur]:
-
-4.4. La décision est exécutoire dans l’État membre d’origine sans que d’autres conditions ne doivent être remplies:
-
-4.4.1. Oui [indiquer la date (jj/mm/aaaa) à laquelle la décision a été déclarée exécutoire, le cas échéant]:
-
-4.4.2. Oui, mais uniquement à l’égard de la/des personne(s) suivante(s) (préciser):
-
-4.4.3. Oui, mais seulement pour une/des partie(s) de la décision (préciser):
-
-4.4.4. La décision ne contient pas d’obligation exécutoire.
-
-4.5. À la date de délivrance du certificat, la décision a été notifiée ou signifiée au(x) défendeur(s):
-
-4.5.1. Oui [indiquer la date de la notification ou de la signification (jj/mm/aaaa) si elle est connue]:
-
-4.5.1.1. La décision a été notifiée ou signifiée dans la (les) langue(s) suivante(s):
-
-BG ES CS DK DE ET EL EN FR HR GA IT LV LT HU MT NL PL PT RO SK SL FI SV Autre [préciser (code ISO)]
-
-4.5.2. Pas à la connaissance de la juridiction
-
-4.6. Contenu de la décision et intérêts:
-
-4.6.1. Décision relative à une créance pécuniaire (3)
-
-4.6.1.1. Brève description de l’objet du litige:
-
-4.6.1.2. La juridiction a condamné:
-
-[nom et prénom(s)/dénomination de la société ou de l’organisation] (4)
-
-à payer à:
-
-[nom et prénom(s)/dénomination de la société ou de l’organisation]
-
-4.6.1.2.1. Si plusieurs personnes sont tenues à une seule et même obligation, le montant peut être recouvré dans son intégralité auprès de l’une d’entre elles:
-
-4.6.1.2.1.1. Oui
-
-4.6.1.2.1.2. Non
-
-4.6.1.3. Monnaie:
-
-euro (EUR) lev bulgare (BGN) couronne tchèque (CZK) couronne danoise (DKK) kuna croate (HRK) forint hongrois (HUF) zloty polonais (PLN) livre Sterling (GBP) leu roumain (RON) couronne suédoise (SEK) Autre [préciser (code ISO)]:
-
-4.6.1.4. Montant principal:
-
-4.6.1.4.1. Montant à payer en une seule somme
-
-4.6.1.4.2. Montant à verser en plusieurs fois (5)
-
-Date d’échéance (jj/mm/aaaa)
-
-Montant
-
-4.6.1.4.3. Montant à payer périodiquement
-
-4.6.1.4.3.1. par jour
-
-4.6.1.4.3.2. par semaine
-
-4.6.1.4.3.3. autre (préciser la périodicité):
-
-4.6.1.4.3.4. À partir du (jj/mm/aaaa) ou de l’événement:
-
-4.6.1.4.3.5. Le cas échéant, jusqu’au [date (jj/mm/aaaa) ou événement]:
-
-4.6.1.5. Intérêts, le cas échéant:
-
-4.6.1.5.1. Intérêts:
-
-4.6.1.5.1.1. Non précisé dans la décision
-
-4.6.1.5.1.2. Oui, précisé comme suit dans la décision:
-
-4.6.1.5.1.2.1. montant:
-
-ou
-
-4.6.1.5.1.2.2. taux … %
-
-4.6.1.5.1.2.3. Intérêts échus à compter du [date (jj/mm/aaaa) ou événement] au [date (jj/mm/aaaa) ou événement] (6)
-
-4.6.1.5.2. Intérêts légaux (le cas échéant) à calculer conformément à (préciser la loi applicable):
-
-4.6.1.5.2.1. Intérêts échus à compter du [date (jj/mm/aaaa) ou événement] au [date (jj/mm/aaaa) ou événement] (6)
-
-4.6.1.5.3. Capitalisation des intérêts (le cas échéant, préciser):
-
-4.6.2. Décision ordonnant une mesure provisoire ou conservatoire:
-
-4.6.2.1. Brève description de l’objet du litige et de la mesure ordonnée:
-
-4.6.2.2. La mesure a été ordonnée par une juridiction compétente au fond:
-
-4.6.2.2.1. Oui
-
-4.6.3. Autre type de décision:
-
-4.6.3.1. Brève description de l’objet du litige et de la décision rendue par la juridiction:
-
-4.7. Frais (7):
-
-4.7.1. Monnaie:
-
-euro (EUR) lev bulgare (BGN) couronne tchèque (CZK) couronne danoise (DKK) kuna croate (HRK) forint hongrois (HUF) zloty polonais (PLN) livre Sterling (GBP) leu roumain (RON) couronne suédoise (SEK) Autre [préciser (code ISO)]:
-
-4.7.2. La (les) personne(s) suivante(s), contre laquelle (lesquelles) l’exécution est demandée, a (ont) été condamnée(s) à prendre les frais en charge:
-
-4.7.2.1. Nom et prénom(s)/dénomination de la société ou de l’organisation (8)
-
-4.7.2.2. Si plusieurs personnes ont été condamnées à prendre les frais en charge, le montant peut être recouvré dans son intégralité auprès de l’une d’entre elles:
-
-4.7.2.2.1. Oui
-
-4.7.2.2.2. Non
-
-4.7.3. Les frais dont le recouvrement est demandé sont les suivants (9)
-
-4.7.3.1. Les frais ont été fixés dans la décision sous la forme d’un montant global (indiquer le montant):
-
-4.7.3.2. Les frais ont été fixés dans la décision sous la forme d’un pourcentage du total des frais (indiquer le pourcentage du total):
-
-4.7.3.3. La prise en charge des frais a été déterminée dans la décision et les montants exacts sont les suivants:
-
-4.7.3.3.1. Dépens:
-
-4.7.3.3.2. Honoraires d’avocat:
-
-4.7.3.3.3. Frais de notification ou de signification d’actes:
-
-4.7.3.3.4. Autres:
-
-4.7.3.4. Autre (préciser):
-
-4.7.4. Intérêts sur les frais:
-
-4.7.4.1. Sans objet
-
-4.7.4.2. Intérêts précisés dans la decision:
-
-4.7.4.2.1. montant:
-
-ou
-
-4.7.4.2.2. taux … %
-
-4.7.4.2.2.1. Intérêts échus à compter du [date (jj/mm/aaaa) ou événement] au [date (jj/mm/aaaa) ou événement] (6)
-
-4.7.4.3. Intérêts légaux (le cas échéant) à calculer conformément à (préciser la loi applicable):
-
-4.7.4.3.1. Intérêts échus à compter du [date (jj/mm/aaaa) ou événement] au [date (jj/mm/aaaa) ou événement] (6)
-
-4.7.4.4. Capitalisation des intérêts (le cas échéant, préciser):
-
-Fait à …
-
-Signature et/ou cachet de la juridiction d’origine:
-
-(1) Insérer les informations relatives à tous les demandeurs si la décision en concerne plus d’un.
-
-(2) Insérer les informations relatives à tous les défendeurs si la décision en concerne plus d’un.
-
-(3) Si la décision ne concerne que les frais relatifs à une créance qui a fait l’objet d’une décision antérieure, laisser le point 4.6.1. vierge et aller au point 4.7.
-
-(4) Si plusieurs personnes doivent faire un paiement, insérer les informations relatives à toutes les personnes.
-
-(5) Insérer les informations relatives à chaque échéance.
-
-(6) Insérer les informations relatives à toutes les périodes s’il y en a plus d’une.
-
-(7) Ce point couvre également les situations dans lesquelles les frais sont octroyés dans une décision distincte.
-
-(8) Insérer les informations relatives à toutes les personnes s’il y en a plus d’une.
-
-(9) Au cas où les frais pourraient être recouvrés auprès de plusieurs personnes, insérer la ventilation pour chaque personne séparément.
 
 <a id="annexe_ii"></a>
 
 ### ANNEXE II
 
-CERTIFICAT RELATIF À UN ACTE AUTHENTIQUE/UNE TRANSACTION JUDICIAIRE (1) EN MATIÈRE CIVILE ET COMMERCIALE
 
-Article 60 du règlement (UE) no 1215/2012 du Parlement européen et du Conseil concernant la compétence judiciaire, la reconnaissance et l’exécution des décisions en matière civile et commerciale
-
-1. JURIDICTION OU AUTORITÉ COMPÉTENTE DÉLIVRANT LE CERTIFICAT
-
-1.1. Nom:
-
-1.2. Adresse:
-
-1.2.1. Rue et numéro/boîte postale:
-
-1.2.2. Localité et code postal:
-
-1.2.3. État membre:
-
-AT BE BG CY CZ DK DE EE EL ES FI FR HR HU IE IT LT LU LV MT NL PL PT RO SE SI SK UK
-
-1.3. Téléphone:
-
-1.4. Fax:
-
-1.5. Courriel (le cas échéant):
-
-2. ACTE AUTHENTIQUE
-
-2.1. Autorité qui a dressé l’acte authentique (si différente de l’autorité délivrant le certificat)
-
-2.1.1. Nom et désignation de l’autorité:
-
-2.1.2. Adresse:
-
-2.2. Date (jj/mm/aaaa) à laquelle l’acte authentique a été dressé par l’autorité visée au point 2.1:
-
-2.3. Numéro de référence de l’acte authentique (le cas échéant):
-
-2.4. Date (jj/mm/aaaa) à laquelle l’acte authentique a été enregistré dans l’État membre d’origine (à remplir uniquement si la date d’enregistrement détermine l’effet juridique de l’acte et si cette date est différente de la date indiquée au point 2.2):
-
-2.4.1. Numéro de référence au registre (le cas échéant):
-
-3. TRANSACTION JUDICIAIRE
-
-3.1. Juridiction qui a approuvé la transaction judiciaire ou devant laquelle la transaction judiciaire a été conclue (si différente de la juridiction délivrant le certificat)
-
-3.1.1. Nom de la juridiction:
-
-3.1.2. Adresse:
-
-3.2. Date (jj/mm/aaaa) de la transaction judiciaire:
-
-3.3. Numéro de référence de la transaction judiciaire:
-
-4. PARTIES À L’ACTE AUTHENTIQUE/À LA TRANSACTION JUDICIAIRE
-
-4.1. Nom(s) du (des) créancier(s) [nom et prénom(s)/dénomination de la société ou de l’organisation] (2):
-
-4.1.1. Numéro d’identification (le cas échéant et si disponible):
-
-4.1.2. Date (jj/mm/aaaa) et lieu de naissance ou, s’il s’agit d’une personne morale, d’acquisition de la personnalité morale/de constitution/d’immatriculation (le cas échéant et si disponible):
-
-4.2. Nom(s) du (des) débiteur(s) [nom et prénom(s)/dénomination de la société ou de l’organisation] (3):
-
-4.2.1. Numéro d’identification (le cas échéant et si disponible):
-
-4.2.2. Date (jj/mm/aaaa) et lieu de naissance ou, s’il s’agit d’une personne morale, d’acquisition de la personnalité morale/de constitution/d’immatriculation (le cas échéant et si disponible):
-
-4.3. Nom(s) de l’autre (des autres) partie(s), le cas échéant [nom et prénom(s)/dénomination de la société ou de l’organisation] (4):
-
-4.3.1. Numéro d’identification (le cas échéant et si disponible):
-
-4.3.2. Date (jj/mm/aaaa) et lieu de naissance ou, s’il s’agit d’une personne morale, d’acquisition de la personnalité morale/de constitution/d’immatriculation (le cas échéant et si disponible):
-
-5. FORCE EXÉCUTOIRE DE L’ACTE AUTHENTIQUE/DE LA TRANSACTION JUDICIAIRE DANS L’ÉTAT MEMBRE D’ORIGINE
-
-5.1. L’acte authentique/la transaction judiciaire est exécutoire dans l’État membre d’origine:
-
-5.1.1. Oui
-
-5.2. Termes de l’acte authentique/de la transaction judiciaire et intérêts
-
-5.2.1. Acte authentique/transaction judiciaire concernant une créance pécuniaire
-
-5.2.1.1. Brève description de l’objet:
-
-5.2.1.2. En vertu de l’acte authentique/de la transaction judiciaire:
-
-[nom et prénom(s)/dénomination de la société ou de l’organisation] (5)
-
-doit payer à:
-
-[nom et prénom(s)/dénomination de la société ou de l’organisation]
-
-5.2.1.2.1. Si plusieurs personnes sont tenues à une seule et même obligation, le montant peut être recouvré dans son intégralité auprès de l’une d’entre elles:
-
-5.2.1.2.1.1. Oui
-
-5.2.1.2.1.2. Non
-
-5.2.1.3. Monnaie:
-
-euro (EUR) lev bulgare (BGN) couronne tchèque (CZK) couronne danoise (DKK) kuna croate (HRK) forint hongrois (HUF) zloty polonais (PLN) livre Sterling (GBP) leu roumain (RON) couronne suédoise (SEK) Autre [préciser (code ISO)]:
-
-5.2.1.4. Montant principal:
-
-5.2.1.4.1. Montant à payer en une seule somme
-
-5.2.1.4.2. Montant à verser en plusieurs fois (6)
-
-Date d’échéance (jj/mm/aaaa)
-
-Montant
-
-5.2.1.4.3. Montant à payer périodiquement
-
-5.2.1.4.3.1. par jour
-
-5.2.1.4.3.2. par semaine
-
-5.2.1.4.3.3. autre (préciser la périodicité):
-
-5.2.1.4.3.4. À partir du (jj/mm/aaaa) ou de l’événement:
-
-5.2.1.4.3.5. Le cas échéant, jusqu’au [date (jj/mm/aaaa) ou événement]
-
-5.2.1.5. Intérêts, le cas échéant
-
-5.2.1.5.1. Intérêts:
-
-5.2.1.5.1.1. Non précisé dans l’acte authentique/la transaction judiciaire
-
-5.2.1.5.1.2. Oui, précisé comme suit dans l’acte authentique/la transaction judiciaire:
-
-5.2.1.5.1.2.1. montant:
-
-ou
-
-5.2.1.5.1.2.2. taux … %
-
-5.2.1.5.1.2.3. Intérêts échus à compter du [date (jj/mm/aaaa) ou événement] au [date (jj/mm/aaaa) ou événement] (7)
-
-5.2.1.5.2. Intérêts légaux (le cas échéant) à calculer conformément à (préciser la loi applicable):
-
-5.2.1.5.2.1. Intérêts échus à compter du [date (jj/mm/aaaa) ou événement] au [date (jj/mm/aaaa) ou événement] (7)
-
-5.2.1.5.3. Capitalisation des intérêts (le cas échéant, préciser):
-
-5.2.2. Acte authentique/transaction judiciaire concernant une obligation exécutoire non pécuniaire:
-
-5.2.2.1. Brève description de l’obligation exécutoire:
-
-5.2.2.2. L’obligation visée au point 5.2.2.1. est exécutoire à l’encontre de la (des) personne(s) suivante(s) (8) [nom et prénom(s)/nom de l’entreprise ou de l’organisation]:
-
-Fait à …
-
-Cachet et/ou signature de la juridiction ou de l’autorité compétente qui délivre le certificat:
-
-(1) Supprimer les mentions inutiles dans le certificat.
-
-(2) Insérer les informations relatives à tous les créanciers s’il y en a plus d’un.
-
-(3) Insérer les informations relatives à tous les débiteurs s’il y en a plus d’un.
-
-(4) Insérer les informations relatives à toutes les autres parties (le cas échéant).
-
-(5) Si plusieurs personnes doivent faire un paiement, insérer les informations relatives à toutes les personnes.
-
-(6) Insérer les informations relatives à chaque échéance.
-
-(7) Insérer les informations relatives à toutes les périodes s’il y en a plus d’une.
-
-(8) Insérer les informations relatives à toutes les personnes s’il y en a plus d’une.
 
 <a id="annexe_iii"></a>
 
@@ -1410,14 +912,14 @@ Cachet et/ou signature de la juridiction ou de l’autorité compétente qui dé
 
 **TABLEAU DE CORRESPONDANCE**
 
-| Règlement (CE) n^o 44/2001 | Présent règlement |
+| Règlement (CE) no 44/2001 | Présent règlement |
 | --- | --- |
-| Article 1^er, paragraphe 1 | Article 1^er, paragraphe 1 |
-| Article 1^er, paragraphe 2, phrase introductive | Article 1^er, paragraphe 2, phrase introductive |
-| Article 1^er, paragraphe 2, point a) | Article 1^er, paragraphe 2, points a) et f) |
-| Article 1^er, paragraphe 2, points b) à d) | Article 1^er, paragraphe 2, points b) à d) |
-| — | Article 1^er, paragraphe 2, point e) |
-| Article 1^er, paragraphe 3 | — |
+| Article 1er, paragraphe 1 | Article 1er, paragraphe 1 |
+| Article 1er, paragraphe 2, phrase introductive | Article 1er, paragraphe 2, phrase introductive |
+| Article 1er, paragraphe 2, point a) | Article 1er, paragraphe 2, points a) et f) |
+| Article 1er, paragraphe 2, points b) à d) | Article 1er, paragraphe 2, points b) à d) |
+| — | Article 1er, paragraphe 2, point e) |
+| Article 1er, paragraphe 3 | — |
 | — | Article 2 |
 | Article 2 | Article 4 |
 | Article 3 | Article 5 |
@@ -1546,3 +1048,9 @@ Cachet et/ou signature de la juridiction ou de l’autorité compétente qui dé
 | Annexe V | Annexes I et II |
 | Annexe VI | Annexe II |
 | — | Annexe III |
+
+(1) JO L 335 du 17.12.2009, p. 1.
+
+(2) JO L 324 du 10.12.2007, p. 79.
+
+(3) JO L 174 du 27.6.2001, p. 25.

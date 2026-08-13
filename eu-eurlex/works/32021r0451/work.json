@@ -22,49 +22,49 @@
       "valid_from": "2021-03-19",
       "valid_to": "2022-03-02",
       "language": "en",
-      "provisions": 50
+      "provisions": 62
     },
     {
       "valid_from": "2021-03-19",
       "valid_to": "2022-03-02",
       "language": "fr",
-      "provisions": 50
+      "provisions": 62
     },
     {
       "valid_from": "2022-03-03",
       "valid_to": "2023-07-10",
       "language": "en",
-      "provisions": 50
+      "provisions": 62
     },
     {
       "valid_from": "2022-03-03",
       "valid_to": "2023-07-10",
       "language": "fr",
-      "provisions": 50
+      "provisions": 62
     },
     {
       "valid_from": "2023-07-11",
       "valid_to": "2024-08-31",
       "language": "en",
-      "provisions": 50
+      "provisions": 23
     },
     {
       "valid_from": "2023-07-11",
       "valid_to": "2024-08-31",
       "language": "fr",
-      "provisions": 50
+      "provisions": 23
     },
     {
       "valid_from": "2024-09-01",
       "valid_to": null,
       "language": "en",
-      "provisions": 53
+      "provisions": 24
     },
     {
       "valid_from": "2024-09-01",
       "valid_to": null,
       "language": "fr",
-      "provisions": 53
+      "provisions": 24
     }
   ],
   "anchors": [
@@ -92,11 +92,9 @@
     "annexe_xxii",
     "annexe_xxiii",
     "annexe_xxiv",
-    "annexe_xxix",
     "annexe_xxv",
     "annexe_xxvi",
     "annexe_xxvii",
-    "annexe_xxviii",
     "anx_i",
     "anx_ii",
     "anx_iii",
@@ -121,11 +119,9 @@
     "anx_xxii",
     "anx_xxiii",
     "anx_xxiv",
-    "anx_xxix",
     "anx_xxv",
     "anx_xxvi",
     "anx_xxvii",
-    "anx_xxviii",
     "art_1",
     "art_10",
     "art_11",
@@ -139,7 +135,6 @@
     "art_19",
     "art_2",
     "art_20",
-    "art_20_bis",
     "art_20a",
     "art_21",
     "art_22",
@@ -151,7 +146,31 @@
     "art_7",
     "art_8",
     "art_9",
-    "art_premier"
+    "art_premier",
+    "declaration_du_ratio_de_levier",
+    "declaration_relative_a_la_capacite_de_reequilibrage",
+    "declaration_relative_au_tableau_d_echeances_amm",
+    "declaration_relative_aux_fonds_propres_et_exigences_de_fonds_propres",
+    "declarations_supplementaires_aux_fins_de_l_identification_des_eism_et_de_l_attribution_des_taux_de_coussin_correspondants",
+    "instruction_for_reporting_on_asset_encumbrance",
+    "instructions_for_completing_liquidity_templates_of_annex_xxiv",
+    "instructions_for_reporting_on_additional_liquidity_monitoring_metrics",
+    "instructions_for_reporting_on_concentration_of_counterbalancing_capacity",
+    "instructions_pour_completer_les_modeles_de_declaration_en_matiere_de_liquidite_de_l_annexe_xxiv",
+    "instructions_pour_la_declaration_des_charges_grevant_les_actifs",
+    "instructions_pour_la_declaration_relative_a_la_capacite_de_reequilibrage",
+    "instructions_pour_les_declarations_concernant_les_elements_du_suivi_de_la_liquidite_supplementaires",
+    "modele_de_points_de_donnees_unique",
+    "modeles_de_declaration_des_grands_risques_et_du_risque_de_concentration",
+    "regles_de_validation",
+    "reporting_on_amm_maturity_ladder",
+    "reporting_on_counterbalancing_capacity",
+    "reporting_on_leverage",
+    "reporting_on_own_funds_and_own_funds_requirements",
+    "single_data_point_model",
+    "supplementary_reporting_for_the_purpose_of_identifying_and_assigning_g_sii_buffer_rates",
+    "templates_for_reporting_large_exposures_and_concentration_risk",
+    "validation_rules"
   ],
   "relations": {
     "amends": [],

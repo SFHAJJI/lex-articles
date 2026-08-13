@@ -22,25 +22,25 @@
       "valid_from": "2014-05-01",
       "valid_to": "2022-03-12",
       "language": "en",
-      "provisions": 43
+      "provisions": 39
     },
     {
       "valid_from": "2014-05-01",
       "valid_to": "2022-03-12",
       "language": "fr",
-      "provisions": 43
+      "provisions": 39
     },
     {
       "valid_from": "2022-03-13",
       "valid_to": null,
       "language": "en",
-      "provisions": 43
+      "provisions": 38
     },
     {
       "valid_from": "2022-03-13",
       "valid_to": null,
       "language": "fr",
-      "provisions": 43
+      "provisions": 46
     }
   ],
   "anchors": [
@@ -48,10 +48,6 @@
     "annexe_b",
     "annexe_c",
     "annexe_d",
-    "anx_a",
-    "anx_b",
-    "anx_c",
-    "anx_d",
     "art_1",
     "art_10",
     "art_11",
@@ -91,7 +87,11 @@
     "art_7",
     "art_8",
     "art_9",
-    "art_premier"
+    "art_premier",
+    "confirmation_de_la_reception_d_une_decision_d_enquete_europeenne",
+    "decision_d_enquete_europeenne",
+    "les_categories_d_infractions_visees_a_l_article_11",
+    "notification"
   ],
   "relations": {
     "amends": [],

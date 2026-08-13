@@ -4,13 +4,15 @@ title: 'Regulation (EU) 2018/858'
 valid_from: '2023-07-30'
 valid_to: '2024-05-27'
 source: 'https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0858-20230730'
-source_sha256: '731ebbb87f204b77a1df7d2ca5e933f40673b267e4025a316d7db19006bd2706'
+source_sha256: '2f05ecb34e9184f3b5ca2a7a3511ff9651a7848f884ab0975abb1b4a95d70cfa'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
-## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+## CHAPTER I
+
+### **SUBJECT MATTER, SCOPE AND DEFINITIONS**
 
 <a id="art_1"></a>
 
@@ -28,31 +30,13 @@ This Regulation also lays down provisions for the placing on the market and the 
 
 **1.** This Regulation applies to motor vehicles of categories M and N and their trailers of category O, that are intended to be used on public roads, including those designed and constructed in one or more stages, and to systems, components and separate technical units, as well as to parts and equipment, designed and constructed for such vehicles and their trailers.
 
-**2.** This Regulation does not apply to the following vehicles:
+**2.** This Regulation does not apply to the following vehicles:(a) agricultural or forestry vehicles, as defined in Regulation (EU) No 167/2013 of the European Parliament and of the Council (1);(b) two- or three-wheel vehicles and quadricycles, as defined in Regulation (EU) No 168/2013 of the European Parliament and of the Council (2);(c) track-laying vehicles;(d) vehicles designed and constructed or adapted for use by the armed services only.
 
-(a) agricultural or forestry vehicles, as defined in Regulation (EU) No 167/2013 of the European Parliament and of the Council;
+**3.** For the following vehicles, the manufacturer may apply for type-approval or individual vehicle approval under this Regulation, provided that those vehicles fulfil the requirements of this Regulation:(a) vehicles designed and constructed for use principally on construction sites or in quarries, port or airport facilities;(b) vehicles designed and constructed or adapted for use by civil protection, fire services and forces responsible for maintaining public order;(c) any self-propelled vehicle designed and constructed specifically to perform work and that, because of its construction characteristics, is not suitable for carrying passengers or for transporting goods, and that is not machinery mounted on a motor vehicle chassis.
 
-(b) two- or three-wheel vehicles and quadricycles, as defined in Regulation (EU) No 168/2013 of the European Parliament and of the Council;
+Such approvals shall be without prejudice to the application of Directive 2006/42/EC of the European Parliament and of the Council (3).
 
-(c) track-laying vehicles;
-
-(d) vehicles designed and constructed or adapted for use by the armed services only.
-
-**3.** For the following vehicles, the manufacturer may apply for type-approval or individual vehicle approval under this Regulation, provided that those vehicles fulfil the requirements of this Regulation:
-
-(a) vehicles designed and constructed for use principally on construction sites or in quarries, port or airport facilities;
-
-(b) vehicles designed and constructed or adapted for use by civil protection, fire services and forces responsible for maintaining public order;
-
-(c) any self-propelled vehicle designed and constructed specifically to perform work and that, because of its construction characteristics, is not suitable for carrying passengers or for transporting goods, and that is not machinery mounted on a motor vehicle chassis.
-
-Such approvals shall be without prejudice to the application of Directive 2006/42/EC of the European Parliament and of the Council.
-
-**4.** For the following vehicles, the manufacturer may apply for individual vehicle approval under this Regulation:
-
-(a) vehicles intended exclusively for racing on roads;
-
-(b) prototypes of vehicles used on the road under the responsibility of a manufacturer to perform a specific test programme provided they have been specifically designed and constructed for that purpose.
+**4.** For the following vehicles, the manufacturer may apply for individual vehicle approval under this Regulation:(a) vehicles intended exclusively for racing on roads;(b) prototypes of vehicles used on the road under the responsibility of a manufacturer to perform a specific test programme provided they have been specifically designed and constructed for that purpose.
 
 <a id="art_3"></a>
 
@@ -180,19 +164,15 @@ For the purposes of this Regulation and the regulatory acts listed in Annex II, 
 
 ### Article 4 — Vehicle categories
 
-**1.** For the purposes of this Regulation, the following vehicle categories shall apply:
-
-(a) Category M consists of motor vehicles designed and constructed primarily for the carriage of passengers and their luggage, divided into: (i)Category M_1motor vehicles with not more than eight seating positions in addition to the driver's seating position and without space for standing passengers, regardless of whether the number of seating positions is restricted to the driver's seating position;(ii)Category M_2motor vehicles with more than eight seating positions in addition to the driver's seating position and having a maximum mass not exceeding 5 tonnes, regardless of whether those motor vehicles have space for standing passengers; and(iii)Category M_3motor vehicles with more than eight seating positions in addition to the driver's seating position and having a maximum mass exceeding 5 tonnes, regardless of whether those motor vehicles have space for standing passengers;
-
-(b) Category N consists of motor vehicles designed and constructed primarily for the carriage of goods, divided into: (i)Category N_1motor vehicles with a maximum mass not exceeding 3,5 tonnes;(ii)Category N_2motor vehicles with a maximum mass exceeding 3,5 tonnes but not exceeding 12 tonnes; and(iii)Category N_3motor vehicles with a maximum mass exceeding 12 tonnes;
-
-(c) Category O consists of trailers, divided into: (i)Category O_1trailers with a maximum mass not exceeding 0,75 tonnes;(ii)Category O_2trailers with a maximum mass exceeding 0,75 tonnes but not exceeding 3,5 tonnes;(iii)Category O_3trailers with a maximum mass exceeding 3,5 tonnes but not exceeding 10 tonnes; and(iv)Category O_4trailers with a maximum mass exceeding 10 tonnes.
+**1.** For the purposes of this Regulation, the following vehicle categories shall apply:(a) Category M consists of motor vehicles designed and constructed primarily for the carriage of passengers and their luggage, divided into:(i)Category M1 : motor vehicles with not more than eight seating positions in addition to the driver's seating position and without space for standing passengers, regardless of whether the number of seating positions is restricted to the driver's seating position;(ii)Category M2 : motor vehicles with more than eight seating positions in addition to the driver's seating position and having a maximum mass not exceeding 5 tonnes, regardless of whether those motor vehicles have space for standing passengers; and(iii)Category M3 : motor vehicles with more than eight seating positions in addition to the driver's seating position and having a maximum mass exceeding 5 tonnes, regardless of whether those motor vehicles have space for standing passengers;(b) Category N consists of motor vehicles designed and constructed primarily for the carriage of goods, divided into:(i)Category N1 : motor vehicles with a maximum mass not exceeding 3,5 tonnes;(ii)Category N2 : motor vehicles with a maximum mass exceeding 3,5 tonnes but not exceeding 12 tonnes; and(iii)Category N3 : motor vehicles with a maximum mass exceeding 12 tonnes;(c) Category O consists of trailers, divided into:(i)Category O1 : trailers with a maximum mass not exceeding 0,75 tonnes;(ii)Category O2 : trailers with a maximum mass exceeding 0,75 tonnes but not exceeding 3,5 tonnes;(iii)Category O3 : trailers with a maximum mass exceeding 3,5 tonnes but not exceeding 10 tonnes; and(iv)Category O4 : trailers with a maximum mass exceeding 10 tonnes.
 
 **2.** The criteria for the categorisation of vehicles, types of vehicle, variants and versions are set out in Annex I.
 
 The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annex I in relation to the types of vehicle and types of bodywork to take account of technical progress.
 
-## CHAPTER II — GENERAL OBLIGATIONS
+## CHAPTER II
+
+### **GENERAL OBLIGATIONS**
 
 <a id="art_5"></a>
 
@@ -200,13 +180,7 @@ The Commission is empowered to adopt delegated acts in accordance with Article 8
 
 **1.** Vehicles, systems, components and separate technical units shall comply with the requirements of the regulatory acts listed in Annex II.
 
-**2.** Vehicles, systems, components and separate technical units shall be considered not to comply with this Regulation in the following cases in particular:
-
-(a) if they deviate from the particulars in the EU type-approval certificates and their attachments or from the descriptive particulars in the test reports more than is permitted in the relevant regulatory act;
-
-(b) if the performance criteria or limit values for series production laid down in the relevant regulatory act have not been fulfilled under all the conditions set out in the relevant regulatory act;
-
-(c) if any information given by the manufacturer in the information document is not reproducible under all the conditions set out in the relevant regulatory act by approval authorities, market surveillance authorities or the Commission.
+**2.** Vehicles, systems, components and separate technical units shall be considered not to comply with this Regulation in the following cases in particular:(a) if they deviate from the particulars in the EU type-approval certificates and their attachments or from the descriptive particulars in the test reports more than is permitted in the relevant regulatory act;(b) if the performance criteria or limit values for series production laid down in the relevant regulatory act have not been fulfilled under all the conditions set out in the relevant regulatory act;(c) if any information given by the manufacturer in the information document is not reproducible under all the conditions set out in the relevant regulatory act by approval authorities, market surveillance authorities or the Commission.
 
 Only checks, tests, inspections and assessments conducted by or carried out on behalf of the approval authorities, market surveillance authorities or the Commission shall be taken into account when assessing compliance for the purposes of this paragraph.
 
@@ -230,7 +204,7 @@ Member States shall ensure that their own approval authorities and market survei
 
 **5.** Member States shall not prohibit, restrict or impede the placing on the market, the registration or the entry into service of vehicles, systems, components or separate technical units that comply with this Regulation, except in the cases provided for in Chapter XI.
 
-By way of derogation from the first subparagraph of this paragraph, Member States may decide not to allow the circulation on the road, the placing on the market, the registration or the entry into service of vehicles that have been type-approved in accordance with this Regulation, but that exceed the harmonised dimensions, weights and axle loads laid down in Annex I to Council Directive 96/53/EC.
+By way of derogation from the first subparagraph of this paragraph, Member States may decide not to allow the circulation on the road, the placing on the market, the registration or the entry into service of vehicles that have been type-approved in accordance with this Regulation, but that exceed the harmonised dimensions, weights and axle loads laid down in Annex I to Council Directive 96/53/EC (4).
 
 **6.** Member States shall organise and carry out market surveillance and controls of vehicles, systems, components and separate technical units entering the market, in accordance with this Regulation and Chapter III of Regulation (EC) No 765/2008.
 
@@ -278,7 +252,7 @@ When carrying out such checks, market surveillance authorities shall take accoun
 
 (c) any other relevant information, including the information exchanged in the Forum and testing results published by recognised third parties that meet the requirements laid down by the implementing acts referred to in Article 13(10).
 
-**2.** Without prejudice to paragraph 1, the market surveillance authorities of each Member State shall carry out at least a minimum number of tests on vehicles per year. That minimum number of tests per Member State shall be one for every 40000 new motor vehicles registered in that Member State in the preceding year, but shall not be less than five tests.
+**2.** Without prejudice to paragraph 1, the market surveillance authorities of each Member State shall carry out at least a minimum number of tests on vehicles per year. That minimum number of tests per Member State shall be one for every 40 000 new motor vehicles registered in that Member State in the preceding year, but shall not be less than five tests.
 
 Each test shall verify compliance with the applicable regulatory acts listed in Annex II.
 
@@ -390,31 +364,7 @@ Whenever appropriate, technical services, recognised third parties that meet the
 
 The advisory tasks of the Forum shall have as their objective the promotion of best practices in order to facilitate the uniform interpretation and implementation of this Regulation, the exchange of information on enforcement problems, cooperation, in particular regarding the assessment, designation and monitoring of technical services, the development of working methods and tools, the development of an electronic information exchange procedure, and the evaluation of harmonised enforcement projects and penalties.
 
-**2.** The Forum shall consider:
-
-(a) matters related to the uniform interpretation of the requirements laid down in this Regulation and in the regulatory acts listed in Annex II during implementation of those requirements;
-
-(b) the results of the activities relating to type-approval and market surveillance that were carried out by Member States in accordance with Article 6(8) and (9);
-
-(c) the results of tests and inspections carried out by the Commission in accordance with Article 9;
-
-(d) the assessments carried out by the Commission in accordance with Article 10;
-
-(e) test reports regarding possible non-compliance presented by recognised third parties that meet the requirements laid down by the implementing acts referred to in Article 13(10);
-
-(f) the results of the conformity of production activities carried out by approval authorities in accordance with Article 31;
-
-(g) the information submitted by Member States under Article 67(6) on their procedures for the assessment, designation and notification of technical services and for the monitoring of technical services;
-
-(h) matters of general relevance with regard to the implementation of the requirements laid down in this Regulation in relation to the assessment, designation and monitoring of technical services in accordance with Articles 67(10) and 78(4);
-
-(i) infringements by economic operators;
-
-(j) implementation of the corrective or restrictive measures laid down in Chapter XI;
-
-(k) the planning, coordination and results of market surveillance activities;
-
-(l) matters regarding access to vehicle OBD information and vehicle repair and maintenance information set out in Chapter XIV and, in particular, matters regarding the implementation of the procedures established under Article 65.
+**2.** The Forum shall consider:(a) matters related to the uniform interpretation of the requirements laid down in this Regulation and in the regulatory acts listed in Annex II during implementation of those requirements;(b) the results of the activities relating to type-approval and market surveillance that were carried out by Member States in accordance with Article 6(8) and (9);(c) the results of tests and inspections carried out by the Commission in accordance with Article 9;(d) the assessments carried out by the Commission in accordance with Article 10;(e) test reports regarding possible non-compliance presented by recognised third parties that meet the requirements laid down by the implementing acts referred to in Article 13(10);(f) the results of the conformity of production activities carried out by approval authorities in accordance with Article 31;(g) the information submitted by Member States under Article 67(6) on their procedures for the assessment, designation and notification of technical services and for the monitoring of technical services;(h) matters of general relevance with regard to the implementation of the requirements laid down in this Regulation in relation to the assessment, designation and monitoring of technical services in accordance with Articles 67(10) and 78(4);(i) infringements by economic operators;(j) implementation of the corrective or restrictive measures laid down in Chapter XI;(k) the planning, coordination and results of market surveillance activities;(l) matters regarding access to vehicle OBD information and vehicle repair and maintenance information set out in Chapter XIV and, in particular, matters regarding the implementation of the procedures established under Article 65.
 
 **3.** On the basis of the reports submitted by Member States in accordance with Article 8(7), the Commission shall make a summary report on market surveillance activities publicly available on a two-yearly basis.
 
@@ -434,7 +384,7 @@ When expressing an opinion or issuing recommendations the Forum shall endeavour 
 
 **1.** The Commission and the Member States shall use the common secure electronic exchange system referred to in Article 27 for EU type-approval certificates and their attachments referred to in Article 28(1), including for any test reports as well as amendments, refusals or withdrawals of any EU type-approval.
 
-The Commission and Member States shall use the Rapid Information System (RAPEX), established under Directive 2001/95/EC of the European Parliament and of the Council and the Information and Communication System on Market Surveillance (ICSMS), established under Regulation (EC) No 765/2008 for market surveillance, recalls and other relevant activities between market surveillance authorities, Member States and the Commission.
+The Commission and Member States shall use the Rapid Information System (RAPEX), established under Directive 2001/95/EC of the European Parliament and of the Council (5) and the Information and Communication System on Market Surveillance (ICSMS), established under Regulation (EC) No 765/2008 for market surveillance, recalls and other relevant activities between market surveillance authorities, Member States and the Commission.
 
 **2.** From 5 July 2026, Member States shall make accessible to the public, by vehicle identification number, the certificate of conformity of each vehicle as structured data in electronic format in the common secure electronic exchange system, in accordance with Article 37.
 
@@ -502,17 +452,7 @@ Manufacturers shall, following a reasoned request from a national authority, coo
 
 ### Article 15 — Obligations of manufacturer's representatives
 
-**1.** The manufacturer's representative shall perform the tasks specified in the mandate received from the manufacturer. That mandate shall at least, provide for the representative to:
-
-(a) have access to the EU type-approval certificate and its attachments referred to in Article 28(1), and to the certificate of conformity in one of the official Union languages; such documentation shall be made available to the approval authorities and to the market surveillance authorities for a period of 10 years after the end of the validity of the EU type-approval of a vehicle and for a period of five years after the end of validity of the EU type-approval of a system, component or separate technical unit;
-
-(b) provide an approval authority, following a reasoned request from that authority, with all information, documentation and any other technical specifications, including access to software and algorithms, that are necessary to demonstrate the conformity of production of a vehicle, system, component or separate technical unit;
-
-(c) cooperate with the approval authorities or the market surveillance authorities, at their request, on any action taken to eliminate the serious risk posed by vehicles, systems, components, separate technical units, parts or equipment covered by that mandate;
-
-(d) immediately inform the manufacturer about complaints and reports relating to risks, suspected incidents or non-compliance issues that relate to vehicles, systems, components, separate technical units, parts or equipment covered by that mandate;
-
-(e) have the right to terminate the mandate without penalty if the manufacturer acts contrary to its obligations under this Regulation.
+**1.** The manufacturer's representative shall perform the tasks specified in the mandate received from the manufacturer. That mandate shall at least, provide for the representative to:(a) have access to the EU type-approval certificate and its attachments referred to in Article 28(1), and to the certificate of conformity in one of the official Union languages; such documentation shall be made available to the approval authorities and to the market surveillance authorities for a period of 10 years after the end of the validity of the EU type-approval of a vehicle and for a period of five years after the end of validity of the EU type-approval of a system, component or separate technical unit;(b) provide an approval authority, following a reasoned request from that authority, with all information, documentation and any other technical specifications, including access to software and algorithms, that are necessary to demonstrate the conformity of production of a vehicle, system, component or separate technical unit;(c) cooperate with the approval authorities or the market surveillance authorities, at their request, on any action taken to eliminate the serious risk posed by vehicles, systems, components, separate technical units, parts or equipment covered by that mandate;(d) immediately inform the manufacturer about complaints and reports relating to risks, suspected incidents or non-compliance issues that relate to vehicles, systems, components, separate technical units, parts or equipment covered by that mandate;(e) have the right to terminate the mandate without penalty if the manufacturer acts contrary to its obligations under this Regulation.
 
 **2.** A manufacturer's representative who terminates the mandate on the grounds referred to in point (e) of paragraph 1 shall immediately inform both the approval authority that granted the type-approval and the Commission.
 
@@ -610,19 +550,15 @@ Upon a request of an approval authority or a market surveillance authority, for 
 
 (b) the identity of any economic operator to which they have supplied a vehicle, system, component, separate technical unit, part or equipment.
 
-## CHAPTER III — PROCEDURES FOR EU TYPE-APPROVAL
+## CHAPTER III
+
+### **PROCEDURES FOR EU TYPE-APPROVAL**
 
 <a id="art_22"></a>
 
 ### Article 22 — Procedures for EU type-approval
 
-**1.** Where applying for a whole-vehicle type-approval, the manufacturer may choose one of the following procedures:
-
-(a) step-by-step type-approval;
-
-(b) single-step type-approval;
-
-(c) mixed type-approval.
+**1.** Where applying for a whole-vehicle type-approval, the manufacturer may choose one of the following procedures:(a) step-by-step type-approval;(b) single-step type-approval;(c) mixed type-approval.
 
 In addition, the manufacturer may choose a multi-stage type-approval for an incomplete or completed vehicle.
 
@@ -656,15 +592,7 @@ A new application may not be submitted in another Member State in respect of the
 
 The approval authority shall reject an application for a type-approval of a different type designation or of a modification with respect to a previous application where the changes are not sufficient to constitute a new type of vehicle, system, component or separate technical unit.
 
-**3.** An application for an EU type-approval of a particular type of vehicle, system, component or separate technical unit shall include a declaration by the manufacturer certifying, in accordance with the second subparagraph of paragraph 2 that:
-
-(a) the manufacturer has not applied for an EU type-approval for the same type to any other approval authority, and no other approval authority granted the manufacturer such an approval;
-
-(b) no approval authority has refused to grant type-approval of that type;
-
-(c) no approval authority has withdrawn type-approval of that type; and
-
-(d) the manufacturer has not revoked an application for a type-approval of that type.
+**3.** An application for an EU type-approval of a particular type of vehicle, system, component or separate technical unit shall include a declaration by the manufacturer certifying, in accordance with the second subparagraph of paragraph 2 that:(a) the manufacturer has not applied for an EU type-approval for the same type to any other approval authority, and no other approval authority granted the manufacturer such an approval;(b) no approval authority has refused to grant type-approval of that type;(c) no approval authority has withdrawn type-approval of that type; and(d) the manufacturer has not revoked an application for a type-approval of that type.
 
 **4.** A separate application shall be submitted for each type of vehicle, system, component or separate technical unit to be approved.
 
@@ -672,15 +600,7 @@ The approval authority shall reject an application for a type-approval of a diff
 
 ### Article 24 — Information folder
 
-**1.** The information folder shall include the following:
-
-(a) an information document, in accordance with the template laid down in the implementing acts referred to in paragraph 4, for single-step type-approval or mixed whole-vehicle type-approval or for step-by-step whole-vehicle type-approval or, in the case of the type-approval of a system, component or separate technical unit, in accordance with the relevant regulatory act listed in Annex II;
-
-(b) all data, drawings, photographs and other relevant information;
-
-(c) for vehicles, an indication of the procedure or procedures chosen in accordance with Article 22(1);
-
-(d) any additional information requested by the approval authority in the context of the EU type-approval procedure.
+**1.** The information folder shall include the following:(a) an information document, in accordance with the template laid down in the implementing acts referred to in paragraph 4, for single-step type-approval or mixed whole-vehicle type-approval or for step-by-step whole-vehicle type-approval or, in the case of the type-approval of a system, component or separate technical unit, in accordance with the relevant regulatory act listed in Annex II;(b) all data, drawings, photographs and other relevant information;(c) for vehicles, an indication of the procedure or procedures chosen in accordance with Article 22(1);(d) any additional information requested by the approval authority in the context of the EU type-approval procedure.
 
 **2.** The information document referred to in point (a) of paragraph 1 for whole-vehicle type-approval shall contain a complete set of information on the characteristics of the type of vehicle that is necessary for the approval authority to identify the type of vehicle and to properly conduct the type-approval procedure.
 
@@ -700,11 +620,7 @@ In the case of a system type-approval, a component type-approval or a separate t
 
 For systems for which no EU type-approval certificate or UN type-approval certificate has been presented, the application shall be accompanied, in addition to the information folder referred to in Article 24, by the information required for the approval of those systems during the vehicle approval phase, and by a test report instead of the EU type-approval certificate or UN type-approval certificate.
 
-**3.** An application for a multi-stage type-approval shall be accompanied by the following information:
-
-(a) in the first stage, by those parts of the information folder and the EU type-approval certificates, UN type-approval certificates or, if applicable, the test reports, that are relevant to the state of completion of the base vehicle;
-
-(b) in the second and subsequent stages, by those parts of the information folder and the EU type-approval certificates or UN type-approval certificates that are relevant to the current stage of completion, together with a copy of the EU whole-vehicle type-approval certificate that was issued at the preceding stage of construction, as well as full details of any changes or additions that the manufacturer has made to the vehicle.
+**3.** An application for a multi-stage type-approval shall be accompanied by the following information:(a) in the first stage, by those parts of the information folder and the EU type-approval certificates, UN type-approval certificates or, if applicable, the test reports, that are relevant to the state of completion of the base vehicle;(b) in the second and subsequent stages, by those parts of the information folder and the EU type-approval certificates or UN type-approval certificates that are relevant to the current stage of completion, together with a copy of the EU whole-vehicle type-approval certificate that was issued at the preceding stage of construction, as well as full details of any changes or additions that the manufacturer has made to the vehicle.
 
 The information specified in this paragraph shall be supplied in accordance with Article 24(3).
 
@@ -712,7 +628,9 @@ The information specified in this paragraph shall be supplied in accordance with
 
 The approval authority and technical services may also require the manufacturer to supply documentation or any additional information needed to allow the approval authority or technical services to develop an appropriate level of understanding of the systems, including the system development process and the system concept, as well as the functions of software and algorithms that are necessary to verify compliance with the requirements of this Regulation, to take a decision on which tests are required or to facilitate the execution of those tests.
 
-## CHAPTER IV — CONDUCT OF PROCEDURES FOR EU TYPE-APPROVAL
+## CHAPTER IV
+
+### **CONDUCT OF PROCEDURES FOR EU TYPE-APPROVAL**
 
 <a id="art_26"></a>
 
@@ -720,15 +638,7 @@ The approval authority and technical services may also require the manufacturer 
 
 **1.** For each type of vehicle, system, component or separate technical unit, only one EU type-approval may be granted.
 
-**2.** An approval authority, having received an application in accordance with Article 23, shall only grant an EU type-approval after having verified all of the following:
-
-(a) the conformity of production arrangements referred to in Article 31;
-
-(b) that the declaration referred to in Article 23(3) has been submitted;
-
-(c) the compliance of the type of vehicle, system, component or separate technical unit with the applicable requirements;
-
-(d) in the case of whole-vehicle type-approvals in accordance with the step-by-step, mixed or multi-stage type-approval procedures, the approval authority shall verify, in accordance with Article 22(4), that the systems, components and separate technical units are covered by separate and valid type-approvals that have been granted pursuant to the requirements applicable at the time of the granting of the whole-vehicle type-approval.
+**2.** An approval authority, having received an application in accordance with Article 23, shall only grant an EU type-approval after having verified all of the following:(a) the conformity of production arrangements referred to in Article 31;(b) that the declaration referred to in Article 23(3) has been submitted;(c) the compliance of the type of vehicle, system, component or separate technical unit with the applicable requirements;(d) in the case of whole-vehicle type-approvals in accordance with the step-by-step, mixed or multi-stage type-approval procedures, the approval authority shall verify, in accordance with Article 22(4), that the systems, components and separate technical units are covered by separate and valid type-approvals that have been granted pursuant to the requirements applicable at the time of the granting of the whole-vehicle type-approval.
 
 **3.** The procedures with respect to EU type-approval, that are set out in Annex III, and the procedures with respect to multi-stage type-approval, set out in Annex IX, shall apply.
 
@@ -760,27 +670,13 @@ The approval authority shall ask the approval authorities that granted type-appr
 
 ### Article 28 — EU type-approval certificate
 
-**1.** The EU type-approval certificate shall contain the following attachments:
-
-(a) the information package referred to in Article 26(4);
-
-(b) the test reports referred to in Article 30 in the case of a system, component or separate technical unit type-approval, or the test results sheet in the case of whole-vehicle type-approval;
-
-(c) in the case of the whole-vehicle type-approval, the name and the specimen of the signature of the person or persons authorised to sign the certificates of conformity and a statement of their position in the company;
-
-(d) in the case of the whole-vehicle type-approval, a filled-out specimen of the certificate of conformity of the vehicle type.
+**1.** The EU type-approval certificate shall contain the following attachments:(a) the information package referred to in Article 26(4);(b) the test reports referred to in Article 30 in the case of a system, component or separate technical unit type-approval, or the test results sheet in the case of whole-vehicle type-approval;(c) in the case of the whole-vehicle type-approval, the name and the specimen of the signature of the person or persons authorised to sign the certificates of conformity and a statement of their position in the company;(d) in the case of the whole-vehicle type-approval, a filled-out specimen of the certificate of conformity of the vehicle type.
 
 **2.** The EU type-approval certificate shall be given a unique number in accordance with a harmonised numbering system, which shall at least allow for the identification of the Member State which granted the EU type-approval and for the identification of the requirements to which the type of vehicle, system, component or separate technical unit conforms.
 
 **3.** The Commission shall adopt implementing acts laying down the templates for the EU type-approval certificate, the harmonised numbering system, and the test result sheet, respectively, including providing the relevant electronic formats. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted by 5 July 2020.
 
-**4.** In respect of each type of vehicle, system, component and separate technical unit, the approval authority shall:
-
-(a) complete all the relevant sections of the EU type-approval certificate, including its attachments;
-
-(b) compile the index to the information package as referred to in Article 26(4);
-
-(c) issue the completed EU type-approval certificate and its attachments to the manufacturer without delay.
+**4.** In respect of each type of vehicle, system, component and separate technical unit, the approval authority shall:(a) complete all the relevant sections of the EU type-approval certificate, including its attachments;(b) compile the index to the information package as referred to in Article 26(4);(c) issue the completed EU type-approval certificate and its attachments to the manufacturer without delay.
 
 **5.** In the case of an EU type-approval, the validity of which has been restricted in accordance with Article 39, Article 43 or Part III of Annex II, or in relation to which certain provisions of this Regulation or of the regulatory acts listed in Annex II do not apply, the EU type-approval certificate shall specify those restrictions or the relevant provisions that do not apply.
 
@@ -836,11 +732,7 @@ Where that component or separate technical unit is fitted in a vehicle, the appr
 
 In accordance with Annex IV, the approval authority shall take the necessary measures to carry out such checks or tests with the frequency set out in the regulatory acts listed in Annex II, or, if no frequency is specified in those acts, at least once every three years.
 
-**5.** In order to verify that a vehicle, system, component or separate technical unit conforms to the approved type, the approval authority or the technical services shall:
-
-(a) if a range of values is provided for in the test procedures laid down in the relevant regulatory acts listed in Annex II, set the values in a random manner within the provided range when carrying out checks or tests; and
-
-(b) have access to the software, algorithms, documentation and any additional information in accordance with Article 25(4).
+**5.** In order to verify that a vehicle, system, component or separate technical unit conforms to the approved type, the approval authority or the technical services shall:(a) if a range of values is provided for in the test procedures laid down in the relevant regulatory acts listed in Annex II, set the values in a random manner within the provided range when carrying out checks or tests; and(b) have access to the software, algorithms, documentation and any additional information in accordance with Article 25(4).
 
 **6.** An approval authority that has granted an EU type-approval shall take the necessary measures to verify that the manufacturer complies with the obligations set out in Chapter XIV. It shall verify in particular whether, in order to comply with those obligations, the manufacturer has amended or supplemented the vehicle OBD information and vehicle repair and maintenance information.
 
@@ -858,7 +750,9 @@ The Member State shall ensure that sufficient resources are available to cover t
 
 **2.** The Member States may levy administrative fees on technical services applying to be designated to cover wholly or partly the costs relating to the activities exercised by the national authorities responsible for technical services in accordance with this Regulation.
 
-## CHAPTER V — AMENDMENTS TO AND VALIDITY OF EU TYPE-APPROVALS
+## CHAPTER V
+
+### **AMENDMENTS TO AND VALIDITY OF EU TYPE-APPROVALS**
 
 <a id="art_33"></a>
 
@@ -884,13 +778,7 @@ The approval authority shall decide whether that change requires an amendment, i
 
 In such case, the approval authority shall issue the revised pages of the information package as necessary and without delay, marking each revised page to show clearly the nature of the change and the date of reissue, or it shall issue a consolidated, updated version of the information package, accompanied by a detailed description of the changes.
 
-**2.** The amendment shall be designated an ‘extension’ where the approval authority finds that the particulars recorded in the information package have changed, and where any of the following apply:
-
-(a) further inspections or tests are required to verify continued compliance with the requirements upon which the existing EU type-approval has been based;
-
-(b) any information on the EU type-approval certificate, except for its attachments, has changed; or
-
-(c) new requirements under any regulatory act listed in Annex II become applicable to the approved type of vehicle, system, component or separate technical unit.
+**2.** The amendment shall be designated an ‘extension’ where the approval authority finds that the particulars recorded in the information package have changed, and where any of the following apply:(a) further inspections or tests are required to verify continued compliance with the requirements upon which the existing EU type-approval has been based;(b) any information on the EU type-approval certificate, except for its attachments, has changed; or(c) new requirements under any regulatory act listed in Annex II become applicable to the approved type of vehicle, system, component or separate technical unit.
 
 In the event of an extension, the approval authority shall issue an updated EU type-approval certificate without delay, which shall be denoted by an extension number that is incremented in accordance with the number of successive extensions already granted. That approval certificate shall clearly state the reason for the extension, the date of reissue and, where relevant, the period of validity.
 
@@ -902,23 +790,11 @@ In the event of an extension, the approval authority shall issue an updated EU t
 
 ### Article 35 — Termination of validity
 
-**1.** Seven years after the latest update of the information package in case of an EU whole-vehicle type-approval certificate for vehicles of categories M_1 and N_1, and 10 years for vehicles of categories M_2, M_3, N_2, N_3 and O, the approval authority shall verify that the type of vehicle complies with all the regulatory acts that are relevant to that type.
+**1.** Seven years after the latest update of the information package in case of an EU whole-vehicle type-approval certificate for vehicles of categories M1 and N1, and 10 years for vehicles of categories M2, M3, N2, N3 and O, the approval authority shall verify that the type of vehicle complies with all the regulatory acts that are relevant to that type.
 
 Where the approval authority carries out the verification referred to in the first subparagraph of this paragraph, it is not necessary for the tests referred to in Article 30 to be repeated.
 
-**2.** An EU type-approval shall become invalid in each of the following cases:
-
-(a) where new requirements applicable to the approved type of vehicle, system, component or separate technical unit become mandatory for the making available on the market, registration or entry into service and the EU type-approval cannot be extended on the grounds laid down in point (c) of Article 34(2);
-
-(b) where a verification carried out in accordance with paragraph 1 of this Article concludes that the vehicle does not comply with all the regulatory acts that are relevant to that type;
-
-(c) where the production of vehicles in conformity with the approved type of vehicle is definitively discontinued on a voluntary basis, which shall be deemed to have occurred where no vehicle of the type concerned has been produced in the previous two years; however, such type-approvals shall continue to be valid for the purpose of registration or entry into service as long as point (a) of this paragraph is not applicable;
-
-(d) where the EU type-approval has been withdrawn in accordance with Article 31(7);
-
-(e) where the validity of the EU type-approval certificate expires due to a restriction referred to in Article 39(6);
-
-(f) where the type-approval was found to be based on false declarations, falsified test results or where data were withheld which would have led to the refusal to grant the type-approval.
+**2.** An EU type-approval shall become invalid in each of the following cases:(a) where new requirements applicable to the approved type of vehicle, system, component or separate technical unit become mandatory for the making available on the market, registration or entry into service and the EU type-approval cannot be extended on the grounds laid down in point (c) of Article 34(2);(b) where a verification carried out in accordance with paragraph 1 of this Article concludes that the vehicle does not comply with all the regulatory acts that are relevant to that type;(c) where the production of vehicles in conformity with the approved type of vehicle is definitively discontinued on a voluntary basis, which shall be deemed to have occurred where no vehicle of the type concerned has been produced in the previous two years; however, such type-approvals shall continue to be valid for the purpose of registration or entry into service as long as point (a) of this paragraph is not applicable;(d) where the EU type-approval has been withdrawn in accordance with Article 31(7);(e) where the validity of the EU type-approval certificate expires due to a restriction referred to in Article 39(6);(f) where the type-approval was found to be based on false declarations, falsified test results or where data were withheld which would have led to the refusal to grant the type-approval.
 
 **3.** Where the whole-vehicle type-approval of only one variant within a type of vehicle or one version within a variant becomes invalid, the whole-vehicle type-approval of the type of vehicle in question shall become invalid only in so far as the particular variant or version is concerned.
 
@@ -930,9 +806,11 @@ Within one month of receiving the notification referred to in the first subparag
 
 **6.** Upon receiving the notification from the manufacturer, the approval authority that granted the EU type-approval shall communicate to the approval authorities of the other Member States and the Commission without delay all relevant information for the making available on the market, registering or entering into service of vehicles, systems, components or separate technical units, as appropriate.
 
-In the case of vehicles, the communication referred to in the first subparagraph of this paragraph shall specify the date of manufacture and the vehicle identification number (‘VIN’), as defined in point (2) of Article 2 of Commission Regulation (EU) No 19/2011, of the last vehicle produced.
+In the case of vehicles, the communication referred to in the first subparagraph of this paragraph shall specify the date of manufacture and the vehicle identification number (‘VIN’), as defined in point (2) of Article 2 of Commission Regulation (EU) No 19/2011 (6), of the last vehicle produced.
 
-## CHAPTER VI — CERTIFICATE OF CONFORMITY AND MARKINGS
+## CHAPTER VI
+
+### **CERTIFICATE OF CONFORMITY AND MARKINGS**
 
 <a id="art_36"></a>
 
@@ -948,13 +826,7 @@ The certificate of conformity in paper format shall be delivered free of charge 
 
 **3.** For a period of 10 years after the date of manufacture of the vehicle, the manufacturer shall, at the request of the vehicle owner, issue a duplicate of the certificate of conformity in paper format in return for a payment that does not exceed the cost of issuing the duplicate certificate. The word ‘duplicate’ shall be clearly visible on the face of any duplicate certificate.
 
-**4.** The Commission shall adopt implementing acts concerning the certificate of conformity in paper format, setting out, in particular:
-
-(a) the template for the certificate of conformity;
-
-(b) the security elements to prevent forgery of the certificate of conformity; and
-
-(c) the specification concerning the manner of signing of the certificate of conformity.
+**4.** The Commission shall adopt implementing acts concerning the certificate of conformity in paper format, setting out, in particular:(a) the template for the certificate of conformity;(b) the security elements to prevent forgery of the certificate of conformity; and(c) the specification concerning the manner of signing of the certificate of conformity.
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted before 1 September 2020.
 
@@ -986,19 +858,7 @@ Those implementing acts shall be adopted in accordance with the examination proc
 
 **7.** Member States shall establish the organisation and structure of their data network to enable data reception of the certificates of conformity as structured data in electronic format in accordance with the implementing acts referred to in paragraph 8 as from 1 September 2025, preferably by making use of existing systems for the exchange of structured data.
 
-**8.** Taking into account the data that are required to be provided on the certificate of conformity in paper format, the Commission shall adopt implementing acts concerning certificates of conformity as structured data in electronic format setting out, in particular:
-
-(a) the basic format and structure of the data elements of the certificates of conformity in electronic format and the messages used in the exchange;
-
-(b) minimum requirements for secure data exchange, including the prevention of data corruption and data misuse, and measures to guarantee the authenticity of the electronic data, such as the use of digital signature;
-
-(c) the means of exchange of the data of the certificate of conformity in electronic format;
-
-(d) the minimum requirements for a vehicle-specific unique identifier and the form of information for the buyer in accordance with paragraph 5;
-
-(e) the read-only access referred to in paragraph 5;
-
-(f) exemptions for manufacturers of particular vehicle categories and types of vehicle that are produced in small series.
+**8.** Taking into account the data that are required to be provided on the certificate of conformity in paper format, the Commission shall adopt implementing acts concerning certificates of conformity as structured data in electronic format setting out, in particular:(a) the basic format and structure of the data elements of the certificates of conformity in electronic format and the messages used in the exchange;(b) minimum requirements for secure data exchange, including the prevention of data corruption and data misuse, and measures to guarantee the authenticity of the electronic data, such as the use of digital signature;(c) the means of exchange of the data of the certificate of conformity in electronic format;(d) the minimum requirements for a vehicle-specific unique identifier and the form of information for the buyer in accordance with paragraph 5;(e) the read-only access referred to in paragraph 5;(f) exemptions for manufacturers of particular vehicle categories and types of vehicle that are produced in small series.
 
 Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2). The first such implementing act shall be adopted before 1 September 2020.
 
@@ -1020,7 +880,9 @@ Where no such type-approval mark is required, the manufacturer shall affix at le
 
 **4.** Economic operators shall only place on the market or make available on the market vehicles, components and separate technical units which are marked in compliance with this Regulation.
 
-## CHAPTER VII — NEW TECHNOLOGIES OR NEW CONCEPTS
+## CHAPTER VII
+
+### **NEW TECHNOLOGIES OR NEW CONCEPTS**
 
 <a id="art_39"></a>
 
@@ -1028,13 +890,7 @@ Where no such type-approval mark is required, the manufacturer shall affix at le
 
 **1.** The manufacturer may apply for an EU type-approval in respect of a type of vehicle, system, component or separate technical unit that incorporates new technologies or new concepts that are incompatible with one or more regulatory acts listed in Annex II.
 
-**2.** The approval authority shall grant the EU type-approval referred to in paragraph 1 where all of the following conditions are met:
-
-(a) the application for the EU type-approval states the reasons why the new technologies or new concepts make the vehicles, systems, components or separate technical units incompatible with one or more regulatory acts listed in Annex II;
-
-(b) the application for the EU type-approval describes the safety and environmental implications of the new technology or new concept and the measures taken in order to ensure at least an equivalent level of safety and environmental protection to that provided by the requirements in respect of which an exemption is sought;
-
-(c) test descriptions and results are presented proving that the condition in point (b) is met.
+**2.** The approval authority shall grant the EU type-approval referred to in paragraph 1 where all of the following conditions are met:(a) the application for the EU type-approval states the reasons why the new technologies or new concepts make the vehicles, systems, components or separate technical units incompatible with one or more regulatory acts listed in Annex II;(b) the application for the EU type-approval describes the safety and environmental implications of the new technology or new concept and the measures taken in order to ensure at least an equivalent level of safety and environmental protection to that provided by the requirements in respect of which an exemption is sought;(c) test descriptions and results are presented proving that the condition in point (b) is met.
 
 **3.** The granting of EU type-approvals exempting new technologies or new concepts shall be subject to the authorisation by the Commission.
 
@@ -1064,7 +920,9 @@ Where the exemption under Article 39 relates to a UN Regulation, the Commission 
 
 **3.** Where the necessary steps to adapt the regulatory acts referred to in paragraph 1 of this Article have not been taken, the Commission may, at the request of the Member State that granted the provisional EU type-approval, adopt implementing acts to decide whether to grant the authorisation of the extension of the validity of the provisional EU type-approval. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 83(2).
 
-## CHAPTER VIII — VEHICLES PRODUCED IN SMALL SERIES
+## CHAPTER VIII
+
+### **VEHICLES PRODUCED IN SMALL SERIES**
 
 <a id="art_41"></a>
 
@@ -1110,7 +968,9 @@ Where the exemption under Article 39 relates to a UN Regulation, the Commission 
 
 The national authority of the other Member State shall permit the placing on the market, registration or entry into service of such vehicle, unless it has reasonable grounds to believe that the national technical requirements in accordance with which the type of vehicle has been approved are not equivalent to its own.
 
-## CHAPTER IX — INDIVIDUAL VEHICLE APPROVALS
+## CHAPTER IX
+
+### **INDIVIDUAL VEHICLE APPROVALS**
 
 <a id="art_44"></a>
 
@@ -1170,7 +1030,9 @@ This Chapter shall not apply to incomplete vehicles.
 
 **2.** The procedures set out in Articles 44 and 45 shall not replace an intermediate stage within the normal sequence of a multi-stage type-approval, and shall not apply for the purposes of obtaining the first-stage approval of a vehicle.
 
-## CHAPTER X — MAKING AVAILABLE ON THE MARKET, REGISTRATION OR ENTRY INTO SERVICE
+## CHAPTER X
+
+### **MAKING AVAILABLE ON THE MARKET, REGISTRATION OR ENTRY INTO SERVICE**
 
 <a id="art_48"></a>
 
@@ -1212,7 +1074,9 @@ The Member States concerned shall decide, within three months of receiving such 
 
 **5.** Member States may also permit the making available on the market or the entry into service of replacement components and separate technical units to be used on vehicles to which type-approval was granted before the entry into force of the requirements of the relevant regulatory acts listed in Annex II, in accordance with the requirements of the relevant act that applied when those type-approvals were originally granted.
 
-## CHAPTER XI — SAFEGUARD CLAUSES
+## CHAPTER XI
+
+### **SAFEGUARD CLAUSES**
 
 <a id="art_51"></a>
 
@@ -1246,11 +1110,7 @@ Article 21 of Regulation (EC) No 765/2008 shall apply to the restrictive measure
 
 The information provided shall include all available details, in particular the data necessary for the identification of the concerned vehicle, system, component or separate technical unit, its origin, the nature of the alleged non-compliance and the risk involved, the nature and duration of the national corrective and restrictive measures taken, and the arguments put forward by the relevant economic operator.
 
-**2.** The Member State that takes the corrective or restrictive measure shall also indicate whether the risk or the non-compliance is due to the following:
-
-(a) the failure of the vehicle, system, component or separate technical unit to meet requirements relating to the health or safety of persons, to the protection of the environment or to other aspects of the protection of public interests covered by this Regulation; or
-
-(b) shortcomings in the relevant regulatory acts listed in Annex II.
+**2.** The Member State that takes the corrective or restrictive measure shall also indicate whether the risk or the non-compliance is due to the following:(a) the failure of the vehicle, system, component or separate technical unit to meet requirements relating to the health or safety of persons, to the protection of the environment or to other aspects of the protection of public interests covered by this Regulation; or(b) shortcomings in the relevant regulatory acts listed in Annex II.
 
 **3.** Member States other than the Member State that takes corrective or restrictive measures shall inform within one month after the notification referred to in paragraph 1, the Commission and the other Member States of any corrective or restrictive measures they have adopted and of any additional information at their disposal relating to the non-compliance and the risk of the vehicle, system, component or separate technical unit concerned, as well as, in the event of disagreement with the notified national measure, of their objections.
 
@@ -1270,11 +1130,7 @@ On the basis of consultation referred to in the first subparagraph of this parag
 
 The Commission shall immediately communicate the decision referred to in the second subparagraph to the relevant economic operator or operators. Member States shall implement such acts without delay and shall inform the Commission accordingly.
 
-**7.** Where the risk or non-compliance is attributed to shortcomings in regulatory acts listed in Annex II, the Commission shall propose appropriate measures as follows:
-
-(a) where legal acts of the Union are concerned, the Commission shall propose the necessary amendments to the acts concerned;
-
-(b) where UN Regulations are concerned, the Commission shall propose the necessary draft amendments to the relevant UN Regulations in accordance with the procedure applicable under the Revised 1958 Agreement.
+**7.** Where the risk or non-compliance is attributed to shortcomings in regulatory acts listed in Annex II, the Commission shall propose appropriate measures as follows:(a) where legal acts of the Union are concerned, the Commission shall propose the necessary amendments to the acts concerned;(b) where UN Regulations are concerned, the Commission shall propose the necessary draft amendments to the relevant UN Regulations in accordance with the procedure applicable under the Revised 1958 Agreement.
 
 **8.** Where a corrective measure is considered to be justified in accordance with this Article or is subject to the implementing acts as referred to in paragraph 5 or 6, that measure shall be available free of charge to holders of registrations for the affected vehicles. Where repairs have been carried out at the registration holder's expense before the adoption of the corrective measure, the manufacturer shall reimburse the cost of such repairs up to the cost of the repairs required by that corrective measure.
 
@@ -1310,11 +1166,7 @@ On the basis of consultations referred to in the first subparagraph of this para
 
 Those requirements may be based on the regulatory acts listed in Annex II or may consist of a comparison of the environmental or safety performance of the parts or equipment with the environmental or safety performance of the original parts or equipment, as appropriate. In either case, the requirements shall ensure that the parts or equipment do not impair the functioning of the systems that are essential for the safety of the vehicle or for its environmental performance.
 
-**4.** The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annex VI to take account of technical and regulatory developments by laying down and updating the list of parts or equipment on the basis of an evaluation of the following:
-
-(a) the extent to which there exists a serious risk to the safety or environmental performance of vehicles that are fitted with the parts or equipment in question;
-
-(b) the potential effect on consumers and aftermarket manufacturers of a possible authorisation of the parts or equipment under Article 56(1).
+**4.** The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annex VI to take account of technical and regulatory developments by laying down and updating the list of parts or equipment on the basis of an evaluation of the following:(a) the extent to which there exists a serious risk to the safety or environmental performance of vehicles that are fitted with the parts or equipment in question;(b) the potential effect on consumers and aftermarket manufacturers of a possible authorisation of the parts or equipment under Article 56(1).
 
 **5.** Paragraph 1 shall not apply to original parts or equipment or to parts or equipment belonging to a system that has been type-approved in accordance with the regulatory acts listed in Annex II, except where the type-approval relates to aspects other than the serious risk referred to in paragraph 1.
 
@@ -1350,7 +1202,9 @@ Where the approval authority finds that the conditions for issuing the authorisa
 
 **7.** Until the list referred to in Article 55(4) has been established, Member States may maintain national provisions regarding parts or equipment that may affect the correct functioning of systems essential for the safety of the vehicle or its environmental performance.
 
-## CHAPTER XII — INTERNATIONAL REGULATIONS
+## CHAPTER XII
+
+### **INTERNATIONAL REGULATIONS**
 
 <a id="art_57"></a>
 
@@ -1370,7 +1224,9 @@ Those delegated acts shall specify the dates from which that UN Regulation or am
 
 **2.** The approval authorities of the Member States shall accept type-approvals granted in accordance with the UN Regulations referred to in paragraph 1 and, where applicable, shall accept the relevant approval marks in place of the corresponding type-approvals and approval marks that were granted in accordance with this Regulation and the regulatory acts listed in Annex II.
 
-## CHAPTER XIII — PROVISION OF TECHNICAL INFORMATION
+## CHAPTER XIII
+
+### **PROVISION OF TECHNICAL INFORMATION**
 
 <a id="art_59"></a>
 
@@ -1392,7 +1248,9 @@ Manufacturers of vehicles may impose a binding agreement on the manufacturers of
 
 **2.** Manufacturers of systems, components, separate technical units, parts or equipment shall provide the manufacturers of vehicles with all detailed information on the restrictions that apply to their type-approvals and that are either referred to in Article 29(3) or imposed by a regulatory act listed in Annex II.
 
-## CHAPTER XIV — ACCESS TO VEHICLE OBD INFORMATION AND VEHICLE REPAIR AND MAINTENANCE INFORMATION
+## CHAPTER XIV
+
+### **ACCESS TO VEHICLE OBD INFORMATION AND VEHICLE REPAIR AND MAINTENANCE INFORMATION**
 
 <a id="art_61"></a>
 
@@ -1406,15 +1264,7 @@ Manufacturers shall provide a standardised, secure and remote facility to enable
 
 The vehicle OBD information and the vehicle repair and maintenance information shall be made available on the websites of manufacturers using a standardised format or, if this is not feasible, due to the nature of the information, in another appropriate format. For independent operators other than repairers, the information shall also be given in a machine-readable format that is capable of being electronically processed with commonly available information technology tools and software and which allows independent operators to carry out the task associated with their business in the aftermarket supply chain.
 
-**3.** However, in the following cases, it shall be sufficient that the manufacturer provides the required information promptly in an easily accessible manner when an independent operator so requests:
-
-(a) for vehicle types covered by a national type-approval of vehicles produced in small series as referred to in Article 42;
-
-(b) for special purpose vehicles;
-
-(c) for vehicle types of categories O_1 and O_2 that do not use diagnostic tools or a physical or wireless communication with the on-board electronic control unit or units for the purpose of diagnostics or reprogramming of their vehicles;
-
-(d) for the final stage of type-approval in a multi-stage type-approval procedure, where the final stage only covers bodywork which does not contain electronic vehicle control systems, and all electronic vehicle control systems of the base vehicle remain unchanged.
+**3.** However, in the following cases, it shall be sufficient that the manufacturer provides the required information promptly in an easily accessible manner when an independent operator so requests:(a) for vehicle types covered by a national type-approval of vehicles produced in small series as referred to in Article 42;(b) for special purpose vehicles;(c) for vehicle types of categories O1 and O2 that do not use diagnostic tools or a physical or wireless communication with the on-board electronic control unit or units for the purpose of diagnostics or reprogramming of their vehicles;(d) for the final stage of type-approval in a multi-stage type-approval procedure, where the final stage only covers bodywork which does not contain electronic vehicle control systems, and all electronic vehicle control systems of the base vehicle remain unchanged.
 
 **4.** The details of the technical requirements for access to vehicle OBD information and vehicle repair and maintenance information, in particular technical specifications on how vehicle OBD information and vehicle repair and maintenance information are to be provided, are laid down in Annex X.
 
@@ -1480,7 +1330,7 @@ Those measures may include the withdrawal or suspension of the type-approval, fi
 
 ### Article 66 — Forum on Access to Vehicle Information
 
-**1.** The Forum on Access to Vehicle Information regarding access to vehicle OBD information and vehicle repair and maintenance information, established in accordance with Article 13(9) of Commission Regulation (EC) No 692/2008, shall also cover all vehicles within the scope of this Regulation.
+**1.** The Forum on Access to Vehicle Information regarding access to vehicle OBD information and vehicle repair and maintenance information, established in accordance with Article 13(9) of Commission Regulation (EC) No 692/2008 (7), shall also cover all vehicles within the scope of this Regulation.
 
 It shall carry out its activities in accordance with Annex X to this Regulation.
 
@@ -1488,7 +1338,9 @@ It shall carry out its activities in accordance with Annex X to this Regulation.
 
 The Commission may decide to keep the discussions and findings of the Forum on Access to Vehicle Information confidential.
 
-## CHAPTER XV — ASSESSMENT, DESIGNATION, NOTIFICATION AND MONITORING OF TECHNICAL SERVICES
+## CHAPTER XV
+
+### **ASSESSMENT, DESIGNATION, NOTIFICATION AND MONITORING OF TECHNICAL SERVICES**
 
 <a id="art_67"></a>
 
@@ -1532,15 +1384,7 @@ Type-approval authorities that are not subject to peer-evaluation in accordance 
 
 ### Article 68 — Designation of technical services
 
-**1.** The type-approval authorities shall designate technical services for one or more of the following categories of activities, depending on their field of competence:
-
-(a) category A: tests referred to in this Regulation and in the regulatory acts listed in Annex II that technical services carry out in their own facilities;
-
-(b) category B: the supervision of the tests, which includes test preparation, referred to in this Regulation and in the regulatory acts listed in Annex II, where such tests are performed at the manufacturer's facilities or at the facilities of a third party;
-
-(c) category C: the assessment and monitoring on a regular basis of the procedures of the manufacturer for controlling the conformity of production;
-
-(d) category D: the supervision or performance of tests or inspections for the surveillance of the conformity of production.
+**1.** The type-approval authorities shall designate technical services for one or more of the following categories of activities, depending on their field of competence:(a) category A: tests referred to in this Regulation and in the regulatory acts listed in Annex II that technical services carry out in their own facilities;(b) category B: the supervision of the tests, which includes test preparation, referred to in this Regulation and in the regulatory acts listed in Annex II, where such tests are performed at the manufacturer's facilities or at the facilities of a third party;(c) category C: the assessment and monitoring on a regular basis of the procedures of the manufacturer for controlling the conformity of production;(d) category D: the supervision or performance of tests or inspections for the surveillance of the conformity of production.
 
 **2.** Each Member State may designate a type-approval authority as a technical service for one or more of the categories of activities referred to in paragraph 1.
 
@@ -1570,13 +1414,7 @@ An organisation or body that belongs to a trade association or to a professional
 
 ### Article 70 — Competence of the technical services
 
-**1.** A technical service shall be capable of carrying out all the activities for which it is applying to be designated in accordance with Article 68(1). It shall demonstrate to the type-approval authority or to the national accreditation body carrying out the assessment or monitoring of that technical service that it satisfies all of the following conditions:
-
-(a) its personnel have the appropriate skills, the specific technical knowledge, the vocational training and sufficient and appropriate experience to perform the activities for which it is applying to be designated;
-
-(b) it possesses descriptions of the procedures relevant for the performance of the activities for which it is applying to be designated, taking due account of the degree of complexity of the technology of the relevant vehicle, system, component or separate technical unit in question, as well as the mass or serial nature of the production process. The technical service shall demonstrate the transparency and reproducibility of those procedures;
-
-(c) it has the necessary means to perform the tasks connected with the category or categories of activities for which it is applying to be designated, and it has access to all necessary equipment or facilities.
+**1.** A technical service shall be capable of carrying out all the activities for which it is applying to be designated in accordance with Article 68(1). It shall demonstrate to the type-approval authority or to the national accreditation body carrying out the assessment or monitoring of that technical service that it satisfies all of the following conditions:(a) its personnel have the appropriate skills, the specific technical knowledge, the vocational training and sufficient and appropriate experience to perform the activities for which it is applying to be designated;(b) it possesses descriptions of the procedures relevant for the performance of the activities for which it is applying to be designated, taking due account of the degree of complexity of the technology of the relevant vehicle, system, component or separate technical unit in question, as well as the mass or serial nature of the production process. The technical service shall demonstrate the transparency and reproducibility of those procedures;(c) it has the necessary means to perform the tasks connected with the category or categories of activities for which it is applying to be designated, and it has access to all necessary equipment or facilities.
 
 **2.** A technical service shall also demonstrate that it has the appropriate skills, the specific technical knowledge and proven experience to carry out tests and inspections for assessing the conformity of the vehicles, systems, components and separate technical units with this Regulation and shall demonstrate its compliance with the standards listed in Appendix 1 to Annex III. However, the standards listed in Appendix 1 to Annex III do not apply for the purposes of the last stage of a national multi-stage procedure referred to in Article 47(1).
 
@@ -1600,15 +1438,7 @@ An organisation or body that belongs to a trade association or to a professional
 
 **1.** An in-house technical service of a manufacturer may be designated as a technical service for activities under category A as referred to in point (a) of Article 68(1), and only with regard to the regulatory acts listed in Annex VII. An in-house technical service shall constitute a separate and distinct part of the manufacturer's company and shall not be involved in the design, manufacturing, supply or maintenance of the vehicles, systems, components or separate technical units that it assesses.
 
-**2.** An in-house technical service referred to in paragraph 1 shall comply with the following requirements:
-
-(a) it has been accredited by a national accreditation body and complies with the requirements laid down in Appendices 1 and 2 to Annex III;
-
-(b) the in-house technical service, including its personnel, is organisationally identifiable and has reporting methods within the manufacturer's company of which they form part that ensures its impartiality and demonstrates that impartiality to the relevant type-approval authority and to the national accreditation body;
-
-(c) neither the in-house technical service nor its personnel is engaged in any activity that might conflict with its independence or with its integrity to perform the activities for which it has been designated;
-
-(d) it supplies its services only to the manufacturer's company of which it forms part.
+**2.** An in-house technical service referred to in paragraph 1 shall comply with the following requirements:(a) it has been accredited by a national accreditation body and complies with the requirements laid down in Appendices 1 and 2 to Annex III;(b) the in-house technical service, including its personnel, is organisationally identifiable and has reporting methods within the manufacturer's company of which they form part that ensures its impartiality and demonstrates that impartiality to the relevant type-approval authority and to the national accreditation body;(c) neither the in-house technical service nor its personnel is engaged in any activity that might conflict with its independence or with its integrity to perform the activities for which it has been designated;(d) it supplies its services only to the manufacturer's company of which it forms part.
 
 **3.** The Commission is empowered to adopt delegated acts in accordance with Article 82, amending Annex VII to take account of technical and regulatory developments by updating the list of regulatory acts and restrictions contained therein.
 
@@ -1628,7 +1458,7 @@ Where the technical service applies to be designated in a Member State other tha
 
 The joint assessment team shall participate in the assessment of the applicant technical service, including the on-site assessment. The designating type-approval authority of the Member State in which the applicant technical service has requested to be designated shall give the joint assessment team all necessary assistance and provide timely access to all documentation necessary to assess the applicant technical service.
 
-**5.** In cases where the assessment is carried out by the type-approval authority that designates technical services which apply to perform tests exclusively for national individual vehicle approvals in accordance with Article 45, the type-approval authority of the Member State in which the applicant technical service has requested to be designated shall be exempt from the obligation to appoint a joint assessment team. The technical services which are only checking the correct installation of components on categories O_1 and O_2 shall also be exempt from assessment.
+**5.** In cases where the assessment is carried out by the type-approval authority that designates technical services which apply to perform tests exclusively for national individual vehicle approvals in accordance with Article 45, the type-approval authority of the Member State in which the applicant technical service has requested to be designated shall be exempt from the obligation to appoint a joint assessment team. The technical services which are only checking the correct installation of components on categories O1 and O2 shall also be exempt from assessment.
 
 **6.** If the technical service has requested to be designated by one or more type-approval authorities from Member States other than the Member State of its establishment in accordance with Article 74(2), the assessment shall be carried out only once, provided that the entire scope of the technical service's designation has been covered in that assessment.
 
@@ -1758,11 +1588,7 @@ The exchange of information shall be coordinated by the Forum.
 
 **1.** Technical services shall carry out the activities for which they have been designated in accordance with Article 68(1).
 
-**2.** At all times, technical services shall:
-
-(a) allow the designating type-approval authority to witness the performance of the technical service during testing for type-approval; and
-
-(b) where requested, provide the designating type-approval authority with information on the categories of activities for which they have been designated.
+**2.** At all times, technical services shall:(a) allow the designating type-approval authority to witness the performance of the technical service during testing for type-approval; and(b) where requested, provide the designating type-approval authority with information on the categories of activities for which they have been designated.
 
 **3.** Where a technical service finds that a manufacturer does not comply with the requirements laid down in this Regulation, it shall report this non-compliance to the type-approval authority in order for that type-approval authority to require the manufacturer to take appropriate corrective measures. The type-approval authority shall refuse to issue a type-approval certificate where those appropriate corrective measures have not been taken.
 
@@ -1770,17 +1596,13 @@ The exchange of information shall be coordinated by the Forum.
 
 ### Article 81 — Information obligations of technical services
 
-**1.** Technical services shall inform the designating type-approval authority of the following:
-
-(a) any non-conformity encountered which may require the refusal, restriction, suspension or withdrawal of a type-approval certificate;
-
-(b) any circumstances affecting the scope of and conditions for their designation;
-
-(c) any request for information which they have received from market surveillance authorities regarding their activities.
+**1.** Technical services shall inform the designating type-approval authority of the following:(a) any non-conformity encountered which may require the refusal, restriction, suspension or withdrawal of a type-approval certificate;(b) any circumstances affecting the scope of and conditions for their designation;(c) any request for information which they have received from market surveillance authorities regarding their activities.
 
 **2.** Upon request from the designating type-approval authority, technical services shall provide information on the activities within the scope of their designation or on any other activity they have performed, including cross-border activities and subcontracting.
 
-## CHAPTER XVI — DELEGATED AND IMPLEMENTING POWERS
+## CHAPTER XVI
+
+### **DELEGATED AND IMPLEMENTING POWERS**
 
 <a id="art_82"></a>
 
@@ -1808,7 +1630,9 @@ The exchange of information shall be coordinated by the Forum.
 
 Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
 
-## CHAPTER XVII — FINAL PROVISIONS
+## CHAPTER XVII
+
+### **FINAL PROVISIONS**
 
 <a id="art_84"></a>
 
@@ -1816,21 +1640,9 @@ Where the committee delivers no opinion, the Commission shall not adopt the draf
 
 **1.** Member States shall lay down the rules on penalties applicable to infringements by economic operators and technical services of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. In particular, those penalties shall be proportionate to the seriousness of the non-compliance and to the number of non-compliant vehicles, systems, components or separate technical units made available on the market of the Member State concerned. Member States shall, by 1 September 2020, notify the Commission of those rules and of those measures and shall notify it without delay of any subsequent amendment affecting them.
 
-**2.** The types of infringements by economic operators and technical services subject to penalties shall be at least the following:
+**2.** The types of infringements by economic operators and technical services subject to penalties shall be at least the following:(a) making false declarations during approval procedures or corrective or restrictive measures being imposed in accordance with Chapter XI;(b) falsifying test results for type-approval or for market surveillance;(c) withholding data or technical specifications that could lead to the recall of vehicles, systems, components and separate technical units, or to the refusal or withdrawal of EU type-approval certificate;(d) non-compliance by technical services in respect of the requirements for their designation.
 
-(a) making false declarations during approval procedures or corrective or restrictive measures being imposed in accordance with Chapter XI;
-
-(b) falsifying test results for type-approval or for market surveillance;
-
-(c) withholding data or technical specifications that could lead to the recall of vehicles, systems, components and separate technical units, or to the refusal or withdrawal of EU type-approval certificate;
-
-(d) non-compliance by technical services in respect of the requirements for their designation.
-
-**3.** In addition to the types of infringements set out in paragraph 2, the types of infringements by economic operators that are also subject to penalties shall be at least the following:
-
-(a) refusing to provide access to information;
-
-(b) making available on the market vehicles, systems, components or separate technical units subject to approval without such approval or falsifying documents, certificates of conformity, statutory plates or approval marks with that intention.
+**3.** In addition to the types of infringements set out in paragraph 2, the types of infringements by economic operators that are also subject to penalties shall be at least the following:(a) refusing to provide access to information;(b) making available on the market vehicles, systems, components or separate technical units subject to approval without such approval or falsifying documents, certificates of conformity, statutory plates or approval marks with that intention.
 
 **4.** Member States shall report to the Commission every year on the penalties they have imposed in the preceding year. If no penalties were imposed in a given year, Member States shall not be required to report to the Commission.
 
@@ -1842,19 +1654,13 @@ Where the committee delivers no opinion, the Commission shall not adopt the draf
 
 **1.** When the Commission takes decisions in accordance with Article 53, it may impose administrative fines upon the concerned economic operators for non-compliance of the vehicle, system, component or separate technical unit with the requirements laid down in this Regulation. The administrative fines provided for shall be effective, proportionate and dissuasive. In particular the fines shall be proportionate to the number of non-compliant vehicles registered in the Union market, or the number of non-compliant systems, components or separate technical unit made available on the Union market.
 
-The administrative fines imposed by the Commission shall not be in addition to the penalties imposed by the Member States in accordance with Article 84 for the same infringement. The administrative fines imposed by the Commission shall not exceed EUR 30000 per non-compliant vehicle, system, component or separate technical unit.
+The administrative fines imposed by the Commission shall not be in addition to the penalties imposed by the Member States in accordance with Article 84 for the same infringement. The administrative fines imposed by the Commission shall not exceed EUR 30 000 per non-compliant vehicle, system, component or separate technical unit.
 
 The Commission may not bring, start afresh or continue proceedings under this Article against economic operators for infringements of this Regulation for which the concerned economic operators have been penalised or declared not liable in accordance with Article 84 by an earlier decision that can no longer be challenged.
 
 **2.** The Commission shall adopt, on the basis of the principles set out in paragraph 3 of this Article, delegated acts in accordance with Article 82, supplementing this Regulation by laying down the procedure for, and methods for the calculation and collection of, the administrative fines referred to in paragraph 1 of this Article.
 
-**3.** The delegated acts referred to in paragraph 2 shall respect the following principles:
-
-(a) the procedure by the Commission shall respect the right to good administration, and in particular the right to be heard and the right to have access to the file, while respecting the legitimate interests of confidentiality and of commercial secrets;
-
-(b) in calculating the appropriate administrative fine, the Commission shall be guided by the principles of effectiveness, proportionality and dissuasiveness, taking into consideration, where relevant, the seriousness and the effects of the infringement, the good faith of the economic operator, the degree of diligence and cooperation of the economic operator, the repetition, frequency or duration of the infringement as well as prior sanctions imposed on the same economic operator;
-
-(c) administrative fines shall be collected without undue delay by fixing deadlines for the payment and, as appropriate, including the possibility of splitting payments into several instalments and phases.
+**3.** The delegated acts referred to in paragraph 2 shall respect the following principles:(a) the procedure by the Commission shall respect the right to good administration, and in particular the right to be heard and the right to have access to the file, while respecting the legitimate interests of confidentiality and of commercial secrets;(b) in calculating the appropriate administrative fine, the Commission shall be guided by the principles of effectiveness, proportionality and dissuasiveness, taking into consideration, where relevant, the seriousness and the effects of the infringement, the good faith of the economic operator, the degree of diligence and cooperation of the economic operator, the repetition, frequency or duration of the infringement as well as prior sanctions imposed on the same economic operator;(c) administrative fines shall be collected without undue delay by fixing deadlines for the payment and, as appropriate, including the possibility of splitting payments into several instalments and phases.
 
 **4.** The amounts of administrative fines shall be considered as revenue for the general budget of the Union.
 
@@ -1862,17 +1668,7 @@ The Commission may not bring, start afresh or continue proceedings under this Ar
 
 ### Article 86 — Amendments to Regulation (EC) No 715/2007
 
-**1.** Regulation (EC) No 715/2007 is amended as follows:
-
-(1) The title is replaced by the following: ‘Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6)’;
-
-(2) in Article 1, paragraph 2 is replaced by the following: ‘2.In addition, this Regulation lays down rules for in-service conformity, the durability of pollution control devices, vehicle on-board diagnostic (OBD) systems and the measurement of fuel consumption.’;
-
-(3) in Article 3, points 14 and 15 are deleted;
-
-(4) Chapter III is deleted;
-
-(5) in Article 13(2), point (e) is deleted.
+**1.** Regulation (EC) No 715/2007 is amended as follows:(1) The title is replaced by the following:‘Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6)’;(2) in Article 1, paragraph 2 is replaced by the following:‘2. In addition, this Regulation lays down rules for in-service conformity, the durability of pollution control devices, vehicle on-board diagnostic (OBD) systems and the measurement of fuel consumption.’;(3) in Article 3, points 14 and 15 are deleted;(4) Chapter III is deleted;(5) in Article 13(2), point (e) is deleted.
 
 **2.** References to the deleted provisions of Regulation (EC) No 715/2007 shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in point 1 of Annex XI to this Regulation.
 
@@ -1880,17 +1676,7 @@ The Commission may not bring, start afresh or continue proceedings under this Ar
 
 ### Article 87 — Amendments to Regulation (EC) No 595/2009
 
-**1.** Regulation (EC) No 595/2009 is amended as follows:
-
-(1) The title is replaced by the following: ‘Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC’;
-
-(2) in Article 1, second paragraph is replaced by the following: ‘This Regulation also lays down rules for in-service conformity of vehicles and engines, the durability of pollution control devices, vehicle on-board diagnostic (OBD) systems and the measurement of fuel consumption and CO_2 emissions.’;
-
-(3) in Article 3, points 11 and 13 are deleted;
-
-(4) Article 6 is deleted;
-
-(5) in Article 11(2), point (e) is deleted.
+**1.** Regulation (EC) No 595/2009 is amended as follows:(1) The title is replaced by the following:‘Regulation (EC) No 595/2009 of the European Parliament and of the Council of 18 June 2009 on type-approval of motor vehicles and engines with respect to emissions from heavy duty vehicles (Euro VI) and amending Regulation (EC) No 715/2007 and Directive 2007/46/EC and repealing Directives 80/1269/EEC, 2005/55/EC and 2005/78/EC’;(2) in Article 1, second paragraph is replaced by the following:‘This Regulation also lays down rules for in-service conformity of vehicles and engines, the durability of pollution control devices, vehicle on-board diagnostic (OBD) systems and the measurement of fuel consumption and CO2 emissions.’;(3) in Article 3, points 11 and 13 are deleted;(4) Article 6 is deleted;(5) in Article 11(2), point (e) is deleted.
 
 **2.** References to the deleted provisions of Regulation (EC) No 595/2009 shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in point 2 of Annex XI to this Regulation.
 
@@ -1934,11 +1720,46 @@ It shall apply from 1 September 2020.
 
 However, from 5 July 2020, national authorities shall not refuse to grant EU type-approval or national type-approval for a new type of vehicle, or prohibit registration, placing on the market or entry into service of a new vehicle where the vehicle concerned complies with this Regulation, if a manufacturer so requests.
 
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
 <a id="list_of_annexes"></a>
 
 ### LIST OF ANNEXES
 
-
+| Annex I | General definitions, criteria for vehicle categorisation, types of vehicle and types of bodywork |
+| --- | --- |
+| Appendix 1: | Procedure for checking whether a vehicle can be categorised as off-road vehicle |
+| Appendix 2: | Digits used to supplement the codes to be used for various kinds of bodywork |
+| Annex II | Requirements for the purpose of EU type-approval of vehicles, systems, components or separate technical units |
+| Part I | Regulatory acts for EU type-approval of vehicles produced in unlimited series |
+| Appendix 1: | Regulatory acts for EU type-approval of vehicles produced in small series pursuant to Article 41 |
+| Appendix 2: | Requirements for EU individual vehicle approval pursuant to Article 44 |
+| Part II | List of UN Regulations recognised as an alternative to the Directives or Regulations referred to in Part I |
+| Part III | List of regulatory acts setting out the requirements for the purpose of EU type-approval of special purpose vehicles |
+| Appendix 1: | Motor-caravans, ambulances and hearses |
+| Appendix 2: | Armoured vehicles |
+| Appendix 3: | Wheelchair accessible vehicles |
+| Appendix 4: | Other special purpose vehicles (including special group, multi-equipment carrier and trailer caravans) |
+| Appendix 5: | Mobile cranes |
+| Appendix 6: | Exceptional load transport vehicles |
+| Annex III | Procedures to be followed with respect to EU type-approval |
+| Appendix 1: | Standards with which the technical services referred to in Article 68 have to comply |
+| Appendix 2: | Procedure for the assessment of the technical services |
+| Annex IV | Conformity of production procedures |
+| Annex V | Small series and end-of-series limits |
+| Annex VI | List of parts or equipment that may pose a serious risk to the correct functioning of systems that are essential for the safety of the vehicle or its environmental performance, their performance requirements of such parts and equipment, the appropriate test procedures and marking and packaging provisions |
+| Annex VII | Regulatory acts for which a manufacturer may be designated as a technical service |
+| Appendix: | Designation of an in-house technical service of a manufacturer as technical service and subcontracting |
+| Annex VIII | Conditions for the use of virtual testing methods by a manufacturer or a technical service |
+| Appendix 1: | General conditions for the use of virtual testing methods |
+| Appendix 2: | Specific conditions for the use of virtual testing methods |
+| Appendix 3: | Validation process |
+| Annex IX | Procedures to be followed during multi-stage type-approval |
+| Appendix: | Model of the manufacturer's additional plate |
+| Annex X | Access to vehicle OBD information and vehicle repair and maintenance information |
+| Appendix 1: | Manufacturer's certificate on access to vehicle OBD information and vehicle repair and maintenance information |
+| Appendix 2: | Vehicle OBD information |
+| Annex XI | Correlation table |
 
 <a id="anx_i"></a>
 
@@ -1946,752 +1767,371 @@ However, from 5 July 2020, national authorities shall not refuse to grant EU typ
 
 **GENERAL DEFINITIONS, CRITERIA FOR VEHICLE CATEGORISATION, TYPES OF VEHICLE AND TYPES OF BODYWORK**
 
-**INTRODUCTORY PARTDefinitions and general provisions**
+INTRODUCTORY PART
 
-**1.Definitions**
+***Definitions and general provisions***
 
-1.1.‘Seating position’ means any location capable of accommodating one person seated who is at least as large as:
+1. **Definitions**
 
-(a) the manikin of the 50th percentile adult male in the case of the driver;
+| 1.1. | ‘Seating position’ means any location capable of accommodating one person seated who is at least as large as:(a) the manikin of the 50th percentile adult male in the case of the driver;(b) the manikin of the 5th percentile adult female in all other cases. |
+| --- | --- |
 
-(b) the manikin of the 5th percentile adult female in all other cases.
+| 1.2. | ‘Seat’ means a complete structure with trim, integral or not with the vehicle body structure, which is intended to seat one person.It includes both an individual seat and a bench seat, as well as folding seats and removable seats. |
+| --- | --- |
 
-1.2.
+| 1.3. | ‘Goods’ means primarily any movable things.It includes products in bulk, manufactured goods, liquids, living animals, crops, indivisible loads. |
+| --- | --- |
 
-‘Seat’ means a complete structure with trim, integral or not with the vehicle body structure, which is intended to seat one person.
+| 1.4. | ‘Maximum mass’ means the ‘technically permissible maximum laden mass’. |
+| --- | --- |
 
-It includes both an individual seat and a bench seat, as well as folding seats and removable seats.
+2. **General provisions**
 
-1.3.
+2.1. **Number of seating positions**
 
-‘Goods’ means primarily any movable things.
+| 2.1.1. | The requirements regarding the number of seating positions apply to seats that are designed for use when the vehicle is travelling on the road. |
+| --- | --- |
 
-It includes products in bulk, manufactured goods, liquids, living animals, crops, indivisible loads.
+| 2.1.2. | They do not apply to seats that are designed for use when the vehicle is stationary and which are clearly identified to users either by means of a pictogram or a sign with an appropriate text. |
+| --- | --- |
 
-1.4.
+| 2.1.3. | The following requirements apply for the counting of the seating positions:(a) each individual seat shall be counted as one seating position;(b) in the case of a bench seat, any space having a width of at least 400 mm measured at the seat cushion level shall be counted as one seating position.This condition shall not prevent the manufacturer from using the general provisions referred to in point 1.1;(c) however, a space as referred to in point (b) shall not be counted as one seating position where:(i) the bench seat includes features that prevent the bottom of the manikin from sitting in a natural way - for example: the presence of a fixed console box, an unpadded area or an interior trim interrupting the nominal seating surface;(ii) the design of the floor pan located immediately in front of a presumed seating position (for example the presence of a tunnel) prevents the feet of the manikin from being positioned in a natural way. |
+| --- | --- |
 
-‘Maximum mass’ means the ‘technically permissible maximum laden mass’.
+| 2.1.4. | With respect to vehicles covered by UN Regulations No 66 and No 107, the dimension referred to in point 2.1.3(b) shall be aligned with the minimum space required for one person in relation to the various classes of vehicles. |
+| --- | --- |
 
-**2.General provisions**
+| 2.1.5. | When seat anchors for a removable seat are present in a vehicle, the removable seat shall be counted in the determination of the number of the seating positions. |
+| --- | --- |
 
-**2.1.Number of seating positions**
+| 2.1.6. | An area intended for an occupied wheelchair shall be regarded as one seating position.2.1.6.1.This provision shall be without prejudice to the requirements of paragraphs 3.6.1 and 3.7 of Annex 8 to UN Regulation No 107. |
+| --- | --- |
+| 2.1.6.1. | This provision shall be without prejudice to the requirements of paragraphs 3.6.1 and 3.7 of Annex 8 to UN Regulation No 107. |
 
-2.1.1.
+2.2. **Maximum mass**
 
-The requirements regarding the number of seating positions apply to seats that are designed for use when the vehicle is travelling on the road.
+| 2.2.1. | In the case of a tractor unit for semi-trailer, the maximum mass to be considered for classifying the vehicle shall include the maximum mass of the semi-trailer borne by the fifth wheel coupling. |
+| --- | --- |
 
-2.1.2.
+| 2.2.2. | In the case of a motor vehicle that can tow a centre-axle trailer or a rigid drawbar trailer, the maximum mass to be considered for classifying the motor vehicle shall include the maximum mass transferred to the towing vehicle by the coupling. |
+| --- | --- |
 
-They do not apply to seats that are designed for use when the vehicle is stationary and which are clearly identified to users either by means of a pictogram or a sign with an appropriate text.
+| 2.2.3. | In the case of a semi-trailer, a centre-axle trailer and a rigid drawbar trailer, the maximum mass to be considered for classifying the vehicle shall correspond to the maximum mass transmitted to the ground by the wheels of an axle or group of axles when coupled to the towing vehicle. |
+| --- | --- |
 
-2.1.3.The following requirements apply for the counting of the seating positions:
+| 2.2.4. | In the case of a converter dolly, the maximum mass to be considered for classifying the vehicle shall include the maximum mass of the semi-trailer borne by the fifth wheel coupling. |
+| --- | --- |
 
-(a) each individual seat shall be counted as one seating position;
+2.3. **Special equipment**
 
-(b) in the case of a bench seat, any space having a width of at least 400 mm measured at the seat cushion level shall be counted as one seating position. This condition shall not prevent the manufacturer from using the general provisions referred to in point 1.1;
+| 2.3.1. | Vehicles fitted primarily with fixed equipment such as machinery or apparatus shall be regarded as N or O category. |
+| --- | --- |
 
-(c) however, a space as referred to in point (b) shall not be counted as one seating position where: (i) the bench seat includes features that prevent the bottom of the manikin from sitting in a natural way - for example: the presence of a fixed console box, an unpadded area or an interior trim interrupting the nominal seating surface; (ii) the design of the floor pan located immediately in front of a presumed seating position (for example the presence of a tunnel) prevents the feet of the manikin from being positioned in a natural way.
+2.4. **Units**
 
-2.1.4.
+| 2.4.1. | Unless otherwise stated any unit of measurement and associated symbol shall conform to Council Directive 80/181/EEC (8). |
+| --- | --- |
 
-With respect to vehicles covered by UN Regulations No 66 and No 107, the dimension referred to in point 2.1.3(b) shall be aligned with the minimum space required for one person in relation to the various classes of vehicles.
+3. **Categorisation into vehicle categories**
 
-2.1.5.
+| 3.1. | The manufacturer is responsible for the categorisation of a type of vehicle into a specific category.For such purposes, all the relevant criteria described in this Annex shall be met. |
+| --- | --- |
 
-When seat anchors for a removable seat are present in a vehicle, the removable seat shall be counted in the determination of the number of the seating positions.
+| 3.2. | The approval authority may request from the manufacturer appropriate additional information with the aim of demonstrating that a type of vehicle needs to be categorised as special purpose vehicle in the special group (‘SG Code’). |
+| --- | --- |
 
-2.1.6.An area intended for an occupied wheelchair shall be regarded as one seating position.
+PART A
 
-2.1.6.1.
+**Criteria for vehicle categorisation**
 
-This provision shall be without prejudice to the requirements of paragraphs 3.6.1 and 3.7 of Annex 8 to UN Regulation No 107.
+1. **Vehicle categories**
 
-**2.2.Maximum mass**
+For the purposes of EU type-approval and national type-approval, as well as for EU individual vehicle approval and national individual vehicle approval, vehicles shall be categorised in accordance with the classification referred to in Article 4.
 
-2.2.1.
+Approval can only be granted for the categories referred to in Article 4(1).
 
-In the case of a tractor unit for semi-trailer, the maximum mass to be considered for classifying the vehicle shall include the maximum mass of the semi-trailer borne by the fifth wheel coupling.
+2. **Vehicle subcategories**
 
-2.2.2.
+2.1. **Off-road vehicles**
 
-In the case of a motor vehicle that can tow a centre-axle trailer or a rigid drawbar trailer, the maximum mass to be considered for classifying the motor vehicle shall include the maximum mass transferred to the towing vehicle by the coupling.
-
-2.2.3.
-
-In the case of a semi-trailer, a centre-axle trailer and a rigid drawbar trailer, the maximum mass to be considered for classifying the vehicle shall correspond to the maximum mass transmitted to the ground by the wheels of an axle or group of axles when coupled to the towing vehicle.
-
-2.2.4.
-
-In the case of a converter dolly, the maximum mass to be considered for classifying the vehicle shall include the maximum mass of the semi-trailer borne by the fifth wheel coupling.
-
-**2.3.Special equipment**
-
-2.3.1.
-
-Vehicles fitted primarily with fixed equipment such as machinery or apparatus shall be regarded as N or O category.
-
-**2.4.Units**
-
-2.4.1.
-
-Unless otherwise stated any unit of measurement and associated symbol shall conform to Council Directive 80/181/EEC.
-
-**3.Categorisation into vehicle categories**
-
-3.1.
-
-The manufacturer is responsible for the categorisation of a type of vehicle into a specific category.
-
-For such purposes, all the relevant criteria described in this Annex shall be met.
-
-3.2.
-
-The approval authority may request from the manufacturer appropriate additional information with the aim of demonstrating that a type of vehicle needs to be categorised as special purpose vehicle in the special group (‘SG Code’).
-
-**PART ACriteria for vehicle categorisation**
-
-For the purposes of EU type-approval and national type-approval, as well as for EU individual vehicle approval and national individual vehicle approval, vehicles shall be categorised in accordance with the classification referred to in Article 4.Approval can only be granted for the categories referred to in Article 4(1).
-
-**1.Vehicle categories**
-
-**2.Vehicle subcategories**
-
-‘Off-road vehicle (ORV)’ means a vehicle that belongs to category M or N, having specific technical features which permit its use off the normal roads.For those categories of vehicles, the letter ‘G’ shall be added as suffix to the letter and numeral identifying the vehicle category.The criteria for the subcategorisation of vehicles as ORV are specified in point 4 of this Part.
-
-**2.1.Off-road vehicles**
-
-**2.2.Special purpose vehicles (SPV)**
-
-2.2.1.
-
-For incomplete vehicles that are intended to fall into the SPV subcategory, the letter ‘S’ shall be added as suffix to the letter and numeral identifying the vehicle category.
-
-The various types of special purpose vehicles are defined and listed in point 5.
-
-**2.3.Off road special purpose vehicle**
-
-2.3.1.
-
-‘Off road special purpose vehicle (ORV-SPV)’ means a vehicle that belongs either to category M or N having the specific technical features referred to in points 2.1 and 2.2.
+‘Off-road vehicle (ORV)’ means a vehicle that belongs to category M or N, having specific technical features which permit its use off the normal roads.
 
 For those categories of vehicles, the letter ‘G’ shall be added as suffix to the letter and numeral identifying the vehicle category.
 
-Moreover, for incomplete vehicles that are intended to fall into the SPV subcategory, the letter ‘S’ shall be added as second suffix.
+The criteria for the subcategorisation of vehicles as ORV are specified in point 4 of this Part.
 
-**3.Criteria for the categorisation of vehicles in category N**
+2.2. **Special purpose vehicles (SPV)**
 
-3.1.
+| 2.2.1. | For incomplete vehicles that are intended to fall into the SPV subcategory, the letter ‘S’ shall be added as suffix to the letter and numeral identifying the vehicle category.The various types of special purpose vehicles are defined and listed in point 5. |
+| --- | --- |
 
-The categorisation of a type of vehicle in category N shall be based on the technical features of the vehicle as referred to in points 3.2 to 3.6.
+2.3. **Off road special purpose vehicle**
 
-3.2.
+| 2.3.1. | ‘Off road special purpose vehicle (ORV-SPV)’ means a vehicle that belongs either to category M or N having the specific technical features referred to in points 2.1 and 2.2.For those categories of vehicles, the letter ‘G’ shall be added as suffix to the letter and numeral identifying the vehicle category.Moreover, for incomplete vehicles that are intended to fall into the SPV subcategory, the letter ‘S’ shall be added as second suffix. |
+| --- | --- |
 
-As a matter of principle, the compartment(s) where all the seating positions are located, shall be completely separated from the loading area.
+3. **Criteria for the categorisation of vehicles in category N**
 
-3.3.
+| 3.1. | The categorisation of a type of vehicle in category N shall be based on the technical features of the vehicle as referred to in points 3.2 to 3.6. |
+| --- | --- |
 
-By way of derogation from the requirements of point 3.2, persons and goods may be transported in the same compartment under the condition that the loading area is provided with securing devices designed to protect persons transported against the displacement of the load during driving, including severe braking and cornering.
+| 3.2. | As a matter of principle, the compartment(s) where all the seating positions are located, shall be completely separated from the loading area. |
+| --- | --- |
 
-3.4.Securing devices - lashing devices - intended for securing the load as required in point 3.3 as well as partitioning systems, intended for vehicles up to 7,5 tonnes shall be designed in accordance with the provisions of sections 3 and 4 of international standard ISO 27956:2009 ‘Road vehicles – Securing of cargo in delivery vans – Requirements and test methods’.
+| 3.3. | By way of derogation from the requirements of point 3.2, persons and goods may be transported in the same compartment under the condition that the loading area is provided with securing devices designed to protect persons transported against the displacement of the load during driving, including severe braking and cornering. |
+| --- | --- |
 
-3.4.1.
+| 3.4. | Securing devices - lashing devices - intended for securing the load as required in point 3.3 as well as partitioning systems, intended for vehicles up to 7,5 tonnes shall be designed in accordance with the provisions of sections 3 and 4 of international standard ISO 27956:2009 ‘Road vehicles – Securing of cargo in delivery vans – Requirements and test methods’.3.4.1.The requirements referred to in point 3.4 may be verified by a statement of compliance provided by the manufacturer.3.4.2.As an alternative to the requirements of point 3.4, the manufacturer may demonstrate to the satisfaction of the approval authority that the securing devices fitted show an equivalent level of protection as provided in the referred standard. |
+| --- | --- |
+| 3.4.1. | The requirements referred to in point 3.4 may be verified by a statement of compliance provided by the manufacturer. |
+| 3.4.2. | As an alternative to the requirements of point 3.4, the manufacturer may demonstrate to the satisfaction of the approval authority that the securing devices fitted show an equivalent level of protection as provided in the referred standard. |
 
-The requirements referred to in point 3.4 may be verified by a statement of compliance provided by the manufacturer.
+| 3.5. | The number of seating positions excluding the driver's seating position shall not exceed:(a) 6 in the case of N1 vehicles;(b) 8 in the case of N2 or N3 vehicles. |
+| --- | --- |
 
-3.4.2.
+| 3.6. | Vehicles shall show a goods-carrying capacity equal or higher than the person-carrying capacity expressed in kg.3.6.1.For such purposes, the following equations shall be satisfied in all configurations, in particular when all seating positions are occupied:(a) when N = 0:P – M ≥ 100 kg(b) when 0 < N ≤ 2:P – (M + N × 68) ≥ 150 kg;(c) when N > 2:P – (M + N × 68) ≥ N × 68;where the letters have the following meaning:‘P’ is the technically permissible maximum laden mass;‘M’ is the mass in running order;‘N’ is the number of seating positions excluding the driver's seating position.3.6.2.The mass of equipment that is fitted to the vehicle in order to accommodate goods (e.g. tank, bodywork, etc.), to handle goods (e.g. crane, lift, etc.) and to secure goods (e.g. cargo securing devices) shall be included in M.3.6.3.The mass of equipment that is not used for the purposes referred to in point 3.6.2 (such as a compressor, a winch, an electric power generator, broadcasting equipment, etc.) shall not be included in M for the purposes of the application of the formulae referred to in point 3.6.1. |
+| --- | --- |
+| 3.6.1. | For such purposes, the following equations shall be satisfied in all configurations, in particular when all seating positions are occupied:(a) when N = 0:P – M ≥ 100 kg(b) when 0 < N ≤ 2:P – (M + N × 68) ≥ 150 kg;(c) when N > 2:P – (M + N × 68) ≥ N × 68;where the letters have the following meaning:‘P’ is the technically permissible maximum laden mass;‘M’ is the mass in running order;‘N’ is the number of seating positions excluding the driver's seating position. |
+| 3.6.2. | The mass of equipment that is fitted to the vehicle in order to accommodate goods (e.g. tank, bodywork, etc.), to handle goods (e.g. crane, lift, etc.) and to secure goods (e.g. cargo securing devices) shall be included in M. |
+| 3.6.3. | The mass of equipment that is not used for the purposes referred to in point 3.6.2 (such as a compressor, a winch, an electric power generator, broadcasting equipment, etc.) shall not be included in M for the purposes of the application of the formulae referred to in point 3.6.1. |
 
-As an alternative to the requirements of point 3.4, the manufacturer may demonstrate to the satisfaction of the approval authority that the securing devices fitted show an equivalent level of protection as provided in the referred standard.
+| 3.7. | The requirements referred to in points 3.2 to 3.6 shall be met for all variants and versions within the type of vehicle. |
+| --- | --- |
 
-3.5.The number of seating positions excluding the driver's seating position shall not exceed:
+| 3.8. | Criteria for the categorisation of vehicles as N1.3.8.1.A vehicle shall be categorised as N1 when all the applicable criteria are met.When one or more of the criteria are not met, the vehicle shall be categorised as M1.3.8.2.In addition to the general criteria referred to in points 3.2 to 3.6, the criteria specified in this point shall be met for the categorisation of vehicles for which the compartment where the driver is located and the load are within a single unit (i.e. bodywork ‘BB’).3.8.2.1.The fact that a wall or a partition, complete or partial, is fitted between a seat row and the cargo area shall not rule out the obligation to meet the required criteria.3.8.2.2.The criteria shall be as follows:(a) the loading of the goods shall be possible by a rear door, a tailgate or a side-door designed and constructed for that purposes;(b) in the case of a rear door or a tailgate, the loading aperture shall meet the following requirements:(i) in the case the vehicle is fitted with only one row of seats or with only the driver seat, the minimum height of the loading aperture shall be at least 600 mm;(ii) in the case the vehicle is fitted with two or more rows of seats, the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12 800 cm2;(c) The cargo area shall meet the following requirements:‘cargo area’ means the part of the vehicle located behind the row(s) of seats or behind the driver seat when the vehicle is fitted with only one driver seat;(i) the loading surface of the cargo area shall be generally flat;(ii) where the vehicle is fitted with only one row of seats or with one seat, the minimum length of the cargo area shall be at least 40 % of the wheelbase;(iii) where the vehicle is fitted with two or more rows of seats, the minimum length of the cargo area shall be at least 30 % of the wheelbase.Where the seats of the last row of seats can be easily removed from the vehicle without the use of special tools, the requirements regarding the length of the cargo area shall be met with all the seats installed in the vehicle;(iv) the requirements regarding the length of the cargo area shall be met when the seats of the first row or of the last row, as the case may be, are upright in their normal position for use by the vehicle occupants.3.8.2.3.Specific conditions for measurement3.8.2.3.1. **Definitions**(a) ‘Height of the loading aperture’, means the vertical distance between two horizontal planes tangent respectively to the highest point of the lower part of the doorway and the lowest point of the upper part of the doorway;(b) ‘Surface of the loading aperture’ means the greatest surface of the orthogonal projection on a vertical plane, perpendicular to the centreline of the vehicle, of the maximum aperture permitted when the rear door(s) or tailgate is (are) wide open;(c) ‘Wheelbase’, for the purposes of application of the formulae in points 3.8.2.2 and 3.8.3.1, means the distance between:(i) the centreline of the front axle and the centreline of the second axle in the case of a two axle vehicle; or(ii) the centreline of the front axle and the centreline of a virtual axle equally distant from the second and third axle in the case of a three axle vehicle.3.8.2.3.2. **Seat adjustments**(a) The seats shall be adjusted at their rear outermost positions;(b) The seat back, if adjustable, shall be adjusted as to accommodate the three-dimensional H-point machine at a torso angle of 25 degrees;(c) The seat back, if not adjustable, shall be in the position designed by the vehicle manufacturer;(d) When the seat is adjustable in height, it shall be adjusted to its lowest position.3.8.2.3.3. **Vehicle conditions**(a) The vehicle shall be in loaded conditions corresponding to its maximum mass;(b) The vehicle shall be with its wheels straight ahead.3.8.2.3.4.The requirements of point 3.8.2.3.2 shall not apply when the vehicle is fitted with a wall or a partition.3.8.2.3.5.Measurement of the length of the cargo area(a) When the vehicle is not fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the top of the seat back to the rear internal pane or door or tailgate, in closed position;(b) When the vehicle is fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the partition or the wall to the rear internal pane or door or tailgate, as the case may be, in closed position;(c) The requirements concerning the length shall be fulfilled at least along a horizontal line situated in the longitudinal vertical plane passing through the centreline of the vehicle, at the level of the load floor.3.8.3.In addition to the general criteria referred to in points 3.2 to 3.6, the criteria specified in this point shall be met for the categorisation of vehicles for which the compartment where the driver is located and the load are not within a single unit (i.e. bodywork ‘BE’).3.8.3.1.Where the vehicle is fitted with an enclosure type body, the following shall apply:(a) the loading of the goods shall be possible by a rear door, a tailgate or a panel or other means;(b) the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12 800 cm2;(c) The minimum length of the cargo area shall be at least 40 % of the wheelbase.3.8.3.2.Where the vehicle is fitted with an open type cargo area, only the provisions referred to in points 3.8.3.1(a) and (c) shall apply.3.8.3.3.For the application of the provisions referred to in point 3.8.3, the definitions in point 3.8.2.3.1 shall apply.3.8.3.4.However, the requirements concerning the length of the cargo area shall be fulfilled along a horizontal line situated in the longitudinal plane passing through the centreline of the vehicle at the level of the load floor. |
+| --- | --- |
+| 3.8.1. | A vehicle shall be categorised as N1 when all the applicable criteria are met.When one or more of the criteria are not met, the vehicle shall be categorised as M1. |
+| 3.8.2. | In addition to the general criteria referred to in points 3.2 to 3.6, the criteria specified in this point shall be met for the categorisation of vehicles for which the compartment where the driver is located and the load are within a single unit (i.e. bodywork ‘BB’).3.8.2.1.The fact that a wall or a partition, complete or partial, is fitted between a seat row and the cargo area shall not rule out the obligation to meet the required criteria.3.8.2.2.The criteria shall be as follows:(a) the loading of the goods shall be possible by a rear door, a tailgate or a side-door designed and constructed for that purposes;(b) in the case of a rear door or a tailgate, the loading aperture shall meet the following requirements:(i) in the case the vehicle is fitted with only one row of seats or with only the driver seat, the minimum height of the loading aperture shall be at least 600 mm;(ii) in the case the vehicle is fitted with two or more rows of seats, the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12 800 cm2;(c) The cargo area shall meet the following requirements:‘cargo area’ means the part of the vehicle located behind the row(s) of seats or behind the driver seat when the vehicle is fitted with only one driver seat;(i) the loading surface of the cargo area shall be generally flat;(ii) where the vehicle is fitted with only one row of seats or with one seat, the minimum length of the cargo area shall be at least 40 % of the wheelbase;(iii) where the vehicle is fitted with two or more rows of seats, the minimum length of the cargo area shall be at least 30 % of the wheelbase.Where the seats of the last row of seats can be easily removed from the vehicle without the use of special tools, the requirements regarding the length of the cargo area shall be met with all the seats installed in the vehicle;(iv) the requirements regarding the length of the cargo area shall be met when the seats of the first row or of the last row, as the case may be, are upright in their normal position for use by the vehicle occupants.3.8.2.3.Specific conditions for measurement3.8.2.3.1. **Definitions**(a) ‘Height of the loading aperture’, means the vertical distance between two horizontal planes tangent respectively to the highest point of the lower part of the doorway and the lowest point of the upper part of the doorway;(b) ‘Surface of the loading aperture’ means the greatest surface of the orthogonal projection on a vertical plane, perpendicular to the centreline of the vehicle, of the maximum aperture permitted when the rear door(s) or tailgate is (are) wide open;(c) ‘Wheelbase’, for the purposes of application of the formulae in points 3.8.2.2 and 3.8.3.1, means the distance between:(i) the centreline of the front axle and the centreline of the second axle in the case of a two axle vehicle; or(ii) the centreline of the front axle and the centreline of a virtual axle equally distant from the second and third axle in the case of a three axle vehicle.3.8.2.3.2. **Seat adjustments**(a) The seats shall be adjusted at their rear outermost positions;(b) The seat back, if adjustable, shall be adjusted as to accommodate the three-dimensional H-point machine at a torso angle of 25 degrees;(c) The seat back, if not adjustable, shall be in the position designed by the vehicle manufacturer;(d) When the seat is adjustable in height, it shall be adjusted to its lowest position.3.8.2.3.3. **Vehicle conditions**(a) The vehicle shall be in loaded conditions corresponding to its maximum mass;(b) The vehicle shall be with its wheels straight ahead.3.8.2.3.4.The requirements of point 3.8.2.3.2 shall not apply when the vehicle is fitted with a wall or a partition.3.8.2.3.5.Measurement of the length of the cargo area(a) When the vehicle is not fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the top of the seat back to the rear internal pane or door or tailgate, in closed position;(b) When the vehicle is fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the partition or the wall to the rear internal pane or door or tailgate, as the case may be, in closed position;(c) The requirements concerning the length shall be fulfilled at least along a horizontal line situated in the longitudinal vertical plane passing through the centreline of the vehicle, at the level of the load floor. |
+| 3.8.2.1. | The fact that a wall or a partition, complete or partial, is fitted between a seat row and the cargo area shall not rule out the obligation to meet the required criteria. |
+| 3.8.2.2. | The criteria shall be as follows:(a) the loading of the goods shall be possible by a rear door, a tailgate or a side-door designed and constructed for that purposes;(b) in the case of a rear door or a tailgate, the loading aperture shall meet the following requirements:(i) in the case the vehicle is fitted with only one row of seats or with only the driver seat, the minimum height of the loading aperture shall be at least 600 mm;(ii) in the case the vehicle is fitted with two or more rows of seats, the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12 800 cm2;(c) The cargo area shall meet the following requirements:‘cargo area’ means the part of the vehicle located behind the row(s) of seats or behind the driver seat when the vehicle is fitted with only one driver seat;(i) the loading surface of the cargo area shall be generally flat;(ii) where the vehicle is fitted with only one row of seats or with one seat, the minimum length of the cargo area shall be at least 40 % of the wheelbase;(iii) where the vehicle is fitted with two or more rows of seats, the minimum length of the cargo area shall be at least 30 % of the wheelbase.Where the seats of the last row of seats can be easily removed from the vehicle without the use of special tools, the requirements regarding the length of the cargo area shall be met with all the seats installed in the vehicle;(iv) the requirements regarding the length of the cargo area shall be met when the seats of the first row or of the last row, as the case may be, are upright in their normal position for use by the vehicle occupants. |
+| 3.8.2.3. | Specific conditions for measurement3.8.2.3.1. **Definitions**(a) ‘Height of the loading aperture’, means the vertical distance between two horizontal planes tangent respectively to the highest point of the lower part of the doorway and the lowest point of the upper part of the doorway;(b) ‘Surface of the loading aperture’ means the greatest surface of the orthogonal projection on a vertical plane, perpendicular to the centreline of the vehicle, of the maximum aperture permitted when the rear door(s) or tailgate is (are) wide open;(c) ‘Wheelbase’, for the purposes of application of the formulae in points 3.8.2.2 and 3.8.3.1, means the distance between:(i) the centreline of the front axle and the centreline of the second axle in the case of a two axle vehicle; or(ii) the centreline of the front axle and the centreline of a virtual axle equally distant from the second and third axle in the case of a three axle vehicle.3.8.2.3.2. **Seat adjustments**(a) The seats shall be adjusted at their rear outermost positions;(b) The seat back, if adjustable, shall be adjusted as to accommodate the three-dimensional H-point machine at a torso angle of 25 degrees;(c) The seat back, if not adjustable, shall be in the position designed by the vehicle manufacturer;(d) When the seat is adjustable in height, it shall be adjusted to its lowest position.3.8.2.3.3. **Vehicle conditions**(a) The vehicle shall be in loaded conditions corresponding to its maximum mass;(b) The vehicle shall be with its wheels straight ahead.3.8.2.3.4.The requirements of point 3.8.2.3.2 shall not apply when the vehicle is fitted with a wall or a partition.3.8.2.3.5.Measurement of the length of the cargo area(a) When the vehicle is not fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the top of the seat back to the rear internal pane or door or tailgate, in closed position;(b) When the vehicle is fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the partition or the wall to the rear internal pane or door or tailgate, as the case may be, in closed position;(c) The requirements concerning the length shall be fulfilled at least along a horizontal line situated in the longitudinal vertical plane passing through the centreline of the vehicle, at the level of the load floor. |
+| 3.8.2.3.4. | The requirements of point 3.8.2.3.2 shall not apply when the vehicle is fitted with a wall or a partition. |
+| 3.8.2.3.5. | Measurement of the length of the cargo area(a) When the vehicle is not fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the top of the seat back to the rear internal pane or door or tailgate, in closed position;(b) When the vehicle is fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the partition or the wall to the rear internal pane or door or tailgate, as the case may be, in closed position;(c) The requirements concerning the length shall be fulfilled at least along a horizontal line situated in the longitudinal vertical plane passing through the centreline of the vehicle, at the level of the load floor. |
+| 3.8.3. | In addition to the general criteria referred to in points 3.2 to 3.6, the criteria specified in this point shall be met for the categorisation of vehicles for which the compartment where the driver is located and the load are not within a single unit (i.e. bodywork ‘BE’).3.8.3.1.Where the vehicle is fitted with an enclosure type body, the following shall apply:(a) the loading of the goods shall be possible by a rear door, a tailgate or a panel or other means;(b) the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12 800 cm2;(c) The minimum length of the cargo area shall be at least 40 % of the wheelbase.3.8.3.2.Where the vehicle is fitted with an open type cargo area, only the provisions referred to in points 3.8.3.1(a) and (c) shall apply.3.8.3.3.For the application of the provisions referred to in point 3.8.3, the definitions in point 3.8.2.3.1 shall apply.3.8.3.4.However, the requirements concerning the length of the cargo area shall be fulfilled along a horizontal line situated in the longitudinal plane passing through the centreline of the vehicle at the level of the load floor. |
+| 3.8.3.1. | Where the vehicle is fitted with an enclosure type body, the following shall apply:(a) the loading of the goods shall be possible by a rear door, a tailgate or a panel or other means;(b) the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12 800 cm2;(c) The minimum length of the cargo area shall be at least 40 % of the wheelbase. |
+| 3.8.3.2. | Where the vehicle is fitted with an open type cargo area, only the provisions referred to in points 3.8.3.1(a) and (c) shall apply. |
+| 3.8.3.3. | For the application of the provisions referred to in point 3.8.3, the definitions in point 3.8.2.3.1 shall apply. |
+| 3.8.3.4. | However, the requirements concerning the length of the cargo area shall be fulfilled along a horizontal line situated in the longitudinal plane passing through the centreline of the vehicle at the level of the load floor. |
 
-(a) 6 in the case of N_1 vehicles;
+4. **Criteria for the sub-categorisation of vehicles as off-road vehicles**
 
-(b) 8 in the case of N_2 or N_3 vehicles.
+| 4.1. | M1 or N1 vehicles shall be subcategorised as off-road vehicles if they satisfy at the same time the following conditions:(a) at least one front and at least one rear axle designed to be driven simultaneously irrespective of whether one powered axle can be disengaged;(b) at least one differential locking mechanism or a mechanism having similar effect is fitted;(c) they are able to climb at least a 25 % gradient as a solo vehicle;(d) they satisfy five out of the following six requirements:(i) the approach angle shall be at least 25 degrees;(ii) the departure angle shall be at least 20 degrees;(iii) the ramp angle shall be at least 20 degrees;(iv) the ground clearance under the front axle shall be at least 180 mm;(v) the ground clearance under the rear axle shall be at least 180 mm;(vi) the ground clearance between the axles shall be at least 200 mm. |
+| --- | --- |
 
-3.6.Vehicles shall show a goods-carrying capacity equal or higher than the person-carrying capacity expressed in kg.
+| 4.2. | M2, N2 or M3 vehicles the maximum mass of which does not exceed 12 tonnes shall be subcategorised as off-road vehicles if they satisfy either the condition set out in point (a) or the conditions set out in both points (b) and (c):(a) all their axles are driven simultaneously, irrespective of whether one or more powered axles can be disengaged;(b) (i) at least one front and at least one rear axle are designed to be driven simultaneously irrespective of whether one powered axle can be disengaged;(ii) at least one differential locking mechanism or a mechanism having the same effect is fitted;(iii) they are able to climb a 25 % gradient as a solo vehicle;(c) they satisfy at least five out of the following six requirements if their maximum mass does not exceed 7,5 tonnes and at least four if their maximum mass exceeds 7,5 tonnes:(i) the approach angle shall be at least 25 degrees;(ii) the departure angle shall be at least 25 degrees;(iii) the ramp angle shall be at least 25 degrees;(iv) the ground clearance under the front axle shall be at least 250 mm;(v) the ground clearance between axles shall be at least 300 mm;(vi) the ground clearance under the rear axle shall be at least 250 mm. |
+| --- | --- |
 
-3.6.1.For such purposes, the following equations shall be satisfied in all configurations, in particular when all seating positions are occupied:
+| 4.3. | M3 or N3 vehicles whose maximum mass exceeds 12 tonnes shall be subcategorised as off-road vehicles if they satisfy either the condition set out in point (a) or the conditions set out in both points (b) and (c):(a) all their axles are driven simultaneously, irrespective of whether one or more powered axles can be disengaged;(b) (i) at least half of the axles (or two axles out of the three in the case of a three axle vehicle and three axles in the case of a five axle vehicle) is designed to be driven simultaneously, irrespective of whether one powered axle can be disengaged;(ii) there is at least one differential locking mechanism or a mechanism having similar effect;(iii) they are able to climb a 25 % gradient as solo vehicle;(c) they satisfy at least four out of the following six requirements:(i) the approach angle shall be at least 25 degrees;(ii) the departure angle shall be at least 25 degrees;(iii) the ramp angle shall be at least 25 degrees;(iv) the ground clearance under the front axle shall be at least 250 mm;(v) the ground clearance between axles shall be at least 300 mm;(vi) the ground clearance under the rear axle shall be at least 250 mm. |
+| --- | --- |
 
-(a) when N = 0: P – M ≥ 100 kg
+| 4.4. | The procedure for checking compliance with the geometrical provisions referred to in this Part shall be set out in Appendix 1. |
+| --- | --- |
 
-(b) when 0 < N ≤ 2: P – (M + N × 68) ≥ 150 kg;
+| 4.5. | The requirements in points 4.1(a), 4.2(a), 4.2(b), 4.3(a), 4.3(b) on simultaneous driven axles are considered to have been fulfilled if one of the following conditions is fulfilled:(a) the transmission of the tractive power to all axles is performed by mechanical means only which provides traction in heavy off-road; or(b) each of the wheels of the axle in question is driven by an individual hydraulic or electric motor.If the axles according to the requirements in points 4.1(a), 4.2(a), 4.2(b), 4.3(a), 4.3(b) on simultaneous driven axles are not powered by mechanical means only, the propulsion of the individual wheels shall be designed for heavy off-road operation. In such case it shall be ensured that at least 75 % of total tractive power can be transmitted to the wheel in question when the tractive conditions under the other wheels do not allow to transmit the tractive power properly via these wheels.The auxiliary drive system according to point 4.5(b) shall not allow to disengage the tractive power automatically until the vehicle reaches 75 % of the maximum vehicle design speed or reaches 65 km/h. |
+| --- | --- |
 
-(c) when N > 2: P – (M + N × 68) ≥ N × 68; where the letters have the following meaning: - ‘P’ is the technically permissible maximum laden mass; ‘P’ is the technically permissible maximum laden mass; - ‘M’ is the mass in running order; ‘M’ is the mass in running order; - ‘N’ is the number of seating positions excluding the driver's seating position. ‘N’ is the number of seating positions excluding the driver's seating position.
-
-3.6.2.
-
-The mass of equipment that is fitted to the vehicle in order to accommodate goods (e.g. tank, bodywork, etc.), to handle goods (e.g. crane, lift, etc.) and to secure goods (e.g. cargo securing devices) shall be included in M.
-
-3.6.3.
-
-The mass of equipment that is not used for the purposes referred to in point 3.6.2 (such as a compressor, a winch, an electric power generator, broadcasting equipment, etc.) shall not be included in M for the purposes of the application of the formulae referred to in point 3.6.1.
-
-3.7.
-
-The requirements referred to in points 3.2 to 3.6 shall be met for all variants and versions within the type of vehicle.
-
-3.8.Criteria for the categorisation of vehicles as N_1.
-
-3.8.1.
-
-A vehicle shall be categorised as N_1 when all the applicable criteria are met.
-
-When one or more of the criteria are not met, the vehicle shall be categorised as M_1.
-
-3.8.2.In addition to the general criteria referred to in points 3.2 to 3.6, the criteria specified in this point shall be met for the categorisation of vehicles for which the compartment where the driver is located and the load are within a single unit (i.e. bodywork ‘BB’).
-
-3.8.2.1.
-
-The fact that a wall or a partition, complete or partial, is fitted between a seat row and the cargo area shall not rule out the obligation to meet the required criteria.
-
-3.8.2.2.The criteria shall be as follows:
-
-(a) the loading of the goods shall be possible by a rear door, a tailgate or a side-door designed and constructed for that purposes;
-
-(b) in the case of a rear door or a tailgate, the loading aperture shall meet the following requirements: (i) in the case the vehicle is fitted with only one row of seats or with only the driver seat, the minimum height of the loading aperture shall be at least 600 mm; (ii) in the case the vehicle is fitted with two or more rows of seats, the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12800 cm^2;
-
-(c) The cargo area shall meet the following requirements: ‘cargo area’ means the part of the vehicle located behind the row(s) of seats or behind the driver seat when the vehicle is fitted with only one driver seat; (i) the loading surface of the cargo area shall be generally flat; (ii) where the vehicle is fitted with only one row of seats or with one seat, the minimum length of the cargo area shall be at least 40 % of the wheelbase; (iii) where the vehicle is fitted with two or more rows of seats, the minimum length of the cargo area shall be at least 30 % of the wheelbase. Where the seats of the last row of seats can be easily removed from the vehicle without the use of special tools, the requirements regarding the length of the cargo area shall be met with all the seats installed in the vehicle; (iv) the requirements regarding the length of the cargo area shall be met when the seats of the first row or of the last row, as the case may be, are upright in their normal position for use by the vehicle occupants.
-
-**3.8.2.3.Specific conditions for measurement**
-
-**3.8.2.3.1.Definitions**
-
-(a) ‘Height of the loading aperture’, means the vertical distance between two horizontal planes tangent respectively to the highest point of the lower part of the doorway and the lowest point of the upper part of the doorway;
-
-(b) ‘Surface of the loading aperture’ means the greatest surface of the orthogonal projection on a vertical plane, perpendicular to the centreline of the vehicle, of the maximum aperture permitted when the rear door(s) or tailgate is (are) wide open;
-
-(c) ‘Wheelbase’, for the purposes of application of the formulae in points 3.8.2.2 and 3.8.3.1, means the distance between: (i) the centreline of the front axle and the centreline of the second axle in the case of a two axle vehicle; or (ii) the centreline of the front axle and the centreline of a virtual axle equally distant from the second and third axle in the case of a three axle vehicle.
-
-**3.8.2.3.2.Seat adjustments**
-
-(a) The seats shall be adjusted at their rear outermost positions;
-
-(b) The seat back, if adjustable, shall be adjusted as to accommodate the three-dimensional H-point machine at a torso angle of 25 degrees;
-
-(c) The seat back, if not adjustable, shall be in the position designed by the vehicle manufacturer;
-
-(d) When the seat is adjustable in height, it shall be adjusted to its lowest position.
-
-**3.8.2.3.3.Vehicle conditions**
-
-(a) The vehicle shall be in loaded conditions corresponding to its maximum mass;
-
-(b) The vehicle shall be with its wheels straight ahead.
-
-3.8.2.3.4.
-
-The requirements of point 3.8.2.3.2 shall not apply when the vehicle is fitted with a wall or a partition.
-
-**3.8.2.3.5.Measurement of the length of the cargo area**
-
-(a) When the vehicle is not fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the top of the seat back to the rear internal pane or door or tailgate, in closed position;
-
-(b) When the vehicle is fitted with a partition or a wall, the length shall be measured from a vertical plane tangent to the rear outermost point of the partition or the wall to the rear internal pane or door or tailgate, as the case may be, in closed position;
-
-(c) The requirements concerning the length shall be fulfilled at least along a horizontal line situated in the longitudinal vertical plane passing through the centreline of the vehicle, at the level of the load floor.
-
-3.8.3.In addition to the general criteria referred to in points 3.2 to 3.6, the criteria specified in this point shall be met for the categorisation of vehicles for which the compartment where the driver is located and the load are not within a single unit (i.e. bodywork ‘BE’).
-
-3.8.3.1.Where the vehicle is fitted with an enclosure type body, the following shall apply:
-
-(a) the loading of the goods shall be possible by a rear door, a tailgate or a panel or other means;
-
-(b) the minimum height of the loading aperture shall be at least 800 mm and the aperture shall show a surface of at least 12800 cm^2;
-
-(c) The minimum length of the cargo area shall be at least 40 % of the wheelbase.
-
-3.8.3.2.
-
-Where the vehicle is fitted with an open type cargo area, only the provisions referred to in points 3.8.3.1(a) and (c) shall apply.
-
-3.8.3.3.
-
-For the application of the provisions referred to in point 3.8.3, the definitions in point 3.8.2.3.1 shall apply.
-
-3.8.3.4.
-
-However, the requirements concerning the length of the cargo area shall be fulfilled along a horizontal line situated in the longitudinal plane passing through the centreline of the vehicle at the level of the load floor.
-
-**4.Criteria for the sub-categorisation of vehicles as off-road vehicles**
-
-4.1.M_1 or N_1 vehicles shall be subcategorised as off-road vehicles if they satisfy at the same time the following conditions:
-
-(a) at least one front and at least one rear axle designed to be driven simultaneously irrespective of whether one powered axle can be disengaged;
-
-(b) at least one differential locking mechanism or a mechanism having similar effect is fitted;
-
-(c) they are able to climb at least a 25 % gradient as a solo vehicle;
-
-(d) they satisfy five out of the following six requirements: (i) the approach angle shall be at least 25 degrees; (ii) the departure angle shall be at least 20 degrees; (iii) the ramp angle shall be at least 20 degrees; (iv) the ground clearance under the front axle shall be at least 180 mm; (v) the ground clearance under the rear axle shall be at least 180 mm; (vi) the ground clearance between the axles shall be at least 200 mm.
-
-4.2.M_2, N_2 or M_3 vehicles the maximum mass of which does not exceed 12 tonnes shall be subcategorised as off-road vehicles if they satisfy either the condition set out in point (a) or the conditions set out in both points (b) and (c):
-
-(a) all their axles are driven simultaneously, irrespective of whether one or more powered axles can be disengaged;
-
-(b) (i) at least one front and at least one rear axle are designed to be driven simultaneously irrespective of whether one powered axle can be disengaged; (ii) at least one differential locking mechanism or a mechanism having the same effect is fitted; (iii) they are able to climb a 25 % gradient as a solo vehicle;
-
-(c) they satisfy at least five out of the following six requirements if their maximum mass does not exceed 7,5 tonnes and at least four if their maximum mass exceeds 7,5 tonnes: (i) the approach angle shall be at least 25 degrees; (ii) the departure angle shall be at least 25 degrees; (iii) the ramp angle shall be at least 25 degrees; (iv) the ground clearance under the front axle shall be at least 250 mm; (v) the ground clearance between axles shall be at least 300 mm; (vi) the ground clearance under the rear axle shall be at least 250 mm.
-
-4.3.M_3 or N_3 vehicles whose maximum mass exceeds 12 tonnes shall be subcategorised as off-road vehicles if they satisfy either the condition set out in point (a) or the conditions set out in both points (b) and (c):
-
-(a) all their axles are driven simultaneously, irrespective of whether one or more powered axles can be disengaged;
-
-(b) (i) at least half of the axles (or two axles out of the three in the case of a three axle vehicle and three axles in the case of a five axle vehicle) is designed to be driven simultaneously, irrespective of whether one powered axle can be disengaged; (ii) there is at least one differential locking mechanism or a mechanism having similar effect; (iii) they are able to climb a 25 % gradient as solo vehicle;
-
-(c) they satisfy at least four out of the following six requirements: (i) the approach angle shall be at least 25 degrees; (ii) the departure angle shall be at least 25 degrees; (iii) the ramp angle shall be at least 25 degrees; (iv) the ground clearance under the front axle shall be at least 250 mm; (v) the ground clearance between axles shall be at least 300 mm; (vi) the ground clearance under the rear axle shall be at least 250 mm.
-
-4.4.
-
-The procedure for checking compliance with the geometrical provisions referred to in this Part shall be set out in Appendix 1.
-
-4.5.The requirements in points 4.1(a), 4.2(a), 4.2(b), 4.3(a), 4.3(b) on simultaneous driven axles are considered to have been fulfilled if one of the following conditions is fulfilled:If the axles according to the requirements in points 4.1(a), 4.2(a), 4.2(b), 4.3(a), 4.3(b) on simultaneous driven axles are not powered by mechanical means only, the propulsion of the individual wheels shall be designed for heavy off-road operation. In such case it shall be ensured that at least 75 % of total tractive power can be transmitted to the wheel in question when the tractive conditions under the other wheels do not allow to transmit the tractive power properly via these wheels.The auxiliary drive system according to point 4.5(b) shall not allow to disengage the tractive power automatically until the vehicle reaches 75 % of the maximum vehicle design speed or reaches 65 km/h.
-
-(a) the transmission of the tractive power to all axles is performed by mechanical means only which provides traction in heavy off-road; or
-
-(b) each of the wheels of the axle in question is driven by an individual hydraulic or electric motor.
-
-**5.Special purpose vehicles**
+5. **Special purpose vehicles**
 
 |  | Name | Code | Definition |
 | --- | --- | --- | --- |
-| 5.1. | Motor caravan | SA | A vehicle of category M with living accommodation space which contains the following equipment as a minimum:(a)seats and table;(b)sleeping accommodation which may be converted from the seats;(c)cooking facilities;(d)storage facilities.This equipment shall be rigidly fixed to the living compartment.However, the table may be designed to be easily removable. |
+| 5.1. | Motor caravan | SA | A vehicle of category M with living accommodation space which contains the following equipment as a minimum:(a) seats and table;(b) sleeping accommodation which may be converted from the seats;(c) cooking facilities;(d) storage facilities.This equipment shall be rigidly fixed to the living compartment.However, the table may be designed to be easily removable. |
 | 5.2. | Armoured vehicle | SB | A vehicle intended for the protection of conveyed persons or goods with anti-bullet armour plating. |
 | 5.3. | Ambulance | SC | A vehicle of category M intended for the transport of sick or injured persons and having special equipment for such purpose. |
 | 5.4. | Hearse | SD | A vehicle of category M intended for the transport of deceased persons and having special equipment for such purpose. |
-| 5.5. | Wheelchair accessible vehicle | SH | A vehicle of category M_1 constructed or converted specifically so that they accommodate one or more persons seated in their wheelchairs when travelling on the road. |
+| 5.5. | Wheelchair accessible vehicle | SH | A vehicle of category M1 constructed or converted specifically so that they accommodate one or more persons seated in their wheelchairs when travelling on the road. |
 | 5.6. | Trailer caravan | SE | A vehicle of category O as defined in term 3.2.1.3 of international standard ISO 3833:1977. |
-| 5.7. | Mobile crane | SF | A vehicle of category N_3, not fitted for the carriage of goods, provided with a crane whose lifting moment is equal to or higher than 400 kNm. |
+| 5.7. | Mobile crane | SF | A vehicle of category N3, not fitted for the carriage of goods, provided with a crane whose lifting moment is equal to or higher than 400 kNm. |
 | 5.8. | Special group | SG | A special purpose vehicle that does not enter in any of the definitions mentioned in this Part. |
 | 5.9. | Converter dolly | SJ | A vehicle of category O equipped with a fifth-wheel coupling to support a semi-trailer with a view to converting the latter into a trailer. |
-| 5.10. | Exceptional load transport trailer | SK | A vehicle of category O_4 intended for the transport of indivisible loads that is subject to speed and traffic restrictions because of its dimensions.Under this term are also included hydraulic modular trailers irrespective of the number of modules. |
-| 5.11. | Exceptional load transport motor vehicle | SL | A road tractor or tractor unit for semi-trailer of category N_3 meeting all the following conditions:(a)having more than two axles and at least half of the axles (two axles out of three in the case of a three axle vehicle and three axles out of five in the case of a five axle vehicle) designed to be driven simultaneously, irrespective of whether one powered axle can be disengaged;(b)that is designed for towing and pushing exceptional load transport trailer of category O_4;(c)that has a minimum engine power of 350 kW; and(d)that can be equipped with an additional front coupling device for heavy towable masses. |
-| 5.12. | Multi-equipment carrier | SM | An off-road vehicle of category N (as defined in point 2.3) designed and constructed for pulling, pushing, carrying and actuating certain inter-changeable equipment:(a)with not less than two mounting areas for this equipment;(b)with standardised, mechanical, hydraulic and/or electrical interfaces (e.g. Power take off) for powering and actuating the inter-changeable equipment; and(c)that fulfils the definition of international standard ISO 3833-1977, paragraph 3.1.4 (special vehicle).If the vehicle is equipped with an auxiliary load platform, its maximum length shall not exceed:(a)1,4 times of the front or rear track width of the vehicle, whichever is the larger in the case of two axle vehicles; or(b)2,0 times of the front or rear track width of the vehicle, whichever is the larger in the case of vehicles having more than two axles. |
+| 5.10. | Exceptional load transport trailer | SK | A vehicle of category O4 intended for the transport of indivisible loads that is subject to speed and traffic restrictions because of its dimensions.Under this term are also included hydraulic modular trailers irrespective of the number of modules. |
+| 5.11. | Exceptional load transport motor vehicle | SL | A road tractor or tractor unit for semi-trailer of category N3 meeting all the following conditions:(a) having more than two axles and at least half of the axles (two axles out of three in the case of a three axle vehicle and three axles out of five in the case of a five axle vehicle) designed to be driven simultaneously, irrespective of whether one powered axle can be disengaged;(b) that is designed for towing and pushing exceptional load transport trailer of category O4;(c) that has a minimum engine power of 350 kW; and(d) that can be equipped with an additional front coupling device for heavy towable masses. |
+| 5.12. | Multi-equipment carrier | SM | An off-road vehicle of category N (as defined in point 2.3) designed and constructed for pulling, pushing, carrying and actuating certain inter-changeable equipment:(a) with not less than two mounting areas for this equipment;(b) with standardised, mechanical, hydraulic and/or electrical interfaces (e.g. Power take off) for powering and actuating the inter-changeable equipment; and(c) that fulfils the definition of international standard ISO 3833-1977, paragraph 3.1.4 (special vehicle).If the vehicle is equipped with an auxiliary load platform, its maximum length shall not exceed:(a) 1,4 times of the front or rear track width of the vehicle, whichever is the larger in the case of two axle vehicles; or(b) 2,0 times of the front or rear track width of the vehicle, whichever is the larger in the case of vehicles having more than two axles. |
 
-**6.Remarks**
+6. **Remarks**
 
-6.1.Type-approval shall not be granted:
+| 6.1. | Type-approval shall not be granted:(a) to converter dolly as defined in point 5.9 of this Part;(b) to rigid drawbar trailers as defined in point 5.4 of Part C;(c) to trailers in which persons may be carried when travelling on the road. |
+| --- | --- |
 
-(a) to converter dolly as defined in point 5.9 of this Part;
+| 6.2. | Point 6.1 is without prejudice to Article 42 on national small series type-approval. |
+| --- | --- |
 
-(b) to rigid drawbar trailers as defined in point 5.4 of Part C;
+PART B
 
-(c) to trailers in which persons may be carried when travelling on the road.
+**Criteria for types of vehicle, variants and versions**
 
-6.2.
+1. **Category M1**
 
-Point 6.1 is without prejudice to Article 42 on national small series type-approval.
+1.1. **Type of vehicle**
 
-**PART BCriteria for types of vehicle, variants and versions**
+| 1.1.1. | A ‘type of vehicle’ shall consist of vehicles that have the following features in common:(a) the manufacturer's company name.A change in the legal form of ownership of the company does not require that a new approval has to be granted;(b) the design and assembly of the essential parts of the body structure in the case of a self-supporting body.The same shall apply to vehicles the bodywork of which is bolted on or welded to a separate frame; |
+| --- | --- |
 
-**1.Category M1**
+| 1.1.2. | By way of derogation from the requirements of point 1.1.1(b), when the manufacturer uses the floor portion of the body structure as well as the essential constituent elements forming the front part of the body structure located directly in front of the windscreen bay, in the construction of different kinds of bodywork (for example a saloon and a coupe), those vehicles may be considered as belonging to the same type. Evidence thereof shall be provided by the manufacturer. |
+| --- | --- |
 
-**1.1.Type of vehicle**
+| 1.1.3. | A type shall consist of at least one variant and one version. |
+| --- | --- |
 
-1.1.1.A ‘type of vehicle’ shall consist of vehicles that have the following features in common:
+1.2. **Variant**
 
-(a) the manufacturer's company name. A change in the legal form of ownership of the company does not require that a new approval has to be granted;
+| 1.2.1. | A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:(a) the number of lateral doors or the type of bodywork as defined in point 2 of Part C when the manufacturer uses the criterion of point 1.1.2;(b) the power plant with regard to the following construction features:(i) the type of energy supply (internal combustion engine, electric motor or other);(ii) the working principle (positive ignition, compression ignition or other);(iii) the number and arrangement of cylinders in the case of internal combustion engine (L4, V6 or other);(c) the number of axles;(d) the number, and interconnection of powered axles;(e) the number of steered axles;(f) the stage of completion (e.g. complete/incomplete);(g) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle. |
+| --- | --- |
 
-(b) the design and assembly of the essential parts of the body structure in the case of a self-supporting body. The same shall apply to vehicles the bodywork of which is bolted on or welded to a separate frame;
+1.3. **Version**
 
-1.1.2.
+| 1.3.1. | A ‘version’ within a variant shall group the vehicles that have the following features in common:(a) the technically permissible maximum laden mass;(b) the engine capacity in the case of internal combustion engine;(c) the maximum engine power output or the maximum continuous rated power (electric motor);(d) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);(e) the maximum number of seating positions;(f) drive-by sound level;(g) exhaust emission level (for example Euro 5, Euro 6 or other);(h) combined or weighted, combined CO2 emissions;(i) electric energy consumption (weighted, combined);(j) combined or weighted, combined fuel consumption;As an alternative to the criteria in points (h), (i) and (j), the vehicles grouped into a version shall have in common all tests performed for the calculation of their CO2 emissions, electric energy consumption and fuel consumption in accordance with sub-Annex 6 to Annex XXI to Commission Regulation (EU) 2017/1151 (9). |
+| --- | --- |
 
-By way of derogation from the requirements of point 1.1.1(b), when the manufacturer uses the floor portion of the body structure as well as the essential constituent elements forming the front part of the body structure located directly in front of the windscreen bay, in the construction of different kinds of bodywork (for example a saloon and a coupe), those vehicles may be considered as belonging to the same type. Evidence thereof shall be provided by the manufacturer.
+2. **Categories M2 and M3**
 
-1.1.3.
+2.1. **Type of vehicle**
 
-A type shall consist of at least one variant and one version.
+| 2.1.1. | A ‘type of vehicle’ shall consist of vehicles that have the following features in common:(a) the manufacturer's company name.A change in the legal form of ownership of the company does not require that a new approval has to be granted;(b) the category;(c) the following aspects of construction and design:(i) the design and construction of the essential constituent elements forming the chassis;(ii) the design and construction of the essential constituent elements forming the body structure in the case of a self-supporting body;(d) the number of decks (single or double);(e) the number of sections (rigid/articulated);(f) the number of axles;(g) the mode of energy supply (on-board or off-board); |
+| --- | --- |
 
-**1.2.Variant**
+| 2.1.2. | A type of vehicle shall consist of at least one variant and one version. |
+| --- | --- |
 
-1.2.1.A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:
+2.2. **Variant**
 
-(a) the number of lateral doors or the type of bodywork as defined in point 2 of Part C when the manufacturer uses the criterion of point 1.1.2;
+| 2.2.1. | A ‘variant’ within a type of vehicle shall group the vehicles that have all of the following construction features in common:(a) the type of bodywork as defined in point 3 of Part C;(b) the class or combination of classes of vehicles as defined in paragraph 2.1.1 of UN Regulation No 107 (only in the case of complete and completed vehicles);(c) the stage of completion (e.g. complete/incomplete/completed);(d) the power plant with regard to the following construction features:(i) the type of energy supply (internal combustion engine, electric motor or other);(ii) the working principle (positive ignition, compression ignition or other);(iii) the number and arrangement of cylinders in the case of internal combustion engine (L6, V8 or other);(e) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle. |
+| --- | --- |
 
-(b) the power plant with regard to the following construction features: (i) the type of energy supply (internal combustion engine, electric motor or other); (ii) the working principle (positive ignition, compression ignition or other); (iii) the number and arrangement of cylinders in the case of internal combustion engine (L4, V6 or other);
+2.3. **Version**
 
-(c) the number of axles;
+| 2.3.1. | A ‘version’ within a variant shall group the vehicles that have all the following features in common:(a) the technically permissible maximum laden mass;(b) the ability of the vehicle to tow a trailer or not;(c) the engine capacity in the case of internal combustion engine;(d) the maximum engine power output or the maximum continuous rated power (electric motor);(e) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);(f) drive-by sound level;(g) exhaust emission level (for example Euro IV, Euro V or other). |
+| --- | --- |
 
-(d) the number, and interconnection of powered axles;
+3. **Category N1**
 
-(e) the number of steered axles;
+3.1. **Type of vehicle**
 
-(f) the stage of completion (e.g. complete/incomplete);
+| 3.1.1. | A ‘type of vehicle’ shall consist of vehicles that have the following features in common:(a) the manufacturer's company name.A change in the legal form of ownership of the company does not require that a new approval has to be granted;(b) the design and assembly of the essential parts of the body structure in the case of a self-supporting body;(c) the design and the construction of the essential constituent elements forming the chassis in the case of a non-self-supporting body. |
+| --- | --- |
 
-(g) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle.
+| 3.1.2. | By way of derogation from the requirements of point 3.1.1(b), when the manufacturer uses the floor portion of the body structure as well the essential constituent elements forming the front part of the body structure located directly in front of the windscreen bay, in the construction of different kinds of bodywork (for example a van and a chassis-cab, different wheelbases and different roof heights), those vehicles may be considered as belonging to the same type. Evidence thereof shall be provided by the manufacturer. |
+| --- | --- |
 
-**1.3.Version**
+| 3.1.3. | A type of vehicle shall consist of at least one variant and one version. |
+| --- | --- |
 
-1.3.1.A ‘version’ within a variant shall group the vehicles that have the following features in common:As an alternative to the criteria in points (h), (i) and (j), the vehicles grouped into a version shall have in common all tests performed for the calculation of their CO_2 emissions, electric energy consumption and fuel consumption in accordance with sub-Annex 6 to Annex XXI to Commission Regulation (EU) 2017/1151.
+3.2. **Variant**
 
-(a) the technically permissible maximum laden mass;
+| 3.2.1. | A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:(a) the number of lateral doors or the type of bodywork as defined in point 4 of Part C (for complete and completed vehicles) when the manufacturer uses the criterion of point 3.1.2;(b) the stage of completion (e.g. complete/incomplete/completed);(c) the power plant with regard to the following construction features:(i) the type of energy supply (internal combustion engine, electric motor or other);(ii) the working principle (positive ignition, compression ignition or other);(iii) the number and arrangement of cylinders in the case of internal combustion engine (L6, V8 or other);(d) the number of axles;(e) the number and interconnection of powered axles;(f) the number of steered axles.(g) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle. |
+| --- | --- |
 
-(b) the engine capacity in the case of internal combustion engine;
+3.3. **Version**
 
-(c) the maximum engine power output or the maximum continuous rated power (electric motor);
+| 3.3.1. | A ‘version’ within a variant shall group the vehicles that have the following features in common:(a) the technically permissible maximum laden mass;(b) the engine capacity in the case of internal combustion engine;(c) the maximum engine power output or maximum continuous rated power (electric motor);(d) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);(e) the maximum number of seating positions;(f) drive-by sound level;(g) exhaust emission level (for example Euro 5, Euro 6 or other);(h) combined or weighted, combined CO2 emissions;(i) electric energy consumption (weighted, combined);(j) combined or weighted, combined fuel consumption;(k) the existence of a unique set of innovative technologies, as specified in Article 12 of Regulation (EU) No 510/2011 of the European Parliament and of the Council (10).As an alternative to the criteria in points (h), (i) and (j), the vehicles grouped into a version shall have in common all tests performed for the calculation of their CO2 emissions, electric energy consumption and fuel consumption in accordance with sub-Annex 6 to Annex XXI of Regulation (EU) 2017/1151. |
+| --- | --- |
 
-(d) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);
+4. **Categories N2 and N3**
 
-(e) the maximum number of seating positions;
+4.1. **Type of vehicle**
 
-(f) drive-by sound level;
+| 4.1.1. | A ‘type of vehicle’ shall consist of vehicles that have the following features in common:(a) the manufacturer's company name.A change in the legal form of ownership of the company does not require that a new approval has to be granted;(b) the category;(c) the design and construction of the chassis that are common to a single line of product;(d) the number of axles; |
+| --- | --- |
 
-(g) exhaust emission level (for example Euro 5, Euro 6 or other);
+| 4.1.2. | A type of vehicle shall consist of at least one variant and one version. |
+| --- | --- |
 
-(h) combined or weighted, combined CO_2 emissions;
+4.2. **Variant**
 
-(i) electric energy consumption (weighted, combined);
+| 4.2.1. | A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:(a) the body structural concept or type of bodywork as defined in point 4 of Part C and in Appendix 2 (only for complete and completed vehicles);(b) the stage of completion (e.g. complete/incomplete/completed);(c) the power plant with regard to the following construction features:(i) the type of energy supply (internal combustion engine, electric motor or other);(ii) the working principle (positive ignition, compression ignition or other);(iii) the number and arrangement of cylinders in the case of internal combustion engine (L6, V8 or other);(d) the number and interconnection of powered axles;(e) the number of steered axles;(f) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle. |
+| --- | --- |
 
-(j) combined or weighted, combined fuel consumption;
+4.3. **Version**
 
-**2.Categories M2 and M3**
+| 4.3.1. | A ‘version’ within a variant shall group the vehicles that have the following features in common:(a) the technically permissible maximum laden mass;(b) the ability or not to tow a trailer as follows:(i) an unbraked trailer;(ii) a trailer with an inertia (or overrun) braking system as defined in paragraph 2.12 of UN Regulation No 13;(iii) a trailer with a continuous or semi-continuous braking system as defined in paragraphs 2.9 and 2.10 of UN Regulation No 13;(iv) a trailer of category O4 that results in a maximum mass of the combination not exceeding 44 tonnes;(v) a trailer of category O4 that results in a maximum mass of the combination exceeding 44 tonnes;(c) the engine capacity;(d) the maximum engine power output;(e) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);(f) drive-by sound level;(g) exhaust emission level (for example Euro IV, Euro V or other). |
+| --- | --- |
 
-**2.1.Type of vehicle**
+5. **Categories O1 and O2**
 
-2.1.1.A ‘type of vehicle’ shall consist of vehicles that have the following features in common:
+5.1. **Type of vehicle**
 
-(a) the manufacturer's company name. A change in the legal form of ownership of the company does not require that a new approval has to be granted;
+| 5.1.1. | A ‘type of vehicle’ shall consist of vehicles that have the following features in common:(a) the manufacturer's company name.A change in the legal form of ownership of the company does not require that a new approval has to be granted;(b) the category;(c) the concept as defined in point 5 of Part C;(d) the following aspects of construction and design:(i) the design and construction of the essential constituent elements forming the chassis;(ii) the design and construction of the essential constituent elements forming the body structure in the case of a self-supporting body;(e) the number of axles. |
+| --- | --- |
 
-(b) the category;
+| 5.1.2. | A type of vehicle shall consist of at least one variant and one version. |
+| --- | --- |
 
-(c) the following aspects of construction and design: (i) the design and construction of the essential constituent elements forming the chassis; (ii) the design and construction of the essential constituent elements forming the body structure in the case of a self-supporting body;
+5.2. **Variant**
 
-(d) the number of decks (single or double);
+| 5.2.1. | A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:(a) the kind of bodywork as referred to in Appendix 2 (for complete and completed vehicles);(b) the stage of completion (e.g. complete/incomplete/completed);(c) the type of braking system (e.g. unbraked/inertia/power);(d) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle. |
+| --- | --- |
 
-(e) the number of sections (rigid/articulated);
+5.3. **Version**
 
-(f) the number of axles;
+| 5.3.1. | A ‘version’ within a variant shall group the vehicles that have the following features in common:(a) the technically permissible maximum laden mass;(b) the concept of the suspension (air, steel or rubber suspension, torsion bar or other);(c) the concept of the drawbar (triangle, tube or other). |
+| --- | --- |
 
-(g) the mode of energy supply (on-board or off-board);
+6. **Categories O3 and O4**
 
-2.1.2.
+6.1. **Type of vehicle**
 
-A type of vehicle shall consist of at least one variant and one version.
+| 6.1.1. | A ‘type of vehicle’ shall consist of vehicles that have the following features in common:(a) the manufacturer's company name.A change in the legal form of ownership of the company does not require that a new approval has to be granted;(b) the category;(c) the concept of the trailer with relation to the definitions in point 5 of Part C;(d) the following aspects of construction and design:(i) the design and construction of the essential constituent elements forming the chassis;(ii) the design and construction of the essential constituent elements forming the body structure in the case of trailers with a self-supporting body;(e) the number of axles. |
+| --- | --- |
 
-**2.2.Variant**
+| 6.1.2. | A type of vehicle shall consist of at least one variant and one version. |
+| --- | --- |
 
-2.2.1.A ‘variant’ within a type of vehicle shall group the vehicles that have all of the following construction features in common:
+6.2. **Variants**
 
-(a) the type of bodywork as defined in point 3 of Part C;
+| 6.2.1. | A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction and design features in common:(a) the kind of bodywork as referred to in Appendix 2 (for complete and completed vehicles);(b) the stage of completion (e.g. complete/incomplete/completed);(c) the concept of the suspensions (steel, air or hydraulic suspension);(d) the following technical features:(i) the capability or not for the chassis to be extendible;(ii) the deck height (normal, low loader, semi-low loader etc.);(e) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle. |
+| --- | --- |
 
-(b) the class or combination of classes of vehicles as defined in paragraph 2.1.1 of UN Regulation No 107 (only in the case of complete and completed vehicles);
+6.3. **Versions**
 
-(c) the stage of completion (e.g. complete/incomplete/completed);
+| 6.3.1. | A ‘version’ within a variant shall group the vehicles that have the following features in common:(a) the technically permissible maximum laden mass;(b) the subdivisions or combination of subdivisions referred to in points 3.2 and 3.3 of Annex I to Directive 96/53/EC into which the axle spacing between two consecutive axles forming a group belongs;(c) the definition of the axles in the following respects:(i) lift axles (number and position);(ii) loadable axles (number and position);(iii) steered axle (number and position). |
+| --- | --- |
 
-(d) the power plant with regard to the following construction features: (i) the type of energy supply (internal combustion engine, electric motor or other); (ii) the working principle (positive ignition, compression ignition or other); (iii) the number and arrangement of cylinders in the case of internal combustion engine (L6, V8 or other);
+7. **Common requirements for all vehicle categories**
 
-(e) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle.
+| 7.1. | When a vehicle falls into several categories because of its maximum mass or the number of seating positions or both, the manufacturer may select to use the criteria of one or the other vehicle category for the definition of the variants and the versions.7.1.1.Examples:(a) a vehicle ‘A’ may be type-approved as N1 (3,5 tonnes) and N2 (4,2 tonnes) in relation to its maximum mass. In such a case, the parameters mentioned in category N1 may be used also for the vehicle that falls into category N2 (or vice-versa);(b) a vehicle ‘B’ may be type-approved as M1 and M2 in relation to the number of seating positions (7 + 1 or 10 + 1), the parameters mentioned in category M1 may be used also for the vehicle that falls into category M2 (or vice-versa). |
+| --- | --- |
+| 7.1.1. | Examples:(a) a vehicle ‘A’ may be type-approved as N1 (3,5 tonnes) and N2 (4,2 tonnes) in relation to its maximum mass. In such a case, the parameters mentioned in category N1 may be used also for the vehicle that falls into category N2 (or vice-versa);(b) a vehicle ‘B’ may be type-approved as M1 and M2 in relation to the number of seating positions (7 + 1 or 10 + 1), the parameters mentioned in category M1 may be used also for the vehicle that falls into category M2 (or vice-versa). |
 
-**2.3.Version**
+| 7.2. | A vehicle of category N may be type-approved against the provisions required for category M1 or M2, as the case may be, when it is intended to be converted into a vehicle of that category during the next step of a multi-stage type-approval procedure.7.2.1.This option shall only be permitted for incomplete vehicles.Such vehicles shall be identified by a specific variant code given by the manufacturer of the base vehicle. |
+| --- | --- |
+| 7.2.1. | This option shall only be permitted for incomplete vehicles.Such vehicles shall be identified by a specific variant code given by the manufacturer of the base vehicle. |
 
-2.3.1.A ‘version’ within a variant shall group the vehicles that have all the following features in common:
+| 7.3. | Type-, variant- and version designations7.3.1.The manufacturer shall allocate an alphanumeric code to each type of vehicle, variant and version, made up of Roman letters and/or Arabic numerals.The use of brackets and hyphens is permitted provided they do not replace a letter or a numeral.7.3.2.The whole code shall be designated: Type-Variant-Version or ‘TVV’.7.3.3.The TVV shall clearly and unequivocally identify a unique combination of technical features in relation to the criteria defined in this Part.7.3.4.The same manufacturer may use the same code in order to define a type of vehicle when the latter falls in two or more categories.7.3.5.The same manufacturer shall not use the same code in order to define a type of vehicle for more than one type-approval within the same vehicle category. |
+| --- | --- |
+| 7.3.1. | The manufacturer shall allocate an alphanumeric code to each type of vehicle, variant and version, made up of Roman letters and/or Arabic numerals.The use of brackets and hyphens is permitted provided they do not replace a letter or a numeral. |
+| 7.3.2. | The whole code shall be designated: Type-Variant-Version or ‘TVV’. |
+| 7.3.3. | The TVV shall clearly and unequivocally identify a unique combination of technical features in relation to the criteria defined in this Part. |
+| 7.3.4. | The same manufacturer may use the same code in order to define a type of vehicle when the latter falls in two or more categories. |
+| 7.3.5. | The same manufacturer shall not use the same code in order to define a type of vehicle for more than one type-approval within the same vehicle category. |
 
-(a) the technically permissible maximum laden mass;
+| 7.4. | Number of characters for the TVV7.4.1.The number of characters shall not exceed:(a) 15 for the code of the type of vehicle;(b) 25 for the code of one variant;(c) 35 for the code of one version.7.4.2.The complete alphanumeric ‘TVV’ shall not contain more than 75 characters.7.4.3.When the TVV is used as a whole, a space shall be left between the type, the variant and the version.Example of such TVV: 159AF[…space]0054[…space]977K(BE). |
+| --- | --- |
+| 7.4.1. | The number of characters shall not exceed:(a) 15 for the code of the type of vehicle;(b) 25 for the code of one variant;(c) 35 for the code of one version. |
+| 7.4.2. | The complete alphanumeric ‘TVV’ shall not contain more than 75 characters. |
+| 7.4.3. | When the TVV is used as a whole, a space shall be left between the type, the variant and the version.Example of such TVV: 159AF[…space]0054[…space]977K(BE). |
 
-(b) the ability of the vehicle to tow a trailer or not;
+PART C
 
-(c) the engine capacity in the case of internal combustion engine;
+**Definitions of types of bodywork**
 
-(d) the maximum engine power output or the maximum continuous rated power (electric motor);
+1. **General**
 
-(e) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);
+| 1.1. | The type of bodywork as well as the code for bodywork shall be indicated by means of codes.The list of codes shall apply primarily to complete and completed vehicles. |
+| --- | --- |
 
-(f) drive-by sound level;
+| 1.2. | As regards vehicles of categories M, the type of bodywork shall consist of two letters as specified in points 2 and 3. |
+| --- | --- |
 
-(g) exhaust emission level (for example Euro IV, Euro V or other).
+| 1.3. | As regards vehicles of categories N and O, the type of bodywork shall consist of two letters as referred to in points 4 and 5. |
+| --- | --- |
 
-**3.Category N1**
+| 1.4. | Where necessary (especially for the types of bodywork referred to respectively in points 4.1 and 4.6 and in points 5.1 to 5.4), they shall be supplemented by two digits.1.4.1.The list of digits shall be laid down in Appendix 2. |
+| --- | --- |
+| 1.4.1. | The list of digits shall be laid down in Appendix 2. |
 
-**3.1.Type of vehicle**
+| 1.5. | For special purpose vehicles, the type of bodywork to be used shall be linked to the category of the vehicle. |
+| --- | --- |
 
-3.1.1.A ‘type of vehicle’ shall consist of vehicles that have the following features in common:
-
-(a) the manufacturer's company name. A change in the legal form of ownership of the company does not require that a new approval has to be granted;
-
-(b) the design and assembly of the essential parts of the body structure in the case of a self-supporting body;
-
-(c) the design and the construction of the essential constituent elements forming the chassis in the case of a non-self-supporting body.
-
-3.1.2.
-
-By way of derogation from the requirements of point 3.1.1(b), when the manufacturer uses the floor portion of the body structure as well the essential constituent elements forming the front part of the body structure located directly in front of the windscreen bay, in the construction of different kinds of bodywork (for example a van and a chassis-cab, different wheelbases and different roof heights), those vehicles may be considered as belonging to the same type. Evidence thereof shall be provided by the manufacturer.
-
-3.1.3.
-
-A type of vehicle shall consist of at least one variant and one version.
-
-**3.2.Variant**
-
-3.2.1.A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:
-
-(a) the number of lateral doors or the type of bodywork as defined in point 4 of Part C (for complete and completed vehicles) when the manufacturer uses the criterion of point 3.1.2;
-
-(b) the stage of completion (e.g. complete/incomplete/completed);
-
-(c) the power plant with regard to the following construction features: (i) the type of energy supply (internal combustion engine, electric motor or other); (ii) the working principle (positive ignition, compression ignition or other); (iii) the number and arrangement of cylinders in the case of internal combustion engine (L6, V8 or other);
-
-(d) the number of axles;
-
-(e) the number and interconnection of powered axles;
-
-(f) the number of steered axles.
-
-(g) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle.
-
-**3.3.Version**
-
-3.3.1.A ‘version’ within a variant shall group the vehicles that have the following features in common:As an alternative to the criteria in points (h), (i) and (j), the vehicles grouped into a version shall have in common all tests performed for the calculation of their CO_2 emissions, electric energy consumption and fuel consumption in accordance with sub-Annex 6 to Annex XXI of Regulation (EU) 2017/1151.
-
-(a) the technically permissible maximum laden mass;
-
-(b) the engine capacity in the case of internal combustion engine;
-
-(c) the maximum engine power output or maximum continuous rated power (electric motor);
-
-(d) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);
-
-(e) the maximum number of seating positions;
-
-(f) drive-by sound level;
-
-(g) exhaust emission level (for example Euro 5, Euro 6 or other);
-
-(h) combined or weighted, combined CO_2 emissions;
-
-(i) electric energy consumption (weighted, combined);
-
-(j) combined or weighted, combined fuel consumption;
-
-(k) the existence of a unique set of innovative technologies, as specified in Article 12 of Regulation (EU) No 510/2011 of the European Parliament and of the Council.
-
-**4.Categories N2 and N3**
-
-**4.1.Type of vehicle**
-
-4.1.1.A ‘type of vehicle’ shall consist of vehicles that have the following features in common:
-
-(a) the manufacturer's company name. A change in the legal form of ownership of the company does not require that a new approval has to be granted;
-
-(b) the category;
-
-(c) the design and construction of the chassis that are common to a single line of product;
-
-(d) the number of axles;
-
-4.1.2.
-
-A type of vehicle shall consist of at least one variant and one version.
-
-**4.2.Variant**
-
-4.2.1.A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:
-
-(a) the body structural concept or type of bodywork as defined in point 4 of Part C and in Appendix 2 (only for complete and completed vehicles);
-
-(b) the stage of completion (e.g. complete/incomplete/completed);
-
-(c) the power plant with regard to the following construction features: (i) the type of energy supply (internal combustion engine, electric motor or other); (ii) the working principle (positive ignition, compression ignition or other); (iii) the number and arrangement of cylinders in the case of internal combustion engine (L6, V8 or other);
-
-(d) the number and interconnection of powered axles;
-
-(e) the number of steered axles;
-
-(f) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle.
-
-**4.3.Version**
-
-4.3.1.A ‘version’ within a variant shall group the vehicles that have the following features in common:
-
-(a) the technically permissible maximum laden mass;
-
-(b) the ability or not to tow a trailer as follows: (i) an unbraked trailer; (ii) a trailer with an inertia (or overrun) braking system as defined in paragraph 2.12 of UN Regulation No 13; (iii) a trailer with a continuous or semi-continuous braking system as defined in paragraphs 2.9 and 2.10 of UN Regulation No 13; (iv) a trailer of category O_4 that results in a maximum mass of the combination not exceeding 44 tonnes; (v) a trailer of category O_4 that results in a maximum mass of the combination exceeding 44 tonnes;
-
-(c) the engine capacity;
-
-(d) the maximum engine power output;
-
-(e) the nature of the fuel (petrol, gas oil, LPG, bi-fuel or other);
-
-(f) drive-by sound level;
-
-(g) exhaust emission level (for example Euro IV, Euro V or other).
-
-**5.Categories O1 and O2**
-
-**5.1.Type of vehicle**
-
-5.1.1.A ‘type of vehicle’ shall consist of vehicles that have the following features in common:
-
-(a) the manufacturer's company name. A change in the legal form of ownership of the company does not require that a new approval has to be granted;
-
-(b) the category;
-
-(c) the concept as defined in point 5 of Part C;
-
-(d) the following aspects of construction and design: (i) the design and construction of the essential constituent elements forming the chassis; (ii) the design and construction of the essential constituent elements forming the body structure in the case of a self-supporting body;
-
-(e) the number of axles.
-
-5.1.2.
-
-A type of vehicle shall consist of at least one variant and one version.
-
-**5.2.Variant**
-
-5.2.1.A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction features in common:
-
-(a) the kind of bodywork as referred to in Appendix 2 (for complete and completed vehicles);
-
-(b) the stage of completion (e.g. complete/incomplete/completed);
-
-(c) the type of braking system (e.g. unbraked/inertia/power);
-
-(d) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle.
-
-**5.3.Version**
-
-5.3.1.A ‘version’ within a variant shall group the vehicles that have the following features in common:
-
-(a) the technically permissible maximum laden mass;
-
-(b) the concept of the suspension (air, steel or rubber suspension, torsion bar or other);
-
-(c) the concept of the drawbar (triangle, tube or other).
-
-**6.Categories O3 and O4**
-
-**6.1.Type of vehicle**
-
-6.1.1.A ‘type of vehicle’ shall consist of vehicles that have the following features in common:
-
-(a) the manufacturer's company name. A change in the legal form of ownership of the company does not require that a new approval has to be granted;
-
-(b) the category;
-
-(c) the concept of the trailer with relation to the definitions in point 5 of Part C;
-
-(d) the following aspects of construction and design: (i) the design and construction of the essential constituent elements forming the chassis; (ii) the design and construction of the essential constituent elements forming the body structure in the case of trailers with a self-supporting body;
-
-(e) the number of axles.
-
-6.1.2.
-
-A type of vehicle shall consist of at least one variant and one version.
-
-**6.2.Variants**
-
-6.2.1.A ‘variant’ within a type of vehicle shall group the vehicles that have the following construction and design features in common:
-
-(a) the kind of bodywork as referred to in Appendix 2 (for complete and completed vehicles);
-
-(b) the stage of completion (e.g. complete/incomplete/completed);
-
-(c) the concept of the suspensions (steel, air or hydraulic suspension);
-
-(d) the following technical features: (i) the capability or not for the chassis to be extendible; (ii) the deck height (normal, low loader, semi-low loader etc.);
-
-(e) in the case of multi-stage built vehicles, the manufacturer and the type of the previous stage vehicle.
-
-**6.3.Versions**
-
-6.3.1.A ‘version’ within a variant shall group the vehicles that have the following features in common:
-
-(a) the technically permissible maximum laden mass;
-
-(b) the subdivisions or combination of subdivisions referred to in points 3.2 and 3.3 of Annex I to Directive 96/53/EC into which the axle spacing between two consecutive axles forming a group belongs;
-
-(c) the definition of the axles in the following respects: (i) lift axles (number and position); (ii) loadable axles (number and position); (iii) steered axle (number and position).
-
-**7.Common requirements for all vehicle categories**
-
-7.1.When a vehicle falls into several categories because of its maximum mass or the number of seating positions or both, the manufacturer may select to use the criteria of one or the other vehicle category for the definition of the variants and the versions.
-
-7.1.1.Examples:
-
-(a) a vehicle ‘A’ may be type-approved as N_1 (3,5 tonnes) and N_2 (4,2 tonnes) in relation to its maximum mass. In such a case, the parameters mentioned in category N_1 may be used also for the vehicle that falls into category N_2 (or vice-versa);
-
-(b) a vehicle ‘B’ may be type-approved as M_1 and M_2 in relation to the number of seating positions (7 + 1 or 10 + 1), the parameters mentioned in category M_1 may be used also for the vehicle that falls into category M_2 (or vice-versa).
-
-7.2.A vehicle of category N may be type-approved against the provisions required for category M_1 or M_2, as the case may be, when it is intended to be converted into a vehicle of that category during the next step of a multi-stage type-approval procedure.
-
-7.2.1.
-
-This option shall only be permitted for incomplete vehicles.
-
-Such vehicles shall be identified by a specific variant code given by the manufacturer of the base vehicle.
-
-**7.3.Type-, variant- and version designations**
-
-7.3.1.
-
-The manufacturer shall allocate an alphanumeric code to each type of vehicle, variant and version, made up of Roman letters and/or Arabic numerals.
-
-The use of brackets and hyphens is permitted provided they do not replace a letter or a numeral.
-
-7.3.2.
-
-The whole code shall be designated: Type-Variant-Version or ‘TVV’.
-
-7.3.3.
-
-The TVV shall clearly and unequivocally identify a unique combination of technical features in relation to the criteria defined in this Part.
-
-7.3.4.
-
-The same manufacturer may use the same code in order to define a type of vehicle when the latter falls in two or more categories.
-
-7.3.5.
-
-The same manufacturer shall not use the same code in order to define a type of vehicle for more than one type-approval within the same vehicle category.
-
-**7.4.Number of characters for the TVV**
-
-7.4.1.The number of characters shall not exceed:
-
-(a) 15 for the code of the type of vehicle;
-
-(b) 25 for the code of one variant;
-
-(c) 35 for the code of one version.
-
-7.4.2.
-
-The complete alphanumeric ‘TVV’ shall not contain more than 75 characters.
-
-7.4.3.
-
-When the TVV is used as a whole, a space shall be left between the type, the variant and the version.
-
-Example of such TVV: 159AF[…space]0054[…space]977K(BE).
-
-**PART CDefinitions of types of bodywork**
-
-**1.General**
-
-1.1.
-
-The type of bodywork as well as the code for bodywork shall be indicated by means of codes.
-
-The list of codes shall apply primarily to complete and completed vehicles.
-
-1.2.
-
-As regards vehicles of categories M, the type of bodywork shall consist of two letters as specified in points 2 and 3.
-
-1.3.
-
-As regards vehicles of categories N and O, the type of bodywork shall consist of two letters as referred to in points 4 and 5.
-
-1.4.Where necessary (especially for the types of bodywork referred to respectively in points 4.1 and 4.6 and in points 5.1 to 5.4), they shall be supplemented by two digits.
-
-1.4.1.
-
-The list of digits shall be laid down in Appendix 2.
-
-1.5.
-
-For special purpose vehicles, the type of bodywork to be used shall be linked to the category of the vehicle.
-
-**2.Vehicles belonging to category M1**
+2. **Vehicles belonging to category M1**
 
 | Ref. | Code | Name | Definition |
 | --- | --- | --- | --- |
@@ -2703,7 +2143,7 @@ For special purpose vehicles, the type of bodywork to be used shall be linked to
 | 2.6. | AF | Multi-purpose vehicle | A vehicle other than AG and those mentioned in AA to AE intended for carrying persons and their luggage or occasionally goods, in a single compartment. |
 | 2.7. | AG | Truck station wagon | A vehicle defined in term No 3.1.1.4.1 of international standard ISO 3833:1977.However, the luggage compartment must be completely separated from the passenger compartment.In addition, the reference point of the driver's seating position needs not to be at least at 750 mm above the surface supporting the vehicle. |
 
-**3.Vehicles belonging to category M2 or M3**
+3. **Vehicles belonging to category M2 or M3**
 
 | Ref. | Code | Name | Definition |
 | --- | --- | --- | --- |
@@ -2719,7 +2159,7 @@ For special purpose vehicles, the type of bodywork to be used shall be linked to
 | 3.10. | CJ | Open top double deck vehicle | A vehicle without roof over all or part of its upper deck; |
 | 3.11. | CX | Bus chassis | An incomplete vehicle with just chassis rails or tube assembly, power train, axles, that is intended to be completed with bodywork, customised to the needs of the transport operator. |
 
-**4.Motor vehicles of category N1, N2 or N3**
+4. **Motor vehicles of category N1, N2 or N3**
 
 | Ref. | Code | Name | Definition |
 | --- | --- | --- | --- |
@@ -2727,247 +2167,205 @@ For special purpose vehicles, the type of bodywork to be used shall be linked to
 | 4.2. | BB | Van | A lorry with the compartment where the driver is located and cargo area within a single unit. |
 | 4.3. | BC | Tractor unit for semi-trailer | A towing vehicle that is designed and constructed exclusively or principally to tow semi-trailers. |
 | 4.4. | BD | Road tractor | A towing vehicle that is designed and constructed exclusively to tow trailers other than semi-trailers. |
-| 4.5. | BE | Pick-up truck | A vehicle of a maximum mass not exceeding 3500 kg in which the seating positions and the cargo area are not located in a single compartment. |
+| 4.5. | BE | Pick-up truck | A vehicle of a maximum mass not exceeding 3 500 kg in which the seating positions and the cargo area are not located in a single compartment. |
 | 4.6. | BX | Chassis-cab or chassis-cowl | An incomplete vehicle with just a cabin (complete or partial), chassis rails, power train, axles, which is intended to be completed with bodywork, customised to the needs of the transport operator. |
 
-**5.Vehicles of category O**
+5. **Vehicles of category O**
 
 | Ref. | Code | Name | Definition |
 | --- | --- | --- | --- |
 | 5.1. | DA | Semi-trailer | A trailer that is designed and constructed to be coupled to a tractor unit or to a converter dolly and to impose a substantial vertical load on the towing vehicle or on the converter dolly.The coupling to be used for a vehicle combination shall consist of a king pin and a fifth wheel. |
-| 5.2. | DB | Drawbar trailer | A trailer having at least two axles, of which at least one is a steered axle:(a)equipped with a towing device which can move vertically (in relation to the trailer); and(b)that transmits less than 100 daN as a static vertical load to the towing vehicle. |
-| 5.3. | DC | Centre-axle trailer | A trailer where the axle(s) is (are) positioned close to the centre of gravity of the vehicle (when uniformly loaded) so that only a small static vertical load, not exceeding 10 % of that corresponding to the maximum mass of the trailer or a load of 1000 daN (whichever is the lesser) is transmitted to the towing vehicle. |
-| 5.4. | DE | Rigid drawbar trailer | A trailer with one axle or one group of axles fitted with a drawbar which transmits a static load not exceeding 4000 daN to the towing vehicle due to its construction and that does not meet the definition of a centre-axle trailer.The coupling to be used for a vehicle combination shall not consist of a king pin and a fifth wheel. |
+| 5.2. | DB | Drawbar trailer | A trailer having at least two axles, of which at least one is a steered axle:(a) equipped with a towing device which can move vertically (in relation to the trailer); and(b) that transmits less than 100 daN as a static vertical load to the towing vehicle. |
+| 5.3. | DC | Centre-axle trailer | A trailer where the axle(s) is (are) positioned close to the centre of gravity of the vehicle (when uniformly loaded) so that only a small static vertical load, not exceeding 10 % of that corresponding to the maximum mass of the trailer or a load of 1 000 daN (whichever is the lesser) is transmitted to the towing vehicle. |
+| 5.4. | DE | Rigid drawbar trailer | A trailer with one axle or one group of axles fitted with a drawbar which transmits a static load not exceeding 4 000 daN to the towing vehicle due to its construction and that does not meet the definition of a centre-axle trailer.The coupling to be used for a vehicle combination shall not consist of a king pin and a fifth wheel. |
+| ▼M4 |  |  |  |
 | 5.5. | DF | Link semi-trailer | A semi-trailer with a fifth wheel mounted at the rear such that the link semi-trailer could tow another semi-trailer. |
 | 5.6. | DG | Link drawbar trailer | A drawbar trailer with a fifth wheel mounted at the rear such that the link trailer could tow another semi-trailer. |
-
-**Procedure for checking whether a vehicle can be categorised as off-road vehicle**
-
-**1.General**
-
-1.1.
-
-For the purposes of classification of a vehicle as off-road vehicle, the procedure described in this Appendix shall apply.
-
-**2.Test conditions for geometric measurements**
-
-2.1.
-
-Vehicles belonging to category M_1 or N_1 shall be in unloaded conditions with a manikin of the 50th percentile male installed on the driver's seat and fitted with coolant fluid, lubricants, fuel, tools, spare-wheel (if fitted as OEM equipment).
-
-The manikin may be replaced by a similar device having the same mass.
-
-2.2.
-
-Vehicles other than those referred to in point 2.1 shall be loaded to their technically permissible maximum laden mass.
-
-The distribution of the mass on the axles shall be the one that represents the worst case with respect to compliance with the respective criteria.
-
-2.3.
-
-A vehicle representative of the type shall be submitted to the technical service in the conditions specified in point 2.1 or 2.2. The vehicle shall be in a stationary position with its wheels set straight ahead.
-
-The ground on which measurements are made shall be as flat and horizontal (maximum of inclination 0,5 %) as possible.
-
-**3.Measurement of approach, departure and ramp angles**
-
-3.1.
-
-The approach angle shall be measured in accordance with paragraph 6.10 of international standard ISO 612:1978.
-
-3.2.
-
-The departure angle shall be measured in accordance with paragraph 6.11 of international standard ISO 612:1978.
-
-3.3.
-
-The ramp angle shall be measured in accordance with paragraph 6.9 of international standard ISO 612:1978.
-
-3.4.
-
-When measuring the departure angle rear underrun protection devices which are adjustable in height may be set in the upper position.
-
-3.5.
-
-The prescription in point 3.4 shall not be construed as an obligation for the base vehicle to be fitted with a rear underrun protection as original equipment. However, the base vehicle manufacturer shall inform the next stage manufacturer that the vehicle has to comply with the requirements on departure angle when fitted with a rear underrun protection.
-
-**4.Measurement of ground clearance**
-
-**4.1.Ground clearance between the axles**
-
-4.1.1.
-
-‘Ground clearance between the axles’ means the shortest distance between the ground plane and the lowest fixed point of the vehicle.
-
-For the application of the definition, the distance between the last axle of a front group of axle and the first axle of a rear group of axle shall be considered.
-
-[tech.design image: L_2018151EN.01008402.tif]
-
-4.1.2.
-
-No rigid part of the vehicle may project into the shaded area shown on the figure.
-
-**4.2.Ground clearance beneath one axle**
-
-4.2.1.
-
-‘Ground clearance beneath one axle’ means the distance beneath the highest point of the arc of a circle passing through the centre of the tyre footprint of the wheels on one axle (the inner wheels in the case of twin tyres) and touching the lowest fixed point of the vehicle between the wheels.
-
-[tech.design image: L_2018151EN.01008501.tif]
-
-4.2.2.
-
-Where appropriate, the measurement of ground clearance shall be conducted on each of the several axles of a group of axles.
-
-**5.Gradeability**
-
-5.1.
-
-‘Gradeability’ means the ability of a vehicle to negotiate a gradient.
-
-5.2.
-
-To the effect of checking the gradeability of an incomplete and a complete vehicle of category M_2, M_3, N_2 and N_3, a test shall be performed.
-
-5.3.
-
-The test shall be conducted by the technical service on a vehicle representative of the type to be tested.
-
-5.4.
-
-At the request of the manufacturer and under the conditions specified in Annex VIII, the gradeability of a type of vehicle may be demonstrated by virtual testing.
-
-**6.Test conditions and pass-fail criterion**
-
-6.1.
-
-The conditions set out in Annex II to Commission Regulation (EU) No 1230/2012 shall apply.
-
-6.2.
-
-The vehicle shall climb the gradient at a steady speed without any wheel slipping, longitudinally or laterally.
-
-01Flat bed;02Drop-side;03Box body;04Conditioned body with insulated walls and equipment to maintain the interior temperature;05Conditioned body with insulated walls but without equipment to maintain the interior temperature;06Curtain-sided;07Swap body (interchangeable superstructure);08Container carrier;09Vehicles fitted with hook lift;10Tipper;11Tank;12Tank intended for transport of dangerous goods;13Livestock carrier;14Vehicle transporter;15Concrete mixer;16Concrete pump vehicle;17Timber;18Refuse collection vehicle;19Street sweeper, cleansing and drain clearing;20Compressor;21Boat carrier;22Glider carrier;23Vehicles for retail or display purposes;24Recovery vehicle;25Ladder vehicle;26Crane lorry (other than a mobile crane as defined in point 5.7 of Part A);27Aerial work platform vehicle;28Digger derrick vehicle;29Low floor trailer;30Glazing transporter;31Fire engine;32Drop-side tarpaulin;99Bodywork that is not included in this list.
-
-**Digits used to supplement the codes to be used for various kinds of bodywork**
+| ▼B |  |  |  |
 
 <a id="appendix_1"></a>
 
 ### Appendix 1
 
-**Procedure for checking whether a vehicle can be categorised as off-road vehicle**
+Procedure for checking whether a vehicle can be categorised as off-road vehicle
 
-**1.General**
+1. **General**
 
-1.1.
+| 1.1. | For the purposes of classification of a vehicle as off-road vehicle, the procedure described in this Appendix shall apply. |
+| --- | --- |
 
-For the purposes of classification of a vehicle as off-road vehicle, the procedure described in this Appendix shall apply.
+2. **Test conditions for geometric measurements**
 
-**2.Test conditions for geometric measurements**
+| 2.1. | Vehicles belonging to category M1 or N1 shall be in unloaded conditions with a manikin of the 50th percentile male installed on the driver's seat and fitted with coolant fluid, lubricants, fuel, tools, spare-wheel (if fitted as OEM equipment).The manikin may be replaced by a similar device having the same mass. |
+| --- | --- |
 
-2.1.
+| 2.2. | Vehicles other than those referred to in point 2.1 shall be loaded to their technically permissible maximum laden mass.The distribution of the mass on the axles shall be the one that represents the worst case with respect to compliance with the respective criteria. |
+| --- | --- |
 
-Vehicles belonging to category M_1 or N_1 shall be in unloaded conditions with a manikin of the 50th percentile male installed on the driver's seat and fitted with coolant fluid, lubricants, fuel, tools, spare-wheel (if fitted as OEM equipment).
+| 2.3. | A vehicle representative of the type shall be submitted to the technical service in the conditions specified in point 2.1 or 2.2. The vehicle shall be in a stationary position with its wheels set straight ahead.The ground on which measurements are made shall be as flat and horizontal (maximum of inclination 0,5 %) as possible. |
+| --- | --- |
 
-The manikin may be replaced by a similar device having the same mass.
+3. **Measurement of approach, departure and ramp angles**
 
-2.2.
+| 3.1. | The approach angle shall be measured in accordance with paragraph 6.10 of international standard ISO 612:1978. |
+| --- | --- |
 
-Vehicles other than those referred to in point 2.1 shall be loaded to their technically permissible maximum laden mass.
+| 3.2. | The departure angle shall be measured in accordance with paragraph 6.11 of international standard ISO 612:1978. |
+| --- | --- |
 
-The distribution of the mass on the axles shall be the one that represents the worst case with respect to compliance with the respective criteria.
+| 3.3. | The ramp angle shall be measured in accordance with paragraph 6.9 of international standard ISO 612:1978. |
+| --- | --- |
 
-2.3.
+| 3.4. | When measuring the departure angle rear underrun protection devices which are adjustable in height may be set in the upper position. |
+| --- | --- |
 
-A vehicle representative of the type shall be submitted to the technical service in the conditions specified in point 2.1 or 2.2. The vehicle shall be in a stationary position with its wheels set straight ahead.
+| 3.5. | The prescription in point 3.4 shall not be construed as an obligation for the base vehicle to be fitted with a rear underrun protection as original equipment. However, the base vehicle manufacturer shall inform the next stage manufacturer that the vehicle has to comply with the requirements on departure angle when fitted with a rear underrun protection. |
+| --- | --- |
 
-The ground on which measurements are made shall be as flat and horizontal (maximum of inclination 0,5 %) as possible.
+4. **Measurement of ground clearance**
 
-**3.Measurement of approach, departure and ramp angles**
+4.1. **Ground clearance between the axles**
 
-3.1.
+| 4.1.1. | ‘Ground clearance between the axles’ means the shortest distance between the ground plane and the lowest fixed point of the vehicle.For the application of the definition, the distance between the last axle of a front group of axle and the first axle of a rear group of axle shall be considered. |
+| --- | --- |
 
-The approach angle shall be measured in accordance with paragraph 6.10 of international standard ISO 612:1978.
+| 4.1.2. | No rigid part of the vehicle may project into the shaded area shown on the figure. |
+| --- | --- |
 
-3.2.
+4.2. **Ground clearance beneath one axle**
 
-The departure angle shall be measured in accordance with paragraph 6.11 of international standard ISO 612:1978.
+| 4.2.1. | ‘Ground clearance beneath one axle’ means the distance beneath the highest point of the arc of a circle passing through the centre of the tyre footprint of the wheels on one axle (the inner wheels in the case of twin tyres) and touching the lowest fixed point of the vehicle between the wheels. |
+| --- | --- |
 
-3.3.
+| 4.2.2. | Where appropriate, the measurement of ground clearance shall be conducted on each of the several axles of a group of axles. |
+| --- | --- |
 
-The ramp angle shall be measured in accordance with paragraph 6.9 of international standard ISO 612:1978.
+5. **Gradeability**
 
-3.4.
+| 5.1. | ‘Gradeability’ means the ability of a vehicle to negotiate a gradient. |
+| --- | --- |
 
-When measuring the departure angle rear underrun protection devices which are adjustable in height may be set in the upper position.
+| 5.2. | To the effect of checking the gradeability of an incomplete and a complete vehicle of category M2, M3, N2 and N3, a test shall be performed. |
+| --- | --- |
 
-3.5.
+| 5.3. | The test shall be conducted by the technical service on a vehicle representative of the type to be tested. |
+| --- | --- |
 
-The prescription in point 3.4 shall not be construed as an obligation for the base vehicle to be fitted with a rear underrun protection as original equipment. However, the base vehicle manufacturer shall inform the next stage manufacturer that the vehicle has to comply with the requirements on departure angle when fitted with a rear underrun protection.
+| 5.4. | At the request of the manufacturer and under the conditions specified in Annex VIII, the gradeability of a type of vehicle may be demonstrated by virtual testing. |
+| --- | --- |
 
-**4.Measurement of ground clearance**
+6. **Test conditions and pass-fail criterion**
 
-**4.1.Ground clearance between the axles**
+| 6.1. | The conditions set out in Annex II to Commission Regulation (EU) No 1230/2012 (11) shall apply. |
+| --- | --- |
 
-4.1.1.
-
-‘Ground clearance between the axles’ means the shortest distance between the ground plane and the lowest fixed point of the vehicle.
-
-For the application of the definition, the distance between the last axle of a front group of axle and the first axle of a rear group of axle shall be considered.
-
-[tech.design image: L_2018151EN.01008402.tif]
-
-4.1.2.
-
-No rigid part of the vehicle may project into the shaded area shown on the figure.
-
-**4.2.Ground clearance beneath one axle**
-
-4.2.1.
-
-‘Ground clearance beneath one axle’ means the distance beneath the highest point of the arc of a circle passing through the centre of the tyre footprint of the wheels on one axle (the inner wheels in the case of twin tyres) and touching the lowest fixed point of the vehicle between the wheels.
-
-[tech.design image: L_2018151EN.01008501.tif]
-
-4.2.2.
-
-Where appropriate, the measurement of ground clearance shall be conducted on each of the several axles of a group of axles.
-
-**5.Gradeability**
-
-5.1.
-
-‘Gradeability’ means the ability of a vehicle to negotiate a gradient.
-
-5.2.
-
-To the effect of checking the gradeability of an incomplete and a complete vehicle of category M_2, M_3, N_2 and N_3, a test shall be performed.
-
-5.3.
-
-The test shall be conducted by the technical service on a vehicle representative of the type to be tested.
-
-5.4.
-
-At the request of the manufacturer and under the conditions specified in Annex VIII, the gradeability of a type of vehicle may be demonstrated by virtual testing.
-
-**6.Test conditions and pass-fail criterion**
-
-6.1.
-
-The conditions set out in Annex II to Commission Regulation (EU) No 1230/2012 shall apply.
-
-6.2.
-
-The vehicle shall climb the gradient at a steady speed without any wheel slipping, longitudinally or laterally.
+| 6.2. | The vehicle shall climb the gradient at a steady speed without any wheel slipping, longitudinally or laterally. |
+| --- | --- |
 
 <a id="appendix_2"></a>
 
 ### Appendix 2
 
-01Flat bed;02Drop-side;03Box body;04Conditioned body with insulated walls and equipment to maintain the interior temperature;05Conditioned body with insulated walls but without equipment to maintain the interior temperature;06Curtain-sided;07Swap body (interchangeable superstructure);08Container carrier;09Vehicles fitted with hook lift;10Tipper;11Tank;12Tank intended for transport of dangerous goods;13Livestock carrier;14Vehicle transporter;15Concrete mixer;16Concrete pump vehicle;17Timber;18Refuse collection vehicle;19Street sweeper, cleansing and drain clearing;20Compressor;21Boat carrier;22Glider carrier;23Vehicles for retail or display purposes;24Recovery vehicle;25Ladder vehicle;26Crane lorry (other than a mobile crane as defined in point 5.7 of Part A);27Aerial work platform vehicle;28Digger derrick vehicle;29Low floor trailer;30Glazing transporter;31Fire engine;32Drop-side tarpaulin;99Bodywork that is not included in this list.
+Digits used to supplement the codes to be used for various kinds of bodywork
 
-**Digits used to supplement the codes to be used for various kinds of bodywork**
+| 01 | Flat bed; |
+| --- | --- |
+
+| 02 | Drop-side; |
+| --- | --- |
+
+| 03 | Box body; |
+| --- | --- |
+
+| 04 | Conditioned body with insulated walls and equipment to maintain the interior temperature; |
+| --- | --- |
+
+| 05 | Conditioned body with insulated walls but without equipment to maintain the interior temperature; |
+| --- | --- |
+
+| 06 | Curtain-sided; |
+| --- | --- |
+
+| 07 | Swap body (interchangeable superstructure); |
+| --- | --- |
+
+| 08 | Container carrier; |
+| --- | --- |
+
+| 09 | Vehicles fitted with hook lift; |
+| --- | --- |
+
+| 10 | Tipper; |
+| --- | --- |
+
+| 11 | Tank; |
+| --- | --- |
+
+| 12 | Tank intended for transport of dangerous goods; |
+| --- | --- |
+
+| 13 | Livestock carrier; |
+| --- | --- |
+
+| 14 | Vehicle transporter; |
+| --- | --- |
+
+| 15 | Concrete mixer; |
+| --- | --- |
+
+| 16 | Concrete pump vehicle; |
+| --- | --- |
+
+| 17 | Timber; |
+| --- | --- |
+
+| 18 | Refuse collection vehicle; |
+| --- | --- |
+
+| 19 | Street sweeper, cleansing and drain clearing; |
+| --- | --- |
+
+| 20 | Compressor; |
+| --- | --- |
+
+| 21 | Boat carrier; |
+| --- | --- |
+
+| 22 | Glider carrier; |
+| --- | --- |
+
+| 23 | Vehicles for retail or display purposes; |
+| --- | --- |
+
+| 24 | Recovery vehicle; |
+| --- | --- |
+
+| 25 | Ladder vehicle; |
+| --- | --- |
+
+| 26 | Crane lorry (other than a mobile crane as defined in point 5.7 of Part A); |
+| --- | --- |
+
+| 27 | Aerial work platform vehicle; |
+| --- | --- |
+
+| 28 | Digger derrick vehicle; |
+| --- | --- |
+
+| 29 | Low floor trailer; |
+| --- | --- |
+
+| 30 | Glazing transporter; |
+| --- | --- |
+
+| 31 | Fire engine; |
+| --- | --- |
+
+| 32 | Drop-side tarpaulin; |
+| --- | --- |
+
+| 99 | Bodywork that is not included in this list. |
+| --- | --- |
 
 <a id="anx_ii"></a>
 
@@ -2975,15 +2373,21 @@ The vehicle shall climb the gradient at a steady speed without any wheel slippin
 
 **REQUIREMENTS FOR THE PURPOSE OF EU TYPE-APPROVAL OF VEHICLES, SYSTEMS, COMPONENTS OR SEPARATE TECHNICAL UNITS**
 
-Appendix 1EXPLANATORY NOTESto the tables for vehicles produced in small seriesThe requirements laid down in Table 1 for ‘Small series scheme I’ apply provided that:the vehicle type is not based on or derived from a vehicle produced in large series, including those for EU or third markets; andthe manufacturer’s combined number of units, of all its categories M and N vehicle types registered, made available on the market or entered into service annually in the Union does not exceed 1500.In all other cases, the requirements laid down in Table 1 for ‘Small series scheme II’ and in Table 2 apply.XFull application of the regulatory act as follows:(a)a type-approval certificate shall be required;(b)tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(c)the test report shall be drafted in accordance with Annex III;(d)Conformity of Production shall be ensured.AApplication of the regulatory act as follows:(a)all requirements of the regulatory act shall be fulfilled unless otherwise stated;(b)a type-approval certificate is not required;(c)tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(d)the test report shall be drafted in accordance with Annex III;(e)Conformity of Production shall be ensured.BApplication of the regulatory act as follows:Same as for explanatory note ‘A’ with the exception that the tests and checks may be performed by the manufacturer themselves, subject to the agreement of the approval authority.CApplication of the regulatory act as follows:(a)the technical requirements from the regulatory act shall be fulfilled, but with different transitional provision;(b)a type-approval certificate is not required;(c)tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(d)the test report shall be drafted in accordance with Annex III;(e)Conformity of Production shall be ensured.IFSystems, separate technical units or components shall meet the requirements if fitted to the vehiclen/aNot applicableThe specific provisions set out in Table 1 and Table 2 cannot be mixed or combined.*Table 1***Regulatory acts for EU type-approval of manually driven vehicles produced in small series pursuant to Article 41**Small series scheme ISmall series scheme IIItemSubjectRegulatory actM_1N_1M_1N_1ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144B(a)Interior arrangement(i)Radii and protrusion requirements for switches, pull-knobs and the like, controls and general interior fittings. The requirements of paragraphs 5.1 to 5.6 of UN Regulation No 21 may be waived at the request of the manufacturer.The requirements of paragraph 5.2 of UN Regulation No 21 with the exception of paragraphs 5.2.3.1, 5.2.3.2 and 5.2.4 of that Regulation shall apply.(ii)Energy absorption tests on the upper dashboard. Energy absorption tests on the upper dashboard shall only be performed when the vehicle is not fitted with at least two front airbags or two static four-point harnesses.(iii)Energy absorption test on the rear part of the seats: not applicable(b)Power-operation of windows, roof-panel systems and partition systems. All requirements of paragraph 5.8 of UN Regulation No 21 shall apply.not in scopeBnot in scopeA2Seats and head restraintsRegulation (EU) 2019/2144B(a)General requirements(i)Specifications Requirements of paragraph 5.2 of UN Regulation No 17 shall apply with the exception of paragraph 5.2.3 of that Regulation.(ii)Strength tests for seat backrest and head restraints. The requirements of paragraph 6.2 of UN Regulation No 17 shall apply.(iii)Unlocking and adjustment tests. The test shall be performed in accordance with the requirements of Annex 7 to UN Regulation No 17.(b)Head restraints(i)Specifications. Requirements of paragraphs 5.4, 5.5, 5.6, 5.10, 5.11 and 5.12 of UN Regulation No 17 shall apply with the exception of paragraph 5.5.2 of that Regulation.(ii)Strength tests on head restraints. The test prescribed in paragraph 6.4 of UN Regulation No 17 shall be performed.(c)Special requirements regarding the protection of occupants from displaced luggage. The requirements of Annex 9 to UN Regulation No 17 may be waived at the request of the manufacturer.BBBA3Bus seatsRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeA4Safety-belt anchoragesRegulation (EU) 2019/2144BBBBA5Safety-belts and restraint systemsRegulation (EU) 2019/2144(a)Components X(b)Installation requirements B(a)Components X(b)Installation requirements B(a)Components X(b)Installation requirements B(a)Components X(b)Installation requirements BA6Safety-belt remindersRegulation (EU) 2019/2144BBBBA7Partitioning systemsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentA8Child restraint anchoragesRegulation (EU) 2019/2144BIF BBIF BA9Child restraint systems (IF)Regulation (EU) 2019/2144XXXXA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144XXXXA11Front underrun protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeA12Rear underrun protectionRegulation (EU) 2019/2144BBBBA13Lateral protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeA14Fuel tank safety (IF)Regulation (EU) 2019/2144B(a)Liquid fuel tanks(b)Installation in vehicleB(a)Liquid fuel tanks(b)Installation in vehicleB(a)Liquid fuel tanks(b)Installation in vehicleB(a)Liquid fuel tanks(b)Installation in vehicleA15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation BA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation BA17Hydrogen safety (IF)Regulation (EU) 2019/2144XXXXA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation BA19In-use electric safety (IF)Regulation (EU) 2019/2144BBBBA20Frontal off-set impactRegulation (EU) 2019/2144BShall apply to vehicles fitted with front airbags. May comply with A21 Frontal full-width impact instead, at the choice of the manufacturer. Vehicles not fitted with airbags shall comply with A22 Protective steering (in full)BShall apply to vehicles fitted with front airbags. May comply with A21 Frontal full-width impact instead, at the choice of the manufacturer. Vehicles not fitted with airbags shall comply with A22 Protective steering (in full)Completed vehicles are deemed to comply with the frontal off-set impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.BBCompleted vehicles are deemed to comply with the frontal off-set impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.A21Frontal full-width impactRegulation (EU) 2019/2144BOn voluntary basisBOn voluntary basisCompleted vehicles are deemed to comply with the frontal full-width impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.BBCompleted vehicles are deemed to comply with the frontal full-width impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.A22Protective steeringRegulation (EU) 2019/2144BShall apply to vehicles that do not comply with A20 Frontal off-set impact or A21 Frontal full-width impactBShall apply to vehicles that do not comply with A20 Frontal off-set impact or A21 Frontal full-width impactBBA23Replacement airbagRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentA24Cab impactRegulation (EU) 2019/2144not in scopeBTest A is required for vehicles with a maximum permissible mass of 1500 kg or more if compliance with A20 Frontal off-set impact, A21 Frontal full-width impact or A22 Protective steering was not demonstrated.Test C is required only for vehicles which have a separate cab.Completed vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.not in scopeBTest A is deemed to be fulfilled by means of A20 Frontal off-set impact, A21 Frontal full-width impact or A22 Protective steering.Test C is required only for vehicles which have a separate cab.Completed vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.A25Side impactRegulation (EU) 2019/2144BHead form testThe manufacturer shall supply the technical service with suitable information concerning a possible impact of the head of the dummy against the structure of the vehicle or the side glazing, if made of laminated glazing.When such impact is proven likely to happen, then the partial test using the head form test described in paragraph 3.1 of Annex 8 to UN Regulation No 95 shall be conducted and the criterion specified in paragraph 5.2.1.1 of UN Regulation No 95 shall be met.In agreement with the technical service, the test procedure described in Annex 4 to UN Regulation No 21 may be used as an alternative to the test of UN Regulation No 95.Alternatively, a full-scale test in accordance with UN Regulation No 95 may be carried out.BHead form testThe manufacturer shall supply the technical service with suitable information concerning a possible impact of the head of the dummy against the structure of the vehicle or the side glazing, if made of laminated glazing.When such impact is proven likely to happen, then the partial test using the head form test described in paragraph 3.1 of Annex 8 to UN Regulation No 95 shall be conducted and the criterion specified in paragraph 5.2.1.1 of UN Regulation No 95 shall be met.In agreement with the technical service, the test procedure described in Annex 4 to UN Regulation No 21 may be used as an alternative to the test of UN Regulation No 95.Alternatively, a full-scale test in accordance with UN Regulation No 95 may be carried out.Completed vehicles are deemed to comply with side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.BBCompleted vehicles are deemed to comply with side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.A26Pole side impactRegulation (EU) 2019/2144n/an/aBBCompleted vehicles are deemed to comply with the pole side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.A27Rear impactRegulation (EU) 2019/2144n/an/aBBCompleted vehicles are deemed to comply with rear impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.A28112-based eCall in-vehicles systemsRegulation (EU) 2015/758n/an/an/an/aBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034B2Enlarged head impact zoneRegulation (EU) 2019/2144CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034CDate for refusal to grant EU type- approval: 7 January 2026Date for the prohibition of the registration of vehicles: 7 July 2034B3Frontal protection systemRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144IF BDate for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028IF BDate for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028BNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.Date for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028BNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.Date for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028B5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeB6Blind spot information systemRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeB7Reversing detectionRegulation (EU) 2019/2144n/an/aBBB8Forward visionRegulation (EU) 2019/2144BBDate for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028BBDate for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028B9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeB10Safety glazingRegulation (EU) 2019/2144(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation B(a)Components X(b)Installation BB11Defrost/demistRegulation (EU) 2019/2144BVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceBVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceBVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceBVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceB12Wash/wipeRegulation (EU) 2019/2144BVehicles shall be fitted with adequate windscreen washing and wiping devicesBVehicles shall be fitted with adequate windscreen washing and wiping devicesBVehicles shall be fitted with adequate windscreen washing and wiping devicesBVehicles shall be fitted with adequate windscreen washing and wiping devicesB13Indirect vision devicesRegulation (EU) 2019/2144(a)Components X(b)Installation on vehicle B(a)Components X(b)Installation on vehicle B(a)Components X(b)Installation on vehicle B(a)Components X(b)Installation on vehicle BB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014AAAACVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144BBBBC2Lane departure warningRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeC3Emergency lane keepingRegulation (EU) 2019/2144IF BIF BBNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.BNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.C4BrakingRegulation (EU) 2019/2144AAAAC5Replacement braking partsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentC6Brake assistRegulation (EU) 2019/2144IF BIF BBBC7Stability controlRegulation (EU) 2019/2144IF BIF BBBC8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144IF BIF BBNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.BNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.C10Tyre safety and environmental performanceRegulation (EU) 2019/2144XXXXC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144XXXXC12Retreaded tyresRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144n/an/aBBC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeC15Tyre installationRegulation (EU) 2019/2144BBBBC16Replacement wheelsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144(a)Components X(b)Installation on vehicle B(a)Components X(b)Installation on vehicle B(a)Components X(b)Installation on vehicle B(a)Components X(b)Installation on vehicle BD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144BBBBD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation BAThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation BAThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation BAThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation BD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144BOnly for vehicles fitted with lane keeping system, adaptive cruise control or other likewise systemsBOnly for vehicles fitted with lane keeping system, adaptive cruise control or other likewise systemsBBD5SpeedometerRegulation (EU) 2019/2144BBBBD6OdometerRegulation (EU) 2019/2144BBBBD7Speed limitation devicesRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeD8Intelligent speed assistanceRegulation (EU) 2019/2144n/an/aBNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.BNot required for vehicles without a windscreen, with a foldable windscreen or with a windscreen where the maximum vertical distance between the top edge and lowest edge of the transparent surface does not exceed 300 mm (assessed excluding areas with less than 70 % transparency shade bands, dot-printed areas, text, graphics and transparent slots for regulatory sight lines) and where the R-point of the driver seat is not more than 450 mm from the ground level.D9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144AAAAD10Heating systemsRegulation (EU) 2019/2144BBBBD11Light signalling devicesRegulation (EU) 2019/2144XXXXD12Road illumination devicesRegulation (EU) 2019/2144XXXXD13Retro-reflective devicesRegulation (EU) 2019/2144XXXXD14Light sourcesRegulation (EU) 2019/2144XXXXD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144BDaytime Running Lamps (DRL) shall be fitted to a new type of vehicleBDaytime Running Lamps (DRL) shall be fitted to a new type of vehicleBDaytime Running Lamps (DRL) shall be fitted to a new type of vehicleBDaytime Running Lamps (DRL) shall be fitted to a new type of vehicleD16Emergency stop signalRegulation (EU) 2019/2144BOnly for vehicles fitted with electronically controlled anti-lock braking systemBOnly for vehicles fitted with electronically controlled anti-lock braking systemBBD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IF BIF BIF BIF BD18Gear shift indicatorRegulation (EU) 2019/2144n/anot in scopen/anot in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144AAAAE2Driver drowsiness and attention warningRegulation (EU) 2019/2144n/an/aBBE3Advanced driver distraction warningRegulation (EU) 2019/2144No requirement yetNo requirement yetNo requirement yetNo requirement yetE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144IF BIF BIF BIF BE5Event data recorderRegulation (EU) 2019/2144n/an/aBBE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144IF BNo requirement yetIF BNo requirement yetE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144IF BNo requirement yetIF BNo requirement yetE8Platooning (IF)Regulation (EU) 2019/2144No requirement yetNo requirement yetNo requirement yetNo requirement yetE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144No requirement yetNo requirement yetNo requirement yetNo requirement yetFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144BBBBF2Reversing motionRegulation (EU) 2019/2144BStatement of complianceBStatement of complianceBStatement of complianceBStatement of complianceF3Door latches and hingesRegulation (EU) 2019/2144B(a)General requirements (Paragraph 5 of UN Regulation No 11) All the requirements shall apply.(b)Performance requirements (Paragraph 6 of UN Regulation No 11) Only the requirements of paragraph 6.1.5.4 and paragraph 6.3 of UN Regulation No 11 shall apply.B(a)General requirements (Paragraph 5 of UN Regulation No 11) All the requirements shall apply.(b)Performance requirements (Paragraph 6 of UN Regulation No 11) Only the requirements of paragraph 6.1.5.4 and paragraph 6.3 of UN Regulation No 11 shall apply.BBF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144BBBBF5External projectionsRegulation (EU) 2019/2144B(a)General specifications. The requirements of paragraph 5 of UN Regulation No 26 shall apply.(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 26 shall apply.not in scopeB(a)General specifications. The requirements of paragraph 5 of UN Regulation No 26 shall apply.(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 26 shall apply.not in scopeF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144not in scopeB(a)General specifications. The requirements of paragraph 5 of UN Regulation No 61 shall apply(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 61 shall apply.not in scopeB(a)General specifications. The requirements of paragraph 5 of UN Regulation No 61 shall apply(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 61 shall apply.F7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144BBBBF8Towing devicesRegulation (EU) 2019/2144BBBBF9Wheel guardsRegulation (EU) 2019/2144Bnot in scopeBnot in scopeF10Spray suppression systemsRegulation (EU) 2019/2144not in scopeBnot in scopeBF11Masses and dimensionsRegulation (EU) 2019/2144BThe hill start ability test of Regulation (EU) 2021/535, Annex XIII, Part 2, Section B, Point 5. may be waived at the request of the manufacturer.BThe hill start ability test of Regulation (EU) 2021/535, Annex XIII, Part 2, Section B, Point 5. may be waived at the request of the manufacturer.BBF12Mechanical couplingsRegulation (EU) 2019/2144IF(a)Components X(b)Installation BIF(a)Components X(b)Installation BIF(a)Components X(b)Installation BIF(a)Components X(b)Installation BF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144not in scopeAnot in scopeAF14General bus constructionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeF15Bus strength of superstructureRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeF16Flammability in busesRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014AAAAG2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission.AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission.AAG2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007AAAAG3Tailpipe emissions of engine in labRegulation (EC) No 595/2009AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission.AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission.AAG3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009AAAAG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009not in scopenot in scopenot in scopenot in scopeG4Tailipipe emissions on the roadRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAAAG5Durability of tailpipe emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAAAG6Crankcase emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAAAG7Evaporative emissionsRegulation (EC) No 715/2007AAAAG8Low-temperature tailpipe emissions in labRegulation (EC) No 715/2007AAAAG9On-board diagnosticsRegulation (EC) No 715/2007Regulation (EC) No 595/2009The vehicle shall be fitted with an OBD system that shall be designed, constructed and installed as to enable it to identify types of deterioration or malfunction over the entire life of the vehicle and record at least the malfunction of the engine management system.The OBD-interface shall be able to communicate with commonly available diagnostic tools.The vehicle shall be fitted with an OBD system that shall be designed, constructed and installed as to enable it to identify types of deterioration or malfunction over the entire life of the vehicle and record at least the malfunction of the engine management system.The OBD-interface shall be able to communicate with commonly available diagnostic tools.AAG10Absence of defeat deviceRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAAAG11Auxiliary emissions strategiesRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAAAG12Anti-tamperingRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAAAG13RecyclabilityDirective 2005/64/ECn/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.n/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.n/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.n/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.G14Air-conditioning systemsDirective 2006/40/ECAAAAHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXXXXH2Software updateRegulation (EU) 2018/858UN Regulation No 156XXXX*Table 2***Regulatory acts for EU type-approval of fully automated vehicles (as defined in Article 3(22) of Regulation (EU) 2019/2144) produced in small series pursuant to Article 41**ItemSubjectRegulatory act(the scope of the regulatory act remains unchanged)Fully automated vehicles of categories N_1, N_2 and N_3 without driver seat and without occupantsFully automated vehicles of categories N_1, N_2, N_3, M_1, M_2, M_3 without driver seat, with occupantsDual mode vehicles: vehicles with a driver seat designed and constructed to be driven by the driver in the ‘manual driving mode’ and to be driven by the automated driving system (ADS) without any driver supervision in the ‘fully automated driving mode’Specific provisions to be applied if letter A is used (i.e. the approval is not possible under the regulatory act because it does not yet include specific requirements for fully automated vehicles)No provision shall apply if the vehicle category is not in the scope of the base regulatory act.ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144not in scopeAX for manual driving mode.A for fully automated driving modeAll windows, roof-panels and partitions for use by occupants shall be equipped with an auto-reversing device in order to make a driver-controlled switch redundant.For bidirectional vehicles (i.e. vehicles with no distinguishable rear/front and that can be driven in both directions), requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A2Seats and head restraintsRegulation (EU) 2019/2144n/aXA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A3Bus seatsRegulation (EU) 2019/2144n/aXA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A4Safety-belt anchoragesRegulation (EU) 2019/2144n/aAXFor vehicle with no driver seat, any seat in the first seat row shall be considered to be a front passenger seat. Paragraphs 5.1.6.2.1 and 5.1.6.2.2 of UN Regulation No 14 are not applicable.A5Safety-belts and restraint systemsRegulation (EU) 2019/2144n/aAXFor vehicles without driver seat, any seat in the first seat row shall be considered to be a front passenger seat.A6Safety-belt remindersRegulation (EU) 2019/2144n/aAXFor vehicles without driver seat, any seat in the first seat row shall be considered to be a front passenger seat.The safety-belt reminder signal shall be transmitted to the automated driving system (ADS) and the remote intervention operator (if applicable) as defined in Commission Implementing Regulation (EU) 2022/1426.A7Partitioning systemsRegulation (EU) 2019/2144equipmentequipmentequipmentA8Child restraint anchoragesRegulation (EU) 2019/2144n/aXXA9Child restraint systems (IF)Regulation (EU) 2019/2144n/aXXA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144n/aXXA11Front underrun protectionRegulation (EU) 2019/2144XA (for bidirectional vehicles)XA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A12Rear underrun protectionRegulation (EU) 2019/2144XA (for bidirectional vehicles)XA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A13Lateral protectionRegulation (EU) 2019/2144XA (for bidirectional vehicles)XA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A14Fuel tank safety (IF)Regulation (EU) 2019/2144XXXA15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The required malfunction or fault indication shall be replaced by a signal transmitted to the automated driving system and remote intervention operator (if applicable).A16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144XXXA17Hydrogen safety (IF)Regulation (EU) 2019/2144XXXA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144XXXA19In-use electric safety (IF)Regulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The requirements for passenger compartment shall not apply to N vehicles with no passenger.The indications normally given to the driver ’ shall be sent to the ADS and the remote intervention operator (if applicable)A20Frontal off-set impactRegulation (EU) 2019/2144Not applicableAn/a for vehicles below 30 km/hXThe ‘R’ point of the driver shall be considered to be the ‘R’ point of the foremost passenger.If the vehicle has no steering wheel or pedal cluster, the positioning of the steering wheel and pedal cluster shall not be taken into account.If the vehicle does not contain a driver or/and a co-driver seat, these positions should not be tested.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A21Frontal full-width impactRegulation (EU) 2019/2144n/aAn/a for vehicles below 30 km/hXThe ‘R’ point of the driver shall be considered to be the ‘R’ point of the foremost passenger.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A22Protective steeringRegulation (EU) 2019/2144n/an/aXA23Replacement airbagRegulation (EU) 2019/2144n/aequipmentequipmentA24Cab impactRegulation (EU) 2019/2144n/aXA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A25Side impactRegulation (EU) 2019/2144n/aAn/a for vehicles below 30 km/hXThe collision test will be carried out on the side or sides as agreed between the manufacturer and type approval authority.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A26Pole side impactRegulation (EU) 2019/2144n/aAn/a for vehicles below 30 km/hXThe ‘R’ point of the driver’s seat shall be considered to be the ‘R’ point of the foremost passenger seat.The dynamic pole side impact test will be carried out on the side or sides as agreed between the manufacturer and type approval authority.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A27Rear impactRegulation (EU) 2019/2144n/aXA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.A28112-based eCall in-vehicles systemsRegulation (EU) 2015/758n/aAX (for manual drivingmode)A (for fully automated driving mode)For fully automated driving mode, the ADS takes care of the functionality.BVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144XA(for bidirectional vehicles)XA (for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.B2Enlarged head impact zoneRegulation (EU) 2019/2144XA(for bidirectional vehicles)XA(for bidirectional vehicles)XFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.B3Frontal protection systemRegulation (EU) 2019/2144equipmentequipmentequipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144n/a(functionality to be covered by the ADS)n/a(functionality to be covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)(functionality to be covered by the ADS)B5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144n/a(functionality to be covered by the ADS)n/a(functionality to be covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)(functionality to be covered by the ADS)B6Blind spot information systemRegulation (EU) 2019/2144n/a(functionality to be covered by the ADS)n/a(functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)B7Reversing detectionRegulation (EU) 2019/2144n/a (functionality covered by the ADS)n/a (functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)(functionality to be covered by the ADS)B8Forward visionRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)B9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144n/a(functionality covered by the ADS)n/a(functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)B10Safety glazingRegulation (EU) 2019/2144n/aAXPoint 4.1.3 of Annex 24 is not applicable (no R-point available in relation to the installation of the windscreen).Any front exterior forward-facing glazing shall be regarded as windscreen.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.B11Defrost/demistRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)B12Wash/wipeRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)B13Indirect vision devicesRegulation (EU) 2019/2144n/a(functionality covered by the ADS)n/a(functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)B14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014XXXCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The basic steering (mechanical) requirements apply however:the requirements applicable to the steering control (e.g. max steering forces) are not applicable;the failure provisions and performance at 5.3 are not relevant if there’s no driver but the failure notification should be made (digitally) available to the ADS and the remote intervention operator (if applicable).The provisions of Annex 6-complex electronic systems need to be fulfilled and may be covered by the ADS safety concept.The ADS shall take care of the tasks assigned to the driver and driver steering assistance system.C2Lane departure warningRegulation (EU) 2019/2144n/a(functionality covered by the ADS)n/a(functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)C3Emergency lane keepingRegulation (EU) 2019/2144n/a(functionality covered by the ADS)n/a(functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)C4BrakingRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated mode)Activation of the brakes managed by the ADS in replacement of the driver and driver assistant systems.Each vehicle shall be fitted where applicable witha service braking systema secondary braking systema parking braking systeman endurance braking system. (for vehicle categories covered by UN Regulation No 13)All Annexes to UN Regulation No 13, except for Annex 5 (Additional provisions applicable to certain vehicles as specified in the ADR), shall remain applicable.All muscular generated performances (e.g. secondary brake) shall be replaced by alternative supply. (to be performed by the ADS- need for a special test mode). Issue of failure to be covered (no driver as fallback).All the tell tales, indicators, warnings and information in accordance to UN Regulation No 13 or UN Regulation No 13-H (depending on the vehicle category) shall be sent to the ADS and the remote intervention operator (if applicable).When more than one control is required in UN Regulation No 13 (e.g. paragraph 5.2.1.2.1) this shall be replaced by two independent power sources. e.g. service brake activation and parking braking brake shall be activated by actuators with separated energy reserves, actuators and logic.The ADS safety concept shall cover the electronic systems of the braking system (including the interfaces and interactions with any other affected electronic systems of the vehicle).The ADS takes care of the tasks assigned to the driver and braking assistance systems.C5Replacement braking partsRegulation (EU) 2019/2144equipmentequipmentequipmentC6Brake assistRegulation (EU) 2019/2144n/a (functionality covered by the ADSn/a(functionality covered by the ADS)X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)C7Stability controlRegulation (EU) 2019/2144n/a (functionality covered by the ADSn/a (functionality covered by the ADSX (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)C8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144n/a (functionality covered by the ADSn/a (functionality covered by the ADSX (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)C9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144n/a (functionality covered by the ADS)n/a (functionality covered by the ADS)X for manual driving modeNot applicable for fully automated driving mode (functionality covered by the ADS)C10Tyre safety and environmental performanceRegulation (EU) 2019/2144XXXC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated mode)In the case of vehicles equipped with a Run-Flat Warning System the warning signal and the run-flat malfunction signal shall be replaced by signals transmitted to the ADS and the remote intervention operator (if applicable).C12Retreaded tyresRegulation (EU) 2019/2144equipmentequipmentequipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The warning signal shall be sent to the ADS and the remote intervention operator (if applicable).C14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The warning signal shall be sent to the ADS and the remote intervention operator (if applicable).C15Tyre installationRegulation (EU) 2019/2144AAXThe maximum speed warning label (in vehicle) shall not be required. The ADS shall not exceed the maximum speed capability of the tyres prescribed by the vehicle manufacturer.C16Replacement wheelsRegulation (EU) 2019/2144equipmentequipmentequipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144XXXD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)Test mode needed.In addition to the requirements EMC tests described in Annexes 4 to 22 to UN Regulation No 10, the following procedure before and during initial EMC tests shall be followed:1.When a fully automated vehicle with an ADS is EMC tested, the ADS functions should be switched on and also work in active mode. However certain limitations in use case can be observed. Therefore, before executing the EMC test, the type-approval authority needs to be consulted about the test program to agree about the Pass/Fail criteria proposal made by the EMC lab according to paragraph 6.1.2 of UN Regulation No 10.Before testing the Technical Service has to prepare a test plan in conjunction with the manufacturer, which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion (criteria) and intended emissions.2.The manufacturer of the vehicle or Electric/electronic subassembly (ESA) shall fill in the information according to UN Regulation 10, Annex 2A or 2B. The EMC lab shall make this available as an annex to the test report.3.In case if a remote intervention is used and could influence the behaviour of the vehicle the remote intervention should be part of the EMC test plan.4.When it’s needed during the initial test, to install Ferrite blocks or aluminium foil on several elements to pass the EMC tests, it proves that the EMC design was weak and potentially prone to variation.Therefore the initial tests can never be used for further revision or extension for further vehicles or adding/changing ESAs (Electronic Sub-Assemblies) to the vehicle/DUTs.D3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144XXXD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144XXXD5SpeedometerRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)Requirements are not applicable except that the speed signal shall be send to the ADSD6OdometerRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The odometer signal shall be send to the ADSD7Speed limitation devicesRegulation (EU) 2019/2144AAX (for manual driving modeA for fully automated) driving modeTest mode needed. The speed management and limitation shall be ensured by ADS.D8Intelligent speed assistanceRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS)D9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)D10Heating systemsRegulation (EU) 2019/2144n/aAX (for manual driving mode)A (for fully automated driving mode)In the case of part or parts of the heating system in the passenger compartment, and in the case of overheating, the temperature of the parts shall not exceed 110 °C (70 °C for M_2 and 80 °C for M_3).The activation and adjustment of the heating system can be managed by the ADS and/or passengers or remote intervention operator (if applicable).D11Light signalling devicesRegulation (EU) 2019/2144XXXD12Road illumination devicesRegulation (EU) 2019/2144XXXD13Retro-reflective devicesRegulation (EU) 2019/2144XXXD14Light sourcesRegulation (EU) 2019/2144XXXD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The requirements shall remain the same, but in case of malfunctioning, the information shall be sent to ADS and the remote intervention operator (if applicable).The activation of the lights is managed by the ADS.For bidirectional vehicles, requirements shall be met in both directions unless it is incompatible with the use in agreement with the type-approval authority.D16Emergency stop signalRegulation (EU) 2019/2144XXXD17Headlamp cleaners (IF)Regulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The control of the headlamp cleaner shall be managed by the ADS.D18Gear shift indicatorRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated mode)not in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)E2Driver drowsiness and attention warningRegulation (EU) 2019/2144n/an/aX (for manual driving mode)n/a (for fully automated driving mode)E3Advanced driver distraction warningRegulation (EU) 2019/2144No requirement yetNo requirement yetNo requirement yetE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144n/an/aXE5Event data recorderRegulation (EU) 2019/2144AAA for fully automated driving modeX for manual driving modeSpecific ADS data elements are covered in Implementing Regulation (EU) 2022/1426E6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144XXXCovered by Implementing Regulation (EU) 2022/1426E7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144XXXCovered by Implementing Regulation (EU) 2022/1426E8Platooning (IF)Regulation (EU) 2019/2144No requirement yetNo requirement yetNo requirement yetNo requirement yetE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144XXXCovered by Implementing Regulation (EU) 2022/1426FGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)For bidirectional vehicles, requirements shall be met in both directions unless it is incompatible with the use in agreement with the type-approval authority.F2Reversing motionRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The ADS shall also be tested for manouvrability (reverse gear). The ADS shall take care of the tasks assigned to the driver (e.g. activation of the reverse gear).F3Door latches and hingesRegulation (EU) 2019/2144n/aAX (for manual driving mode)A (for fully automated driving mode)The visual signal of the door closure warning system shall be replaced by a signal transmitted to the ADS and the remote intervention operator (if applicable).The equipment of side doors with locking devices shall be subject to the discretion of the manufacturer.The primary door controls which normally would be accessible by the driver, would need to be accessible either from a primary seating position (if applicable) or adjacent to each door.The ADS shall ensure that the vehicle can only move if doors are closed.F4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144AXXVehicle access requirements do not apply where there is no vehicle cab.F5External projectionsRegulation (EU) 2019/2144not in scopeAA (for fully automated driving mode)Sensors fitted to the ADS vehicle which are necessary to perform the Dynamic Driving Task can be excluded in a similar manner as camera monitor systems devices if they meet the general requirements on camera monitor devices in paragraph 6.2.2.1 of UN Regulation 46.The ‘R’ point of the driver referred shall be considered to be the ‘R’ point of the foremost passenger in case there is no driver seat.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.F6External projections of commercial vehicle cabsRegulation (EU) 2019/2144AAASensors fitted to the ADS vehicle which are necessary to perform the Dynamic Driving Task can be excluded in a similar manner as camera monitor systems devices if they meet the general requirements on camera monitor devices in paragraph 6.2.2.1 of UN Regulation 46.The ‘R’ point of the driver referred shall be considered to be the ‘R’ point of the foremost passenger in case there is no driver seat.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.F7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XA for bidirectional vehiclesXA for bidirectional vehiclesXFor bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.F8Towing devicesRegulation (EU) 2019/2144XXXF9Wheel guardsRegulation (EU) 2019/2144Not in scopeAX (for manual driving mode)A (for fully automated mode)Fully applicable.For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use.F10Spray suppression systemsRegulation (EU) 2019/2144XXXF11Masses and dimensionsRegulation (EU) 2019/2144AA.A (for fully automated mode)X (for manual driving mode)Mass in running order shall exclude mass of the driver if there is no on-board operator.The ADS sensors above 2 metres are not included in the maximum dimensions in accordance with the provisions of Regulation (EU) 2021/535, Annex XIII.F12Mechanical couplingsRegulation (EU) 2019/2144AAX (for manual driving mode)A (for fully automated driving mode)The indication to driver that the mechanical coupling is locked/unlocked shall be addressed to the ADS and the remote intervention operator (if applicable).F13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144Not in scopeNot in scopeNot in scopeFully automated vehicles intended for the transportation of dangerous goods cannot be approved.F14General bus constructionRegulation (EU) 2019/2144Not in scopeAX (for manual driving mode)A (for fully automated mode)Buses without a roof and trolley buses are out of scope.In general the tasks normally expected by the driver under UN Regulation No 107 shall be covered in the ADS safety concept.The requirements of paragraphs 7.2.2.1.1, 7.2.2.1.2 and 7.2.2.1.3 as defined in Annex 3 to UN-Regulation No 107 shall not apply.All required information normally displayed or noticed to the driver or information to passengers in case of an emergency shall be transferred to the ADS, the on-board operator and the remote intervention operator (e.g. fire suppression system)The ADS shall take care of power operated doors.The ADS shall take care of the reaction to fire as part of the ADS safety concept (e.g. emergency manoeuvre and transfer to the safe state), doors automatically unlocked when safe to do so.In case of emergency, the ADS shall take care of the emergency lighting system as part of the ADS safety concept. Once activated, the emergency lighting system shall remain active for at least 30 minutes. This active function shall be displayed as well to the remote intervention operator who may deactivate the emergency lighting system.The kneeling system shall in ADS operation automatically be actuated to achieve required step height. Also prevention system shall be part of the ADS safety concept to prevent the feet/legs of passengers boarding the vehicle from geting stuck underneath the vehicle during lowering process.F15Bus strength of superstructureRegulation (EU) 2019/2144Not in scopeXXF16Flammability in busesRegulation (EU) 2019/2144Not in scopeXXGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014AAX (for manual driving mode)A (for fully automated driving mode)Test mode necessary. Manufacturer to define how to perform the test in accordance with the technical justification in agreement with technical service. Highest value measured in manual or/and in autonomous mode shall be considered for type approval.Vehicles having overall sound levels complying with the requirements in paragraph 6.2.8 of UNECE Regulation No 138(1) with a margin of +3 dB(A), are not required to be equipped with Acoustic Vehicle Alerting System (AVAS). The requirements laid down in paragraph 6.2.8 of that Regulation for one-third octave bands and the requirements laid down in paragraph 6.2.3 of that Regulation for the frequency shift as defined in paragraph 2.4 of that Regulation (‘frequency shift’) shall not apply to those vehicles to determine the need for AVAS independent whether the vehicles is driven in manual or autonomous mode during the test.The R point of the driver seat shall be considered to be the lowest R point of the passenger seats in the 1st seat row.Used test procedure/special arrangement to be recorded in the test report.G2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007AAX (for manual driving mode)A (for fully automated driving mode)The manufacturer shall define a test mode in order to allow testing on a chassis dynamometer and communicate the method to the relevant approval authorities.The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system, and remote intervention operator (if applicable). It shall be clearly indicated to the remote intervention operator when the inducement will be activated.G2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007AAX (for manual driving mode)A (for fully automated driving mode)The manufacturer shall define a test mode in order to allow testing on a chassis dynamometer and communicate the method to the relevant approval authorities.G3Tailpipe emissions of engine in labRegulation (EC) No 595/2009AAX (for manual driving mode)A (for automated driving mode)The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system and remote intervention operator (if applicale). It shall be clearly indicated to the remote intervention operator when the inducement will be activated.G3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009AAX (for manual driving mode)A (for automated driving mode)The manufacturer shall define a test mode in order to perform the verification testing procedure and communicate the method to the relevant approval authorities.G3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009Not in scopeNot in scopeNot in scopeNot in scopeG4Tailipipe emissions on the roadRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAX (for manual driving mode)A (for automated driving mode)The manufacturer shall define a test mode in order to allow testing on the road and communicate the method to the relevant approval authorities.The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system, and remote intervention operator (if applicable). It shall be clearly indicated to the remote intervention operator when the inducement will be activated.G5Durability of tailpipe emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAX (for manual driving mode)The manufacturer shall define a test mode in order to allow testing on the road and communicate the method to the relevant approval authorities.G6Crankcase emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXG7Evaporative emissionsRegulation (EC) No 715/2007XXXG8Low-temperaturetailpipe emissions in labRegulation (EC) No 715/2007AAX (for manual driving mode)A (for automated driving mode)The manufacturer shall define a test mode in order to allow testing on a chassis dynamometer and communicate the method to the relevant approval authorities.The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system and remote intervention operator (if applicale). It shall be clearly indicated to the remote intervention operator when the inducement will be activated.G9On-board diagnosticsRegulation (EC) No 715/2007Regulation (EC) No 595/2009AAX (for manual driving mode)A (for automated driving mode)The required Malfunction Indicator Light (MIL) shall be replaced by a signal transmitted to the automated driving system, and remote intervention operator (if applicable).G10Absence of defeat deviceRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXG11Auxiliary emissions strategiesRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXG12Anti-tamperingRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXG13RecyclabilityDirective 2005/64/ECXXXG14Air-conditioning systemsDirective 2006/40/ECn/aXXHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXXXH2Software updateRegulation (EU) 2018/858UN Regulation No 156XXXAppendix 2Requirements for EU individual vehicle approval pursuant to Article 441.APPLICATIONFor the purpose of application of this Appendix, a vehicle is deemed to be new where:(a)it has never been registered previously; or(b)it has been registered for less than six months at the time of the application for individual vehicle approval.A vehicle shall be considered registered where it has obtained a permanent, temporary or short-term administrative authorisation for entry into service in road traffic, involving its identification and the issuing of a registration number.2.ADMINISTRATIVE PROVISIONS2.1.Categorisation of the vehicleVehicles shall be categorised in accordance with the criteria set out in Annex I as follows:(a)the actual number of seating positions shall be taken into consideration; and(b)the technically maximum permissible laden mass shall be the maximum mass stated by the manufacturer in the country of origin and available in his official documentation.Where it is not possible to easily determine the vehicle category because of the design of the bodywork, the conditions set out in Annex I shall apply.2.2.Application for individual vehicle approval(a)The applicant shall submit an application to the approval authority accompanied by all relevant documentation necessary for the operation of the approval procedure.Where the submitted documentation is incomplete, falsified or forged the application for approval shall be rejected.(b)Only one application for a particular vehicle may be submitted in only one Member State. The approval authority may require from the applicant a written commitment that only one application will be submitted in the Member State of the approval authority.By a particular vehicle, it shall be understood a physical vehicle the VIN of which is clearly identified.However, any applicant may apply for EU individual vehicle approval in another Member State in respect of another particular vehicle with technical characteristics identical or similar to the one that has been granted an EU individual vehicle approval.(c)The model of the application form and the layout of the file shall be laid down by the approval authority.The particulars of the vehicle requested may only consist in an appropriate selection of the information included in Annex I.(d)The technical requirements to be complied with are those laid down in point 4.The technical requirements shall be those applicable to vehicles belonging to a type of vehicle currently in production, in relation to the date of the submission of the application.(e)With respect to the tests required under the regulatory acts listed in this Annex, the applicant shall supply a statement of compliance with recognised international standards or regulations. The statement in question may only be issued by the vehicle manufacturer.‘Statement of compliance’ shall mean a statement issued by the office or department within the manufacturer's organisation that is duly authorised by the management to fully engage the legal responsibility of the manufacturer with respect to the design and the construction of a vehicle.The regulatory acts for which such a statement has to be supplied shall be those referred to in point 4.Where a statement of compliance gives rise to uncertainty, the applicant may be required to obtain from the manufacturer a piece of evidence, including a test report, in order to corroborate the manufacturer's statement.2.3.Technical services entrusted with individual vehicle approvals(a)The technical services entrusted with individual vehicle approvals shall be of category A as referred to in Article 68(1).(b)By way of derogation from the requirement to demonstrate their compliance with the standards listed in Appendix 1 to Annex III, technical services shall comply with the following standards:(i)EN ISO/IEC 17025:2005 when they perform tests themselves;(ii)EN ISO/IEC 17020:2012 when they check compliance of the vehicle with the requirements included in this Appendix.(c)Where specific tests requiring specific skills have to be conducted at the request of the applicant, they shall be conducted by one of the technical services notified to the Commission at the choice of the applicant.2.4.Test reports(a)Test reports shall be drafted in accordance with paragraph 5.10.2 of standard EN ISO/IEC 17025:2005.(b)Test reports shall be drafted in one of the languages of the Union determined by the approval authority.Where in application of point 2.3(c) a test report has been issued in a Member State other than the one entrusted with the individual vehicle approval, the approval authority may require that the applicant submits a true translation of the test report.(c)Test reports shall include a description of the vehicle tested, including its identification. The parts that play a significant role with regard to the results of the tests shall be described and their identification number reported.(d)At the request of an applicant, a test report delivered for a system related to a particular vehicle may be presented repeatedly either by the same or another applicant for the purposes of individual approval of another vehicle.In such a case, the approval authority shall ensure that the technical characteristics of the vehicle are properly inspected against the test report.Inspection of the vehicle and the documentation accompanying the test report shall demonstrate that the vehicle for which an individual approval is sought has the same characteristics as the vehicle described in the report.(e)Only authenticated copies of a test report may be submitted.(f)Test reports referred to in point (d) do not include the reports drawn up in order to grant the individual vehicle approval.2.5.In the individual vehicle approval procedure each particular vehicle shall be inspected physically by the technical service.No exemption to this principle shall be permitted.2.6.Where the approval authority is satisfied that the vehicle meets the technical requirements specified in this Appendix and conforms to the description included in the application, it shall grant approval in accordance with Article 44.2.7.The certificate of approval shall be drafted in accordance with Article 44.2.8.The approval authority shall keep record of all approvals granted under Article 44.3.REVIEW OF THE TECHNICAL REQUIREMENTSThe list of the technical requirements included in point 4 shall be regularly reviewed in order to take account of the results of the harmonisation work in progress at the World Forum for Harmonization of Vehicle Regulations (WP.29) in Geneva and legislative developments in the third countries.4.TECHNICAL REQUIREMENTSPart I: Vehicles belonging to category M_1ItemRegulatory act referenceAlternative requirements1Council Directive 70/157/EEC(Permissible sound level)Drive-by test(a)A test shall be conducted in accordance with the ‘Method A’ referred to in Annex 3 to UN Regulation No 51.Limits are those specified in point 2.1 of Annex I to Directive 70/157/EEC. 1 decibel in addition to the permitted limits shall be allowed.(b)The test track shall comply with Annex 8 to UN Regulation No 51. A test track having different specifications may be used under the condition that correlation tests have been conducted by the technical service. A correction factor shall be applied if necessary.(c)Exhaust systems containing fibrous materials need not be conditioned as prescribed in Annex 5 to UN Regulation No 51.Stationary testA test shall be conducted in accordance with paragraph 3.2 of Annex 3 to UN Regulation No 51.2ARegulation (EC) No 715/2007(Emissions (Euro 5 and Euro 6) light duty vehicles/access to information)Tailpipe emissions(a)A type I test shall be conducted in accordance with Annex III to Regulation (EC) No 692/2008 using the deterioration factors set out in point 1.4 of Annex VII to Regulation (EC) No 692/2008. The limits to be applied shall be those specified in Table I and Table II in Annex I to Regulation (EC) No 715/2007.(b)The vehicle shall not be required to exhibit 3000 km as mentioned in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EC) No 692/2008.(d)The dynamometer shall be set up in accordance with the technical requirements set out in paragraph 3.2 of Annex 4 to UN Regulation No 83.(e)The test referred to in point (a) shall not be conducted where it can be shown that the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Regulation (EC) No 692/2008.Evaporative emissionsFor petrol-fuelled engines, the presence of an evaporate emissions control system shall be required (e.g. a charcoal canister).Crankcase emissionsThe presence of a device for recycling crankcase gases shall be required.OBD(a)The vehicle shall be fitted with an OBD system.(b)OBD-interface must be able to communicate with common diagnostic tools used for periodic technical inspections.Smoke opacity(a)Vehicles equipped with a diesel-fuelled engine shall be tested in accordance with the tests methods referred to in Appendix 2 to Annex IV to Regulation (EC) No 692/2008.(b)The corrected value of the absorption coefficient shall be affixed conspicuously and in a readily accessible place.CO_2 emissions and fuel consumption(a)A test shall be conducted in accordance with Annex XII to Regulation (EC) No 692/2008.(b)The vehicle shall not be required to exhibit 3000 km as requested in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)Where the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Regulation (EC) No 692/2008 and therefore no test of tailpipe emissions is required to be performed, Member States shall calculate CO_2 emissions and fuel consumption with the formula laid down in the explanatory notes (^b) and (^c).Access to informationThe provisions regarding access to information shall not apply.Power measurement(a)The applicant shall submit a statement from the manufacturer stating the maximum engine power output in kW as well as the corresponding engine speed in revolutions per minute.(b)An engine power output curve providing the same information may alternatively be provided by the applicant.3AUN Regulation No 34(Fuel tanks — Rear protective devices)Fuel tanks(a)Fuel tanks shall comply with paragraph 5 of UN Regulation No 34 with the exception of paragraphs 5.1, 5.2 and 5.12. In particular, they shall comply with paragraphs 5.9 and 5.9.1 but no dripping test shall be conducted.(b)LPG or CNG tanks shall be type-approved in accordance with UN Regulation No 67, series of amendments 01, or UN Regulation No 110 (^a), respectively.Specific provisions for fuel tanks made of a plastic materialThe applicant shall submit a statement from the manufacturer establishing that the fuel tank on the particular vehicle, the VIN of which has to be specified, complies either with at least one of the following:FMVSS No 301 (Fuel system integrity); orAnnex 5 to UN Regulation 34.Rear protective deviceThe rear part of the vehicle shall be constructed in accordance with paragraphs 8 and 9 of UN Regulation No 34.3BUN Regulation No 58(Rear underrun protection)The rear part of the vehicle shall be constructed in accordance with paragraph 2 UN Regulation No 58. It is sufficient that the requirements set out in paragraph 2.3 are fulfilled.4ARegulation (EU) No 1003/2010(Rear registration plate space)Space, inclination, angles for visibility and position of the registration plate shall comply with Regulation (EU) No 1003/2010.5AUN Regulation No 79(Steering equipment)Mechanical systems(a)The steering mechanism shall be built as to self-centre. In order to check compliance with this provision, a test shall be conducted in accordance with paragraphs 6.1.2 and 6.2.1 of UN Regulation No 79.(b)The failure of the power steering equipment shall not lead to a complete loss of control of the vehicle.Complex electronic vehicle control system (‘Drive-by wire’ devices)Complex electronic control system shall be permitted only if they comply with Annex 6 to UN Regulation No 79.6AUN Regulation No 11(Door latches and hinges)Compliance with paragraph 6.1.5.4 of UN Regulation No 11.7AUN Regulation No 28(Audible warning)ComponentsThe audible warning devices are not required to be type-approved in accordance with UN Regulation No 28. However, they shall emit a continuous sound as required in paragraph 6.1.1 of UN Regulation No 28.Installation on vehicle(a)A test shall be conducted in accordance with paragraph 6.2 of UN Regulation No 28.(b)The maximum sound pressure level shall be in accordance with paragraph 6.2.7.8AUN Regulation No 46(Indirect vision devices)Components(a)The vehicle shall be fitted with the rear-view mirrors prescribed in paragraph 15.2 of UN Regulation No 46.(b)They are not required to be type-approved in accordance with UN Regulation No 46.(c)The radii of curvature of the mirrors shall not cause significant image distortions. At the discretion of the technical service, the radii of curvature shall be checked in accordance with the method described in Annex 7 to UN Regulation No 46. The radii of curvature shall not be less than those required by paragraph 6.1.2.2.4 of UN Regulation No 46.Installation on vehicleMeasurement shall be conducted in order to ensure that the fields of vision comply with paragraph 15.2.4. of UN Regulation No 46.9BUN Regulation No 13-H(Braking)General provisions(a)The braking system shall be built in accordance with paragraph 5 of UN Regulation No 13-H.(b)Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.(c)The performances of the braking system shall comply with Annex III to UN Regulation No 13-H.(d)For those purposes, road tests shall be conducted on a track the surface of which possesses high adhesion. The test on the parking brake shall be conducted on a 18 % gradient (up and down).Only those tests mentioned under the headings ‘Service brake’ and ‘Parking brake’ below shall be conducted. In each case, the vehicle shall be in fully laden conditions.(e)The road test referred to in point (d) shall not be conducted where the applicant can submit a statement from the manufacturer establishing that the vehicle complies either with UN Regulation No 13-H, including supplement 5, or with FMVSS No 135.Service brake(a)A ‘Type 0’ test as prescribed in paragraphs 1.4.2 and 1.4.3 of Annex 3 to UN Regulation No 13-H shall be conducted.(b)In addition, a ‘Type I’ test as prescribed in paragraph 1.5 of Annex 3 to UN Regulation No 13-H shall be conducted.Parking brakeA test shall be conducted in accordance with paragraph 2.3 of Annex 3 to UN Regulation No 13-H.10AUN Regulation No 10(Radio interference (electromagnetic compatibility))Components(a)Electrical/electronic sub-assemblies are not required to be type-approved in accordance with UN Regulation No 10.(b)However, electric/electronic devices retrofitted shall comply with UN Regulation No 10.Emitted electromagnetic radiationsThe applicant shall submit a statement from the manufacturer establishing that the vehicle complies with UN Regulation No 10 or with the following alternative standards:Broadband electromagnetic radiation: CISPR 12 or SAE J551-2; orNarrowband electromagnetic radiation: CISPR 12 (off-board) or 25 (in-board) or SAE J551-4 and SAE J1113-41.Immunity testsImmunity test shall be waived.12AUN Regulation No 21(Interior fittings)Interior arrangement(a)With respect to the requirements on energy absorption, the vehicle shall be deemed to comply with UN Regulation No 21 if the vehicle is fitted with at least two front airbags, one inserted into the steering wheel and the other into the dashboard.(b)Where the vehicle is fitted with only one front air bag inserted in the steering wheel, the dashboard shall be made up of energy absorbing materials.(c)The technical service shall check that there are no sharp edges in the zones defined in paragraphs 5.1 to 5.7 of UN Regulation No 21.Electrical controls(a)Power-operated windows, roof-panel systems and partitioning systems shall be tested in accordance with paragraph 5.8 of UN Regulation No 21.The sensitivity of auto-reverse systems referred to in paragraph 5.8.3 may diverge from the requirements set out in paragraph 5.8.3.1.1 of UN Regulation No 21.(b)Electric windows which cannot be closed when the ignition is off shall be exempt from the requirements concerning auto-reverse systems.13AUN Regulation No 18(Anti-theft and immobiliser)(a)In order to prevent unauthorised use, the vehicle shall be fitted with:a locking device as defined in paragraph 2.3 of UN Regulation No 18; andan immobiliser which meets the technical requirements of paragraph 5 of UN Regulation No 18;(b)If, in accordance with point (a), an immobiliser has to be retrofitted, it shall be of an approved type in accordance with UN Regulations No 18, No 97, or No 116.14AUN Regulation No 12(Protective steering)(a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 12;FMVSS No 203 (Impact protection for the driver from the steering control system) including FMVSS No 204 (Steering control rearward displacement);Article 11 of JSRRV.(b)A test in accordance with Annex 3 to UN Regulation No 12 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant.15AUN Regulation No 17(Seat strength — head restraints)Seats, seat anchorages and adjustment systemsThe applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 17; orFMVSS No 207 (Seating systems).Head restraints(a)Where the statement is based on FMVSS No 207, the head restraints shall fulfil, in addition, the requirements of paragraph 5 and Annex 4 to UN Regulation No 17.(b)Only the tests described in paragraphs 5.12, 6.5, 6.6 and 6.7 of UN Regulation No 17 shall be conducted.(c)In the other event, the applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with FMVSS No 202a (Head restraints).16AUN Regulation No 26 (Exterior projections)(a)The external surface of the bodywork shall comply with the general requirements included in paragraph 5 of UN Regulation No 26.(b)At the discretion of the technical service the provisions referred to in paragraphs 6.1, 6.5, 6.6, 6.7, 6.8 and 6.11 of UN Regulation No 26 shall be checked.17A, 17BUN Regulation No 39(Speedometer — reverse gear)Speedometer equipment(a)The dial shall comply with paragraphs 5.1 to 5.1.4 of UN Regulation No 39.(b)Where the technical service wants to verify that the speedometer is calibrated with sufficient accuracy, it may require the tests prescribed in paragraph 5.2 of UN Regulation No 39 to be conducted.Reverse gearThe gear mechanism shall include a reverse gear.18ARegulation (EU) No 19/2011(Statutory plates)VIN(a)The vehicle shall be fitted with a VIN comprising a minimum of 8 and a maximum of 17 characters. VIN comprising 17 characters shall fulfil the requirements set out in international standards ISO 3779:1983 and 3780:1983.(b)VIN shall be located in a clearly visible and accessible position in such a way as it cannot be obliterated or deteriorate.(c)Where no VIN is stamped in the chassis or in the body, a Member State may require the applicant that the VIN is retrofitted in application of its national law. In such a case, the competent authority of that Member State shall supervise the operation.Statutory plateThe vehicle shall be fitted with an identification plate affixed by the vehicle manufacturer.No additional plate shall be requested after the approval by the approval authority has been granted.19AUN Regulation No 14(Seat belt anchorages)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 14;FMVSS No 210 (Seat belt assembly anchorages); orArticle 22-3 of JSRRV.20AUN Regulation No 48(Installation of lighting and light signalling devices)(a)The lighting installation shall meet the requirements of UN Regulation No 48, series of amendments 03, with the exception of the requirements of Annexes 5 and 6 to that Regulation.(b)No exemption shall be permitted in respect of the number, the essential design characteristics, the electrical connections, and the colour of light emitted or retro-reflected of the lights and signalling devices referred to in items 21 to 26 and in items 28 to 30.(c)Lights and signalling devices that, for the purpose of fulfilling the requirements of point (a) must be retrofitted shall bear an ‘EU’ type-approval mark.(d)Lamps fitted with gas-discharged light source are only permitted in conjunction with the installation of headlamp cleaning device and an automatic headlamp-levelling device where appropriate.(e)Headlamp dipped-beams shall be adapted to the direction of traffic legally in force in the country where the vehicle is granted approval.21AUN Regulation No 3(Retro reflectors)Where necessary, two additional retro reflectors bearing an ‘EU’ approval mark shall be added at the rear, the position of which shall comply with UN Regulation No 48.22AUN Regulations No 7, No 87 and No 91(End-outline, front position (side), rear-position (side), stop, side marker, daytime running lamps)The requirements set out in the UN Regulations No 7, No 87 and No 91 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.23AUN Regulation No 6(Direction indicators)The requirements set out in UN Regulation No 6 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.24AUN Regulation No 4(Rear registration plate lamps)The requirements set out in UN Regulation No 4 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.25C, 25E, 25FUN Regulations No 98, No 112 and No 123(Headlamps (including bulbs))(a)The illumination produced by the passing beam of the headlamps fitted to the vehicle shall be checked under paragraph 6 of UN Regulation No 112 concerning headlamps emitting an asymmetrical passing beam. The tolerances included in Annex 5 to that Regulation may be referred to for that purpose.(b)The same requirement shall be fulfilled for the passing beam of headlamps covered by UN Regulation No 98 or No 123.26AUN Regulation No 19(Front fog lamps)The requirements set out in UN Regulation No 19 shall not apply. However, the correct functioning of the lights if fitted shall be checked by the technical service.27ARegulation (EU) No 1005/2010(Towing hooks)The requirements set out in Regulation (EU) No 1005/2010 shall not apply.28AUN Regulation No 38(Rear fog lamps)The requirements set out in UN Regulation No 38 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.29AUN Regulation No 23(Reversing lamps)The requirements set out in UN Regulation No 23 shall not apply. However, the correct functioning of the lights if fitted shall be checked by the technical service.30AUN Regulation No 77(Parking lamps)The requirements set out in UN Regulation No 77 shall not apply. However, the correct functioning of the lights if fitted shall be checked by the technical service.31AUN Regulation No 16(Seat belts and restraint systems)Components(a)Seat belts shall not be required to be type-approved in accordance with UN Regulation No 16.(b)However, each seat belt shall bear an identification label.(c)The indications on the label shall be consistent with the decision concerning seat belt anchorages (Re: entry 19).Installation requirements(a)The vehicle shall be fitted with seat belts in accordance with the requirements set out in Annex XVI to UN Regulation No 16.(b)Where a number of seat belts have to be retrofitted in accordance with point (a), they shall be of an approved type in accordance with UN Regulation No 16.32AUN Regulation No 125(Forward vision)(a)No obstruction in the 180° forward field of vision of the driver as defined in paragraph 5.1.3 of UN Regulation No 125 shall be permitted.(b)By derogation from point (a), the ‘A pillars’ and the equipment listed in paragraph 5.1.3 of UN Regulation No 125 shall not be considered as obstruction.(c)The number of ‘A pillars’ shall not exceed 2.33AUN Regulation No 121(Identification of controls, tell-tales and indicators)(a)The symbols including the colour of their corresponding tell-tales the presence of which is mandatory by virtue of UN Regulation No 121 shall comply with that UN Regulation.(b)Where this is not the case, the technical service shall verify that the symbols, tell-tales and indicators fitted to the vehicle provide the driver with comprehensible information about the operation of the controls in question.34ARegulation (EU) No 672/2010(Defrost/Demist)The vehicle shall be equipped with adequate windscreen defrosting and windscreen demisting devices.A windscreen defrosting device which complies as a minimum with point 1.1.1 of Annex II to Regulation (EU) No 672/2010 shall be deemed ‘adequate’.A windscreen demisting device which complies as a minimum with point 1.2.1 of Annex II to Regulation (EU) No 672/2010 shall be deemed ‘adequate’.35ARegulation (EU) No 1008/2010(Wash/Wipe)The vehicle shall be equipped with adequate windscreen washing and windscreen wiping devices.A windscreen washing and wiping device that complies as a minimum with the conditions set out in point 1.1.5 of Annex III to Regulation (EU) No 1008/2010 shall be deemed ‘adequate’.36AUN Regulation No 122(Heating systems)(a)The passenger compartment shall be fitted with a heating system.(b)Combustion heaters and their installation shall comply with Annex 7 to UN Regulation No 122. In addition, LPG combustion heaters and LPG heating systems shall fulfil the requirements set out in Annex 8 to UN Regulation No 122.(c)Additional heating systems which are retrofitted shall comply with the requirements set out in that UN Regulation No 122.37ARegulation (EU) No 1009/2010(Wheel guards)(a)The vehicle shall be designed as to protect other road users against thrown-up stones, mud, ice, snow and water and to reduce the dangers due to contact with the moving wheels.(b)The technical service may check that the technical requirements set out in Annex II to Regulation (EU) No 1009/2010 are complied with.(c)Section 3 of Annex I to that Regulation shall not apply.38AUN Regulation No 25(Head restraints)The requirements of UN Regulation No 25 shall not apply.44ARegulation (EU) No 1230/2012(Masses and dimensions)(a)The requirements of point 1 of Part A of Annex I to Regulation (EU) No 1230/2012 shall be fulfilled.(b)For the purposes of point (a), the masses to be considered are the following:the mass in running order defined in point (4) of Article 2 of Regulation (EU) No 1230/2012 as measured by the technical service; andthe laden masses either stated by the vehicle manufacturer or shown on the manufacturer's plate including stickers or information available in the owner's manual. Those masses shall be deemed the technically permissible maximum laden masses.(c)No exemption shall be permitted in respect of the maximum permissible dimensions.45AUN Regulation No 43(Safety glazing)Components(a)The glazing shall be made either of tempered or laminated safety glass.(b)Fitting of plastic glazing shall be permitted only on locations situated behind the ‘B’ pillar.(c)Glazing shall not be required to be approved under UN Regulation No 43.Installation(a)The installation requirements set out in Annex 21 to UN Regulation No 43 shall apply.(b)No tinted films that would reduce the regular light transmission under the required minimum shall be permitted on the windscreen and on the glazing located in front of the ‘B’ pillar.46Directive 92/23/EEC(Tyres)ComponentsTyres shall bear an ‘EC’ type-approval mark including the symbol ‘s’ (for sound).Installation(a)The dimensions, load-capacity index and speed category of the tyres shall fulfil the requirements of Annex IV to Directive 92/23/EEC.(b)The speed category symbol of the tyre shall be compatible with the maximum design speed of the vehicle.This requirement shall apply notwithstanding the presence of a speed limiter.(c)The maximum speed of the vehicle shall be stated by the vehicle manufacturer. However, the technical service may assess the maximum design speed of the vehicle by using the engine maximum power output, the maximum number of revolutions per minute and the data concerning the kinematic chain.50AUN Regulation No 55(Couplings)Separate technical units(a)OEM couplings intended for towing a trailer whose maximum mass does not exceed 1500 kg shall not be required to be type-approved under UN Regulation No 55.A coupling is deemed OEM equipment where it is described in the owner's manual or an equivalent supporting document provided to the buyer by the vehicle manufacturer.Where such coupling is approved with the vehicle, an appropriate text shall be included in the approval certificate stating that the owner is responsible for ensuring compatibility with the coupling device fitted to the trailer.(b)Couplings other than those referred to in point (a), as well as couplings that are retrofitted, shall be type-approved in accordance with UN Regulation No 55.Installation on the vehicleThe technical service shall check that the installation of the coupling devices comply with paragraph 6 of UN Regulation No 55.53AUN Regulation No 94(Frontal impact) (^e)(a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:UN Regulation No 94;FMVSS No 208 (Occupant crash protection);Article 18 of JSRRV.(b)A test in accordance with paragraph 5 of UN Regulation No 94 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant.54AUN Regulation No 95(Side impact)(a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified complies with at least one of the following:UN Regulation No 95;FMVSS No 214 (Side impact protection);Article 18 of JSRRV.(b)A test in accordance with section 5 of UN Regulation No 95 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant.58UN Regulation No 127Regulation (EU) 2019/2144(Pedestrian protection)Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.The requirements of UN Regulation No 127 shall apply.Any frontal protection system shall either be an integral part of the vehicle and thus compliant with the requirements of UN Regulation No 127 or be type‐approved as separate technical unit.59Directive 2005/64/EC(Recyclability)The requirements of that Directive shall not apply.61Directive 2006/40/EC(Air-conditioning system)The requirements of that Directive shall apply.62UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system)The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; orSAE J2578 – General Fuel Cell Vehicle Safety72Regulation (EU) 2015/758(eCall system)The requirements of that Regulation shall not apply.Part II Vehicles belonging to category N_1ItemRegulatory act referenceAlternative requirements2ARegulation (EC) No 715/2007(Emissions (Euro 5 and Euro 6) light duty vehicles / access to information)Tailpipe emissions(a)A type 1 test shall be conducted in accordance with Annex III to Regulation (EC) No 692/2008 using the deterioration factors set out in point 1.4 of Annex VII to that Regulation. The emission limits to be applied shall be those specified in Table 1 and Table 2 of Annex I to Regulation (EC) No 715/2007.(b)The vehicle shall not be required to exhibit 3000 km as mentioned in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EC) No 692/2008.(d)The dynamometer shall be set up in accordance with the technical requirements of paragraph 3.2 of Annex 4 to UN Regulation No 83.(e)The test referred to in point (a) shall not be conducted where it can be shown that the vehicle complies with the California Code Regulations referred to in point 2 of Annex I to Regulation (EC) No 692/2008.Evaporative emissionsFor petrol-fuelled engines, the presence of an evaporate emissions control system (e.g. a charcoal canister) shall be required.Crankcase emissionsThe presence of a device for recycling crankcase gases shall be required.OBDThe vehicle shall be fitted with an OBD system.OBD-interface must be able to communicate with common diagnostic tools used for periodic technical inspections.Smoke opacity(a)Vehicles equipped with a diesel-fuelled engine shall be tested in accordance with the tests methods referred to in Appendix 2 to Annex IV to Regulation (EC) No 692/2008.(b)The corrected value of the absorption coefficient shall be affixed, conspicuously and in a readily accessible place.CO_2 emissions and fuel consumption(a)A test shall be conducted in accordance with Annex XII to Regulation (EC) No 692/2008.(b)The vehicle shall not be required to exhibit 3000 km as requested in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)Where the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Commission Regulation (EC) No 692/2008 and therefore no test of tailpipe emissions is required to be performed, Member States shall calculate CO_2 emissions and fuel consumption with the formula laid down in the explanatory notes (^b) and (^c).Access to informationThe provisions regarding access to information shall not apply.Power measurement(a)The applicant shall submit a statement from the manufacturer stating the maximum engine power output in kW as well as the corresponding regime in revolutions per minute.(b)An engine power output curve providing the same information may alternatively be provided by the applicant.3AUN Regulation No 34(Fuel tanks — Rear protective devices)Fuel tanks(a)Fuel tanks shall comply with paragraph 5 of UN Regulation No 34 with the exception of paragraphs 5.1, 5.2 and 5.12. In particular, they shall comply with paragraph 5.9 and 5.9.1 but no dripping test shall be conducted.(b)LPG or CNG tanks shall be type-approved in accordance with, respectively UN Regulations No 67, series of amendments 01, or UN Regulation No 110 (^a).Specific provisions for fuel tanks made of a plastic materialThe applicant shall submit a statement from the manufacturer establishing that the fuel tank on the particular vehicle, of which the VIN has to be specified, complies either with at least one of the following:FMVSS No 301 (Fuel system integrity);Annex 5 to UN Regulation No 34.Rear protective device(a)The rear part of the vehicle shall be constructed in accordance with paragraphs 8 and 9 of UN Regulation No 34.4ARegulation (EU) No 1003/2010(Rear registration plate space)Space, inclination, angles for visibility and position of the registration plate shall comply with Regulation (EU) No 1003/2010.5AUN Regulation No 79(Steering effort)Mechanical systems(a)The steering mechanism shall be built as to self-centre. In order to check compliance with this provision, a test shall be conducted in accordance with paragraphs 6.1.2 and 6.2.1 of UN Regulation No 79.(b)The failure of the power steering equipment shall not lead to a complete loss of control of the vehicle.Complex electronic vehicle control system (‘Drive-by wire’ devices)Complex electronic control system shall be permitted only if they comply with Annex 6 to UN Regulation No 79.6AUN Regulation No 11(Door latches and hinges)Compliance with paragraph 6.1.5.4 of UN Regulation No 117AUN Regulation No 28(Audible warning)ComponentsThe audible warning devices are not required to be type-approved in accordance with UN Regulation No 28. However, they shall emit a continuous sound as required in paragraph 6.1.1 of UN Regulation No 28.Installation on vehicle(a)A test shall be conducted in accordance with paragraph 6.2 of UN Regulation No 28.(b)The maximum sound pressure level shall be in accordance with paragraph 6.2.7.8AUN Regulation No 46(Indirect vision devices)Components(a)The vehicle shall be fitted with the rear-view mirrors prescribed in paragraph 15.2 of UN Regulation No 46.(b)They are not required to be type-approved in accordance with UN Regulation No 46.(c)The radii of curvature of the mirrors shall not cause significant image distortions. At the discretion of the technical service, the radii of curvature shall be checked in accordance with the method described in Appendix 1 to Annex 7 to UN Regulation No 46. The radii of curvature shall not be less than those required by paragraph 6.1.2.2.4 of UN Regulation No 46.Installation on vehicleMeasurement shall be conducted in order to ensure that the fields of vision comply with paragraph 15.2.4 of UN Regulation No 46.9BUN Regulation No 13-H(Braking)General provisions(a)The braking system shall be built in accordance with paragraph 5 of UN Regulation No 13-H.(b)Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.(c)The performances of the braking system shall comply with Annex III to UN Regulation No 13-H.(d)For these purposes, road tests shall be conducted on a track the surface of which possesses high adhesion. The test on the parking brake shall be conducted on a 18 % gradient (up and down).Only those tests mentioned under the headings ‘Service brake’ and ‘Parking brake’ below shall be conducted. In each case, the vehicle shall be in fully laden conditions.(e)The road test referred to in point (c) shall not be conducted where the applicant can submit a statement from the manufacturer establishing that the vehicle complies either with UN Regulation No 13-H including supplement 5 or with FMVSS No 135.Service brake(a)A ‘Type 0’ test as prescribed in paragraphs 1.4.2 and 1.4.3 of Annex 3 to UN Regulation No 13-H shall be conducted.(b)In addition, a ‘Type I’ test as prescribed in paragraph 1.5 of Annex 3 to UN Regulation No 13-H shall be conducted.Parking brakeA test shall be conducted in accordance with paragraph 2.3 of Annex 3 to UN Regulation No 13-H.10AUN Regulation No 10(Radio interference (electromagnetic compatibility))Components(a)Electrical/electronic sub-assemblies are not required to be type-approved in accordance with UN Regulation No 10.(b)However, electric/electronic devices retrofitted shall comply with UN Regulation No 10.Emitted electromagnetic radiationsThe applicant shall submit a statement from the manufacturer establishing that the vehicle complies with UN Regulation No 10 or with the following alternative standards:Broadband electromagnetic radiation: CISPR 12 or SAE J551-2;Narrowband electromagnetic radiation: CISPR 12 (off-board) or 25 (in-board) or SAE J551-4 and SAE J1113-41.Immunity testsImmunity test shall be waived.13BUN Regulation No 116(Anti-theft and immobiliser)(a)In order to prevent unauthorised use, the vehicle shall be fitted with a locking device as defined in paragraph 5.1.2 of UN Regulation No 116.(b)If an immobiliser is fitted, it shall comply with the technical requirements of paragraph 8.1.1 of UN Regulation No 116.14AUN Regulation No 12(Protective steering)(a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 12;FMVSS No 203 (Impact protection for the driver from the steering control system) including FMVSS No 204 (Steering control rearward displacement);Article 11 of JSRRV.(b)A test in accordance with Annex 3 to UN Regulation No 12 may be conducted on a production vehicle at the request of the applicant. The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant.15AUN Regulation No 17(Seats strength — head restraints)Seats, seat anchorages and adjustment systemsSeats and their adjustable systems shall comply with paragraph 5.3 of UN Regulation No 17.Head restraints(a)Head restraints shall fulfil the requirements of section 5 of UN Regulation No 17 and Annex 4 to UN Regulation No 17.(b)Only the tests described in paragraphs 5.12, 6.5, 6.6 and 6.7 of UN Regulation No 17 shall be conducted.17AUN Regulation No 39(Speedometer — reverse gear)Speedometer equipment(a)The dial shall comply with paragraphs 5.1 to 5.1.4 of UN Regulation No 39.(b)When the technical service has reasonable grounds to believe that the speedometer is not calibrated with a sufficient accuracy, it may require that the tests prescribed in paragraph 5.2 of UN Regulation No 39 be conducted.Reverse gearThe gear mechanism shall include a reverse gear.18ARegulation (EU) No 19/2011(Statutory plates)VIN(a)The vehicle shall be fitted with a VIN comprising a minimum of 8 and a maximum of 17 characters. VIN comprising 17 characters shall fulfil the requirements set out in international standards ISO 3779:1983 and 3780:1983.(b)The VIN shall be located in a clearly visible and accessible position in such a way as it cannot be obliterated or deteriorate.(c)Where no VIN is stamped in the chassis or in the body, a Member State may require that it is retrofitted in application of its national law. In such a case, the competent authority of that Member State shall supervise the operation.Statutory plateThe vehicle shall be fitted with an identification plate affixed by the vehicle manufacturer.No additional plate shall be requested after the approval has been granted.19AUN Regulation No 14(Seat belt anchorages)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:UN Regulation No 14;FMVSS No 210 (Seat belt assembly anchorages);Article 22-3 of JSRRV.20AUN Regulation No 48(Installation of lighting and light signalling devices)(a)The lighting installation shall meet the essential requirements of UN Regulation No 48 series of amendments 03 with the exception of those of Annexes 5 and 6 to UN Regulation No 48.(b)No exemption shall be permitted in respect of the number, the essential design characteristics, the electrical connections, and the colour of light emitted or retro-reflected of the lights and signalling devices referred to in items 21 to 26 and in items 28 to 30.(c)Lights and signalling devices that, for the purpose of fulfilling with the requirements of point (a) must be retrofitted shall bear an ‘EU’ type-approval mark.(d)Lamps fitted with gas-discharged light source are only permitted in conjunction with the installation of headlamp cleaning device and an automatic headlamp-levelling device where appropriate.(e)Headlamp dipped-beams shall be adapted to the direction of traffic legally in force in the country where the vehicle is granted approval.21AUN Regulation No 3(Retro reflectors)Where necessary, two additional retro reflectors bearing an ‘EC’ approval mark shall be added at the rear, the position of which shall comply with UN Regulation No 48.22AUN Regulations No 7, No 87 and No 91(End-outline, front position (side), rear-position (side), stop, side marker, daytime running lamps)The requirements set out in UN Regulations No 7, No 87 and No 91 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.23AUN Regulation No 6(Direction indicators)The requirements set out in UN Regulation No 6 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.24AUN Regulation No 4(Rear registration plate lamps)The requirements set out in UN Regulation No 4 shall not apply. However, the correct functioning of the lights shall be checked by the technical service.25C, 25E, 25FUN Regulations No 98, No 112 and No 123(Headlamps (including bulbs))(a)The illumination produced by the passing beam of the headlamps fitted to the vehicle shall be checked under the provisions of paragraph 6 of UN Regulation No 112 concerning headlamps emitting an asymmetrical passing beam. The tolerances included in Annex 5 to that Regulation may be referred to for that purpose.(b)The same requirement shall apply to the passing beam of headlamps covered by UN Regulation No 98 or No 123.26AUN Regulation No 19(Front fog lamps)The provisions of UN Regulation No 19 shall be waived. However, the correct functioning of the lights if fitted shall be checked by the technical service.27ARegulation (EU) No 1005/2010(Towing hooks)The requirements of Regulation (EU) No 1005/2010 shall be waived.28AUN Regulation No 38(Rear fog lamps)The provisions of UN Regulation No 38 shall be waived. However, the correct functioning of the lights shall be checked by the technical service.29AUN Regulation No 23(Reversing lamps)The provisions of UN Regulation No 23 shall be waived. However, the correct functioning of the lights if fitted shall be checked by the technical service.30AUN Regulation No 77(Parking lamps)The provisions of UN Regulation No 77 shall be waived. However, the correct functioning of the lights if fitted shall be checked by the technical service.31AUN Regulation No 16(Seat belts and restraint systems)Components(a)Seat belts shall not be required to be type-approved in accordance with UN Regulation No 16.(b)However, each seat belt shall bear an identification label.(c)The indications on the label shall be consistent with the decision concerning seat belt anchorages (Re: entry 19).Installation requirements(a)The vehicle shall be fitted with seat belts in accordance with the requirements set out in Annex XVI to UN Regulation No 16.(b)Where a number of seat belts have to be retrofitted in accordance with point (a), they shall be of an approved type in accordance with UN Regulation No 16.33AUN Regulation No 121(Identification of controls, tell-tales and indicators)(a)The symbols including the colour of their corresponding tell-tales the presence of which is mandatory by virtue of UN Regulation No 121 shall comply with that UN Regulation.(b)Where this is not the case, the technical service shall verify that the symbols, tell-tales and indicators fitted to the vehicle provide the driver with comprehensible information about the operation of the controls in question.34ARegulation (EU) No 672/2010(Defrost/Demist)The vehicle shall be equipped with adequate windscreen defrosting and windscreen demisting devices.35ARegulation (EU) No 1008/2010(Wash/Wipe)The vehicle shall be equipped with adequate windscreen washing and windscreen wiping devices.36AUN Regulation No 122(Heating systems)(a)The passenger compartment shall be fitted with a heating system.(b)Combustion heaters and their installation shall comply with Annex 7 to UN Regulation No 122. In addition, LPG combustion heaters and LPG heating systems shall fulfil the requirements set out in Annex 8 to UN Regulation No 122.(c)Additional heating systems that are retrofitted shall comply with the requirements set out in UN Regulation No 122.41ARegulation (EC) No 595/2009(Emissions (Euro VI) heavy-duty vehicles – OBD)Tailpipe emissions(a)A test shall be conducted in accordance with Annex III to Commission Regulation (EU) No 582/2011˛ using the deterioration factors set out in point 3.6.1 of Annex VI to Regulation (EU) No 582/2011.(b)The limits to be applied shall be those set out in the table of Annex I to Regulation (EC) No 595/2009.(c)The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EU) No 582/2011.CO_2 emissionsThe CO_2 emissions and fuel consumption shall be determined in accordance with Annex VIII to Regulation (EU) No 582/2011.OBD(a)The vehicle shall be fitted with an OBD system.(b)The OBD-interface must be able to communicate with an external OBD scan-tool as described in Annex X to Regulation (EU) No 582/2011.Requirements to ensure the correct operation of NO_x control measuresThe vehicle shall be fitted with a system ensuring the correct operation of NO_x control measures in accordance with Annex XIII to Regulation (EU) No 582/2011.Power measurement(a)The applicant shall submit a statement from the manufacturer stating the maximum engine power output in Kw as well as the corresponding regime.(b)An engine power output curve providing the same information may alternatively be provided by the applicant.45AUN Regulation No 43Components(a)The glazing shall be made either of tempered or laminated safety glass.(b)Fitting of plastic glazing shall be permitted only on locations situated behind the ‘B’ pillar.(c)Glazing shall not be required to be approved under UN Regulation No 43.Installation(a)The installation requirements set out in Annex 21 to UN Regulation No 43 shall apply.(b)No tinted films that reduce the regular light transmission under the required minimum shall be permitted on the windscreen and on the glazing located in front of the ‘B’ pillar.46ACommission Regulation (EU) 458/2011(Installation of tyres)Installation(a)The dimensions, load-capacity index and speed category of the tyres shall fulfil the requirements of Commission Regulation (EU) 458/2011.(b)The speed category symbol of the tyre shall be compatible with the maximum design speed of the vehicle.(c)This requirement shall apply notwithstanding the presence of a speed limiter.(d)The maximum speed of the vehicle shall be stated by the vehicle manufacturer. However, the technical service may assess the maximum design speed of the vehicle by using the engine maximum power output, the maximum number of revolutions per minute and the data concerning the kinematic chain.46BUN Regulation No 30(C_1 tyres)ComponentsTyres shall bear a type-approval mark.46DUN Regulation No 117(Tyre rolling sound emissions, adhesion on wet surface and rolling resistance)ComponentsTyres shall bear a type-approval mark.46ERegulation (EU) 2019/2144UN Regulation No 64(Temporary use spare unit, run-flat tyres, tyre rolling sound emissions, adhesion on wet surface and rolling resistance)ComponentsTyres shall bear type-approval mark.The fitting of TPMS shall not be required.48ARegulation (EU) No 1230/2012(Masses and dimensions)(a)The requirements of Annex I, Part A to Regulation (EU) No 1230/2012 shall be fulfilled.However, the requirements set out in point 5 of Part A of Annex I do not need to be fulfilled.(b)For the purposes of point (a) the masses to be considered are the following:the mass in running order as defined in point (4) of Article 2 of Regulation (EU) No 1230/2012 as measured by the technical service; andthe maximum laden masses either stated by the vehicle manufacturer or shown on the manufacturer's plate, including stickers or information available in the owner's manual. Those masses shall be regarded as the technically permissible maximum laden masses.(c)Technical changes made by the applicant in order to decrease the maximum technically permissible laden mass of the vehicle to 3,5 tonnes or less, so that the vehicle may be granted individual vehicle approval shall not be permitted.(d)No exemption shall be permitted in respect of the maximum permissible dimensions.49AUN Regulation No 61(External projections of cabs)(a)The general requirements set out in section 5 of UN Regulation No 17 shall be fulfilled.(b)At the discretion of the technical service, the requirements set out in paragraphs 6.1, 6.5, 6.6, 6.7, 6.8 and 6.11 of UN Regulation No 17 shall be fulfilled.50AUN Regulation No 55(Couplings)Separate technical units(a)OEM couplings intended for towing a trailer of which the maximum mass does not exceed 1500 kg shall not be required to be type-approved under UN Regulation No 55.(b)A coupling is deemed OEM equipment where it is described in the owner's manual or in an equivalent supporting document provided to the buyer by the vehicle manufacturer.(c)Where such coupling is approved with the vehicle, an appropriate text shall be included in the approval certificate stating that the owner is responsible for ensuring compatibility with the coupling device fitted to the trailer.(d)Couplings other than those referred to in point (a), as well as couplings that are retrofitted, shall be type-approved in accordance with UN Regulation No 55.Installation on the vehicleThe technical service shall check that the installation of the coupling devices comply with paragraph 6 to UN Regulation No 55.54UN Regulation No 95(Side impact)(a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:UN Regulation No 95;FMVSS No 214 (Side impact protection);Article 18 of JSRRV.(b)A test in accordance with section 5 of UN Regulation No 95 may be conducted on a production vehicle at the request of the applicant.(c)The test shall be conducted by a technical service that been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant.56AUN Regulation No 105(Vehicles intended for the transport of dangerous goods)Vehicles intended for the transport of dangerous goods shall comply with UN Regulation No 105.58UN Regulation No 127Regulation (EU) 2019/2144(Pedestrian protection)Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.The requirements of UN Regulation No 127 shall apply.Any frontal protection system shall either be an integral part of the vehicle and thus compliant with the requirements of UN Regulation No 127 or be type‐approved as separate technical unit59Directive 2005/64/EC(Recyclability)The requirements of that Directive shall not apply.61Directive 2006/40/EC(Air-conditioning system)The requirements of that Directive shall apply.62UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system)The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; orSAE J2578 – General Fuel Cell Vehicle Safety72Regulation (EU) 2015/758(eCall system)The requirements of that Regulation shall not apply.Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’original equipment provided by the manufacturer‘FMVSS’Federal Motor Vehicle Safety Standard of the U.S. Department of Transportation‘JSRRV’Japan Safety Regulations for Road Vehicles‘SAE’Society of Automotive Engineers‘CISPR’Comité international spécial des perturbations radioélectriques.2.Remarks:(a)the complete LPG or CNG installation shall be checked against the UN Regulations No 67, No 110 or No 115, as appropriate;(b)the formula to be used for the assessment of CO_2 emissions shall be as follows:Petrol engine and manual gearbox:CO_2 = 0,047 m + 0,561 p + 56,621Petrol engine and automatic gearboxCO_2 = 0,102 m + 0,328 p + 9,481Petrol engine and hybrid electric:CO_2 = 0,116 m – 57,147Diesel engine and manual gearbox:CO_2 = 0,108 m – 11,371Diesel engine and automatic gearbox:CO_2 = 0,116 m – 6,432Where: CO_2 is the combined mass of CO_2 emissions in g/km, ‘m’ is the mass of the vehicle in running order in kg and ‘p’ the maximum engine power output in kW.Combined mass of CO_2 shall be calculated with one decimal place, then rounded to the nearest whole number as follows:(i)if the figure following the decimal point is below 5, the total is rounded down;(ii)if the figure following the decimal point is equal to 5 or above 5, the total is rounded up;(c)the formula to be used for the assessment of fuel consumption shall be as follows:CFC = CO_2 × k ^– 1Where: CFC is the combined fuel consumption in l/100 km, CO_2 is the combined mass of CO_2 emissions in g/km after it has been rounded in accordance with the rule referred to in Remark (2 b), ‘k’ a coefficient equal to:23,81 in the case of a petrol engine;26,49 in the case of a diesel engine.Combined fuel consumption shall be calculated with two decimal places, then rounded as follows:(i)if the figure following the first decimal is below 5, the total is rounded down;(ii)if the figure following the first decimal is equal to 5 or above 5, the total is rounded up.
+PART I
 
-**PART IRegulatory acts for EU type-approval of vehicles produced in unlimited series**
+**Regulatory acts for EU type-approval of vehicles produced in unlimited series**
 
-XApplies to the vehicle category, separate technical unit or component in accordance with the regulatory act as indicatedIFApplies only if the system, separate technical unit or component is fitted to the vehicle in the respective vehicle categoryThe item and subject entries listed in the table above shall apply for the purpose of information to be provided in accordance with Commission Implementing Regulation (EU) 2020/683, Annex II, Part III from 6 December 2022 for new whole-vehicle type-approvals and from 6 December 2024 for existing approvals.Compliance with Regulation (EU) 2019/2144 is mandatory, however, a separate type-approval under that Regulation is not foreseen as it represents the collection of individual items.Compliance with items from G2 to G12 is mandatory, however, only one type-approval either under Regulation (EC) No 715/2007 or under Regulation (EC) No 595/2009 is foreseen depending on the scope.
+EXPLANATORY NOTES
 
-**EXPLANATORY NOTESto the table for vehicles produced in unlimited series**
+to the table for vehicles produced in unlimited series
 
-| Item | Subject | Regulatory act | M_1 | M_2 | M_3 | N_1 | N_2 | N_3 | O_1 | O_2 | O_3 | O_4 | STU | Component |
+| X | : | Applies to the vehicle category, separate technical unit or component in accordance with the regulatory act as indicated |
+| --- | --- | --- |
+
+| IF | : | Applies only if the system, separate technical unit or component is fitted to the vehicle in the respective vehicle category |
+| --- | --- | --- |
+
+| Item | Subject | Regulatory act | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 | STU | Component |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | A1 | Interior fittings | Regulation (EU) 2019/2144 | X |  |  |  |  |  |  |  |  |  |  |  |
@@ -3095,9 +2499,9 @@ XApplies to the vehicle category, separate technical unit or component in accord
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | X | X | X | X | X | X |  |  |  |  | X |  |
 | G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | X | X |  | X | X |  |  |  |  |  |  | X |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | X | X |  | X | X |  |  |  |  |  |  | X |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | X | X |  | X | X |  |  |  |  |  |  | X |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | X | X | X | X | X | X |  |  |  |  | X |  |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 |  |  | X |  | X | X |  |  |  |  |  |  |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 |  |  | X |  | X | X |  |  |  |  |  |  |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 |  |  |  |  |  |  |  |  | X | X |  |  |
 | G4 | Tailpipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | X | X | X | X | X | X |  |  |  |  | X |  |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | X | X | X | X | X | X |  |  |  |  | X |  |
@@ -3114,45 +2518,61 @@ XApplies to the vehicle category, separate technical unit or component in accord
 | H1 | Access to vehicle OBD information and vehicle repair and maintenance information | Regulation (EU) 2018/858, Articles 61 to 66 and Annex X. | X | X | X | X | X | X | X | X | X | X |  |  |
 | H2 | Software update | Regulation (EU) 2018/858, Annex IVUN Regulation No 156 | X | X | X | X | X | X | X | X | X | X |  |  |
 
-Where reference is made to a separate Directive or Regulation in the table of Part I, a type-approval issued under the following UN regulations, or a Universal International Whole Vehicle Type Approval issued under UN Regulation No 0 that includes type-approval of the relevant item under the following UN Regulations, to which the Union has acceded as a Contracting Party to the United Nations Economic Commission for Europe ‘Revised 1958 Agreement’ by virtue of Council Decision 97/836/EC, or subsequent Council decisions as referred to in Article 3(3) of that Decision, shall be considered equivalent to an EU type-approval granted under the relevant separate Directive or Regulation.Any further amendment to the UN Regulations listed in the following table shall also be deemed to be equivalent to an EU type-approval, subject to the Decision referred to in Article 4(2) of Decision 97/836/EC.Installation requirements laid down in a Directive or Regulation in the table of Part I shall apply also to components and separate technical units approved in accordance with the UN Regulations listed in the following table.
+The item and subject entries listed in the table above shall apply for the purpose of information to be provided in accordance with Commission Implementing Regulation (EU) 2020/683, Annex II, Part III from 6 December 2022 for new whole-vehicle type-approvals and from 6 December 2024 for existing approvals.
 
-**PART IIList of UN Regulations recognised as an alternative to the Directives or Regulations referred to in Part I**
+Compliance with Regulation (EU) 2019/2144 is mandatory, however, a separate type-approval under that Regulation is not foreseen as it represents the collection of individual items.
 
-| Item | Subject | UN Regulation | Series of amendments |
-| --- | --- | --- | --- |
-| B14 | Acoustic vehicle alerting system | 138 | 01 |
-| G1 | Sound level | 5159 | 0301 |
-| G13 | Recyclability | 133 | 00 |
-
-**PART IIIList of regulatory acts setting out the requirements for the purpose of EU type-approval of special purpose vehicles**
-
-XCompliance with the regulatory act is required according to the vehicle category for which type-approval is sought. Any specific provisions noted in addition to this explanatory note shall be taken into account.GIn case of multi-stage approval, compliance with the regulatory act according to which the base vehicle (e.g. the chassis of which was used to build the special purpose vehicle) has been type-approved shall be accepted. In this case, any vehicle systems, their features, parts, equipment, components and separate technical units that have been modified or added by the manufacturer, may be assessed against the base vehicle’s requirements. Any specific provisions noted in addition to this explanatory note shall be taken into account.AThe approval authority may agree to fully or partly grant exemptions upon the condition that the manufacturer demonstrates to the satisfaction of the technical service that the vehicle cannot meet the full set of requirements due to its special purpose. The manufacturer shall however endeavour to meet the requirements to the largest possible extent taking into account proportionality. Those exemptions shall be described in Part 2 of the vehicle EU type-approval certificate as well as under ‘remarks’ in the Certificate of Conformity. Any specific provisions noted in addition to this explanatory note shall be taken into account.Appendix 1Motor-caravans, ambulances and hearsesItemSubjectRegulatory actM_1 ≤ 2 500 kgM_1 > 2 500 kgM_2M_3ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144GApplication is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M_1. It does not apply to the patient compartment of ambulancesAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply.GApplication is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M_1. It does not apply to the patient compartment of ambulancesAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors orsubsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply.n/a for the passenger or patient compartmentAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply.n/a for the passenger or patient compartmentAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply.A2Seats and head restraintsRegulation (EU) 2019/2144GApplication is limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.The energy dissipation and radii requirements are checked in accordance with paragraphs 5.2.3./5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M_1.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply.GApplication is limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.The energy dissipation and radii requirements are checked in accordance with paragraphs 5.2.3./5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M_1.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.A3Bus seatsRegulation (EU) 2019/2144not in scopenot in scopeXApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.A4Safety-belt anchoragesRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least anchorages for lap belts are required in the rear seating positions.XApplication limited to seats designated for normal use when the vehicle is used on a public road.At least anchorages for lap belts are required in the rear seating positions.XApplication limited to seats designated for normal use when the vehicle is used on a public road.At least anchorages for lap belts are required in the rear seating positions.A5Safety-belts and restraint systemsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least lap belts are required in the rear seating positions.GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least lap belts are required in the rear seating positions.GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least lap belts are required in the rear seating positions.A6Safety-belt remindersRegulation (EU) 2019/2144XNot required for rear seatsXNot required for rear seatsXNot required for rear seatsXNot required for rear seatsA7Partitioning systemsRegulation (EU) 2019/2144equipmentequipmentEquipmentequipmentA8Child restraint anchoragesRegulation (EU) 2019/2144GISOFIX is not required on ambulances and hearsesGISOFIX is not required on ambulances and hearsesIFIFA9Child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentEquipmentequipmentA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentEquipmentequipmentA11Front underrun protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeA12Rear underrun protectionRegulation (EU) 2019/2144XXXXA13Lateral protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeA14Fuel tank safety (IF)Regulation (EU) 2019/2144XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.A15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144XGGXA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144XGGXA17Hydrogen safety (IF)Regulation (EU) 2019/2144XGGXA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144XXXXA19In-use electric safety (IF)Regulation (EU) 2019/2144XGXXA20Frontal off-set impactRegulation (EU) 2019/2144XGCompleted vehicles are deemed to comply with the frontal off-set impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, irrespective of the mass in running order increase, as part of a previous-stage type-approval and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.Completed vehicles on the basis of a type-approved incomplete chassis-cowl configuration are exempted from the full-scale crash test. However, it shall be demonstrated to the satisfaction of the technical service that there is no unacceptable risk of fuel system integrity failure or unacceptable risk of direct contact with live parts of high voltage propulsion systems, after a frontal impact.Virtual testing methods may be used in accordance with Annex VIII to Regulation (EU) 2018/858.not in scopenot in scopeA21Frontal full-width impactRegulation (EU) 2019/2144GGCompleted vehicles are deemed to comply with the frontal full-width impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, irrespective of the mass in running order increase, as part of a previous-stage type-approval and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service.Completed vehicles on the basis of a type-approved incomplete chassis-cowl configuration are exempted from the full-scale crash test. However, it shall be demonstrated to the satisfaction of the technical service that there is no unacceptable risk of fuel system integrity failure or unacceptable risk of direct contact with live parts of high voltage propulsion systems, after a frontal impact.Virtual testing methods may be used in accordance with Annex VIII to Regulation (EU) 2018/858..not in scopenot in scopeA22Protective steeringRegulation (EU) 2019/2144XGnot in scopenot in scopeA23Replacement airbagRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentA24Cab impactRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeA25Side impactRegulation (EU) 2019/2144XGCompleted vehicles are deemed to comply with the side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, irrespective of the mass in running order increase, as part of a previous-stage type-approval.Completed vehicles on the basis of a type-approved incomplete chassis-cowl configuration are exempted from the full-scale crash test. However, it shall be demonstrated to the satisfaction of the technical service that there is no unacceptable risk of fuel system integrity failure or unacceptable risk of direct contact with live parts of high voltage propulsion systems, after a side impact.Virtual testing methods may be used in accordance with Annex VIII to Regulation (EU) 2018/858.not in scopenot in scopeA26Pole side impactRegulation (EU) 2019/2144n/an/anot in scopenot in scopeA27Rear impactRegulation (EU) 2019/2144XGCompleted vehicles are deemed to comply with rear impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increasenot in scopenot in scopeA28112-based eCall in-vehicles systemsRegulation (EU) 2015/758GGnot in scopenot in scopeBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144XGnot in scopenot in scopeB2Enlarged head impact zoneRegulation (EU) 2019/2144XGModifications to the interior fittings directly behind the windscreen do not have to be taken into account.not in scopenot in scopeB3Frontal protection systemRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144XGnot in scopenot in scopeB5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144not in scopenot in scopeXXB6Blind spot information systemRegulation (EU) 2019/2144not in scopenot in scopeXXB7Reversing detectionRegulation (EU) 2019/2144XXXXB8Forward visionRegulation (EU) 2019/2144XGnot in scopenot in scopeB9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144not in scopenot in scopeno requirements yetno requirements yetB10Safety glazingRegulation (EU) 2019/2144XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.B11Defrost/demistRegulation (EU) 2019/2144GGXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceB12Wash/wipeRegulation (EU) 2019/2144GGXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesB13Indirect vision devicesRegulation (EU) 2019/2144XGGGB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014XXXXCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144XGGGC2Lane departure warningRegulation (EU) 2019/2144not in scopenot in scopen/an/aC3Emergency lane keepingRegulation (EU) 2019/2144XGMay be a C2 Lane departure warning system in case this was applicable for the base vehicle.not in scopenot in scopeC4BrakingRegulation (EU) 2019/2144GGGGC5Replacement braking partsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentC6Brake assistRegulation (EU) 2019/2144XGnot in scopenot in scopeC7Stability controlRegulation (EU) 2019/2144XGIn the case of modifications to the stability control system, included as part of a previous stage type-approval, that are likely to affect the function of that base vehicle’s stability control system, it shall be demonstrated that the vehicle has not been rendered unsafe or unstable. This shall be proven by tests e.g. performing rapid double lane-change manoeuvres in each direction at 80 km/h with sufficient severity to cause intervention by the stability control system. These interventions shall be well-controlled and shall improve the stability of the vehicle under those driving conditions in comparison to the stability of the vehicle with a disabled stability control system. All tests are subject to the agreement between the manufacturer and technical service.n/an/aC8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopen/an/aC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144XGnot in scopenot in scopeC10Tyre safety and environmental performanceRegulation (EU) 2019/2144XGGGC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144XXnot in scopenot in scopeC12Retreaded tyresRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144XGnot in scopenot in scopeC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopeXXC15Tyre installationRegulation (EU) 2019/2144XGGGC16Replacement wheelsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144XXXXD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144XXXXD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144XGIF GIF GD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144XXXXD5SpeedometerRegulation (EU) 2019/2144XXXXD6OdometerRegulation (EU) 2019/2144XXXXD7Speed limitation devicesRegulation (EU) 2019/2144not in scopenot in scopeXXD8Intelligent speed assistanceRegulation (EU) 2019/2144XXXXD9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144XXXXD10Heating systemsRegulation (EU) 2019/2144XXXXD11Light signalling devicesRegulation (EU) 2019/2144XXXXD12Road illumination devicesRegulation (EU) 2019/2144XXXXD13Retro-reflective devicesRegulation (EU) 2019/2144XXXXD14Light sourcesRegulation (EU) 2019/2144XXXXD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144AProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedA + G for the cabA for the remaining partProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedA + G for the cabA for the remaining partProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedA + G for the cabA for the remaining partProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedD16Emergency stop signalRegulation (EU) 2019/2144XXXOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IFIFIFIFD18Gear shift indicatorRegulation (EU) 2019/2144GGnot in scopenot in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144XXXXE2Driver drowsiness and attention warningRegulation (EU) 2019/2144XXXXE3Advanced driver distraction warningRegulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144IFIFnot in scopenot in scopeE5Event data recorderRegulation (EU) 2019/2144XGno requirement yetno requirement yetE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144IFIFno requirement yetno requirement yetE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144IFIFno requirement yetno requirement yetE8Platooning (IF)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144XXXXF2Reversing motionRegulation (EU) 2019/2144XXXXF3Door latches and hingesRegulation (EU) 2019/2144XApplication limited to doors giving access to seats designated for normal use when the vehicle is used on a public road and where the distance between the R-point of the seat and the average plane of the door surface, measured perpendicular to the longitudinal medium plane of the vehicle, does not exceed 500 mm.GApplication limited to doors giving access to seats designated for normal use when the vehicle is used on a public road and where the distance between the R-point of the seat and the average plane of the door surface, measured perpendicular to the longitudinal medium plane of the vehicle, does not exceed 500 mm.Completed vehicles on the basis of a type-approved incomplete chassis-cowl configuration are exempted from the general and performance requirements.not in scopenot in scopeF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144XXnot in scopenot in scopeF5External projectionsRegulation (EU) 2019/2144G for the cabA for the remaining partThe requirements on the protrusion of open windows do not apply to the living compartmentG for the cabA for the remaining partThe requirements on the protrusion of open windows do not apply to the living compartmentnot in scopenot in scopeF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeF7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XXXXF8Towing devicesRegulation (EU) 2019/2144XRequired for the front only, to be tested if fitted at the rearXRequired for the front only, to be tested if fitted at the rearXRequired for the front only, to be tested if fitted at the rearXRequired for the front only, to be tested if fitted at the rearF9Wheel guardsRegulation (EU) 2019/2144GGnot in scopenot in scopeF10Spray suppression systemsRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeF11Masses and dimensionsRegulation (EU) 2019/2144XXXXF12Mechanical couplingsRegulation (EU) 2019/2144IF XIF GIF GIF GF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeF14General bus constructionRegulation (EU) 2019/2144not in scopenot in scopeAAF15Bus strength of superstructureRegulation (EU) 2019/2144not in scopenot in scopeAAF16Flammability in busesRegulation (EU) 2019/2144not in scopenot in scopenot in scopeG for the cabX for the remaining partGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.G2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg.not in scopeG2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007GIn the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority.GIn the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority.GIn the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority.Not in scopeG3Tailpipe emissions of engine in labRegulation (EC) No 595/2009not in scopeGModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.G3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009Not in scopeNot in scopeNot in scopeNot in scopeG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009Not in scopeNot in scopeNot in scopeNot in scopeG4Tailipipe emissions on the roadRegulation (EC) No 715/2007Regulation (EC) No 595/2009GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg.GGG5Durability of tailpipe emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009GGGGG6Crankcase emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009GGGGG7Evaporative emissionsRegulation (EC) No 715/2007GGGnot in scopeG8Low-temperaturetailpipe emissions in labRegulation (EC) No 715/2007GGGnot in scopeG9On-board diagnosticsRegulation (EC) No 715/2007Regulation (EC) No 595/2009GGGGG10Absence of defeat deviceRegulation (EC) No 715/2007Regulation (EC) No 595/2009GGGGG11Auxiliary emissions strategiesRegulation (EC) No 715/2007Regulation (EC) No 595/2009GGGGG12Anti-tamperingRegulation (EC) No 715/2007Regulation (EC) No 595/2009GGGGG13RecyclabilityDirective 2005/64/ECn/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.n/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.not in scopenot in scopeG14Air-conditioning systemsDirective 2006/40/ECGGnot in scopenot in scopeHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXXXXH2Software updateRegulation (EU) 2018/858UN Regulation No 156XXXXAppendix 2Armoured vehiclesItemSubjectRegulatory actM_1M_2M_3N_1N_2N_3O_1O_2O_3O_4ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144Anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA2Seats and head restraintsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.not in scopenot in scopenot in scopenot in scopeA3Bus seatsRegulation (EU) 2019/2144not in scopeXApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA4Safety-belt anchoragesRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeA5Safety-belts and restraint systemsRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeA6Safety-belt remindersRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeA7Partitioning systemsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA8Child restraint anchoragesRegulation (EU) 2019/2144AIFIFIFIFIFnot in scopenot in scopenot in scopenot in scopeA9Child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA11Front underrun protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeXXnot in scopenot in scopenot in scopenot in scopeA12Rear underrun protectionRegulation (EU) 2019/2144XXXXAAXXXXA13Lateral protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopeXXnot in scopenot in scopeXXA14Fuel tank safety (IF)Regulation (EU) 2019/2144XXXXXXXXXXA15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeA17Hydrogen safety (IF)Regulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeA19In-use electric safety (IF)Regulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeA20Frontal off-set impactRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA21Frontal full-width impactRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA22Protective steeringRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA23Replacement airbagRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA24Cab impactRegulation (EU) 2019/2144not in scopenot in scopenot in scopen/an/an/anot in scopenot in scopenot in scopenot in scopeA25Side impactRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA26Pole side impactRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA27Rear impactRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA28112-based eCall in-vehicles systemsRegulation (EU) 2015/758Gnot in scopenot in scopeGnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB2Enlarged head impact zoneRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB3Frontal protection systemRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144not in scopeAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exemptedif it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exemptedif it is impossible to meet these requirementsnot in scopeAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exemptedif it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopeB6Blind spot information systemRegulation (EU) 2019/2144not in scopeAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopeAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopeB7Reversing detectionRegulation (EU) 2019/2144AMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if the necessary devices cannot be placed in the optimal position as to prevent them from being damaged, which prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopeB8Forward visionRegulation (EU) 2019/2144GThe light transmission factor is at least 60 % and the ‘A’ pillar obstruction angle is not more than 10 degrees.not in scopenot in scopeGThe light transmission factor is at least 60 % and the ‘A’ pillar obstruction angle is not more than 10 degrees.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144not in scopeno requirements yetno requirements yetnot in scopeno requirements yetno requirements yetnot in scopenot in scopenot in scopenot in scopeB10Safety glazingRegulation (EU) 2019/2144n/an/an/an/an/an/an/an/an/an/aB11Defrost/demistRegulation (EU) 2019/2144AXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting devicenot in scopenot in scopenot in scopenot in scopeB12Wash/wipeRegulation (EU) 2019/2144AXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesnot in scopenot in scopenot in scopenot in scopeB13Indirect vision devicesRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014XXXXXXnot in scopenot in scopenot in scopenot in scopeCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144XXXXXXXXXXC2Lane departure warningRegulation (EU) 2019/2144not in scopen/an/anot in scopen/an/anot in scopenot in scopenot in scopenot in scopeC3Emergency lane keepingRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC4BrakingRegulation (EU) 2019/2144GGGGGGXXXXC5Replacement braking partsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentC6Brake assistRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC7Stability controlRegulation (EU) 2019/2144Xn/an/aXn/an/anot in scopenot in scopeXXC8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144not in scopen/an/anot in scopen/an/anot in scopenot in scopenot in scopenot in scopeC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC10Tyre safety and environmental performanceRegulation (EU) 2019/2144AAAAAAAAAAC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144Anot in scopenot in scopeAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC12Retreaded tyresRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144n/anot in scopenot in scopen/anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144not in scopen/an/anot in scopen/an/anot in scopenot in scopen/an/aC15Tyre installationRegulation (EU) 2019/2144AAAAAAAAAAC16Replacement wheelsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144AAdditional panic alarm devices are permittedAAdditional panic alarm devices are permittedAAdditional panic alarm devices are permittedAAdditional panic alarm devices are permittedAAdditional panic alarm devices are permittedAAdditional panic alarm devices are permittednot in scopenot in scopenot in scopenot in scopeD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144XXXXXXXXXXD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144XIF GIF GXIF GIF Gnot in scopenot in scopenot in scopenot in scopeD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeD5SpeedometerRegulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeD6OdometerRegulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeD7Speed limitation devicesRegulation (EU) 2019/2144not in scopeXXnot in scopeXXnot in scopenot in scopenot in scopenot in scopeD8Intelligent speed assistanceRegulation (EU) 2019/2144n/an/an/an/an/an/anot in scopenot in scopenot in scopenot in scopeD9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeD10Heating systemsRegulation (EU) 2019/2144XXXXXXXXXXD11Light signalling devicesRegulation (EU) 2019/2144XXXXXXXXXXD12Road illumination devicesRegulation (EU) 2019/2144XXXXXXXXXXD13Retro-reflective devicesRegulation (EU) 2019/2144XXXXXXXXXXD14Light sourcesRegulation (EU) 2019/2144XXXXXXXXXXD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144AProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedD16Emergency stop signalRegulation (EU) 2019/2144XXOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemXXOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemnot in scopenot in scopenot in scopenot in scopeD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IFIFIFIFIFIFnot in scopenot in scopenot in scopenot in scopeD18Gear shift indicatorRegulation (EU) 2019/2144Gnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeE2Driver drowsiness and attention warningRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeE3Advanced driver distraction warningRegulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144IFnot in the scopenot in the scopeIFnot in the scopenot in the scopenot in scopenot in scopenot in scopenot in scopeE5Event data recorderRegulation (EU) 2019/2144Ano requirement yetno requirement yetAno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144IFno requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144IFno requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE8Platooning (IF)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144XXXXXXXXXXF2Reversing motionRegulation (EU) 2019/2144XXXXXXnot in scopenot in scopenot in scopenot in scopeF3Door latches and hingesRegulation (EU) 2019/2144Xnot in scopenot in scopeXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144Xnot in scopenot in scopeXXXnot in scopenot in scopenot in scopenot in scopeF5External projectionsRegulation (EU) 2019/2144Anot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144not in scopenot in scopenot in scopeAAAnot in scopenot in scopenot in scopenot in scopeF7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XXXXXXXXXXF8Towing devicesRegulation (EU) 2019/2144AAAAAAnot in scopenot in scopenot in scopenot in scopeF9Wheel guardsRegulation (EU) 2019/2144Gnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF10Spray suppression systemsRegulation (EU) 2019/2144not in scopenot in scopenot in scopeXXXXXXXF11Masses and dimensionsRegulation (EU) 2019/2144XXXXXXXXXXF12Mechanical couplingsRegulation (EU) 2019/2144IF XIF XIF XIF XIF XIF XXXXXF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144not in scopenot in scopenot in scopeXXXXXXXF14General bus constructionRegulation (EU) 2019/2144not in scopeAAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF15Bus strength of superstructureRegulation (EU) 2019/2144not in scopeAAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF16Flammability in busesRegulation (EU) 2019/2144not in scopenot in scopeXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014XXXXXXnot in scopenot in scopenot in scopenot in scopeG2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity.XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity.not in scopeXAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity.XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are to be described on the vehicle type-approval certificate and the certificate of conformity.not in scopenot in scopenot in scopenot in scopenot in scopeG2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity.XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity.not in scopeXAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity.XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are to be described on the vehicle type-approval certificate and the certificate of conformity.not in scopenot in scopenot in scopenot in scopenot in scopeG3Tailpipe emissions of engine in labRegulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeG4Tailipipe emissions on the roadRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG5Durability of tailpipe emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG6Crankcase emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG7Evaporative emissionsRegulation (EC) No 715/2007XXnot in scopeXXnot in scopenot in scopenot in scopenot in scopenot in scopeG8Low-temperaturetailpipe emissions in labRegulation (EC) No 715/2007XXnot in scopeXXnot in scopenot in scopenot in scopenot in scopenot in scopeG9On-board diagnosticsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG10Absence of defeat deviceRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG11Auxiliary emissions strategiesRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG12Anti-tamperingRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXXnot in scopenot in scopenot in scopenot in scopeG13RecyclabilityDirective 2005/64/ECn/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.not in scopenot in scopen/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeG14Air-conditioning systemsDirective 2006/40/ECXnot in scopenot in scopeXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXXXXXXXXXXH2Software updateRegulation (EU) 2018/858UN Regulation No 156XXXXXXXXAppendix 3Wheelchair-accessible vehiclesItemSubjectRegulatory actM_1ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144GNote G may be applied to those fittings in the interior of the vehicle that are not significantly affected by the modification, however, any added or modified fittings in the interior shall comply with the requirements as applicable for vehicle category M_1Application is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H-point machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M_1.A2Seats and head restraintsRegulation (EU) 2019/2144GNote G may be applied to seats and head restraints of the vehicle that are not significantly affected by the modification, however, any added or modified fittings concerning seats and head restraints shall comply with the requirements as applicable for vehicle category M_1The energy dissipation and radii requirements of seats and head restraints are checked in accordance with paragraphs 5.2.3/5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M_1.The longitudinal plane of the intended wheelchair-travelling position shall be parallel to the longitudinal plane of the vehicle.Appropriate information is to be made available to the vehicle owner that, in order to withstand the forces transmitted by the tie-down mechanism during the various driving conditions, a wheelchair with a structure meeting the relevant part of ISO 7176-19:2008/Amd 1:2015 (or later revisions) is recommended.The seats of the vehicle may be adapted without further testing, provided it can be demonstrated to the satisfaction of the technical service that their anchorages, mechanisms and head restraints provide an adequate level of performance.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply.A3Bus seatsRegulation (EU) 2019/2144not in scopeA4Safety-belt anchoragesRegulation (EU) 2019/2144XEach wheelchair location shall be provided with anchorages to which a wheelchair tie-down and occupant restraint system (WTORS) is to be fitted, and that complies with the additional provisions for testing the wheelchair tie down and occupant restraint system set out below.1.Definitions1.1.Surrogate wheelchair (SWC) means a rigid, re-usable test wheelchair, as defined in Section 3 of international standard ISO 10542-1:2012.1.2.Point P means a representation of the position of the wheelchair occupant’s hip when seated in the SWC, as defined in Section 3 of international standard ISO 10542-1:2012. At the request of the manufacturer, a heavier surrogate wheelchair may be used, provided it has the same dimensional characteristics and centre of gravity position as the prescribed version. The pneumatic tyres may be replaced with solid or foam-filled versions in the same size.1.3.WTORS means a wheelchair tie-down and occupant restraint system.2.General requirements2.1.Each wheelchair location shall be provided with anchorages to which a WTORS can be fitted.2.2.The wheelchair occupant’s lower belt anchorages shall be located in accordance with paragraph 5.4.2.2 UN Regulation No 14, relative to Point P on the SWC, when placed in the travelling position designated by the manufacturer. The upper actual anchorage(s) shall be located at least 1100 mm above the horizontal plane passing through the points of contact between the rear tyres of the SWC and the vehicle floor. That condition shall still be satisfied after the test carried out in accordance with points 3 or 4 below.Either point 3 or 4 shall apply.3.Static in-vehicle testing3.1.Wheelchair occupant restraint anchorages3.1.1.The wheelchair occupant restraint anchorages shall resist the static forces prescribed for occupant restraint anchorages in UN Regulation No 14, simultaneously with the static forces applied to the wheelchair tie-down anchorages as specified in point 3.2.3.2.Wheelchair tie-down anchoragesThe wheelchair tie-down anchorages shall resist the following forces, for at least 0,2 seconds, applied via the SWC (or a suitable surrogate wheelchair having a wheelbase, seat height and tie-down attachment points in accordance with the specification for the SWC), at a height of 300 +/– 100 mm from the surface on which the SWC rests:3.2.1.In the case of a forward-facing wheelchair, a simultaneous force, coinciding with the force applied to the occupant restraint anchorages, of 24,5 kN; and3.2.2.a second test applying a static force of 8,2 kN directed towards the rear of the vehicle.3.2.3.In the case of a rearward-facing wheelchair, a simultaneous force, coincident with the force applied to the occupant restraint anchorages, of 8,2 kN, and3.2.4.a second test applying a static force of 24,5 kN directed towards the front of the vehicle4.Dynamic in-vehicle testing4.1.The full assembly of the WTORS system shall be tested by an in-vehicle dynamic test in accordance with points 5.2.2 and 5.2.3 and Annex A to international standard ISO 10542-1:2012, testing all components/anchorages simultaneously, using a vehicle body-in-white or representative structure.A5Safety-belts and restraint systemsRegulation (EU) 2019/2144XEach wheelchair location is to be provided with an occupant restraint belt that complies with the additional provisions for testing the wheelchair tie down and occupant restraint system of set out below.When, due to the conversion, anchorage points for the safety belts need to be moved outside the tolerance provided for in paragraph 7.7.1 of UN Regulation No 16, the technical service shall check whether the alteration constitutes a worst-case or not. If that is the case, the test provided for in paragraph 7.7.1 of UN Regulation No 16 shall be performed. The test may be performed using components that have not undergone the conditioning test prescribed by UN Regulation No 16.1.Definitions1.1.Surrogate wheelchair (SWC) means a rigid, re-usable test wheelchair, as defined in Section 3 of international standard ISO 10542-1:2012.1.2.Point P means a representation of the position of the wheelchair occupant’s hip when seated in the SWC, as defined in Section 3 of international standard ISO 10542-1:2012. At the request of the manufacturer, a heavier surrogate wheelchair may be used, provided it has the same dimensional characteristics and centre of gravity position as the prescribed version. The pneumatic tyres may be replaced with solid or foam-filled versions in the same size.1.3.WTORS means a wheelchair tie-down and occupant restraint system.2.General requirements2.1.An assessment shall be made of the WTORS occupant belt to ensure compliance with paragraphs 8.2.2 to 8.2.2.4 and 8.3.1 to 8.3.4 of UN Regulation No 16.Either point 3. or 4. shall apply.3.Static in-vehicle testing3.1.Components of the system3.1.1.Where the WTORS anchorages have been tested statically in the vehicle, all components of the WTORS shall meet the relevant requirements of international standard ISO 10542-1:2012. However, the dynamic test specified in Annex A to, and points 5.2.2. and 5.2.3. of, international standard ISO 10542-1:2012 shall be carried out on the complete WTORS using the vehicle anchorage geometry instead of the test geometry specified in Annex A to international standard ISO 10542-1:2012. This may be carried out within the vehicle structure or on a surrogate structure representative of the vehicle’s WTORS anchorage geometry. The location of each anchorage used for the test shall lie within the tolerance provided for in paragraph 7.7.1 of UN Regulation No 16, of its true position relative to Point P.3.1.2.Where the occupant restraint part of the WTORS is approved in accordance with UN Regulation No 16, it shall be subject to the dynamic test as part of the complete WTORS specified in point 3.1.1., however, the requirements of points 5.1, 5.3 and 5.4 of international standard ISO10542-1:2012 shall be considered to have been met.4.Dynamic in-vehicle testing4.1.Where the WTORS anchorages have been tested dynamically in the vehicle, the component parts of the WTORS shall meet the relevant requirements of international standard ISO 10542-1:2012, points 5.1, 5.3 and 5.4. These requirements shall be deemed to have been met in respect of the occupant restraint if it is approved in accordance with UN Regulation No 16.A6Safety-belt remindersRegulation (EU) 2019/2144n/aA7Partitioning systemsRegulation (EU) 2019/2144equipmentA8Child restraint anchoragesRegulation (EU) 2019/2144IFThe minimum number of ISOFIX child seat anchorages need not to be provided. In the case of a multi-stage type approval where an ISOFIX anchorage system has been affected by the conversion, either the system shall be re-tested or the anchorages shall be rendered unusable. In the latter case the ISOFIX labels shall be removed and appropriate information shall be provided in the vehicle owner’s manual for the completed vehicle.A9Child restraint systems (IF)Regulation (EU) 2019/2144equipmentA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144equipmentA11Front underrun protectionRegulation (EU) 2019/2144not in scopeA12Rear underrun protectionRegulation (EU) 2019/2144XA13Lateral protectionRegulation (EU) 2019/2144not in scopeA14Fuel tank safety (IF)Regulation (EU) 2019/2144XModification of the routing, length of the refuelling duct, fuel hoses and fuel vapour pipes as well as re-positioning of the original tank and evaporative control devices provided by the manufacturer of the base vehicle is permissible without further testing provided the installation requirements of paragraphs 5.4, 5.5, 5.6, 5.7, 5.8, and 5.11 of UN Regulation No 34 are met, and provided that the technical service is satisfied, by visual inspection, that the essential requirements of paragraph 5.10 of that Regulation have been satisfied. In cases involving re-positioning of the original plastic tank, further testing in accordance with Annex 5 to UN Regulation No 34 is not required.A15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144GA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144GA17Hydrogen safety (IF)Regulation (EU) 2019/2144GA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144XA19In-use electric safety (IF)Regulation (EU) 2019/2144GA20Frontal off-set impactRegulation (EU) 2019/2144GAlternatively, a suitable torsion stiffness test, in which a torque is applied to the vehicle as close as practicable to the spring mounting points, with all doors, hatches and bonnet opened, shall demonstrate that the torsional stiffness is within ± 75 % of that of the unmodified previous-stage vehicle body. In addition, a bending stiffness test shall be carried out with the vehicle on level ground, in which all side and rear doors and hatches shall open normally when the vehicle is loaded to its technically maximum permissible laden mass.A21Frontal full-width impactRegulation (EU) 2019/2144GAlternatively, a suitable torsion stiffness test, in which a torque is applied to the vehicle as close as practicable to the spring mounting points, with all doors, hatches and bonnet opened, shall demonstrate that the torsional stiffness is within ± 75 % of that of the unmodified previous-stage vehicle body. In addition, a bending stiffness test shall be carried out with the vehicle on level ground, in which all side and rear doors and hatches shall open normally when the vehicle is loaded to its technically maximum permissible laden mass.A22Protective steeringRegulation (EU) 2019/2144Gn/a in case of modified steering systems for drivers with special needsA23Replacement airbagRegulation (EU) 2019/2144equipmentA24Cab impactRegulation (EU) 2019/2144not in scopeA25Side impactRegulation (EU) 2019/2144GAlternatively, a suitable torsion stiffness test, in which a torque is applied to the vehicle as close as practicable to the spring mounting points, with all doors, hatches and bonnet opened, shall demonstrate that the torsional stiffness is within ± 75 % of that of the unmodified previous-stage vehicle body. In addition, a bending stiffness test shall be carried out with the vehicle on level ground, in which all side and rear doors and hatches shall open normally when the vehicle is loaded to its technically maximum permissible laden mass.A26Pole side impactRegulation (EU) 2019/2144n/aA27Rear impactRegulation (EU) 2019/2144n/aA28112-based eCall in-vehicles systemsRegulation (EU) 2015/758GBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144GB2Enlarged head impact zoneRegulation (EU) 2019/2144GModifications to the interior fittings directly behind the windscreen do not have to be taken into account.B3Frontal protection systemRegulation (EU) 2019/2144equipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144Gn/a in case of modified braking systems for drivers with special needsB5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144not in scopeB6Blind spot information systemRegulation (EU) 2019/2144not in scopeB7Reversing detectionRegulation (EU) 2019/2144AMay be partly exempted if equipment for special needs passengers prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsB8Forward visionRegulation (EU) 2019/2144GB9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144not in scopeB10Safety glazingRegulation (EU) 2019/2144GB11Defrost/demistRegulation (EU) 2019/2144GB12Wash/wipeRegulation (EU) 2019/2144GB13Indirect vision devicesRegulation (EU) 2019/2144XB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014XCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144GC2Lane departure warningRegulation (EU) 2019/2144not in scopeC3Emergency lane keepingRegulation (EU) 2019/2144Gn/a in case of modified steering systems for drivers with special needs, or in case of modified braking system if the ELKS of the base vehicle acts on the braking system instead.C4BrakingRegulation (EU) 2019/2144GC5Replacement braking partsRegulation (EU) 2019/2144equipmentC6Brake assistRegulation (EU) 2019/2144Gn/a in case of modified braking systems for drivers with special needsC7Stability controlRegulation (EU) 2019/2144GIn case of modifications to the stability control system included as part of a previous stage type-approval, which are likely to affect the function of that base vehicle’s stability control system, it shall be demonstrated that the vehicle has not been rendered unsafe or unstable. This shall be proven by tests e.g. performing rapid double lane-change manoeuvres in each direction at 80 km/h with sufficient severity to cause intervention by the stability control system. These interventions shall be well-controlled and shall improve the stability of the vehicle under those driving conditions in comparison to the stability of the vehicle with, where practicable, a disabled stability control system. All tests are subject to the agreement between the manufacturer and technical service.C8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144not in scopeC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144Gn/a in case of modified braking systems for drivers with special needsC10Tyre safety and environmental performanceRegulation (EU) 2019/2144XC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144XC12Retreaded tyresRegulation (EU) 2019/2144equipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144GC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144not in scopeC15Tyre installationRegulation (EU) 2019/2144XC16Replacement wheelsRegulation (EU) 2019/2144equipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144XD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144XD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144XD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144XD5SpeedometerRegulation (EU) 2019/2144XD6OdometerRegulation (EU) 2019/2144XD7Speed limitation devicesRegulation (EU) 2019/2144not in scopeD8Intelligent speed assistanceRegulation (EU) 2019/2144AMay be partly exempted if equipment for special needs passengers prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsD9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144XD10Heating systemsRegulation (EU) 2019/2144XD11Light signalling devicesRegulation (EU) 2019/2144XD12Road illumination devicesRegulation (EU) 2019/2144XD13Retro-reflective devicesRegulation (EU) 2019/2144XD14Light sourcesRegulation (EU) 2019/2144XD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144XD16Emergency stop signalRegulation (EU) 2019/2144XOnly for vehicles fitted with electronically controlled anti-lock braking systemD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IFD18Gear shift indicatorRegulation (EU) 2019/2144GEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144AE2Driver drowsiness and attention warningRegulation (EU) 2019/2144AMay be partly exempted if equipment for special needs passengers prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsE3Advanced driver distraction warningRegulation (EU) 2019/2144No requirement yetE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144IFE5Event data recorderRegulation (EU) 2019/2144AMay be partly exempted if equipment for special needs passengers prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144IFE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144IFE8Platooning (IF)Regulation (EU) 2019/2144No requirement yetE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144No requirement yetFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144XF2Reversing motionRegulation (EU) 2019/2144XF3Door latches and hingesRegulation (EU) 2019/2144XF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144XF5External projectionsRegulation (EU) 2019/2144GAny boarding aids are considered only in the stowed positionF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144not in scopeF7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XF8Towing devicesRegulation (EU) 2019/2144XRequired for the front only, to be tested if fitted at the rearF9Wheel guardsRegulation (EU) 2019/2144GF10Spray suppression systemsRegulation (EU) 2019/2144not in scopeF11Masses and dimensionsRegulation (EU) 2019/2144XFor the purposes of calculations, the mass of the wheel-chair including the user is assumed to be 160 kg. The mass is concentrated at the P point of the surrogate wheelchair in its travelling position as declared by the manufacturer.It is permitted to temporarily limit the overall passenger capacity and to restrict the use of normal seating positions as a result of the actual transport of wheelchairs, with their users. In such case, the affected normal seating positions shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. This shall be noted in Part 2 of the EU type-approval certificate as well as under ‘remarks’ in the Certificate of Conformity as to allow inclusion of this information in on-board vehicle registration papers. In addition, the following shall be explained in the owner’s manual for the completed vehicle: The meaning of any pictograms used to mark the affected seating positions, as well as a more detailed description of the specific restrictions, if necessary.F12Mechanical couplingsRegulation (EU) 2019/2144IF XF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144not in scopeF14General bus constructionRegulation (EU) 2019/2144not in scopeF15Bus strength of superstructureRegulation (EU) 2019/2144not in scopeF16Flammability in busesRegulation (EU) 2019/2144not in scopeGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014GModification of the exhaust system length is permitted without the need for retesting, provided that the exhaust back pressure remains similar.G2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007GModification in the exhaust system is permitted without any further test of tailpipe emissions provided that the emission control devices, including particulate filters (if any), are not affected.In case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. In such a case it is acceptable if the reference mass of the converted vehicle will exceed 2840 kg.G2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007GModification in the exhaust system is permitted without any further test of CO_2/fuel consumption provided that the emission control devices, including particulate filters (if any), are not affected.In the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority.G3Tailpipe emissions of engine in labRegulation (EC) No 595/2009XModification in the exhaust system is permitted without any further test of tailpipe emissions and CO_2/fuel consumption provided that the emission control devices, including particulate filters (if any), are not affected. If the evaporative control devices are kept as fitted by the manufacturer of the original (complete or incomplete) vehicle, no new evaporative test is required on the modified vehicle.G3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009Not in scopeG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009Not in scopeG4Tailipipe emissions on the roadRegulation (EC) No 715/2007Regulation (EC) No 595/2009GIn case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. In such a case it is acceptable if the reference mass of the converted vehicle will exceed 2840 kg.G5Durability of tailpipe emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009GG6Crankcase emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009GG7Evaporative emissionsRegulation (EC) No 715/2007GIf the evaporative control devices are kept as fitted by the manufacturer of the original (complete or incomplete) vehicle, no new evaporative test is required on the modified vehicle.G8Low-temperaturetailpipe emissions in labRegulation (EC) No 715/2007GG9On-board diagnosticsRegulation (EC) No 715/2007Regulation (EC) No 595/2009GG10Absence of defeat deviceRegulation (EC) No 715/2007Regulation (EC) No 595/2009GG11Auxiliary emissions strategiesRegulation (EC) No 715/2007Regulation (EC) No 595/2009GG12Anti-tamperingRegulation (EC) No 715/2007Regulation (EC) No 595/2009GG13RecyclabilityDirective 2005/64/ECn/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.G14Air-conditioning systemsDirective 2006/40/ECGHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXH2Software updateRegulation (EU) 2018/858, Annex IVUN Regulation No 156XAppendix 4Other special purpose vehicles(including special group, multi-equipment carrier and trailer caravans)ItemSubjectRegulatory actM_2M_3N_1N_2N_3O_1O_2O_3O_4ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA2Seats and head restraintsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.not in scopenot in scopenot in scopenot in scopeA3Bus seatsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA4Safety-belt anchoragesRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.not in scopenot in scopenot in scopenot in scopeA5Safety-belts and restraint systemsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.XApplication limited to seats designated for normal use when the vehicle is used on a public road.not in scopenot in scopenot in scopenot in scopeA6Safety-belt remindersRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeA7Partitioning systemsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA8Child restraint anchoragesRegulation (EU) 2019/2144IFIFIFIFIFnot in scopenot in scopenot in scopenot in scopeA9Child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA11Front underrun protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopeXXnot in scopenot in scopenot in scopenot in scopeA12Rear underrun protectionRegulation (EU) 2019/2144XXAAAXXXXA13Lateral protectionRegulation (EU) 2019/2144not in scopenot in scopenot in scopeXXnot in scopenot in scopeXXA14Fuel tank safety (IF)Regulation (EU) 2019/2144XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XModification to the routing and length of the refuelling duct and re-positioning of the original tank inboard is permissible provided all installation requirements are met.XXXXA15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144GXGGXnot in scopenot in scopenot in scopenot in scopeA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144GXGGXnot in scopenot in scopenot in scopenot in scopeA17Hydrogen safety (IF)Regulation (EU) 2019/2144GXGGXnot in scopenot in scopenot in scopenot in scopeA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeA19In-use electric safety (IF)Regulation (EU) 2019/2144GXGGXnot in scopenot in scopenot in scopenot in scopeA20Frontal off-set impactRegulation (EU) 2019/2144not in scopenot in scopeGCompleted vehicles are deemed to comply with the frontal off-set impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA21Frontal full-width impactRegulation (EU) 2019/2144not in scopenot in scopeGCompleted vehicles are deemed to comply with the frontal full-width impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA22Protective steeringRegulation (EU) 2019/2144not in scopenot in scopeGnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA23Replacement airbagRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentA24Cab impactRegulation (EU) 2019/2144not in scopenot in scopeA + GCompleted vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.AAnot in scopenot in scopenot in scopenot in scopeA25Side impactRegulation (EU) 2019/2144not in scopenot in scopeGCompleted vehicles are deemed to comply with side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA26Pole side impactRegulation (EU) 2019/2144not in scopenot in scopeA + GCompleted vehicles are deemed to comply with pole side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA27Rear impactRegulation (EU) 2019/2144not in scopenot in scopeA + GCompleted vehicles are deemed to comply with rear impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeA28112-based eCall in-vehicles systemsRegulation (EU) 2015/758not in scopenot in scopeGnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144not in scopenot in scopeAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB2Enlarged head impact zoneRegulation (EU) 2019/2144not in scopenot in scopeAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB3Frontal protection systemRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144not in scopenot in scopeAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144XXnot in scopeAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopeB6Blind spot information systemRegulation (EU) 2019/2144XXnot in scopeXXnot in scopenot in scopenot in scopenot in scopeB7Reversing detectionRegulation (EU) 2019/2144XXAMay be partly exempted if non-removable equipment on the rear of the vehicle prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the rear of the vehicle prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the rear of the vehicle prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopeB8Forward visionRegulation (EU) 2019/2144not in scopenot in scopeAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeB9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144no requirements yetno requirements yetnot in scopeno requirements yetno requirements yetnot in scopenot in scopenot in scopenot in scopeB10Safety glazingRegulation (EU) 2019/2144XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.XGlazing material may be either of safety glass or rigid plastic glazing.XGlazing material may be either of safety glass or rigid plastic glazing.XGlazing material may be either of safety glass or rigid plastic glazing.XGlazing material may be either of safety glass or rigid plastic glazing.B11Defrost/demistRegulation (EU) 2019/2144XVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceXVehicles shall be fitted with an adequate windscreen defrosting and demisting devicenot in scopenot in scopenot in scopenot in scopeB12Wash/wipeRegulation (EU) 2019/2144XVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesXVehicles shall be fitted with adequate windscreen washing and wiping devicesnot in scopenot in scopenot in scopenot in scopeB13Indirect vision devicesRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014XXXXXnot in scopenot in scopenot in scopenot in scopeCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144XXXXXXXXXC2Lane departure warningRegulation (EU) 2019/2144n/an/anot in scopen/an/anot in scopenot in scopenot in scopenot in scopeC3Emergency lane keepingRegulation (EU) 2019/2144not in scopenot in scopeAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC4BrakingRegulation (EU) 2019/2144GGGGAnti-lock braking system is not mandatory for vehicles with hydrostatic drive.GAnti-lock braking system is not mandatory for vehicles with hydrostatic drive.XXXXC5Replacement braking partsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentC6Brake assistRegulation (EU) 2019/2144not in scopenot in scopeAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC7Stability controlRegulation (EU) 2019/2144n/an/an/an/an/anot in scopenot in scopeXXC8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144n/an/anot in scopen/an/anot in scopenot in scopenot in scopenot in scopeC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopeAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC10Tyre safety and environmental performanceRegulation (EU) 2019/2144XXXXXXXXXC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144not in scopenot in scopeXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC12Retreaded tyresRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopeAnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144XXnot in scopeXXnot in scopenot in scopeXXC15Tyre installationRegulation (EU) 2019/2144XXXXXXXXXC16Replacement wheelsRegulation (EU) 2019/2144equipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentequipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144XXXXXXXXXD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144IF GIF GXIF GIF Gnot in scopenot in scopenot in scopenot in scopeD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeD5SpeedometerRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeD6OdometerRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeD7Speed limitation devicesRegulation (EU) 2019/2144XXnot in scopeXXnot in scopenot in scopenot in scopenot in scopeD8Intelligent speed assistanceRegulation (EU) 2019/2144AMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsAMay be partly exempted if non-removable equipment on the front of the cab prevents full compliance with the requirements and may be fully exempted if it is impossible to meet these requirementsnot in scopenot in scopenot in scopenot in scopeD9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeD10Heating systemsRegulation (EU) 2019/2144XXXXXXXXXD11Light signalling devicesRegulation (EU) 2019/2144XXXXXXXXXD12Road illumination devicesRegulation (EU) 2019/2144XXXXXXXXXD13Retro-reflective devicesRegulation (EU) 2019/2144XXXXXXXXXD14Light sourcesRegulation (EU) 2019/2144XXXXXXXXXD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144AProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedD16Emergency stop signalRegulation (EU) 2019/2144XOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemXOnly for vehicles fitted with electronically controlled anti-lock braking systemnot in scopenot in scopenot in scopenot in scopeD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IFIFIFIFIFnot in scopenot in scopenot in scopenot in scopeD18Gear shift indicatorRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeE2Driver drowsiness and attention warningRegulation (EU) 2019/2144AAAAAnot in scopenot in scopenot in scopenot in scopeE3Advanced driver distraction warningRegulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144not in scopenot in scopeIFnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeE5Event data recorderRegulation (EU) 2019/2144no requirement yetno requirement yetAno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE8Platooning (IF)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetno requirement yetno requirement yetno requirement yetno requirement yetnot in scopenot in scopenot in scopenot in scopeFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144XXXXXXXXXF2Reversing motionRegulation (EU) 2019/2144XXXXXnot in scopenot in scopenot in scopenot in scopeF3Door latches and hingesRegulation (EU) 2019/2144not in scopenot in scopeXApplication limited to doors giving access to seats designated for normal use when the vehicle is used on a public road and where the distance between the R-point of the seat and the average plane of the door surface, measured perpendicular to the longitudinal medium plane of the vehicle, does not exceed 500 mm.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144XXBBBnot in scopenot in scopenot in scopenot in scopeF5External projectionsRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144not in scopenot in scopeXXXnot in scopenot in scopenot in scopenot in scopeF7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XXXXXXXXXF8Towing devicesRegulation (EU) 2019/2144AAAAAnot in scopenot in scopenot in scopenot in scopeF9Wheel guardsRegulation (EU) 2019/2144not in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF10Spray suppression systemsRegulation (EU) 2019/2144not in scopenot in scopeXXXXXXXF11Masses and dimensionsRegulation (EU) 2019/2144XXXXXXXXXF12Mechanical couplingsRegulation (EU) 2019/2144IF XIF XIF XIF XIF XXXXXF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144not in scopenot in scopeXXXXXXXF14General bus constructionRegulation (EU) 2019/2144XXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF15Bus strength of superstructureRegulation (EU) 2019/2144XXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeF16Flammability in busesRegulation (EU) 2019/2144not in scopeXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.not in scopenot in scopenot in scopenot in scopeG2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.not in scopeXModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.not in scopenot in scopenot in scopenot in scopenot in scopeG2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007Not in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeG3Tailpipe emissions of engine in labRegulation (EC) No 595/2009XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.not in scopenot in scopenot in scopenot in scopeG3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009Not in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009Not in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeNot in scopeG4Tailipipe emissions on the roadRegulation (EC) No 715/2007Regulation (EC) No 595/2009XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive.not in scopenot in scopenot in scopenot in scopeG5Durability of tailpipe emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.not in scopenot in scopenot in scopenot in scopeG6Crankcase emissionsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXnot in scopenot in scopenot in scopenot in scopeG7Evaporative emissionsRegulation (EC) No 715/2007Xnot in scopeXXnot in scopenot in scopenot in scopenot in scopenot in scopeG8Low-temperature tailpipe emissions in labRegulation (EC) No 715/2007Xnot in scopeXXnot in scopenot in scopenot in scopenot in scopenot in scopeG9On-board diagnosticsRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXnot in scopenot in scopenot in scopenot in scopeG10Absence of defeat deviceRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXnot in scopenot in scopenot in scopenot in scopeG11Auxiliary emissions strategiesRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXnot in scopenot in scopenot in scopenot in scopeG12Anti-tamperingRegulation (EC) No 715/2007Regulation (EC) No 595/2009XXXXXnot in scopenot in scopenot in scopenot in scopeG13RecyclabilityDirective 2005/64/ECnot in scopenot in scopen/aHowever, Annex V on prohibition of reuse of the specified component parts shall apply.not in scopenot in scopenot in scopenot in scopenot in scopenot in scopeG14Air-conditioning systemsDirective 2006/40/ECnot in scopenot in scopeXnot in scopenot in scopenot in scopenot in scopenot in scopenot in scopeHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXXXXXXXXXH2Software updateRegulation (EU) 2018/858, Annex IVUN Regulation No 156XXXXXXXAppendix 5Mobile cranesItemSubjectRegulatory actN_3ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144not in scopeA2Seats and head restraintsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.A3Bus seatsRegulation (EU) 2019/2144not in scopeA4Safety-belt anchoragesRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.A5Safety-belts and restraint systemsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.A6Safety-belt remindersRegulation (EU) 2019/2144XA7Partitioning systemsRegulation (EU) 2019/2144equipmentA8Child restraint anchoragesRegulation (EU) 2019/2144IF BA9Child restraint systems (IF)Regulation (EU) 2019/2144equipmentA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144equipmentA11Front underrun protectionRegulation (EU) 2019/2144ANot required for vehicles meeting the provisions Annex I, Part A, point 4.3(b)(ii) and (iii), as well as point 4.3(c).A12Rear underrun protectionRegulation (EU) 2019/2144AA13Lateral protectionRegulation (EU) 2019/2144AA14Fuel tank safety (IF)Regulation (EU) 2019/2144AA15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144XA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144XA17Hydrogen safety (IF)Regulation (EU) 2019/2144XA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144XA19In-use electric safety (IF)Regulation (EU) 2019/2144XA20Frontal off-set impactRegulation (EU) 2019/2144not in scopeA21Frontal full-width impactRegulation (EU) 2019/2144not in scopeA22Protective steeringRegulation (EU) 2019/2144not in scopeA23Replacement airbagRegulation (EU) 2019/2144equipmentA24Cab impactRegulation (EU) 2019/2144AA25Side impactRegulation (EU) 2019/2144not in scopeA26Pole side impactRegulation (EU) 2019/2144not in scopeA27Rear impactRegulation (EU) 2019/2144not in scopeA28112-based eCall in-vehicles systemsRegulation (EU) 2015/758not in scopeBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144not in scopeB2Enlarged head impact zoneRegulation (EU) 2019/2144not in scopeB3Frontal protection systemRegulation (EU) 2019/2144equipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144not in scopeB5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144AB6Blind spot information systemRegulation (EU) 2019/2144AB7Reversing detectionRegulation (EU) 2019/2144AB8Forward visionRegulation (EU) 2019/2144not in scopeB9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144no requirements yetB10Safety glazingRegulation (EU) 2019/2144XFor all glazing other than the windscreen and side windows located forward of the driver’s eye points, the material may be either of safety glass or rigid plastic glazing.B11Defrost/demistRegulation (EU) 2019/2144XVehicles shall be fitted with an adequate windscreen defrosting and demisting deviceB12Wash/wipeRegulation (EU) 2019/2144XVehicles shall be fitted with adequate windscreen washing and wiping devicesB13Indirect vision devicesRegulation (EU) 2019/2144XB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014XCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144XCrab steering allowedC2Lane departure warningRegulation (EU) 2019/2144n/aC3Emergency lane keepingRegulation (EU) 2019/2144not in scopeC4BrakingRegulation (EU) 2019/2144GTest to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down in the relevant regulatory acts. Derogations are admitted for vehicles having more than 4 axles, provided that:(a)they are justified by the particular construction; and(b)all the braking performances, related to parking, service and secondary braking laid down in the relevant regulatory act are fulfilled.Anti-lock braking system is not mandatory for vehicles with hydrostatic drive.C5Replacement braking partsRegulation (EU) 2019/2144equipmentC6Brake assistRegulation (EU) 2019/2144not in scopeC7Stability controlRegulation (EU) 2019/2144n/aC8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144n/aC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144not in scopeC10Tyre safety and environmental performanceRegulation (EU) 2019/2144XC11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144not in scopeC12Retreaded tyresRegulation (EU) 2019/2144equipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144not in scopeC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144n/aC15Tyre installationRegulation (EU) 2019/2144XC16Replacement wheelsRegulation (EU) 2019/2144equipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144XD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144XD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144IF GD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144Xn/a in case of complete vehicleD5SpeedometerRegulation (EU) 2019/2144XD6OdometerRegulation (EU) 2019/2144XD7Speed limitation devicesRegulation (EU) 2019/2144XD8Intelligent speed assistanceRegulation (EU) 2019/2144AOnly to be applied in case of a chassis-cab base vehicle and n/a in all other cases.D9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144XD10Heating systemsRegulation (EU) 2019/2144XD11Light signalling devicesRegulation (EU) 2019/2144XD12Road illumination devicesRegulation (EU) 2019/2144XD13Retro-reflective devicesRegulation (EU) 2019/2144XD14Light sourcesRegulation (EU) 2019/2144XD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144AProvided that all mandatory lighting devices are installedD16Emergency stop signalRegulation (EU) 2019/2144XOnly for vehicles fitted with electronically controlled anti-lock braking systemD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IFD18Gear shift indicatorRegulation (EU) 2019/2144not in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144AOnly to be applied in case of a chassis-cab base vehicle and n/a in all other cases.E2Driver drowsiness and attention warningRegulation (EU) 2019/2144n/aE3Advanced driver distraction warningRegulation (EU) 2019/2144no requirement yetE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144not in the scopeE5Event data recorderRegulation (EU) 2019/2144no requirement yetE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetE8Platooning (IF)Regulation (EU) 2019/2144no requirement yetE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144no requirement yetFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144XF2Reversing motionRegulation (EU) 2019/2144XF3Door latches and hingesRegulation (EU) 2019/2144not in scopeF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144AF5External projectionsRegulation (EU) 2019/2144not in scopeF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144AF7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XF8Towing devicesRegulation (EU) 2019/2144AF9Wheel guardsRegulation (EU) 2019/2144not in scopeF10Spray suppression systemsRegulation (EU) 2019/2144ANot required for vehicles meeting the provisions Annex I, Part A, point 4.3(b)(ii) and (iii), as well as point 4.3(c).F11Masses and dimensionsRegulation (EU) 2019/2144AF12Mechanical couplingsRegulation (EU) 2019/2144IF XF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144n/aF14General bus constructionRegulation (EU) 2019/2144not in scopeF15Bus strength of superstructureRegulation (EU) 2019/2144not in scopeF16Flammability in busesRegulation (EU) 2019/2144not in scopeGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014GTest to be performed only with the complete/completed vehicle. The vehicle can be tested in accordance with Directive 70/157/EEC, UN Regulation No 51.02 or Regulation (EC) No 540/2014. The following limit values are applicable, irrespective of the vehicle conditions such as engine type, gearbox type and any sub-classifications:(a)81 dB(A) for vehicles with an engine power of less than 75 kW;(b)83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW;(c)84 dB(A) for vehicles with an engine power of not less than 150 kW.G2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007not in scopeG2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007not in scopeG3Tailpipe emissions of engine in labRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009Not in scopeG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009Not in scopeG4Tailipipe emissions on the roadRegulation Regulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G5Durability of tailpipe emissionsRegulation (EC) No 595/2009not in scopeG6Crankcase emissionsRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G7Evaporative emissionsRegulation (EC) No 715/2007not in scopeG8Low-temperaturetailpipe emissions in labRegulation (EC) No 715/2007not in scopeG9On-board diagnosticsRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G10Absence of defeat deviceRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G11Auxiliary emissions strategiesRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G12Anti-tamperingRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may apply.G13RecyclabilityDirective 2005/64/ECnot in scopeG14Air-conditioning systemsDirective 2006/40/ECnot in scopeHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXH2Software updateRegulation (EU) 2018/858, Annex IVUN Regulation No 156XAppendix 6Exceptional load transport vehiclesItemSubjectRegulatory actsN_3O_4ARESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETYA1Interior fittingsRegulation (EU) 2019/2144not in scopenot in scopeA2Seats and head restraintsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.not in scopeA3Bus seatsRegulation (EU) 2019/2144not in scopenot in scopeA4Safety-belt anchoragesRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.not in scopeA5Safety-belts and restraint systemsRegulation (EU) 2019/2144XApplication limited to seats designated for normal use when the vehicle is used on a public road.not in scopeA6Safety-belt remindersRegulation (EU) 2019/2144Xnot in scopeA7Partitioning systemsRegulation (EU) 2019/2144equipmentequipmentA8Child restraint anchoragesRegulation (EU) 2019/2144IF Bnot in scopeA9Child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentA10Enhanced child restraint systems (IF)Regulation (EU) 2019/2144equipmentequipmentA11Front underrun protectionRegulation (EU) 2019/2144Anot in scopeA12Rear underrun protectionRegulation (EU) 2019/2144AAA13Lateral protectionRegulation (EU) 2019/2144XAA14Fuel tank safety (IF)Regulation (EU) 2019/2144AAA15Liquified petroleum gas safety (IF)Regulation (EU) 2019/2144Xnot in scopeA16Compressed and liquified natural gas safety (IF)Regulation (EU) 2019/2144Xnot in scopeA17Hydrogen safety (IF)Regulation (EU) 2019/2144Xnot in scopeA18Hydrogen system material qualification (IF)Regulation (EU) 2019/2144Xnot in scopeA19In-use electric safety (IF)Regulation (EU) 2019/2144Xnot in scopeA20Frontal off-set impactRegulation (EU) 2019/2144not in scopenot in scopeA21Frontal full-width impactRegulation (EU) 2019/2144not in scopenot in scopeA22Protective steeringRegulation (EU) 2019/2144not in scopenot in scopeA23Replacement airbagRegulation (EU) 2019/2144equipmentequipmentA24Cab impactRegulation (EU) 2019/2144Anot in scopeA25Side impactRegulation (EU) 2019/2144not in scopenot in scopeA26Pole side impactRegulation (EU) 2019/2144not in scopenot in scopeA27Rear impactRegulation (EU) 2019/2144not in scopenot in scopeA28112-based eCall in-vehicles systemsRegulation (EU) 2015/758not in scopenot in scopeBVULNERABLE ROAD USERS, VISION AND VISIBILITYB1Pedestrian leg and head protectionRegulation (EU) 2019/2144not in scopenot in scopeB2Enlarged head impact zoneRegulation (EU) 2019/2144not in scopenot in scopeB3Frontal protection systemRegulation (EU) 2019/2144equipmentequipmentB4Advanced emergency braking for pedestrians and cyclists aheadRegulation (EU) 2019/2144not in scopenot in scopeB5Pedestrian and cyclist collision warningRegulation (EU) 2019/2144Xnot in scopeB6Blind spot information systemRegulation (EU) 2019/2144Xnot in scopeB7Reversing detectionRegulation (EU) 2019/2144Xnot in scopeB8Forward visionRegulation (EU) 2019/2144not in scopenot in scopeB9Heavy-duty vehicles direct visionRegulation (EU) 2019/2144no requirements yetnot in scopeB10Safety glazingRegulation (EU) 2019/2144XXGlazing material may be either of safety glass or rigid plastic glazing.B11Defrost/demistRegulation (EU) 2019/2144XVehicles shall be fitted with an adequate windscreen defrosting and demisting devicenot in scopeB12Wash/wipeRegulation (EU) 2019/2144XVehicles shall be fitted with adequate windscreen washing and wiping devicesnot in scopeB13Indirect vision devicesRegulation (EU) 2019/2144Xnot in scopeB14Acoustic Vehicle Alerting SystemsRegulation (EU) No 540/2014Xnot in scopeCVEHICLE CHASSIS, BRAKING, TYRES AND STEERINGC1Steering equipmentRegulation (EU) 2019/2144XCrab steering allowedXC2Lane departure warningRegulation (EU) 2019/2144n/anot in scopeC3Emergency lane keepingRegulation (EU) 2019/2144not in scopenot in scopeC4BrakingRegulation (EU) 2019/2144GTest to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down in the relevant regulatory acts. Derogations are admitted for vehicles having more than 4 axles, provided that:(a)they are justified by the particular construction; and(b)all the braking performances, related to parking, service and secondary braking laid down in the relevant regulatory act are fulfilled.Anti-lock braking system is not mandatory for vehicles with hydrostatic drive.XC5Replacement braking partsRegulation (EU) 2019/2144equipmentequipmentC6Brake assistRegulation (EU) 2019/2144not in scopenot in scopeC7Stability controlRegulation (EU) 2019/2144n/aXC8Advanced emergency braking on heavy-duty vehiclesRegulation (EU) 2019/2144n/anot in scopeC9Advanced emergency braking on light-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopeC10Tyre safety and environmental performanceRegulation (EU) 2019/2144XXTyres are to be type-approved in accordance with the requirements set out in UN Regulation No 117 even if the design speed of the vehicle is less than 80 km/h.C11Spare wheels and run-flat systems (IF)Regulation (EU) 2019/2144not in scopenot in scopeC12Retreaded tyresRegulation (EU) 2019/2144equipmentequipmentC13Tyre pressure monitoring for light-duty vehiclesRegulation (EU) 2019/2144not in scopenot in scopeC14Tyre pressure monitoring for heavy-duty vehiclesRegulation (EU) 2019/2144AAC15Tyre installationRegulation (EU) 2019/2144XXTyres are to be type-approved in accordance with the requirements set out in UN Regulation No 54 even if the design speed of the vehicle is less than 80 km/h. The load capacity may be adjusted in relation to the maximum design speed of the trailer in agreement with the tyre manufacturer.C16Replacement wheelsRegulation (EU) 2019/2144equipmentequipmentDON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKSD1Audible warningRegulation (EU) 2019/2144Xnot in scopeD2Radio interference (electromagnetic compatibility)Regulation (EU) 2019/2144XXD3Protection against unauthorised use, immobiliser and alarm systemsRegulation (EU) 2019/2144IF Gnot in scopeD4Protection of vehicle against cyberattacksRegulation (EU) 2019/2144Xnot in scopeD5SpeedometerRegulation (EU) 2019/2144Xnot in scopeD6OdometerRegulation (EU) 2019/2144Xnot in scopeD7Speed limitation devicesRegulation (EU) 2019/2144Xnot in scopeD8Intelligent speed assistanceRegulation (EU) 2019/2144Xnot in scopeD9Identification of controls, tell-tales and indicatorsRegulation (EU) 2019/2144Xnot in scopeD10Heating systemsRegulation (EU) 2019/2144XXD11Light signalling devicesRegulation (EU) 2019/2144XXD12Road illumination devicesRegulation (EU) 2019/2144XXD13Retro-reflective devicesRegulation (EU) 2019/2144XXD14Light sourcesRegulation (EU) 2019/2144XXD15Installation of light signalling, road illumination and retro-reflective devicesRegulation (EU) 2019/2144XAProvided that all mandatory lighting devices are installed and that the geometric visibility is not affectedD16Emergency stop signalRegulation (EU) 2019/2144XOnly for vehicles fitted with electronically controlled anti-lock braking systemnot in scopeD17Headlamp cleaners (IF)Regulation (EU) 2019/2144IFnot in scopeD18Gear shift indicatorRegulation (EU) 2019/2144not in scopenot in scopeEDRIVER AND SYSTEM BEHAVIOURE1Alcohol interlock installation facilitationRegulation (EU) 2019/2144Xnot in scopeE2Driver drowsiness and attention warningRegulation (EU) 2019/2144Anot in scopeE3Advanced driver distraction warningRegulation (EU) 2019/2144No requirement yetnot in scopeE4Driver availability monitoring system (in case of automated vehicles)Regulation (EU) 2019/2144Not in the scopenot in scopeE5Event data recorderRegulation (EU) 2019/2144No requirement yetnot in scopeE6Systems to replace driver’s control (in case of automated vehicles)Regulation (EU) 2019/2144No requirement yetnot in scopeE7Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles)Regulation (EU) 2019/2144No requirement yetnot in scopeE8Platooning (IF)Regulation (EU) 2019/2144No requirement yetnot in scopeE9Systems to provide safety information to other road users (in case of automated vehicles)Regulation (EU) 2019/2144No requirement yetnot in scopeFGENERAL VEHICLE CONSTRUCTION AND FEATURESF1Registration plate spaceRegulation (EU) 2019/2144XXF2Reversing motionRegulation (EU) 2019/2144Xnot in scopeF3Door latches and hingesRegulation (EU) 2019/2144not in scopenot in scopeF4Door entry steps, handholds and running boardsRegulation (EU) 2019/2144Xnot in scopeF5External projectionsRegulation (EU) 2019/2144not in scopenot in scopeF6External projections of commercial vehicle cabsRegulation (EU) 2019/2144Anot in scopeF7Statutory plate and vehicle identification numberRegulation (EU) 2019/2144XXF8Towing devicesRegulation (EU) 2019/2144Anot in scopeF9Wheel guardsRegulation (EU) 2019/2144not in scopenot in scopeF10Spray suppression systemsRegulation (EU) 2019/2144XAF11Masses and dimensionsRegulation (EU) 2019/2144AAF12Mechanical couplingsRegulation (EU) 2019/2144IF XXF13Vehicles intended for the transportation of dangerous goods (IF)Regulation (EU) 2019/2144XXF14General bus constructionRegulation (EU) 2019/2144not in scopenot in scopeF15Bus strength of superstructureRegulation (EU) 2019/2144not in scopenot in scopeF16Flammability in busesRegulation (EU) 2019/2144not in scopenot in scopeGENVIRONMENTAL PERFORMANCE AND EMISSIONSG1Sound levelRegulation (EU) No 540/2014GTest to be performed only with the complete/completed vehicle. The vehicle can be tested in accordance with Directive 70/157/EEC, UN Regulation No 51.02 or Regulation (EC) No 540/2014. The following limit values are applicable, irrespective of the vehicle conditions such as engine type, gearbox type and any sub-classifications:(a)81 dB(A) for vehicles with an engine power of less than 75 kW;(b)83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW;(c)84 dB(A) for vehicles with an engine power of not less than 150 kW.not in scopeG2Tailpipe emissions of vehicle in labRegulation (EC) No 715/2007not in scopenot in scopeG2aDetermination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energyRegulation (EC) No 715/2007not in scopenot in scopeG3Tailpipe emissions of engine in labRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drivenot in scopeG3aDetermination of specific CO_2 emissions and fuel consumption of vehicleRegulation (EC) No 595/2009not in scopenot in scopeG3bDetermination of specific energy efficiency performance of trailerRegulation (EC) No 595/2009not in scopenot in scopeG4Tailipipe emissions on the roadRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drivenot in scopeG5Durability of tailpipe emissionsRegulation (EC) No 595/2009Xnot in scopeG6Crankcase emissionsRegulation (EC) No 595/2009Xnot in scopeG7Evaporative emissionsRegulation (EC) No 715/2007not in scopenot in scopeG8Low-temperature tailpipe emissions in labRegulation (EC) No 715/2007not in scopenot in scopeG9On-board diagnosticsRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drivenot in scopeG10Absence of defeat deviceRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drivenot in scopeG11Auxiliary emissions strategiesRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drivenot in scopeG12Anti-tamperingRegulation (EC) No 595/2009XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drivenot in scopeG13RecyclabilityDirective 2005/64/ECnot in scopenot in scopeG14Air-conditioning systemsDirective 2006/40/ECnot in scopenot in scopeHACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATEH1Access to vehicle OBD information and vehicle repair and maintenance informationRegulation (EU) 2018/858, Articles 61 to 66 and Annex XXXH2Software updateRegulation (EU) 2018/858, Annex IVUN Regulation No 156XX
-
-**EXPLANATORY NOTESto the tables in Appendices 1 to 6**
+Compliance with items from G2 to G12 is mandatory, however, only one type-approval either under Regulation (EC) No 715/2007 or under Regulation (EC) No 595/2009 is foreseen depending on the scope.
 
 <a id="appendix_1__2"></a>
 
 ### Appendix 1
 
-The requirements laid down in Table 1 for ‘Small series scheme I’ apply provided that:In all other cases, the requirements laid down in Table 1 for ‘Small series scheme II’ and in Table 2 apply.XFull application of the regulatory act as follows:(a)a type-approval certificate shall be required;(b)tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(c)the test report shall be drafted in accordance with Annex III;(d)Conformity of Production shall be ensured.AApplication of the regulatory act as follows:(a)all requirements of the regulatory act shall be fulfilled unless otherwise stated;(b)a type-approval certificate is not required;(c)tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(d)the test report shall be drafted in accordance with Annex III;(e)Conformity of Production shall be ensured.BApplication of the regulatory act as follows:Same as for explanatory note ‘A’ with the exception that the tests and checks may be performed by the manufacturer themselves, subject to the agreement of the approval authority.CApplication of the regulatory act as follows:(a)the technical requirements from the regulatory act shall be fulfilled, but with different transitional provision;(b)a type-approval certificate is not required;(c)tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(d)the test report shall be drafted in accordance with Annex III;(e)Conformity of Production shall be ensured.IFSystems, separate technical units or components shall meet the requirements if fitted to the vehiclen/aNot applicableThe specific provisions set out in Table 1 and Table 2 cannot be mixed or combined.
+EXPLANATORY NOTES
 
-**EXPLANATORY NOTESto the tables for vehicles produced in small series**
+to the tables for vehicles produced in small series
 
-- the vehicle type is not based on or derived from a vehicle produced in large series, including those for EU or third markets; and the vehicle type is not based on or derived from a vehicle produced in large series, including those for EU or third markets; and
+The requirements laid down in Table 1 for ‘Small series scheme I’ apply provided that:
 
-- the manufacturer’s combined number of units, of all its categories M and N vehicle types registered, made available on the market or entered into service annually in the Union does not exceed 1500. the manufacturer’s combined number of units, of all its categories M and N vehicle types registered, made available on the market or entered into service annually in the Union does not exceed 1500.
+— the vehicle type is not based on or derived from a vehicle produced in large series, including those for EU or third markets; and
 
-**Table 1Regulatory acts for EU type-approval of manually driven vehicles produced in small series pursuant to Article 41**
+— the manufacturer’s combined number of units, of all its categories M and N vehicle types registered, made available on the market or entered into service annually in the Union does not exceed 1 500 .
+
+In all other cases, the requirements laid down in Table 1 for ‘Small series scheme II’ and in Table 2 apply.
+
+| X | : | Full application of the regulatory act as follows:(a) a type-approval certificate shall be required;(b) tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(c) the test report shall be drafted in accordance with Annex III;(d) Conformity of Production shall be ensured. |
+| --- | --- | --- |
+
+| A | : | Application of the regulatory act as follows:(a) all requirements of the regulatory act shall be fulfilled unless otherwise stated;(b) a type-approval certificate is not required;(c) tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(d) the test report shall be drafted in accordance with Annex III;(e) Conformity of Production shall be ensured. |
+| --- | --- | --- |
+
+| B | : | Application of the regulatory act as follows:Same as for explanatory note ‘A’ with the exception that the tests and checks may be performed by the manufacturer themselves, subject to the agreement of the approval authority. |
+| --- | --- | --- |
+
+| C | : | Application of the regulatory act as follows:(a) the technical requirements from the regulatory act shall be fulfilled, but with different transitional provision;(b) a type-approval certificate is not required;(c) tests and checks shall be conducted by the technical service or the manufacturer under the conditions laid down in Articles 67 to 81;(d) the test report shall be drafted in accordance with Annex III;(e) Conformity of Production shall be ensured. |
+| --- | --- | --- |
+
+| IF | : | Systems, separate technical units or components shall meet the requirements if fitted to the vehicle |
+| --- | --- | --- |
+
+| n/a | : | Not applicable |
+| --- | --- | --- |
+
+The specific provisions set out in Table 1 and Table 2 cannot be mixed or combined.
+
+*Table 1*
+
+**Regulatory acts for EU type-approval of manually driven vehicles produced in small series pursuant to Article 41**
 
 |  | Small series scheme I | Small series scheme II |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Item | Subject | Regulatory act | M_1 | N_1 | M_1 | N_1 |
+| Item | Subject | Regulatory act | M1 | N1 | M1 | N1 |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |
-| A1 | Interior fittings | Regulation (EU) 2019/2144 | B(a)Interior arrangement(i)Radii and protrusion requirements for switches, pull-knobs and the like, controls and general interior fittings. The requirements of paragraphs 5.1 to 5.6 of UN Regulation No 21 may be waived at the request of the manufacturer.The requirements of paragraph 5.2 of UN Regulation No 21 with the exception of paragraphs 5.2.3.1, 5.2.3.2 and 5.2.4 of that Regulation shall apply.(ii)Energy absorption tests on the upper dashboard. Energy absorption tests on the upper dashboard shall only be performed when the vehicle is not fitted with at least two front airbags or two static four-point harnesses.(iii)Energy absorption test on the rear part of the seats: not applicable(b)Power-operation of windows, roof-panel systems and partition systems. All requirements of paragraph 5.8 of UN Regulation No 21 shall apply. | not in scope | B | not in scope |
-| A2 | Seats and head restraints | Regulation (EU) 2019/2144 | B(a)General requirements(i)Specifications Requirements of paragraph 5.2 of UN Regulation No 17 shall apply with the exception of paragraph 5.2.3 of that Regulation.(ii)Strength tests for seat backrest and head restraints. The requirements of paragraph 6.2 of UN Regulation No 17 shall apply.(iii)Unlocking and adjustment tests. The test shall be performed in accordance with the requirements of Annex 7 to UN Regulation No 17.(b)Head restraints(i)Specifications. Requirements of paragraphs 5.4, 5.5, 5.6, 5.10, 5.11 and 5.12 of UN Regulation No 17 shall apply with the exception of paragraph 5.5.2 of that Regulation.(ii)Strength tests on head restraints. The test prescribed in paragraph 6.4 of UN Regulation No 17 shall be performed.(c)Special requirements regarding the protection of occupants from displaced luggage. The requirements of Annex 9 to UN Regulation No 17 may be waived at the request of the manufacturer. | B | B | B |
+| A1 | Interior fittings | Regulation (EU) 2019/2144 | B(a) Interior arrangement(i) Radii and protrusion requirements for switches, pull-knobs and the like, controls and general interior fittings. The requirements of paragraphs 5.1 to 5.6 of UN Regulation No 21 may be waived at the request of the manufacturer.The requirements of paragraph 5.2 of UN Regulation No 21 with the exception of paragraphs 5.2.3.1, 5.2.3.2 and 5.2.4 of that Regulation shall apply.(ii) Energy absorption tests on the upper dashboard. Energy absorption tests on the upper dashboard shall only be performed when the vehicle is not fitted with at least two front airbags or two static four-point harnesses.(iii) Energy absorption test on the rear part of the seats: not applicable(b) Power-operation of windows, roof-panel systems and partition systems. All requirements of paragraph 5.8 of UN Regulation No 21 shall apply. | not in scope | B | not in scope |
+| A2 | Seats and head restraints | Regulation (EU) 2019/2144 | B(a) General requirements(i) Specifications Requirements of paragraph 5.2 of UN Regulation No 17 shall apply with the exception of paragraph 5.2.3 of that Regulation.(ii) Strength tests for seat backrest and head restraints. The requirements of paragraph 6.2 of UN Regulation No 17 shall apply.(iii) Unlocking and adjustment tests. The test shall be performed in accordance with the requirements of Annex 7 to UN Regulation No 17.(b) Head restraints(i) Specifications. Requirements of paragraphs 5.4, 5.5, 5.6, 5.10, 5.11 and 5.12 of UN Regulation No 17 shall apply with the exception of paragraph 5.5.2 of that Regulation.(ii) Strength tests on head restraints. The test prescribed in paragraph 6.4 of UN Regulation No 17 shall be performed.(c) Special requirements regarding the protection of occupants from displaced luggage. The requirements of Annex 9 to UN Regulation No 17 may be waived at the request of the manufacturer. | B | B | B |
 | A3 | Bus seats | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope |
 | A4 | Safety-belt anchorages | Regulation (EU) 2019/2144 | B | B | B | B |
-| A5 | Safety-belts and restraint systems | Regulation (EU) 2019/2144 | (a)Components X(b)Installation requirements B | (a)Components X(b)Installation requirements B | (a)Components X(b)Installation requirements B | (a)Components X(b)Installation requirements B |
+| A5 | Safety-belts and restraint systems | Regulation (EU) 2019/2144 | (a) Components X(b) Installation requirements B | (a) Components X(b) Installation requirements B | (a) Components X(b) Installation requirements B | (a) Components X(b) Installation requirements B |
 | A6 | Safety-belt reminders | Regulation (EU) 2019/2144 | B | B | B | B |
 | A7 | Partitioning systems | Regulation (EU) 2019/2144 | equipment | equipment | equipment | equipment |
 | A8 | Child restraint anchorages | Regulation (EU) 2019/2144 | B | IF B | B | IF B |
@@ -3161,17 +2581,17 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | A11 | Front underrun protection | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope |
 | A12 | Rear underrun protection | Regulation (EU) 2019/2144 | B | B | B | B |
 | A13 | Lateral protection | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope |
-| A14 | Fuel tank safety (IF) | Regulation (EU) 2019/2144 | B(a)Liquid fuel tanks(b)Installation in vehicle | B(a)Liquid fuel tanks(b)Installation in vehicle | B(a)Liquid fuel tanks(b)Installation in vehicle | B(a)Liquid fuel tanks(b)Installation in vehicle |
-| A15 | Liquified petroleum gas safety (IF) | Regulation (EU) 2019/2144 | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B |
-| A16 | Compressed and liquified natural gas safety (IF) | Regulation (EU) 2019/2144 | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B |
+| A14 | Fuel tank safety (IF) | Regulation (EU) 2019/2144 | B(a) Liquid fuel tanks(b) Installation in vehicle | B(a) Liquid fuel tanks(b) Installation in vehicle | B(a) Liquid fuel tanks(b) Installation in vehicle | B(a) Liquid fuel tanks(b) Installation in vehicle |
+| A15 | Liquified petroleum gas safety (IF) | Regulation (EU) 2019/2144 | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B |
+| A16 | Compressed and liquified natural gas safety (IF) | Regulation (EU) 2019/2144 | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B |
 | A17 | Hydrogen safety (IF) | Regulation (EU) 2019/2144 | X | X | X | X |
-| A18 | Hydrogen system material qualification (IF) | Regulation (EU) 2019/2144 | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B |
+| A18 | Hydrogen system material qualification (IF) | Regulation (EU) 2019/2144 | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B |
 | A19 | In-use electric safety (IF) | Regulation (EU) 2019/2144 | B | B | B | B |
 | A20 | Frontal off-set impact | Regulation (EU) 2019/2144 | BShall apply to vehicles fitted with front airbags. May comply with A21 Frontal full-width impact instead, at the choice of the manufacturer. Vehicles not fitted with airbags shall comply with A22 Protective steering (in full) | BShall apply to vehicles fitted with front airbags. May comply with A21 Frontal full-width impact instead, at the choice of the manufacturer. Vehicles not fitted with airbags shall comply with A22 Protective steering (in full)Completed vehicles are deemed to comply with the frontal off-set impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. | B | BCompleted vehicles are deemed to comply with the frontal off-set impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. |
 | A21 | Frontal full-width impact | Regulation (EU) 2019/2144 | BOn voluntary basis | BOn voluntary basisCompleted vehicles are deemed to comply with the frontal full-width impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. | B | BCompleted vehicles are deemed to comply with the frontal full-width impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. |
 | A22 | Protective steering | Regulation (EU) 2019/2144 | BShall apply to vehicles that do not comply with A20 Frontal off-set impact or A21 Frontal full-width impact | BShall apply to vehicles that do not comply with A20 Frontal off-set impact or A21 Frontal full-width impact | B | B |
 | A23 | Replacement airbag | Regulation (EU) 2019/2144 | equipment | equipment | equipment | equipment |
-| A24 | Cab impact | Regulation (EU) 2019/2144 | not in scope | BTest A is required for vehicles with a maximum permissible mass of 1500 kg or more if compliance with A20 Frontal off-set impact, A21 Frontal full-width impact or A22 Protective steering was not demonstrated.Test C is required only for vehicles which have a separate cab.Completed vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase. | not in scope | BTest A is deemed to be fulfilled by means of A20 Frontal off-set impact, A21 Frontal full-width impact or A22 Protective steering.Test C is required only for vehicles which have a separate cab.Completed vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase. |
+| A24 | Cab impact | Regulation (EU) 2019/2144 | not in scope | BTest A is required for vehicles with a maximum permissible mass of 1 500 kg or more if compliance with A20 Frontal off-set impact, A21 Frontal full-width impact or A22 Protective steering was not demonstrated.Test C is required only for vehicles which have a separate cab.Completed vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase. | not in scope | BTest A is deemed to be fulfilled by means of A20 Frontal off-set impact, A21 Frontal full-width impact or A22 Protective steering.Test C is required only for vehicles which have a separate cab.Completed vehicles are deemed to comply with cab impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase. |
 | A25 | Side impact | Regulation (EU) 2019/2144 | BHead form testThe manufacturer shall supply the technical service with suitable information concerning a possible impact of the head of the dummy against the structure of the vehicle or the side glazing, if made of laminated glazing.When such impact is proven likely to happen, then the partial test using the head form test described in paragraph 3.1 of Annex 8 to UN Regulation No 95 shall be conducted and the criterion specified in paragraph 5.2.1.1 of UN Regulation No 95 shall be met.In agreement with the technical service, the test procedure described in Annex 4 to UN Regulation No 21 may be used as an alternative to the test of UN Regulation No 95.Alternatively, a full-scale test in accordance with UN Regulation No 95 may be carried out. | BHead form testThe manufacturer shall supply the technical service with suitable information concerning a possible impact of the head of the dummy against the structure of the vehicle or the side glazing, if made of laminated glazing.When such impact is proven likely to happen, then the partial test using the head form test described in paragraph 3.1 of Annex 8 to UN Regulation No 95 shall be conducted and the criterion specified in paragraph 5.2.1.1 of UN Regulation No 95 shall be met.In agreement with the technical service, the test procedure described in Annex 4 to UN Regulation No 21 may be used as an alternative to the test of UN Regulation No 95.Alternatively, a full-scale test in accordance with UN Regulation No 95 may be carried out.Completed vehicles are deemed to comply with side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. | B | BCompleted vehicles are deemed to comply with side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. |
 | A26 | Pole side impact | Regulation (EU) 2019/2144 | n/a | n/a | B | BCompleted vehicles are deemed to comply with the pole side impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase and the relevant restraint systems have not been modified to the extent that it would result in a decrease of the level of safety, as agreed by the technical service. |
 | A27 | Rear impact | Regulation (EU) 2019/2144 | n/a | n/a | B | BCompleted vehicles are deemed to comply with rear impact requirements provided that compliance has been demonstrated for at least the van or chassis-cab configuration, with appropriate powertrain, as part of a previous-stage type-approval, irrespective of the mass in running order increase. |
@@ -3187,10 +2607,10 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | B7 | Reversing detection | Regulation (EU) 2019/2144 | n/a | n/a | B | B |
 | B8 | Forward vision | Regulation (EU) 2019/2144 | B | BDate for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028 | B | BDate for refusal to grant EU type- approval: 7 July 2026Date for the prohibition of the registration of vehicles: 7 July 2028 |
 | B9 | Heavy-duty vehicles direct vision | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope |
-| B10 | Safety glazing | Regulation (EU) 2019/2144 | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B | (a)Components X(b)Installation B |
+| B10 | Safety glazing | Regulation (EU) 2019/2144 | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B | (a) Components X(b) Installation B |
 | B11 | Defrost/demist | Regulation (EU) 2019/2144 | BVehicles shall be fitted with an adequate windscreen defrosting and demisting device | BVehicles shall be fitted with an adequate windscreen defrosting and demisting device | BVehicles shall be fitted with an adequate windscreen defrosting and demisting device | BVehicles shall be fitted with an adequate windscreen defrosting and demisting device |
 | B12 | Wash/wipe | Regulation (EU) 2019/2144 | BVehicles shall be fitted with adequate windscreen washing and wiping devices | BVehicles shall be fitted with adequate windscreen washing and wiping devices | BVehicles shall be fitted with adequate windscreen washing and wiping devices | BVehicles shall be fitted with adequate windscreen washing and wiping devices |
-| B13 | Indirect vision devices | Regulation (EU) 2019/2144 | (a)Components X(b)Installation on vehicle B | (a)Components X(b)Installation on vehicle B | (a)Components X(b)Installation on vehicle B | (a)Components X(b)Installation on vehicle B |
+| B13 | Indirect vision devices | Regulation (EU) 2019/2144 | (a) Components X(b) Installation on vehicle B | (a) Components X(b) Installation on vehicle B | (a) Components X(b) Installation on vehicle B | (a) Components X(b) Installation on vehicle B |
 | B14 | Acoustic Vehicle Alerting Systems | Regulation (EU) No 540/2014 | A | A | A | A |
 |  |  |  |  |  |  |  |
 | C | VEHICLE CHASSIS, BRAKING, TYRES AND STEERING |  |  |  |  |  |
@@ -3212,9 +2632,9 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | C16 | Replacement wheels | Regulation (EU) 2019/2144 | equipment | equipment | equipment | equipment |
 |  |  |  |  |  |  |  |
 | D | ON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKS |  |  |  |  |  |
-| D1 | Audible warning | Regulation (EU) 2019/2144 | (a)Components X(b)Installation on vehicle B | (a)Components X(b)Installation on vehicle B | (a)Components X(b)Installation on vehicle B | (a)Components X(b)Installation on vehicle B |
+| D1 | Audible warning | Regulation (EU) 2019/2144 | (a) Components X(b) Installation on vehicle B | (a) Components X(b) Installation on vehicle B | (a) Components X(b) Installation on vehicle B | (a) Components X(b) Installation on vehicle B |
 | D2 | Radio interference (electromagnetic compatibility) | Regulation (EU) 2019/2144 | B | B | B | B |
-| D3 | Protection against unauthorised use, immobiliser and alarm systems | Regulation (EU) 2019/2144 | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation B | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation B | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation B | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a)Components X(b)Installation B |
+| D3 | Protection against unauthorised use, immobiliser and alarm systems | Regulation (EU) 2019/2144 | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a) Components X(b) Installation B | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a) Components X(b) Installation B | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a) Components X(b) Installation B | AThe provisions of paragraph 8.3.1.1.1 of UN Regulation No 116 may be applied instead of paragraph 8.3.1.1.2 of that Regulation regardless of the type of powertrain.VAS:(a) Components X(b) Installation B |
 | D4 | Protection of vehicle against cyberattacks | Regulation (EU) 2019/2144 | BOnly for vehicles fitted with lane keeping system, adaptive cruise control or other likewise systems | BOnly for vehicles fitted with lane keeping system, adaptive cruise control or other likewise systems | B | B |
 | D5 | Speedometer | Regulation (EU) 2019/2144 | B | B | B | B |
 | D6 | Odometer | Regulation (EU) 2019/2144 | B | B | B | B |
@@ -3245,16 +2665,16 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | F | GENERAL VEHICLE CONSTRUCTION AND FEATURES |  |  |  |  |  |
 | F1 | Registration plate space | Regulation (EU) 2019/2144 | B | B | B | B |
 | F2 | Reversing motion | Regulation (EU) 2019/2144 | BStatement of compliance | BStatement of compliance | BStatement of compliance | BStatement of compliance |
-| F3 | Door latches and hinges | Regulation (EU) 2019/2144 | B(a)General requirements (Paragraph 5 of UN Regulation No 11) All the requirements shall apply.(b)Performance requirements (Paragraph 6 of UN Regulation No 11) Only the requirements of paragraph 6.1.5.4 and paragraph 6.3 of UN Regulation No 11 shall apply. | B(a)General requirements (Paragraph 5 of UN Regulation No 11) All the requirements shall apply.(b)Performance requirements (Paragraph 6 of UN Regulation No 11) Only the requirements of paragraph 6.1.5.4 and paragraph 6.3 of UN Regulation No 11 shall apply. | B | B |
+| F3 | Door latches and hinges | Regulation (EU) 2019/2144 | B(a) General requirements (Paragraph 5 of UN Regulation No 11) All the requirements shall apply.(b) Performance requirements (Paragraph 6 of UN Regulation No 11) Only the requirements of paragraph 6.1.5.4 and paragraph 6.3 of UN Regulation No 11 shall apply. | B(a) General requirements (Paragraph 5 of UN Regulation No 11) All the requirements shall apply.(b) Performance requirements (Paragraph 6 of UN Regulation No 11) Only the requirements of paragraph 6.1.5.4 and paragraph 6.3 of UN Regulation No 11 shall apply. | B | B |
 | F4 | Door entry steps, handholds and running boards | Regulation (EU) 2019/2144 | B | B | B | B |
-| F5 | External projections | Regulation (EU) 2019/2144 | B(a)General specifications. The requirements of paragraph 5 of UN Regulation No 26 shall apply.(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 26 shall apply. | not in scope | B(a)General specifications. The requirements of paragraph 5 of UN Regulation No 26 shall apply.(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 26 shall apply. | not in scope |
-| F6 | External projections of commercial vehicle cabs | Regulation (EU) 2019/2144 | not in scope | B(a)General specifications. The requirements of paragraph 5 of UN Regulation No 61 shall apply(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 61 shall apply. | not in scope | B(a)General specifications. The requirements of paragraph 5 of UN Regulation No 61 shall apply(b)Particular specifications. The requirements of paragraph 6 of UN Regulation No 61 shall apply. |
+| F5 | External projections | Regulation (EU) 2019/2144 | B(a) General specifications. The requirements of paragraph 5 of UN Regulation No 26 shall apply.(b) Particular specifications. The requirements of paragraph 6 of UN Regulation No 26 shall apply. | not in scope | B(a) General specifications. The requirements of paragraph 5 of UN Regulation No 26 shall apply.(b) Particular specifications. The requirements of paragraph 6 of UN Regulation No 26 shall apply. | not in scope |
+| F6 | External projections of commercial vehicle cabs | Regulation (EU) 2019/2144 | not in scope | B(a) General specifications. The requirements of paragraph 5 of UN Regulation No 61 shall apply(b) Particular specifications. The requirements of paragraph 6 of UN Regulation No 61 shall apply. | not in scope | B(a) General specifications. The requirements of paragraph 5 of UN Regulation No 61 shall apply(b) Particular specifications. The requirements of paragraph 6 of UN Regulation No 61 shall apply. |
 | F7 | Statutory plate and vehicle identification number | Regulation (EU) 2019/2144 | B | B | B | B |
 | F8 | Towing devices | Regulation (EU) 2019/2144 | B | B | B | B |
 | F9 | Wheel guards | Regulation (EU) 2019/2144 | B | not in scope | B | not in scope |
 | F10 | Spray suppression systems | Regulation (EU) 2019/2144 | not in scope | B | not in scope | B |
 | F11 | Masses and dimensions | Regulation (EU) 2019/2144 | BThe hill start ability test of Regulation (EU) 2021/535, Annex XIII, Part 2, Section B, Point 5. may be waived at the request of the manufacturer. | BThe hill start ability test of Regulation (EU) 2021/535, Annex XIII, Part 2, Section B, Point 5. may be waived at the request of the manufacturer. | B | B |
-| F12 | Mechanical couplings | Regulation (EU) 2019/2144 | IF(a)Components X(b)Installation B | IF(a)Components X(b)Installation B | IF(a)Components X(b)Installation B | IF(a)Components X(b)Installation B |
+| F12 | Mechanical couplings | Regulation (EU) 2019/2144 | IF(a) Components X(b) Installation B | IF(a) Components X(b) Installation B | IF(a) Components X(b) Installation B | IF(a) Components X(b) Installation B |
 | F13 | Vehicles intended for the transportation of dangerous goods (IF) | Regulation (EU) 2019/2144 | not in scope | A | not in scope | A |
 | F14 | General bus construction | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope |
 | F15 | Bus strength of superstructure | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope |
@@ -3263,9 +2683,9 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | A | A | A | A |
 | G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission. | AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission. | A | A |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | A | A | A | A |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | A | A | A | A |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission. | AWhere the vehicle manufacturer uses an engine from another manufacturer, bench test data from the engine manufacturer are accepted provided that the engine management system is identical (i.e. having at least the same electronic control unit (ECU)).The power output test may be performed on a chassis dynamometer, taking into account the power loss in the transmission. | A | A |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | A | A | A | A |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | A | A | A | A |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | not in scope | not in scope | not in scope | not in scope |
 | G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | A | A | A | A |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | A | A | A | A |
@@ -3283,9 +2703,11 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | H1 | Access to vehicle OBD information and vehicle repair and maintenance information | Regulation (EU) 2018/858, Articles 61 to 66 and Annex X | X | X | X | X |
 | H2 | Software update | Regulation (EU) 2018/858UN Regulation No 156 | X | X | X | X |
 
-**Table 2Regulatory acts for EU type-approval of fully automated vehicles (as defined in Article 3(22) of Regulation (EU) 2019/2144) produced in small series pursuant to Article 41**
+*Table 2*
 
-| Item | Subject | Regulatory act(the scope of the regulatory act remains unchanged) | Fully automated vehicles of categories N_1, N_2 and N_3 without driver seat and without occupants | Fully automated vehicles of categories N_1, N_2, N_3, M_1, M_2, M_3 without driver seat, with occupants | Dual mode vehicles: vehicles with a driver seat designed and constructed to be driven by the driver in the ‘manual driving mode’ and to be driven by the automated driving system (ADS) without any driver supervision in the ‘fully automated driving mode’ | Specific provisions to be applied if letter A is used (i.e. the approval is not possible under the regulatory act because it does not yet include specific requirements for fully automated vehicles)No provision shall apply if the vehicle category is not in the scope of the base regulatory act. |
+**Regulatory acts for EU type-approval of fully automated vehicles (as defined in Article 3(22) of Regulation (EU) 2019/2144) produced in small series pursuant to Article 41**
+
+| Item | Subject | Regulatory act(the scope of the regulatory act remains unchanged) | Fully automated vehicles of categories N1, N2 and N3 without driver seat and without occupants | Fully automated vehicles of categories N1, N2, N3, M1, M2, M3 without driver seat, with occupants | Dual mode vehicles: vehicles with a driver seat designed and constructed to be driven by the driver in the ‘manual driving mode’ and to be driven by the automated driving system (ADS) without any driver supervision in the ‘fully automated driving mode’ | Specific provisions to be applied if letter A is used (i.e. the approval is not possible under the regulatory act because it does not yet include specific requirements for fully automated vehicles)No provision shall apply if the vehicle category is not in the scope of the base regulatory act. |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |
 | A1 | Interior fittings | Regulation (EU) 2019/2144 | not in scope | A | X for manual driving mode.A for fully automated driving mode | All windows, roof-panels and partitions for use by occupants shall be equipped with an auto-reversing device in order to make a driver-controlled switch redundant.For bidirectional vehicles (i.e. vehicles with no distinguishable rear/front and that can be driven in both directions), requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use. |
@@ -3293,7 +2715,7 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | A3 | Bus seats | Regulation (EU) 2019/2144 | n/a | XA (for bidirectional vehicles) | X | For bidirectional vehicles, requirements shall be met in both directions. Alternative requirements leading to an equivalent level of safety to the satisfaction of the type-approval authority are permitted if meeting all the requirements in both directions is incompatible with the bidirectional use. |
 | A4 | Safety-belt anchorages | Regulation (EU) 2019/2144 | n/a | A | X | For vehicle with no driver seat, any seat in the first seat row shall be considered to be a front passenger seat. Paragraphs 5.1.6.2.1 and 5.1.6.2.2 of UN Regulation No 14 are not applicable. |
 | A5 | Safety-belts and restraint systems | Regulation (EU) 2019/2144 | n/a | A | X | For vehicles without driver seat, any seat in the first seat row shall be considered to be a front passenger seat. |
-| A6 | Safety-belt reminders | Regulation (EU) 2019/2144 | n/a | A | X | For vehicles without driver seat, any seat in the first seat row shall be considered to be a front passenger seat.The safety-belt reminder signal shall be transmitted to the automated driving system (ADS) and the remote intervention operator (if applicable) as defined in Commission Implementing Regulation (EU) 2022/1426. |
+| A6 | Safety-belt reminders | Regulation (EU) 2019/2144 | n/a | A | X | For vehicles without driver seat, any seat in the first seat row shall be considered to be a front passenger seat.The safety-belt reminder signal shall be transmitted to the automated driving system (ADS) and the remote intervention operator (if applicable) as defined in ►C2 Commission Implementing Regulation (EU) 2022/1426 (1)** ◄ **. |
 | A7 | Partitioning systems | Regulation (EU) 2019/2144 | equipment | equipment | equipment |  |
 | A8 | Child restraint anchorages | Regulation (EU) 2019/2144 | n/a | X | X |  |
 | A9 | Child restraint systems (IF) | Regulation (EU) 2019/2144 | n/a | X | X |  |
@@ -3334,10 +2756,10 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | B14 | Acoustic Vehicle Alerting Systems | Regulation (EU) No 540/2014 | X | X | X |  |
 |  |  |  |  |  |  |  |
 | C | VEHICLE CHASSIS, BRAKING, TYRES AND STEERING |  |  |  |  |  |
-| C1 | Steering equipment | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated driving mode) | The basic steering (mechanical) requirements apply however:the requirements applicable to the steering control (e.g. max steering forces) are not applicable;the failure provisions and performance at 5.3 are not relevant if there’s no driver but the failure notification should be made (digitally) available to the ADS and the remote intervention operator (if applicable).The provisions of Annex 6-complex electronic systems need to be fulfilled and may be covered by the ADS safety concept.The ADS shall take care of the tasks assigned to the driver and driver steering assistance system. |
+| C1 | Steering equipment | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated driving mode) | The basic steering (mechanical) requirements apply however:— the requirements applicable to the steering control (e.g. max steering forces) are not applicable;— the failure provisions and performance at 5.3 are not relevant if there’s no driver but the failure notification should be made (digitally) available to the ADS and the remote intervention operator (if applicable).— The provisions of Annex 6-complex electronic systems need to be fulfilled and may be covered by the ADS safety concept.The ADS shall take care of the tasks assigned to the driver and driver steering assistance system. |
 | C2 | Lane departure warning | Regulation (EU) 2019/2144 | n/a(functionality covered by the ADS) | n/a(functionality covered by the ADS) | X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS) |  |
 | C3 | Emergency lane keeping | Regulation (EU) 2019/2144 | n/a(functionality covered by the ADS) | n/a(functionality covered by the ADS) | X (for manual driving mode)n/a (for fully automated driving mode) |  |
-| C4 | Braking | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated mode) | Activation of the brakes managed by the ADS in replacement of the driver and driver assistant systems.Each vehicle shall be fitted where applicable witha service braking systema secondary braking systema parking braking systeman endurance braking system. (for vehicle categories covered by UN Regulation No 13)All Annexes to UN Regulation No 13, except for Annex 5 (Additional provisions applicable to certain vehicles as specified in the ADR), shall remain applicable.All muscular generated performances (e.g. secondary brake) shall be replaced by alternative supply. (to be performed by the ADS- need for a special test mode). Issue of failure to be covered (no driver as fallback).All the tell tales, indicators, warnings and information in accordance to UN Regulation No 13 or UN Regulation No 13-H (depending on the vehicle category) shall be sent to the ADS and the remote intervention operator (if applicable).When more than one control is required in UN Regulation No 13 (e.g. paragraph 5.2.1.2.1) this shall be replaced by two independent power sources. e.g. service brake activation and parking braking brake shall be activated by actuators with separated energy reserves, actuators and logic.The ADS safety concept shall cover the electronic systems of the braking system (including the interfaces and interactions with any other affected electronic systems of the vehicle).The ADS takes care of the tasks assigned to the driver and braking assistance systems. |
+| C4 | Braking | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated mode) | Activation of the brakes managed by the ADS in replacement of the driver and driver assistant systems.Each vehicle shall be fitted where applicable with— a service braking system— a secondary braking system— a parking braking system— an endurance braking system. (for vehicle categories covered by UN Regulation No 13)All Annexes to UN Regulation No 13, except for Annex 5 (Additional provisions applicable to certain vehicles as specified in the ADR), shall remain applicable.All muscular generated performances (e.g. secondary brake) shall be replaced by alternative supply. (to be performed by the ADS- need for a special test mode). Issue of failure to be covered (no driver as fallback).All the tell tales, indicators, warnings and information in accordance to UN Regulation No 13 or UN Regulation No 13-H (depending on the vehicle category) shall be sent to the ADS and the remote intervention operator (if applicable).When more than one control is required in UN Regulation No 13 (e.g. paragraph 5.2.1.2.1) this shall be replaced by two independent power sources. e.g. service brake activation and parking braking brake shall be activated by actuators with separated energy reserves, actuators and logic.The ADS safety concept shall cover the electronic systems of the braking system (including the interfaces and interactions with any other affected electronic systems of the vehicle).The ADS takes care of the tasks assigned to the driver and braking assistance systems. |
 | C5 | Replacement braking parts | Regulation (EU) 2019/2144 | equipment | equipment | equipment |  |
 | C6 | Brake assist | Regulation (EU) 2019/2144 | n/a (functionality covered by the ADS | n/a(functionality covered by the ADS) | X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS) |  |
 | C7 | Stability control | Regulation (EU) 2019/2144 | n/a (functionality covered by the ADS | n/a (functionality covered by the ADS | X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS) |  |
@@ -3353,7 +2775,7 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 |  |  |  |  |  |  |  |
 | D | ON-BOARD INSTRUMENTS, ELECTRICAL SYSTEM, VEHICLE LIGHTING AND PROTECTION AGAINST UNAUTHORISED USE, INCLUDING CYBERATTACKS |  |  |  |  |  |
 | D1 | Audible warning | Regulation (EU) 2019/2144 | X | X | X |  |
-| D2 | Radio interference (electromagnetic compatibility) | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated driving mode) | Test mode needed.In addition to the requirements EMC tests described in Annexes 4 to 22 to UN Regulation No 10, the following procedure before and during initial EMC tests shall be followed:1.When a fully automated vehicle with an ADS is EMC tested, the ADS functions should be switched on and also work in active mode. However certain limitations in use case can be observed. Therefore, before executing the EMC test, the type-approval authority needs to be consulted about the test program to agree about the Pass/Fail criteria proposal made by the EMC lab according to paragraph 6.1.2 of UN Regulation No 10.Before testing the Technical Service has to prepare a test plan in conjunction with the manufacturer, which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion (criteria) and intended emissions.2.The manufacturer of the vehicle or Electric/electronic subassembly (ESA) shall fill in the information according to UN Regulation 10, Annex 2A or 2B. The EMC lab shall make this available as an annex to the test report.3.In case if a remote intervention is used and could influence the behaviour of the vehicle the remote intervention should be part of the EMC test plan.4.When it’s needed during the initial test, to install Ferrite blocks or aluminium foil on several elements to pass the EMC tests, it proves that the EMC design was weak and potentially prone to variation.Therefore the initial tests can never be used for further revision or extension for further vehicles or adding/changing ESAs (Electronic Sub-Assemblies) to the vehicle/DUTs. |
+| D2 | Radio interference (electromagnetic compatibility) | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated driving mode) | Test mode needed.In addition to the requirements EMC tests described in Annexes 4 to 22 to UN Regulation No 10, the following procedure before and during initial EMC tests shall be followed:1. When a fully automated vehicle with an ADS is EMC tested, the ADS functions should be switched on and also work in active mode. However certain limitations in use case can be observed. Therefore, before executing the EMC test, the type-approval authority needs to be consulted about the test program to agree about the Pass/Fail criteria proposal made by the EMC lab according to paragraph 6.1.2 of UN Regulation No 10.Before testing the Technical Service has to prepare a test plan in conjunction with the manufacturer, which contains at least mode of operation, stimulated function(s), monitored function(s), pass/fail criterion (criteria) and intended emissions.2. The manufacturer of the vehicle or Electric/electronic subassembly (ESA) shall fill in the information according to UN Regulation 10, Annex 2A or 2B. The EMC lab shall make this available as an annex to the test report.3. In case if a remote intervention is used and could influence the behaviour of the vehicle the remote intervention should be part of the EMC test plan.4. When it’s needed during the initial test, to install Ferrite blocks or aluminium foil on several elements to pass the EMC tests, it proves that the EMC design was weak and potentially prone to variation.Therefore the initial tests can never be used for further revision or extension for further vehicles or adding/changing ESAs (Electronic Sub-Assemblies) to the vehicle/DUTs. |
 | D3 | Protection against unauthorised use, immobiliser and alarm systems | Regulation (EU) 2019/2144 | X | X | X |  |
 | D4 | Protection of vehicle against cyberattacks | Regulation (EU) 2019/2144 | X | X | X |  |
 | D5 | Speedometer | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated driving mode) | Requirements are not applicable except that the speed signal shall be send to the ADS |
@@ -3361,7 +2783,7 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | D7 | Speed limitation devices | Regulation (EU) 2019/2144 | A | A | X (for manual driving modeA for fully automated) driving mode | Test mode needed. The speed management and limitation shall be ensured by ADS. |
 | D8 | Intelligent speed assistance | Regulation (EU) 2019/2144 | n/a | n/a | X (for manual driving mode)n/a (for fully automated driving mode)(functionality covered by the ADS) |  |
 | D9 | Identification of controls, tell-tales and indicators | Regulation (EU) 2019/2144 | n/a | n/a | X (for manual driving mode)n/a (for fully automated driving mode) |  |
-| D10 | Heating systems | Regulation (EU) 2019/2144 | n/a | A | X (for manual driving mode)A (for fully automated driving mode) | In the case of part or parts of the heating system in the passenger compartment, and in the case of overheating, the temperature of the parts shall not exceed 110 °C (70 °C for M_2 and 80 °C for M_3).The activation and adjustment of the heating system can be managed by the ADS and/or passengers or remote intervention operator (if applicable). |
+| D10 | Heating systems | Regulation (EU) 2019/2144 | n/a | A | X (for manual driving mode)A (for fully automated driving mode) | In the case of part or parts of the heating system in the passenger compartment, and in the case of overheating, the temperature of the parts shall not exceed 110 °C (70 °C for M2 and 80 °C for M3).The activation and adjustment of the heating system can be managed by the ADS and/or passengers or remote intervention operator (if applicable). |
 | D11 | Light signalling devices | Regulation (EU) 2019/2144 | X | X | X |  |
 | D12 | Road illumination devices | Regulation (EU) 2019/2144 | X | X | X |  |
 | D13 | Retro-reflective devices | Regulation (EU) 2019/2144 | X | X | X |  |
@@ -3376,11 +2798,11 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | E2 | Driver drowsiness and attention warning | Regulation (EU) 2019/2144 | n/a | n/a | X (for manual driving mode)n/a (for fully automated driving mode) |  |
 | E3 | Advanced driver distraction warning | Regulation (EU) 2019/2144 | No requirement yet | No requirement yet | No requirement yet |  |
 | E4 | Driver availability monitoring system (in case of automated vehicles) | Regulation (EU) 2019/2144 | n/a | n/a | X |  |
-| E5 | Event data recorder | Regulation (EU) 2019/2144 | A | A | A for fully automated driving modeX for manual driving mode | Specific ADS data elements are covered in Implementing Regulation (EU) 2022/1426 |
-| E6 | Systems to replace driver’s control (in case of automated vehicles) | Regulation (EU) 2019/2144 | X | X | X | Covered by Implementing Regulation (EU) 2022/1426 |
-| E7 | Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles) | Regulation (EU) 2019/2144 | X | X | X | Covered by Implementing Regulation (EU) 2022/1426 |
+| E5 | Event data recorder | Regulation (EU) 2019/2144 | A | A | A for fully automated driving modeX for manual driving mode | Specific ADS data elements are covered in ►C2 Implementing Regulation (EU) 2022/1426** ◄ ** |
+| E6 | Systems to replace driver’s control (in case of automated vehicles) | Regulation (EU) 2019/2144 | X | X | X | Covered by ►C2 Implementing Regulation (EU) 2022/1426** ◄ ** |
+| E7 | Systems to provide the vehicle with information on state of vehicle and surrounding area (in case of automated vehicles) | Regulation (EU) 2019/2144 | X | X | X | Covered by ►C2 Implementing Regulation (EU) 2022/1426** ◄ ** |
 | E8 | Platooning (IF) | Regulation (EU) 2019/2144 | No requirement yet | No requirement yet | No requirement yet | No requirement yet |
-| E9 | Systems to provide safety information to other road users (in case of automated vehicles) | Regulation (EU) 2019/2144 | X | X | X | Covered by Implementing Regulation (EU) 2022/1426 |
+| E9 | Systems to provide safety information to other road users (in case of automated vehicles) | Regulation (EU) 2019/2144 | X | X | X | Covered by ►C2 Implementing Regulation (EU) 2022/1426** ◄ ** |
 |  |  |  |  |  |  |  |
 | F | GENERAL VEHICLE CONSTRUCTION AND FEATURES |  |  |  |  |  |
 | F1 | Registration plate space | Regulation (EU) 2019/2144 | A | A | X (for manual driving mode)A (for fully automated driving mode) | For bidirectional vehicles, requirements shall be met in both directions unless it is incompatible with the use in agreement with the type-approval authority. |
@@ -3403,9 +2825,9 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | A | A | X (for manual driving mode)A (for fully automated driving mode) | Test mode necessary. Manufacturer to define how to perform the test in accordance with the technical justification in agreement with technical service. Highest value measured in manual or/and in autonomous mode shall be considered for type approval.Vehicles having overall sound levels complying with the requirements in paragraph 6.2.8 of UNECE Regulation No 138(1) with a margin of +3 dB(A), are not required to be equipped with Acoustic Vehicle Alerting System (AVAS). The requirements laid down in paragraph 6.2.8 of that Regulation for one-third octave bands and the requirements laid down in paragraph 6.2.3 of that Regulation for the frequency shift as defined in paragraph 2.4 of that Regulation (‘frequency shift’) shall not apply to those vehicles to determine the need for AVAS independent whether the vehicles is driven in manual or autonomous mode during the test.The R point of the driver seat shall be considered to be the lowest R point of the passenger seats in the 1st seat row.Used test procedure/special arrangement to be recorded in the test report. |
 | G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | A | A | X (for manual driving mode)A (for fully automated driving mode) | The manufacturer shall define a test mode in order to allow testing on a chassis dynamometer and communicate the method to the relevant approval authorities.The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system, and remote intervention operator (if applicable). It shall be clearly indicated to the remote intervention operator when the inducement will be activated. |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | A | A | X (for manual driving mode)A (for fully automated driving mode) | The manufacturer shall define a test mode in order to allow testing on a chassis dynamometer and communicate the method to the relevant approval authorities. |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | A | A | X (for manual driving mode)A (for fully automated driving mode) | The manufacturer shall define a test mode in order to allow testing on a chassis dynamometer and communicate the method to the relevant approval authorities. |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | A | A | X (for manual driving mode)A (for automated driving mode) | The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system and remote intervention operator (if applicale). It shall be clearly indicated to the remote intervention operator when the inducement will be activated. |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | A | A | X (for manual driving mode)A (for automated driving mode) | The manufacturer shall define a test mode in order to perform the verification testing procedure and communicate the method to the relevant approval authorities. |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | A | A | X (for manual driving mode)A (for automated driving mode) | The manufacturer shall define a test mode in order to perform the verification testing procedure and communicate the method to the relevant approval authorities. |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope |
 | G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | A | A | X (for manual driving mode)A (for automated driving mode) | The manufacturer shall define a test mode in order to allow testing on the road and communicate the method to the relevant approval authorities.The required driver warning and inducement system shall be replaced by signals transmitted to the automated driving system, and remote intervention operator (if applicable). It shall be clearly indicated to the remote intervention operator when the inducement will be activated. |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | A | A | X (for manual driving mode) | The manufacturer shall define a test mode in order to allow testing on the road and communicate the method to the relevant approval authorities. |
@@ -3422,32 +2844,35 @@ The requirements laid down in Table 1 for ‘Small series scheme I’ apply prov
 | H | ACCESS TO VEHICLE INFORMATION AND SOFTWARE UPDATE |  |  |  |  |  |
 | H1 | Access to vehicle OBD information and vehicle repair and maintenance information | Regulation (EU) 2018/858, Articles 61 to 66 and Annex X | X | X | X |  |
 | H2 | Software update | Regulation (EU) 2018/858UN Regulation No 156 | X | X | X |  |
+| (1)Commission Implementing Regulation (EU) 2022/1426 of 5 August 2022 laying down rules for the application of Regulation (EU) 2019/2144 of the European Parliament and of the Council as regards uniform procedures and technical specifications for the type-approval of the automated driving system (ADS) of fully automated vehicles (OJ L 221, 26.8.2022, p. 1). |  |  |  |  |  |  |
 
 <a id="appendix_2__2"></a>
 
 ### Appendix 2
 
-**Requirements for EU individual vehicle approval pursuant to Article 44**
+Requirements for EU individual vehicle approval pursuant to Article 44
+
+1. **APPLICATION**
 
 For the purpose of application of this Appendix, a vehicle is deemed to be new where:
 
-**1.APPLICATION**
-
 (a) it has never been registered previously; or
 
-(b) it has been registered for less than six months at the time of the application for individual vehicle approval. A vehicle shall be considered registered where it has obtained a permanent, temporary or short-term administrative authorisation for entry into service in road traffic, involving its identification and the issuing of a registration number.
+(b) it has been registered for less than six months at the time of the application for individual vehicle approval. A vehicle shall be considered registered where it has obtained a permanent, temporary or short-term administrative authorisation for entry into service in road traffic, involving its identification and the issuing of a registration number (12).
 
-**2.ADMINISTRATIVE PROVISIONS**
+2. **ADMINISTRATIVE PROVISIONS**
 
-Vehicles shall be categorised in accordance with the criteria set out in Annex I as follows:Where it is not possible to easily determine the vehicle category because of the design of the bodywork, the conditions set out in Annex I shall apply.
+2.1. **Categorisation of the vehicle**
 
-**2.1.Categorisation of the vehicle**
+Vehicles shall be categorised in accordance with the criteria set out in Annex I as follows:
 
 (a) the actual number of seating positions shall be taken into consideration; and
 
 (b) the technically maximum permissible laden mass shall be the maximum mass stated by the manufacturer in the country of origin and available in his official documentation.
 
-**2.2.Application for individual vehicle approval**
+Where it is not possible to easily determine the vehicle category because of the design of the bodywork, the conditions set out in Annex I shall apply.
+
+2.2. **Application for individual vehicle approval**
 
 (a) The applicant shall submit an application to the approval authority accompanied by all relevant documentation necessary for the operation of the approval procedure. Where the submitted documentation is incomplete, falsified or forged the application for approval shall be rejected.
 
@@ -3459,7 +2884,7 @@ Vehicles shall be categorised in accordance with the criteria set out in Annex I
 
 (e) With respect to the tests required under the regulatory acts listed in this Annex, the applicant shall supply a statement of compliance with recognised international standards or regulations. The statement in question may only be issued by the vehicle manufacturer. ‘Statement of compliance’ shall mean a statement issued by the office or department within the manufacturer's organisation that is duly authorised by the management to fully engage the legal responsibility of the manufacturer with respect to the design and the construction of a vehicle. The regulatory acts for which such a statement has to be supplied shall be those referred to in point 4. Where a statement of compliance gives rise to uncertainty, the applicant may be required to obtain from the manufacturer a piece of evidence, including a test report, in order to corroborate the manufacturer's statement.
 
-**2.3.Technical services entrusted with individual vehicle approvals**
+2.3. **Technical services entrusted with individual vehicle approvals**
 
 (a) The technical services entrusted with individual vehicle approvals shall be of category A as referred to in Article 68(1).
 
@@ -3467,7 +2892,7 @@ Vehicles shall be categorised in accordance with the criteria set out in Annex I
 
 (c) Where specific tests requiring specific skills have to be conducted at the request of the applicant, they shall be conducted by one of the technical services notified to the Commission at the choice of the applicant.
 
-**2.4.Test reports**
+2.4. **Test reports**
 
 (a) Test reports shall be drafted in accordance with paragraph 5.10.2 of standard EN ISO/IEC 17025:2005.
 
@@ -3481,139 +2906,211 @@ Vehicles shall be categorised in accordance with the criteria set out in Annex I
 
 (f) Test reports referred to in point (d) do not include the reports drawn up in order to grant the individual vehicle approval.
 
+2.5. **In the individual vehicle approval procedure each particular vehicle shall be inspected physically by the technical service.**
+
 No exemption to this principle shall be permitted.
 
-**2.5.In the individual vehicle approval procedure each particular vehicle shall be inspected physically by the technical service.**
+2.6. **Where the approval authority is satisfied that the vehicle meets the technical requirements specified in this Appendix and conforms to the description included in the application, it shall grant approval in accordance with Article 44.**
 
-**2.6.Where the approval authority is satisfied that the vehicle meets the technical requirements specified in this Appendix and conforms to the description included in the application, it shall grant approval in accordance with Article 44.**
+2.7. **The certificate of approval shall be drafted in accordance with Article 44.**
 
-**2.7.The certificate of approval shall be drafted in accordance with Article 44.**
+2.8. **The approval authority shall keep record of all approvals granted under Article 44.**
 
-**2.8.The approval authority shall keep record of all approvals granted under Article 44.**
+3. **REVIEW OF THE TECHNICAL REQUIREMENTS**
 
 The list of the technical requirements included in point 4 shall be regularly reviewed in order to take account of the results of the harmonisation work in progress at the World Forum for Harmonization of Vehicle Regulations (WP.29) in Geneva and legislative developments in the third countries.
 
-**3.REVIEW OF THE TECHNICAL REQUIREMENTS**
+4. **TECHNICAL REQUIREMENTS**
 
-**4.TECHNICAL REQUIREMENTS**
-
-**Part I: Vehicles belonging to category M1**
+Part I: Vehicles belonging to category M1
 
 | Item | Regulatory act reference | Alternative requirements |
 | --- | --- | --- |
-| 1 | Council Directive 70/157/EEC(Permissible sound level) | Drive-by test(a)A test shall be conducted in accordance with the ‘Method A’ referred to in Annex 3 to UN Regulation No 51.Limits are those specified in point 2.1 of Annex I to Directive 70/157/EEC. 1 decibel in addition to the permitted limits shall be allowed.(b)The test track shall comply with Annex 8 to UN Regulation No 51. A test track having different specifications may be used under the condition that correlation tests have been conducted by the technical service. A correction factor shall be applied if necessary.(c)Exhaust systems containing fibrous materials need not be conditioned as prescribed in Annex 5 to UN Regulation No 51.Stationary testA test shall be conducted in accordance with paragraph 3.2 of Annex 3 to UN Regulation No 51. |
-| 2A | Regulation (EC) No 715/2007(Emissions (Euro 5 and Euro 6) light duty vehicles/access to information) | Tailpipe emissions(a)A type I test shall be conducted in accordance with Annex III to Regulation (EC) No 692/2008 using the deterioration factors set out in point 1.4 of Annex VII to Regulation (EC) No 692/2008. The limits to be applied shall be those specified in Table I and Table II in Annex I to Regulation (EC) No 715/2007.(b)The vehicle shall not be required to exhibit 3000 km as mentioned in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EC) No 692/2008.(d)The dynamometer shall be set up in accordance with the technical requirements set out in paragraph 3.2 of Annex 4 to UN Regulation No 83.(e)The test referred to in point (a) shall not be conducted where it can be shown that the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Regulation (EC) No 692/2008.Evaporative emissionsFor petrol-fuelled engines, the presence of an evaporate emissions control system shall be required (e.g. a charcoal canister).Crankcase emissionsThe presence of a device for recycling crankcase gases shall be required.OBD(a)The vehicle shall be fitted with an OBD system.(b)OBD-interface must be able to communicate with common diagnostic tools used for periodic technical inspections.Smoke opacity(a)Vehicles equipped with a diesel-fuelled engine shall be tested in accordance with the tests methods referred to in Appendix 2 to Annex IV to Regulation (EC) No 692/2008.(b)The corrected value of the absorption coefficient shall be affixed conspicuously and in a readily accessible place.CO_2 emissions and fuel consumption(a)A test shall be conducted in accordance with Annex XII to Regulation (EC) No 692/2008.(b)The vehicle shall not be required to exhibit 3000 km as requested in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)Where the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Regulation (EC) No 692/2008 and therefore no test of tailpipe emissions is required to be performed, Member States shall calculate CO_2 emissions and fuel consumption with the formula laid down in the explanatory notes (^b) and (^c).Access to informationThe provisions regarding access to information shall not apply.Power measurement(a)The applicant shall submit a statement from the manufacturer stating the maximum engine power output in kW as well as the corresponding engine speed in revolutions per minute.(b)An engine power output curve providing the same information may alternatively be provided by the applicant. |
-| 3A | UN Regulation No 34(Fuel tanks — Rear protective devices) | Fuel tanks(a)Fuel tanks shall comply with paragraph 5 of UN Regulation No 34 with the exception of paragraphs 5.1, 5.2 and 5.12. In particular, they shall comply with paragraphs 5.9 and 5.9.1 but no dripping test shall be conducted.(b)LPG or CNG tanks shall be type-approved in accordance with UN Regulation No 67, series of amendments 01, or UN Regulation No 110 (^a), respectively.Specific provisions for fuel tanks made of a plastic materialThe applicant shall submit a statement from the manufacturer establishing that the fuel tank on the particular vehicle, the VIN of which has to be specified, complies either with at least one of the following:FMVSS No 301 (Fuel system integrity); orAnnex 5 to UN Regulation 34.Rear protective deviceThe rear part of the vehicle shall be constructed in accordance with paragraphs 8 and 9 of UN Regulation No 34. |
+| 1 | Council Directive 70/157/EEC (1)(Permissible sound level) | Drive-by test(a) A test shall be conducted in accordance with the ‘Method A’ referred to in Annex 3 to UN Regulation No 51.Limits are those specified in point 2.1 of Annex I to Directive 70/157/EEC. 1 decibel in addition to the permitted limits shall be allowed.(b) The test track shall comply with Annex 8 to UN Regulation No 51. A test track having different specifications may be used under the condition that correlation tests have been conducted by the technical service. A correction factor shall be applied if necessary.(c) Exhaust systems containing fibrous materials need not be conditioned as prescribed in Annex 5 to UN Regulation No 51.Stationary testA test shall be conducted in accordance with paragraph 3.2 of Annex 3 to UN Regulation No 51. |
+| 2A | Regulation (EC) No 715/2007(Emissions (Euro 5 and Euro 6) light duty vehicles/access to information) | Tailpipe emissions(a) A type I test shall be conducted in accordance with Annex III to Regulation (EC) No 692/2008 using the deterioration factors set out in point 1.4 of Annex VII to Regulation (EC) No 692/2008. The limits to be applied shall be those specified in Table I and Table II in Annex I to Regulation (EC) No 715/2007.(b) The vehicle shall not be required to exhibit 3 000 km as mentioned in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c) The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EC) No 692/2008.(d) The dynamometer shall be set up in accordance with the technical requirements set out in paragraph 3.2 of Annex 4 to UN Regulation No 83.(e) The test referred to in point (a) shall not be conducted where it can be shown that the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Regulation (EC) No 692/2008.Evaporative emissionsFor petrol-fuelled engines, the presence of an evaporate emissions control system shall be required (e.g. a charcoal canister).Crankcase emissionsThe presence of a device for recycling crankcase gases shall be required.OBD(a) The vehicle shall be fitted with an OBD system.(b) OBD-interface must be able to communicate with common diagnostic tools used for periodic technical inspections.Smoke opacity(a) Vehicles equipped with a diesel-fuelled engine shall be tested in accordance with the tests methods referred to in Appendix 2 to Annex IV to Regulation (EC) No 692/2008.(b) The corrected value of the absorption coefficient shall be affixed conspicuously and in a readily accessible place.CO2 emissions and fuel consumption(a) A test shall be conducted in accordance with Annex XII to Regulation (EC) No 692/2008.(b) The vehicle shall not be required to exhibit 3 000 km as requested in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c) Where the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Regulation (EC) No 692/2008 and therefore no test of tailpipe emissions is required to be performed, Member States shall calculate CO2 emissions and fuel consumption with the formula laid down in the explanatory notes (b) and (c).Access to informationThe provisions regarding access to information shall not apply.Power measurement(a) The applicant shall submit a statement from the manufacturer stating the maximum engine power output in kW as well as the corresponding engine speed in revolutions per minute.(b) An engine power output curve providing the same information may alternatively be provided by the applicant. |
+| 3A | UN Regulation No 34(Fuel tanks — Rear protective devices) | Fuel tanks(a) Fuel tanks shall comply with paragraph 5 of UN Regulation No 34 with the exception of paragraphs 5.1, 5.2 and 5.12. In particular, they shall comply with paragraphs 5.9 and 5.9.1 but no dripping test shall be conducted.(b) LPG or CNG tanks shall be type-approved in accordance with UN Regulation No 67, series of amendments 01, or UN Regulation No 110 (a), respectively.Specific provisions for fuel tanks made of a plastic materialThe applicant shall submit a statement from the manufacturer establishing that the fuel tank on the particular vehicle, the VIN of which has to be specified, complies either with at least one of the following:— FMVSS No 301 (Fuel system integrity); or— Annex 5 to UN Regulation 34.Rear protective deviceThe rear part of the vehicle shall be constructed in accordance with paragraphs 8 and 9 of UN Regulation No 34. |
 | 3B | UN Regulation No 58(Rear underrun protection) | The rear part of the vehicle shall be constructed in accordance with paragraph 2 UN Regulation No 58. It is sufficient that the requirements set out in paragraph 2.3 are fulfilled. |
 | 4A | Regulation (EU) No 1003/2010(Rear registration plate space) | Space, inclination, angles for visibility and position of the registration plate shall comply with Regulation (EU) No 1003/2010. |
-| 5A | UN Regulation No 79(Steering equipment) | Mechanical systems(a)The steering mechanism shall be built as to self-centre. In order to check compliance with this provision, a test shall be conducted in accordance with paragraphs 6.1.2 and 6.2.1 of UN Regulation No 79.(b)The failure of the power steering equipment shall not lead to a complete loss of control of the vehicle.Complex electronic vehicle control system (‘Drive-by wire’ devices)Complex electronic control system shall be permitted only if they comply with Annex 6 to UN Regulation No 79. |
+| 5A | UN Regulation No 79(Steering equipment) | Mechanical systems(a) The steering mechanism shall be built as to self-centre. In order to check compliance with this provision, a test shall be conducted in accordance with paragraphs 6.1.2 and 6.2.1 of UN Regulation No 79.(b) The failure of the power steering equipment shall not lead to a complete loss of control of the vehicle.Complex electronic vehicle control system (‘Drive-by wire’ devices)Complex electronic control system shall be permitted only if they comply with Annex 6 to UN Regulation No 79. |
 | 6A | UN Regulation No 11(Door latches and hinges) | Compliance with paragraph 6.1.5.4 of UN Regulation No 11. |
-| 7A | UN Regulation No 28(Audible warning) | ComponentsThe audible warning devices are not required to be type-approved in accordance with UN Regulation No 28. However, they shall emit a continuous sound as required in paragraph 6.1.1 of UN Regulation No 28.Installation on vehicle(a)A test shall be conducted in accordance with paragraph 6.2 of UN Regulation No 28.(b)The maximum sound pressure level shall be in accordance with paragraph 6.2.7. |
-| 8A | UN Regulation No 46(Indirect vision devices) | Components(a)The vehicle shall be fitted with the rear-view mirrors prescribed in paragraph 15.2 of UN Regulation No 46.(b)They are not required to be type-approved in accordance with UN Regulation No 46.(c)The radii of curvature of the mirrors shall not cause significant image distortions. At the discretion of the technical service, the radii of curvature shall be checked in accordance with the method described in Annex 7 to UN Regulation No 46. The radii of curvature shall not be less than those required by paragraph 6.1.2.2.4 of UN Regulation No 46.Installation on vehicleMeasurement shall be conducted in order to ensure that the fields of vision comply with paragraph 15.2.4. of UN Regulation No 46. |
-| 9B | UN Regulation No 13-H(Braking) | General provisions(a)The braking system shall be built in accordance with paragraph 5 of UN Regulation No 13-H.(b)Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.(c)The performances of the braking system shall comply with Annex III to UN Regulation No 13-H.(d)For those purposes, road tests shall be conducted on a track the surface of which possesses high adhesion. The test on the parking brake shall be conducted on a 18 % gradient (up and down).Only those tests mentioned under the headings ‘Service brake’ and ‘Parking brake’ below shall be conducted. In each case, the vehicle shall be in fully laden conditions.(e)The road test referred to in point (d) shall not be conducted where the applicant can submit a statement from the manufacturer establishing that the vehicle complies either with UN Regulation No 13-H, including supplement 5, or with FMVSS No 135.Service brake(a)A ‘Type 0’ test as prescribed in paragraphs 1.4.2 and 1.4.3 of Annex 3 to UN Regulation No 13-H shall be conducted.(b)In addition, a ‘Type I’ test as prescribed in paragraph 1.5 of Annex 3 to UN Regulation No 13-H shall be conducted.Parking brakeA test shall be conducted in accordance with paragraph 2.3 of Annex 3 to UN Regulation No 13-H. |
-| 10A | UN Regulation No 10(Radio interference (electromagnetic compatibility)) | Components(a)Electrical/electronic sub-assemblies are not required to be type-approved in accordance with UN Regulation No 10.(b)However, electric/electronic devices retrofitted shall comply with UN Regulation No 10.Emitted electromagnetic radiationsThe applicant shall submit a statement from the manufacturer establishing that the vehicle complies with UN Regulation No 10 or with the following alternative standards:Broadband electromagnetic radiation: CISPR 12 or SAE J551-2; orNarrowband electromagnetic radiation: CISPR 12 (off-board) or 25 (in-board) or SAE J551-4 and SAE J1113-41.Immunity testsImmunity test shall be waived. |
-| 12A | UN Regulation No 21(Interior fittings) | Interior arrangement(a)With respect to the requirements on energy absorption, the vehicle shall be deemed to comply with UN Regulation No 21 if the vehicle is fitted with at least two front airbags, one inserted into the steering wheel and the other into the dashboard.(b)Where the vehicle is fitted with only one front air bag inserted in the steering wheel, the dashboard shall be made up of energy absorbing materials.(c)The technical service shall check that there are no sharp edges in the zones defined in paragraphs 5.1 to 5.7 of UN Regulation No 21.Electrical controls(a)Power-operated windows, roof-panel systems and partitioning systems shall be tested in accordance with paragraph 5.8 of UN Regulation No 21.The sensitivity of auto-reverse systems referred to in paragraph 5.8.3 may diverge from the requirements set out in paragraph 5.8.3.1.1 of UN Regulation No 21.(b)Electric windows which cannot be closed when the ignition is off shall be exempt from the requirements concerning auto-reverse systems. |
-| 13A | UN Regulation No 18(Anti-theft and immobiliser) | (a)In order to prevent unauthorised use, the vehicle shall be fitted with:a locking device as defined in paragraph 2.3 of UN Regulation No 18; andan immobiliser which meets the technical requirements of paragraph 5 of UN Regulation No 18;(b)If, in accordance with point (a), an immobiliser has to be retrofitted, it shall be of an approved type in accordance with UN Regulations No 18, No 97, or No 116. |
-| 14A | UN Regulation No 12(Protective steering) | (a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 12;FMVSS No 203 (Impact protection for the driver from the steering control system) including FMVSS No 204 (Steering control rearward displacement);Article 11 of JSRRV.(b)A test in accordance with Annex 3 to UN Regulation No 12 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
-| 15A | UN Regulation No 17(Seat strength — head restraints) | Seats, seat anchorages and adjustment systemsThe applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 17; orFMVSS No 207 (Seating systems).Head restraints(a)Where the statement is based on FMVSS No 207, the head restraints shall fulfil, in addition, the requirements of paragraph 5 and Annex 4 to UN Regulation No 17.(b)Only the tests described in paragraphs 5.12, 6.5, 6.6 and 6.7 of UN Regulation No 17 shall be conducted.(c)In the other event, the applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with FMVSS No 202a (Head restraints). |
-| 16A | UN Regulation No 26 (Exterior projections) | (a)The external surface of the bodywork shall comply with the general requirements included in paragraph 5 of UN Regulation No 26.(b)At the discretion of the technical service the provisions referred to in paragraphs 6.1, 6.5, 6.6, 6.7, 6.8 and 6.11 of UN Regulation No 26 shall be checked. |
-| 17A, 17B | UN Regulation No 39(Speedometer — reverse gear) | Speedometer equipment(a)The dial shall comply with paragraphs 5.1 to 5.1.4 of UN Regulation No 39.(b)Where the technical service wants to verify that the speedometer is calibrated with sufficient accuracy, it may require the tests prescribed in paragraph 5.2 of UN Regulation No 39 to be conducted.Reverse gearThe gear mechanism shall include a reverse gear. |
-| 18A | Regulation (EU) No 19/2011(Statutory plates) | VIN(a)The vehicle shall be fitted with a VIN comprising a minimum of 8 and a maximum of 17 characters. VIN comprising 17 characters shall fulfil the requirements set out in international standards ISO 3779:1983 and 3780:1983.(b)VIN shall be located in a clearly visible and accessible position in such a way as it cannot be obliterated or deteriorate.(c)Where no VIN is stamped in the chassis or in the body, a Member State may require the applicant that the VIN is retrofitted in application of its national law. In such a case, the competent authority of that Member State shall supervise the operation.Statutory plateThe vehicle shall be fitted with an identification plate affixed by the vehicle manufacturer.No additional plate shall be requested after the approval by the approval authority has been granted. |
-| 19A | UN Regulation No 14(Seat belt anchorages) | The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 14;FMVSS No 210 (Seat belt assembly anchorages); orArticle 22-3 of JSRRV. |
-| 20A | UN Regulation No 48(Installation of lighting and light signalling devices) | (a)The lighting installation shall meet the requirements of UN Regulation No 48, series of amendments 03, with the exception of the requirements of Annexes 5 and 6 to that Regulation.(b)No exemption shall be permitted in respect of the number, the essential design characteristics, the electrical connections, and the colour of light emitted or retro-reflected of the lights and signalling devices referred to in items 21 to 26 and in items 28 to 30.(c)Lights and signalling devices that, for the purpose of fulfilling the requirements of point (a) must be retrofitted shall bear an ‘EU’ type-approval mark.(d)Lamps fitted with gas-discharged light source are only permitted in conjunction with the installation of headlamp cleaning device and an automatic headlamp-levelling device where appropriate.(e)Headlamp dipped-beams shall be adapted to the direction of traffic legally in force in the country where the vehicle is granted approval. |
+| 7A | UN Regulation No 28(Audible warning) | ComponentsThe audible warning devices are not required to be type-approved in accordance with UN Regulation No 28. However, they shall emit a continuous sound as required in paragraph 6.1.1 of UN Regulation No 28.Installation on vehicle(a) A test shall be conducted in accordance with paragraph 6.2 of UN Regulation No 28.(b) The maximum sound pressure level shall be in accordance with paragraph 6.2.7. |
+| 8A | UN Regulation No 46(Indirect vision devices) | Components(a) The vehicle shall be fitted with the rear-view mirrors prescribed in paragraph 15.2 of UN Regulation No 46.(b) They are not required to be type-approved in accordance with UN Regulation No 46.(c) The radii of curvature of the mirrors shall not cause significant image distortions. At the discretion of the technical service, the radii of curvature shall be checked in accordance with the method described in Annex 7 to UN Regulation No 46. The radii of curvature shall not be less than those required by paragraph 6.1.2.2.4 of UN Regulation No 46.Installation on vehicleMeasurement shall be conducted in order to ensure that the fields of vision comply with paragraph 15.2.4. of UN Regulation No 46. |
+| 9B | UN Regulation No 13-H(Braking) | General provisions(a) The braking system shall be built in accordance with paragraph 5 of UN Regulation No 13-H.(b) Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.(c) The performances of the braking system shall comply with Annex III to UN Regulation No 13-H.(d) For those purposes, road tests shall be conducted on a track the surface of which possesses high adhesion. The test on the parking brake shall be conducted on a 18 % gradient (up and down).Only those tests mentioned under the headings ‘Service brake’ and ‘Parking brake’ below shall be conducted. In each case, the vehicle shall be in fully laden conditions.(e) The road test referred to in point (d) shall not be conducted where the applicant can submit a statement from the manufacturer establishing that the vehicle complies either with UN Regulation No 13-H, including supplement 5, or with FMVSS No 135.Service brake(a) A ‘Type 0’ test as prescribed in paragraphs 1.4.2 and 1.4.3 of Annex 3 to UN Regulation No 13-H shall be conducted.(b) In addition, a ‘Type I’ test as prescribed in paragraph 1.5 of Annex 3 to UN Regulation No 13-H shall be conducted.Parking brakeA test shall be conducted in accordance with paragraph 2.3 of Annex 3 to UN Regulation No 13-H. |
+| 10A | UN Regulation No 10(Radio interference (electromagnetic compatibility)) | Components(a) Electrical/electronic sub-assemblies are not required to be type-approved in accordance with UN Regulation No 10.(b) However, electric/electronic devices retrofitted shall comply with UN Regulation No 10.Emitted electromagnetic radiationsThe applicant shall submit a statement from the manufacturer establishing that the vehicle complies with UN Regulation No 10 or with the following alternative standards:— Broadband electromagnetic radiation: CISPR 12 or SAE J551-2; or— Narrowband electromagnetic radiation: CISPR 12 (off-board) or 25 (in-board) or SAE J551-4 and SAE J1113-41.Immunity testsImmunity test shall be waived. |
+| 12A | UN Regulation No 21(Interior fittings) | Interior arrangement(a) With respect to the requirements on energy absorption, the vehicle shall be deemed to comply with UN Regulation No 21 if the vehicle is fitted with at least two front airbags, one inserted into the steering wheel and the other into the dashboard.(b) Where the vehicle is fitted with only one front air bag inserted in the steering wheel, the dashboard shall be made up of energy absorbing materials.(c) The technical service shall check that there are no sharp edges in the zones defined in paragraphs 5.1 to 5.7 of UN Regulation No 21.Electrical controls(a) Power-operated windows, roof-panel systems and partitioning systems shall be tested in accordance with paragraph 5.8 of UN Regulation No 21.The sensitivity of auto-reverse systems referred to in paragraph 5.8.3 may diverge from the requirements set out in paragraph 5.8.3.1.1 of UN Regulation No 21.(b) Electric windows which cannot be closed when the ignition is off shall be exempt from the requirements concerning auto-reverse systems. |
+| 13A | UN Regulation No 18(Anti-theft and immobiliser) | (a) In order to prevent unauthorised use, the vehicle shall be fitted with:— a locking device as defined in paragraph 2.3 of UN Regulation No 18; and— an immobiliser which meets the technical requirements of paragraph 5 of UN Regulation No 18;(b) If, in accordance with point (a), an immobiliser has to be retrofitted, it shall be of an approved type in accordance with UN Regulations No 18, No 97, or No 116. |
+| 14A | UN Regulation No 12(Protective steering) | (a) The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:— UN Regulation No 12;— FMVSS No 203 (Impact protection for the driver from the steering control system) including FMVSS No 204 (Steering control rearward displacement);— Article 11 of JSRRV.(b) A test in accordance with Annex 3 to UN Regulation No 12 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
+| 15A | UN Regulation No 17(Seat strength — head restraints) | Seats, seat anchorages and adjustment systemsThe applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:— UN Regulation No 17; or— FMVSS No 207 (Seating systems).Head restraints(a) Where the statement is based on FMVSS No 207, the head restraints shall fulfil, in addition, the requirements of paragraph 5 and Annex 4 to UN Regulation No 17.(b) Only the tests described in paragraphs 5.12, 6.5, 6.6 and 6.7 of UN Regulation No 17 shall be conducted.(c) In the other event, the applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with FMVSS No 202a (Head restraints). |
+| ▼M3 |  |  |
+| 16A | UN Regulation No 26 (Exterior projections) | (a) The external surface of the bodywork shall comply with the general requirements included in paragraph 5 of UN Regulation No 26.(b) At the discretion of the technical service the provisions referred to in paragraphs 6.1, 6.5, 6.6, 6.7, 6.8 and 6.11 of UN Regulation No 26 shall be checked. |
+| ▼B |  |  |
+| 17A, 17B | UN Regulation No 39(Speedometer — reverse gear) | Speedometer equipment(a) The dial shall comply with paragraphs 5.1 to 5.1.4 of UN Regulation No 39.(b) Where the technical service wants to verify that the speedometer is calibrated with sufficient accuracy, it may require the tests prescribed in paragraph 5.2 of UN Regulation No 39 to be conducted.Reverse gearThe gear mechanism shall include a reverse gear. |
+| 18A | Regulation (EU) No 19/2011(Statutory plates) | VIN(a) The vehicle shall be fitted with a VIN comprising a minimum of 8 and a maximum of 17 characters. VIN comprising 17 characters shall fulfil the requirements set out in international standards ISO 3779:1983 and 3780:1983.(b) VIN shall be located in a clearly visible and accessible position in such a way as it cannot be obliterated or deteriorate.(c) Where no VIN is stamped in the chassis or in the body, a Member State may require the applicant that the VIN is retrofitted in application of its national law. In such a case, the competent authority of that Member State shall supervise the operation.Statutory plateThe vehicle shall be fitted with an identification plate affixed by the vehicle manufacturer.No additional plate shall be requested after the approval by the approval authority has been granted. |
+| 19A | UN Regulation No 14(Seat belt anchorages) | The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:— UN Regulation No 14;— FMVSS No 210 (Seat belt assembly anchorages); or— Article 22-3 of JSRRV. |
+| 20A | UN Regulation No 48(Installation of lighting and light signalling devices) | (a) The lighting installation shall meet the requirements of UN Regulation No 48, series of amendments 03, with the exception of the requirements of Annexes 5 and 6 to that Regulation.(b) No exemption shall be permitted in respect of the number, the essential design characteristics, the electrical connections, and the colour of light emitted or retro-reflected of the lights and signalling devices referred to in items 21 to 26 and in items 28 to 30.(c) Lights and signalling devices that, for the purpose of fulfilling the requirements of point (a) must be retrofitted shall bear an ‘EU’ type-approval mark.(d) Lamps fitted with gas-discharged light source are only permitted in conjunction with the installation of headlamp cleaning device and an automatic headlamp-levelling device where appropriate.(e) Headlamp dipped-beams shall be adapted to the direction of traffic legally in force in the country where the vehicle is granted approval. |
 | 21A | UN Regulation No 3(Retro reflectors) | Where necessary, two additional retro reflectors bearing an ‘EU’ approval mark shall be added at the rear, the position of which shall comply with UN Regulation No 48. |
 | 22A | UN Regulations No 7, No 87 and No 91(End-outline, front position (side), rear-position (side), stop, side marker, daytime running lamps) | The requirements set out in the UN Regulations No 7, No 87 and No 91 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
 | 23A | UN Regulation No 6(Direction indicators) | The requirements set out in UN Regulation No 6 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
 | 24A | UN Regulation No 4(Rear registration plate lamps) | The requirements set out in UN Regulation No 4 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
-| 25C, 25E, 25F | UN Regulations No 98, No 112 and No 123(Headlamps (including bulbs)) | (a)The illumination produced by the passing beam of the headlamps fitted to the vehicle shall be checked under paragraph 6 of UN Regulation No 112 concerning headlamps emitting an asymmetrical passing beam. The tolerances included in Annex 5 to that Regulation may be referred to for that purpose.(b)The same requirement shall be fulfilled for the passing beam of headlamps covered by UN Regulation No 98 or No 123. |
+| 25C, 25E, 25F | UN Regulations No 98, No 112 and No 123(Headlamps (including bulbs)) | (a) The illumination produced by the passing beam of the headlamps fitted to the vehicle shall be checked under paragraph 6 of UN Regulation No 112 concerning headlamps emitting an asymmetrical passing beam. The tolerances included in Annex 5 to that Regulation may be referred to for that purpose.(b) The same requirement shall be fulfilled for the passing beam of headlamps covered by UN Regulation No 98 or No 123. |
 | 26A | UN Regulation No 19(Front fog lamps) | The requirements set out in UN Regulation No 19 shall not apply. However, the correct functioning of the lights if fitted shall be checked by the technical service. |
 | 27A | Regulation (EU) No 1005/2010(Towing hooks) | The requirements set out in Regulation (EU) No 1005/2010 shall not apply. |
 | 28A | UN Regulation No 38(Rear fog lamps) | The requirements set out in UN Regulation No 38 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
 | 29A | UN Regulation No 23(Reversing lamps) | The requirements set out in UN Regulation No 23 shall not apply. However, the correct functioning of the lights if fitted shall be checked by the technical service. |
 | 30A | UN Regulation No 77(Parking lamps) | The requirements set out in UN Regulation No 77 shall not apply. However, the correct functioning of the lights if fitted shall be checked by the technical service. |
-| 31A | UN Regulation No 16(Seat belts and restraint systems) | Components(a)Seat belts shall not be required to be type-approved in accordance with UN Regulation No 16.(b)However, each seat belt shall bear an identification label.(c)The indications on the label shall be consistent with the decision concerning seat belt anchorages (Re: entry 19).Installation requirements(a)The vehicle shall be fitted with seat belts in accordance with the requirements set out in Annex XVI to UN Regulation No 16.(b)Where a number of seat belts have to be retrofitted in accordance with point (a), they shall be of an approved type in accordance with UN Regulation No 16. |
-| 32A | UN Regulation No 125(Forward vision) | (a)No obstruction in the 180° forward field of vision of the driver as defined in paragraph 5.1.3 of UN Regulation No 125 shall be permitted.(b)By derogation from point (a), the ‘A pillars’ and the equipment listed in paragraph 5.1.3 of UN Regulation No 125 shall not be considered as obstruction.(c)The number of ‘A pillars’ shall not exceed 2. |
-| 33A | UN Regulation No 121(Identification of controls, tell-tales and indicators) | (a)The symbols including the colour of their corresponding tell-tales the presence of which is mandatory by virtue of UN Regulation No 121 shall comply with that UN Regulation.(b)Where this is not the case, the technical service shall verify that the symbols, tell-tales and indicators fitted to the vehicle provide the driver with comprehensible information about the operation of the controls in question. |
+| 31A | UN Regulation No 16(Seat belts and restraint systems) | Components(a) Seat belts shall not be required to be type-approved in accordance with UN Regulation No 16.(b) However, each seat belt shall bear an identification label.(c) The indications on the label shall be consistent with the decision concerning seat belt anchorages (Re: entry 19).Installation requirements(a) The vehicle shall be fitted with seat belts in accordance with the requirements set out in Annex XVI to UN Regulation No 16.(b) Where a number of seat belts have to be retrofitted in accordance with point (a), they shall be of an approved type in accordance with UN Regulation No 16. |
+| 32A | UN Regulation No 125(Forward vision) | (a) No obstruction in the 180° forward field of vision of the driver as defined in paragraph 5.1.3 of UN Regulation No 125 shall be permitted.(b) By derogation from point (a), the ‘A pillars’ and the equipment listed in paragraph 5.1.3 of UN Regulation No 125 shall not be considered as obstruction.(c) The number of ‘A pillars’ shall not exceed 2. |
+| 33A | UN Regulation No 121(Identification of controls, tell-tales and indicators) | (a) The symbols including the colour of their corresponding tell-tales the presence of which is mandatory by virtue of UN Regulation No 121 shall comply with that UN Regulation.(b) Where this is not the case, the technical service shall verify that the symbols, tell-tales and indicators fitted to the vehicle provide the driver with comprehensible information about the operation of the controls in question. |
 | 34A | Regulation (EU) No 672/2010(Defrost/Demist) | The vehicle shall be equipped with adequate windscreen defrosting and windscreen demisting devices.A windscreen defrosting device which complies as a minimum with point 1.1.1 of Annex II to Regulation (EU) No 672/2010 shall be deemed ‘adequate’.A windscreen demisting device which complies as a minimum with point 1.2.1 of Annex II to Regulation (EU) No 672/2010 shall be deemed ‘adequate’. |
 | 35A | Regulation (EU) No 1008/2010(Wash/Wipe) | The vehicle shall be equipped with adequate windscreen washing and windscreen wiping devices.A windscreen washing and wiping device that complies as a minimum with the conditions set out in point 1.1.5 of Annex III to Regulation (EU) No 1008/2010 shall be deemed ‘adequate’. |
-| 36A | UN Regulation No 122(Heating systems) | (a)The passenger compartment shall be fitted with a heating system.(b)Combustion heaters and their installation shall comply with Annex 7 to UN Regulation No 122. In addition, LPG combustion heaters and LPG heating systems shall fulfil the requirements set out in Annex 8 to UN Regulation No 122.(c)Additional heating systems which are retrofitted shall comply with the requirements set out in that UN Regulation No 122. |
-| 37A | Regulation (EU) No 1009/2010(Wheel guards) | (a)The vehicle shall be designed as to protect other road users against thrown-up stones, mud, ice, snow and water and to reduce the dangers due to contact with the moving wheels.(b)The technical service may check that the technical requirements set out in Annex II to Regulation (EU) No 1009/2010 are complied with.(c)Section 3 of Annex I to that Regulation shall not apply. |
+| 36A | UN Regulation No 122(Heating systems) | (a) The passenger compartment shall be fitted with a heating system.(b) Combustion heaters and their installation shall comply with Annex 7 to UN Regulation No 122. In addition, LPG combustion heaters and LPG heating systems shall fulfil the requirements set out in Annex 8 to UN Regulation No 122.(c) Additional heating systems which are retrofitted shall comply with the requirements set out in that UN Regulation No 122. |
+| 37A | Regulation (EU) No 1009/2010(Wheel guards) | (a) The vehicle shall be designed as to protect other road users against thrown-up stones, mud, ice, snow and water and to reduce the dangers due to contact with the moving wheels.(b) The technical service may check that the technical requirements set out in Annex II to Regulation (EU) No 1009/2010 are complied with.(c) Section 3 of Annex I to that Regulation shall not apply. |
 | 38A | UN Regulation No 25(Head restraints) | The requirements of UN Regulation No 25 shall not apply. |
-| 44A | Regulation (EU) No 1230/2012(Masses and dimensions) | (a)The requirements of point 1 of Part A of Annex I to Regulation (EU) No 1230/2012 shall be fulfilled.(b)For the purposes of point (a), the masses to be considered are the following:the mass in running order defined in point (4) of Article 2 of Regulation (EU) No 1230/2012 as measured by the technical service; andthe laden masses either stated by the vehicle manufacturer or shown on the manufacturer's plate including stickers or information available in the owner's manual. Those masses shall be deemed the technically permissible maximum laden masses.(c)No exemption shall be permitted in respect of the maximum permissible dimensions. |
-| 45A | UN Regulation No 43(Safety glazing) | Components(a)The glazing shall be made either of tempered or laminated safety glass.(b)Fitting of plastic glazing shall be permitted only on locations situated behind the ‘B’ pillar.(c)Glazing shall not be required to be approved under UN Regulation No 43.Installation(a)The installation requirements set out in Annex 21 to UN Regulation No 43 shall apply.(b)No tinted films that would reduce the regular light transmission under the required minimum shall be permitted on the windscreen and on the glazing located in front of the ‘B’ pillar. |
-| 46 | Directive 92/23/EEC(Tyres) | ComponentsTyres shall bear an ‘EC’ type-approval mark including the symbol ‘s’ (for sound).Installation(a)The dimensions, load-capacity index and speed category of the tyres shall fulfil the requirements of Annex IV to Directive 92/23/EEC.(b)The speed category symbol of the tyre shall be compatible with the maximum design speed of the vehicle.This requirement shall apply notwithstanding the presence of a speed limiter.(c)The maximum speed of the vehicle shall be stated by the vehicle manufacturer. However, the technical service may assess the maximum design speed of the vehicle by using the engine maximum power output, the maximum number of revolutions per minute and the data concerning the kinematic chain. |
-| 50A | UN Regulation No 55(Couplings) | Separate technical units(a)OEM couplings intended for towing a trailer whose maximum mass does not exceed 1500 kg shall not be required to be type-approved under UN Regulation No 55.A coupling is deemed OEM equipment where it is described in the owner's manual or an equivalent supporting document provided to the buyer by the vehicle manufacturer.Where such coupling is approved with the vehicle, an appropriate text shall be included in the approval certificate stating that the owner is responsible for ensuring compatibility with the coupling device fitted to the trailer.(b)Couplings other than those referred to in point (a), as well as couplings that are retrofitted, shall be type-approved in accordance with UN Regulation No 55.Installation on the vehicleThe technical service shall check that the installation of the coupling devices comply with paragraph 6 of UN Regulation No 55. |
-| 53A | UN Regulation No 94(Frontal impact) (^e) | (a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:UN Regulation No 94;FMVSS No 208 (Occupant crash protection);Article 18 of JSRRV.(b)A test in accordance with paragraph 5 of UN Regulation No 94 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
-| 54A | UN Regulation No 95(Side impact) | (a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified complies with at least one of the following:UN Regulation No 95;FMVSS No 214 (Side impact protection);Article 18 of JSRRV.(b)A test in accordance with section 5 of UN Regulation No 95 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
+| 44A | Regulation (EU) No 1230/2012(Masses and dimensions) | (a) The requirements of point 1 of Part A of Annex I to Regulation (EU) No 1230/2012 shall be fulfilled.(b) For the purposes of point (a), the masses to be considered are the following:— the mass in running order defined in point (4) of Article 2 of Regulation (EU) No 1230/2012 as measured by the technical service; and— the laden masses either stated by the vehicle manufacturer or shown on the manufacturer's plate including stickers or information available in the owner's manual. Those masses shall be deemed the technically permissible maximum laden masses.(c) No exemption shall be permitted in respect of the maximum permissible dimensions. |
+| 45A | UN Regulation No 43(Safety glazing) | Components(a) The glazing shall be made either of tempered or laminated safety glass.(b) Fitting of plastic glazing shall be permitted only on locations situated behind the ‘B’ pillar.(c) Glazing shall not be required to be approved under UN Regulation No 43.Installation(a) The installation requirements set out in Annex 21 to UN Regulation No 43 shall apply.(b) No tinted films that would reduce the regular light transmission under the required minimum shall be permitted on the windscreen and on the glazing located in front of the ‘B’ pillar. |
+| 46 | Directive 92/23/EEC(Tyres) | ComponentsTyres shall bear an ‘EC’ type-approval mark including the symbol ‘s’ (for sound).Installation(a) The dimensions, load-capacity index and speed category of the tyres shall fulfil the requirements of Annex IV to Directive 92/23/EEC.(b) The speed category symbol of the tyre shall be compatible with the maximum design speed of the vehicle.This requirement shall apply notwithstanding the presence of a speed limiter.(c) The maximum speed of the vehicle shall be stated by the vehicle manufacturer. However, the technical service may assess the maximum design speed of the vehicle by using the engine maximum power output, the maximum number of revolutions per minute and the data concerning the kinematic chain. |
+| 50A | UN Regulation No 55(Couplings) | Separate technical units(a) OEM couplings intended for towing a trailer whose maximum mass does not exceed 1 500 kg shall not be required to be type-approved under UN Regulation No 55.A coupling is deemed OEM equipment where it is described in the owner's manual or an equivalent supporting document provided to the buyer by the vehicle manufacturer.Where such coupling is approved with the vehicle, an appropriate text shall be included in the approval certificate stating that the owner is responsible for ensuring compatibility with the coupling device fitted to the trailer.(b) Couplings other than those referred to in point (a), as well as couplings that are retrofitted, shall be type-approved in accordance with UN Regulation No 55.Installation on the vehicleThe technical service shall check that the installation of the coupling devices comply with paragraph 6 of UN Regulation No 55. |
+| 53A | UN Regulation No 94(Frontal impact) (e) | (a) The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:— UN Regulation No 94;— FMVSS No 208 (Occupant crash protection);— Article 18 of JSRRV.(b) A test in accordance with paragraph 5 of UN Regulation No 94 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
+| 54A | UN Regulation No 95(Side impact) | (a) The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified complies with at least one of the following:— UN Regulation No 95;— FMVSS No 214 (Side impact protection);— Article 18 of JSRRV.(b) A test in accordance with section 5 of UN Regulation No 95 may be conducted on a production vehicle at the request of the applicant.The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
+| ▼M1 |  |  |
 | 58 | UN Regulation No 127Regulation (EU) 2019/2144(Pedestrian protection) | Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.The requirements of UN Regulation No 127 shall apply.Any frontal protection system shall either be an integral part of the vehicle and thus compliant with the requirements of UN Regulation No 127 or be type‐approved as separate technical unit. |
+| ▼B |  |  |
 | 59 | Directive 2005/64/EC(Recyclability) | The requirements of that Directive shall not apply. |
 | 61 | Directive 2006/40/EC(Air-conditioning system) | The requirements of that Directive shall apply. |
-| 62 | UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system) | The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; orSAE J2578 – General Fuel Cell Vehicle Safety |
+| ▼M1 |  |  |
+| 62 | UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system) | The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:— Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;— Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);— GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);— International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; or— SAE J2578 – General Fuel Cell Vehicle Safety |
+| ▼B |  |  |
 | 72 | Regulation (EU) 2015/758(eCall system) | The requirements of that Regulation shall not apply. |
+| (1)Council Directive 70/157/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the permissible sound level and the exhaust system of motor vehicles (OJ L 42, 23.2.1970, p. 16). |  |  |
 
-Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’original equipment provided by the manufacturer‘FMVSS’Federal Motor Vehicle Safety Standard of the U.S. Department of Transportation‘JSRRV’Japan Safety Regulations for Road Vehicles‘SAE’Society of Automotive Engineers‘CISPR’Comité international spécial des perturbations radioélectriques.2.Remarks:(a)the complete LPG or CNG installation shall be checked against the UN Regulations No 67, No 110 or No 115, as appropriate;(b)the formula to be used for the assessment of CO_2 emissions shall be as follows:Petrol engine and manual gearbox:CO_2 = 0,047 m + 0,561 p + 56,621Petrol engine and automatic gearboxCO_2 = 0,102 m + 0,328 p + 9,481Petrol engine and hybrid electric:CO_2 = 0,116 m – 57,147Diesel engine and manual gearbox:CO_2 = 0,108 m – 11,371Diesel engine and automatic gearbox:CO_2 = 0,116 m – 6,432Where: CO_2 is the combined mass of CO_2 emissions in g/km, ‘m’ is the mass of the vehicle in running order in kg and ‘p’ the maximum engine power output in kW.Combined mass of CO_2 shall be calculated with one decimal place, then rounded to the nearest whole number as follows:(i)if the figure following the decimal point is below 5, the total is rounded down;(ii)if the figure following the decimal point is equal to 5 or above 5, the total is rounded up;(c)the formula to be used for the assessment of fuel consumption shall be as follows:CFC = CO_2 × k ^– 1Where: CFC is the combined fuel consumption in l/100 km, CO_2 is the combined mass of CO_2 emissions in g/km after it has been rounded in accordance with the rule referred to in Remark (2 b), ‘k’ a coefficient equal to:23,81 in the case of a petrol engine;26,49 in the case of a diesel engine.Combined fuel consumption shall be calculated with two decimal places, then rounded as follows:(i)if the figure following the first decimal is below 5, the total is rounded down;(ii)if the figure following the first decimal is equal to 5 or above 5, the total is rounded up.
-
-**Part II Vehicles belonging to category N1**
+Part II Vehicles belonging to category N1
 
 | Item | Regulatory act reference | Alternative requirements |
 | --- | --- | --- |
-| 2A | Regulation (EC) No 715/2007(Emissions (Euro 5 and Euro 6) light duty vehicles / access to information) | Tailpipe emissions(a)A type 1 test shall be conducted in accordance with Annex III to Regulation (EC) No 692/2008 using the deterioration factors set out in point 1.4 of Annex VII to that Regulation. The emission limits to be applied shall be those specified in Table 1 and Table 2 of Annex I to Regulation (EC) No 715/2007.(b)The vehicle shall not be required to exhibit 3000 km as mentioned in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EC) No 692/2008.(d)The dynamometer shall be set up in accordance with the technical requirements of paragraph 3.2 of Annex 4 to UN Regulation No 83.(e)The test referred to in point (a) shall not be conducted where it can be shown that the vehicle complies with the California Code Regulations referred to in point 2 of Annex I to Regulation (EC) No 692/2008.Evaporative emissionsFor petrol-fuelled engines, the presence of an evaporate emissions control system (e.g. a charcoal canister) shall be required.Crankcase emissionsThe presence of a device for recycling crankcase gases shall be required.OBDThe vehicle shall be fitted with an OBD system.OBD-interface must be able to communicate with common diagnostic tools used for periodic technical inspections.Smoke opacity(a)Vehicles equipped with a diesel-fuelled engine shall be tested in accordance with the tests methods referred to in Appendix 2 to Annex IV to Regulation (EC) No 692/2008.(b)The corrected value of the absorption coefficient shall be affixed, conspicuously and in a readily accessible place.CO_2 emissions and fuel consumption(a)A test shall be conducted in accordance with Annex XII to Regulation (EC) No 692/2008.(b)The vehicle shall not be required to exhibit 3000 km as requested in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c)Where the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Commission Regulation (EC) No 692/2008 and therefore no test of tailpipe emissions is required to be performed, Member States shall calculate CO_2 emissions and fuel consumption with the formula laid down in the explanatory notes (^b) and (^c).Access to informationThe provisions regarding access to information shall not apply.Power measurement(a)The applicant shall submit a statement from the manufacturer stating the maximum engine power output in kW as well as the corresponding regime in revolutions per minute.(b)An engine power output curve providing the same information may alternatively be provided by the applicant. |
-| 3A | UN Regulation No 34(Fuel tanks — Rear protective devices) | Fuel tanks(a)Fuel tanks shall comply with paragraph 5 of UN Regulation No 34 with the exception of paragraphs 5.1, 5.2 and 5.12. In particular, they shall comply with paragraph 5.9 and 5.9.1 but no dripping test shall be conducted.(b)LPG or CNG tanks shall be type-approved in accordance with, respectively UN Regulations No 67, series of amendments 01, or UN Regulation No 110 (^a).Specific provisions for fuel tanks made of a plastic materialThe applicant shall submit a statement from the manufacturer establishing that the fuel tank on the particular vehicle, of which the VIN has to be specified, complies either with at least one of the following:FMVSS No 301 (Fuel system integrity);Annex 5 to UN Regulation No 34.Rear protective device(a)The rear part of the vehicle shall be constructed in accordance with paragraphs 8 and 9 of UN Regulation No 34. |
+| 2A | Regulation (EC) No 715/2007(Emissions (Euro 5 and Euro 6) light duty vehicles / access to information) | Tailpipe emissions(a) A type 1 test shall be conducted in accordance with Annex III to Regulation (EC) No 692/2008 using the deterioration factors set out in point 1.4 of Annex VII to that Regulation. The emission limits to be applied shall be those specified in Table 1 and Table 2 of Annex I to Regulation (EC) No 715/2007.(b) The vehicle shall not be required to exhibit 3 000 km as mentioned in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c) The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EC) No 692/2008.(d) The dynamometer shall be set up in accordance with the technical requirements of paragraph 3.2 of Annex 4 to UN Regulation No 83.(e) The test referred to in point (a) shall not be conducted where it can be shown that the vehicle complies with the California Code Regulations referred to in point 2 of Annex I to Regulation (EC) No 692/2008.Evaporative emissionsFor petrol-fuelled engines, the presence of an evaporate emissions control system (e.g. a charcoal canister) shall be required.Crankcase emissionsThe presence of a device for recycling crankcase gases shall be required.OBDThe vehicle shall be fitted with an OBD system.OBD-interface must be able to communicate with common diagnostic tools used for periodic technical inspections.Smoke opacity(a) Vehicles equipped with a diesel-fuelled engine shall be tested in accordance with the tests methods referred to in Appendix 2 to Annex IV to Regulation (EC) No 692/2008.(b) The corrected value of the absorption coefficient shall be affixed, conspicuously and in a readily accessible place.CO2 emissions and fuel consumption(a) A test shall be conducted in accordance with Annex XII to Regulation (EC) No 692/2008.(b) The vehicle shall not be required to exhibit 3 000 km as requested in paragraph 3.1.1 of Annex 4 to UN Regulation No 83.(c) Where the vehicle complies with the California Code Regulations referred to in point 2.1.1 of Annex I to Commission Regulation (EC) No 692/2008 and therefore no test of tailpipe emissions is required to be performed, Member States shall calculate CO2 emissions and fuel consumption with the formula laid down in the explanatory notes (b) and (c).Access to informationThe provisions regarding access to information shall not apply.Power measurement(a) The applicant shall submit a statement from the manufacturer stating the maximum engine power output in kW as well as the corresponding regime in revolutions per minute.(b) An engine power output curve providing the same information may alternatively be provided by the applicant. |
+| 3A | UN Regulation No 34(Fuel tanks — Rear protective devices) | Fuel tanks(a) Fuel tanks shall comply with paragraph 5 of UN Regulation No 34 with the exception of paragraphs 5.1, 5.2 and 5.12. In particular, they shall comply with paragraph 5.9 and 5.9.1 but no dripping test shall be conducted.(b) LPG or CNG tanks shall be type-approved in accordance with, respectively UN Regulations No 67, series of amendments 01, or UN Regulation No 110 (a).Specific provisions for fuel tanks made of a plastic materialThe applicant shall submit a statement from the manufacturer establishing that the fuel tank on the particular vehicle, of which the VIN has to be specified, complies either with at least one of the following:— FMVSS No 301 (Fuel system integrity);— Annex 5 to UN Regulation No 34.Rear protective device(a) The rear part of the vehicle shall be constructed in accordance with paragraphs 8 and 9 of UN Regulation No 34. |
 | 4A | Regulation (EU) No 1003/2010(Rear registration plate space) | Space, inclination, angles for visibility and position of the registration plate shall comply with Regulation (EU) No 1003/2010. |
-| 5A | UN Regulation No 79(Steering effort) | Mechanical systems(a)The steering mechanism shall be built as to self-centre. In order to check compliance with this provision, a test shall be conducted in accordance with paragraphs 6.1.2 and 6.2.1 of UN Regulation No 79.(b)The failure of the power steering equipment shall not lead to a complete loss of control of the vehicle.Complex electronic vehicle control system (‘Drive-by wire’ devices)Complex electronic control system shall be permitted only if they comply with Annex 6 to UN Regulation No 79. |
+| 5A | UN Regulation No 79(Steering effort) | Mechanical systems(a) The steering mechanism shall be built as to self-centre. In order to check compliance with this provision, a test shall be conducted in accordance with paragraphs 6.1.2 and 6.2.1 of UN Regulation No 79.(b) The failure of the power steering equipment shall not lead to a complete loss of control of the vehicle.Complex electronic vehicle control system (‘Drive-by wire’ devices)Complex electronic control system shall be permitted only if they comply with Annex 6 to UN Regulation No 79. |
 | 6A | UN Regulation No 11(Door latches and hinges) | Compliance with paragraph 6.1.5.4 of UN Regulation No 11 |
-| 7A | UN Regulation No 28(Audible warning) | ComponentsThe audible warning devices are not required to be type-approved in accordance with UN Regulation No 28. However, they shall emit a continuous sound as required in paragraph 6.1.1 of UN Regulation No 28.Installation on vehicle(a)A test shall be conducted in accordance with paragraph 6.2 of UN Regulation No 28.(b)The maximum sound pressure level shall be in accordance with paragraph 6.2.7. |
-| 8A | UN Regulation No 46(Indirect vision devices) | Components(a)The vehicle shall be fitted with the rear-view mirrors prescribed in paragraph 15.2 of UN Regulation No 46.(b)They are not required to be type-approved in accordance with UN Regulation No 46.(c)The radii of curvature of the mirrors shall not cause significant image distortions. At the discretion of the technical service, the radii of curvature shall be checked in accordance with the method described in Appendix 1 to Annex 7 to UN Regulation No 46. The radii of curvature shall not be less than those required by paragraph 6.1.2.2.4 of UN Regulation No 46.Installation on vehicleMeasurement shall be conducted in order to ensure that the fields of vision comply with paragraph 15.2.4 of UN Regulation No 46. |
-| 9B | UN Regulation No 13-H(Braking) | General provisions(a)The braking system shall be built in accordance with paragraph 5 of UN Regulation No 13-H.(b)Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.(c)The performances of the braking system shall comply with Annex III to UN Regulation No 13-H.(d)For these purposes, road tests shall be conducted on a track the surface of which possesses high adhesion. The test on the parking brake shall be conducted on a 18 % gradient (up and down).Only those tests mentioned under the headings ‘Service brake’ and ‘Parking brake’ below shall be conducted. In each case, the vehicle shall be in fully laden conditions.(e)The road test referred to in point (c) shall not be conducted where the applicant can submit a statement from the manufacturer establishing that the vehicle complies either with UN Regulation No 13-H including supplement 5 or with FMVSS No 135.Service brake(a)A ‘Type 0’ test as prescribed in paragraphs 1.4.2 and 1.4.3 of Annex 3 to UN Regulation No 13-H shall be conducted.(b)In addition, a ‘Type I’ test as prescribed in paragraph 1.5 of Annex 3 to UN Regulation No 13-H shall be conducted.Parking brakeA test shall be conducted in accordance with paragraph 2.3 of Annex 3 to UN Regulation No 13-H. |
-| 10A | UN Regulation No 10(Radio interference (electromagnetic compatibility)) | Components(a)Electrical/electronic sub-assemblies are not required to be type-approved in accordance with UN Regulation No 10.(b)However, electric/electronic devices retrofitted shall comply with UN Regulation No 10.Emitted electromagnetic radiationsThe applicant shall submit a statement from the manufacturer establishing that the vehicle complies with UN Regulation No 10 or with the following alternative standards:Broadband electromagnetic radiation: CISPR 12 or SAE J551-2;Narrowband electromagnetic radiation: CISPR 12 (off-board) or 25 (in-board) or SAE J551-4 and SAE J1113-41.Immunity testsImmunity test shall be waived. |
-| 13B | UN Regulation No 116(Anti-theft and immobiliser) | (a)In order to prevent unauthorised use, the vehicle shall be fitted with a locking device as defined in paragraph 5.1.2 of UN Regulation No 116.(b)If an immobiliser is fitted, it shall comply with the technical requirements of paragraph 8.1.1 of UN Regulation No 116. |
-| 14A | UN Regulation No 12(Protective steering) | (a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:UN Regulation No 12;FMVSS No 203 (Impact protection for the driver from the steering control system) including FMVSS No 204 (Steering control rearward displacement);Article 11 of JSRRV.(b)A test in accordance with Annex 3 to UN Regulation No 12 may be conducted on a production vehicle at the request of the applicant. The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
-| 15A | UN Regulation No 17(Seats strength — head restraints) | Seats, seat anchorages and adjustment systemsSeats and their adjustable systems shall comply with paragraph 5.3 of UN Regulation No 17.Head restraints(a)Head restraints shall fulfil the requirements of section 5 of UN Regulation No 17 and Annex 4 to UN Regulation No 17.(b)Only the tests described in paragraphs 5.12, 6.5, 6.6 and 6.7 of UN Regulation No 17 shall be conducted. |
-| 17A | UN Regulation No 39(Speedometer — reverse gear) | Speedometer equipment(a)The dial shall comply with paragraphs 5.1 to 5.1.4 of UN Regulation No 39.(b)When the technical service has reasonable grounds to believe that the speedometer is not calibrated with a sufficient accuracy, it may require that the tests prescribed in paragraph 5.2 of UN Regulation No 39 be conducted.Reverse gearThe gear mechanism shall include a reverse gear. |
-| 18A | Regulation (EU) No 19/2011(Statutory plates) | VIN(a)The vehicle shall be fitted with a VIN comprising a minimum of 8 and a maximum of 17 characters. VIN comprising 17 characters shall fulfil the requirements set out in international standards ISO 3779:1983 and 3780:1983.(b)The VIN shall be located in a clearly visible and accessible position in such a way as it cannot be obliterated or deteriorate.(c)Where no VIN is stamped in the chassis or in the body, a Member State may require that it is retrofitted in application of its national law. In such a case, the competent authority of that Member State shall supervise the operation.Statutory plateThe vehicle shall be fitted with an identification plate affixed by the vehicle manufacturer.No additional plate shall be requested after the approval has been granted. |
-| 19A | UN Regulation No 14(Seat belt anchorages) | The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:UN Regulation No 14;FMVSS No 210 (Seat belt assembly anchorages);Article 22-3 of JSRRV. |
-| 20A | UN Regulation No 48(Installation of lighting and light signalling devices) | (a)The lighting installation shall meet the essential requirements of UN Regulation No 48 series of amendments 03 with the exception of those of Annexes 5 and 6 to UN Regulation No 48.(b)No exemption shall be permitted in respect of the number, the essential design characteristics, the electrical connections, and the colour of light emitted or retro-reflected of the lights and signalling devices referred to in items 21 to 26 and in items 28 to 30.(c)Lights and signalling devices that, for the purpose of fulfilling with the requirements of point (a) must be retrofitted shall bear an ‘EU’ type-approval mark.(d)Lamps fitted with gas-discharged light source are only permitted in conjunction with the installation of headlamp cleaning device and an automatic headlamp-levelling device where appropriate.(e)Headlamp dipped-beams shall be adapted to the direction of traffic legally in force in the country where the vehicle is granted approval. |
+| 7A | UN Regulation No 28(Audible warning) | ComponentsThe audible warning devices are not required to be type-approved in accordance with UN Regulation No 28. However, they shall emit a continuous sound as required in paragraph 6.1.1 of UN Regulation No 28.Installation on vehicle(a) A test shall be conducted in accordance with paragraph 6.2 of UN Regulation No 28.(b) The maximum sound pressure level shall be in accordance with paragraph 6.2.7. |
+| 8A | UN Regulation No 46(Indirect vision devices) | Components(a) The vehicle shall be fitted with the rear-view mirrors prescribed in paragraph 15.2 of UN Regulation No 46.(b) They are not required to be type-approved in accordance with UN Regulation No 46.(c) The radii of curvature of the mirrors shall not cause significant image distortions. At the discretion of the technical service, the radii of curvature shall be checked in accordance with the method described in Appendix 1 to Annex 7 to UN Regulation No 46. The radii of curvature shall not be less than those required by paragraph 6.1.2.2.4 of UN Regulation No 46.Installation on vehicleMeasurement shall be conducted in order to ensure that the fields of vision comply with paragraph 15.2.4 of UN Regulation No 46. |
+| 9B | UN Regulation No 13-H(Braking) | General provisions(a) The braking system shall be built in accordance with paragraph 5 of UN Regulation No 13-H.(b) Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.(c) The performances of the braking system shall comply with Annex III to UN Regulation No 13-H.(d) For these purposes, road tests shall be conducted on a track the surface of which possesses high adhesion. The test on the parking brake shall be conducted on a 18 % gradient (up and down).Only those tests mentioned under the headings ‘Service brake’ and ‘Parking brake’ below shall be conducted. In each case, the vehicle shall be in fully laden conditions.(e) The road test referred to in point (c) shall not be conducted where the applicant can submit a statement from the manufacturer establishing that the vehicle complies either with UN Regulation No 13-H including supplement 5 or with FMVSS No 135.Service brake(a) A ‘Type 0’ test as prescribed in paragraphs 1.4.2 and 1.4.3 of Annex 3 to UN Regulation No 13-H shall be conducted.(b) In addition, a ‘Type I’ test as prescribed in paragraph 1.5 of Annex 3 to UN Regulation No 13-H shall be conducted.Parking brakeA test shall be conducted in accordance with paragraph 2.3 of Annex 3 to UN Regulation No 13-H. |
+| 10A | UN Regulation No 10(Radio interference (electromagnetic compatibility)) | Components(a) Electrical/electronic sub-assemblies are not required to be type-approved in accordance with UN Regulation No 10.(b) However, electric/electronic devices retrofitted shall comply with UN Regulation No 10.Emitted electromagnetic radiationsThe applicant shall submit a statement from the manufacturer establishing that the vehicle complies with UN Regulation No 10 or with the following alternative standards:— Broadband electromagnetic radiation: CISPR 12 or SAE J551-2;— Narrowband electromagnetic radiation: CISPR 12 (off-board) or 25 (in-board) or SAE J551-4 and SAE J1113-41.Immunity testsImmunity test shall be waived. |
+| 13B | UN Regulation No 116(Anti-theft and immobiliser) | (a) In order to prevent unauthorised use, the vehicle shall be fitted with a locking device as defined in paragraph 5.1.2 of UN Regulation No 116.(b) If an immobiliser is fitted, it shall comply with the technical requirements of paragraph 8.1.1 of UN Regulation No 116. |
+| 14A | UN Regulation No 12(Protective steering) | (a) The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, the VIN of which has to be specified, complies with at least one of the following:— UN Regulation No 12;— FMVSS No 203 (Impact protection for the driver from the steering control system) including FMVSS No 204 (Steering control rearward displacement);— Article 11 of JSRRV.(b) A test in accordance with Annex 3 to UN Regulation No 12 may be conducted on a production vehicle at the request of the applicant. The test shall be conducted by a technical service that has been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
+| 15A | UN Regulation No 17(Seats strength — head restraints) | Seats, seat anchorages and adjustment systemsSeats and their adjustable systems shall comply with paragraph 5.3 of UN Regulation No 17.Head restraints(a) Head restraints shall fulfil the requirements of section 5 of UN Regulation No 17 and Annex 4 to UN Regulation No 17.(b) Only the tests described in paragraphs 5.12, 6.5, 6.6 and 6.7 of UN Regulation No 17 shall be conducted. |
+| 17A | UN Regulation No 39(Speedometer — reverse gear) | Speedometer equipment(a) The dial shall comply with paragraphs 5.1 to 5.1.4 of UN Regulation No 39.(b) When the technical service has reasonable grounds to believe that the speedometer is not calibrated with a sufficient accuracy, it may require that the tests prescribed in paragraph 5.2 of UN Regulation No 39 be conducted.Reverse gearThe gear mechanism shall include a reverse gear. |
+| 18A | Regulation (EU) No 19/2011(Statutory plates) | VIN(a) The vehicle shall be fitted with a VIN comprising a minimum of 8 and a maximum of 17 characters. VIN comprising 17 characters shall fulfil the requirements set out in international standards ISO 3779:1983 and 3780:1983.(b) The VIN shall be located in a clearly visible and accessible position in such a way as it cannot be obliterated or deteriorate.(c) Where no VIN is stamped in the chassis or in the body, a Member State may require that it is retrofitted in application of its national law. In such a case, the competent authority of that Member State shall supervise the operation.Statutory plateThe vehicle shall be fitted with an identification plate affixed by the vehicle manufacturer.No additional plate shall be requested after the approval has been granted. |
+| 19A | UN Regulation No 14(Seat belt anchorages) | The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:— UN Regulation No 14;— FMVSS No 210 (Seat belt assembly anchorages);— Article 22-3 of JSRRV. |
+| 20A | UN Regulation No 48(Installation of lighting and light signalling devices) | (a) The lighting installation shall meet the essential requirements of UN Regulation No 48 series of amendments 03 with the exception of those of Annexes 5 and 6 to UN Regulation No 48.(b) No exemption shall be permitted in respect of the number, the essential design characteristics, the electrical connections, and the colour of light emitted or retro-reflected of the lights and signalling devices referred to in items 21 to 26 and in items 28 to 30.(c) Lights and signalling devices that, for the purpose of fulfilling with the requirements of point (a) must be retrofitted shall bear an ‘EU’ type-approval mark.(d) Lamps fitted with gas-discharged light source are only permitted in conjunction with the installation of headlamp cleaning device and an automatic headlamp-levelling device where appropriate.(e) Headlamp dipped-beams shall be adapted to the direction of traffic legally in force in the country where the vehicle is granted approval. |
 | 21A | UN Regulation No 3(Retro reflectors) | Where necessary, two additional retro reflectors bearing an ‘EC’ approval mark shall be added at the rear, the position of which shall comply with UN Regulation No 48. |
 | 22A | UN Regulations No 7, No 87 and No 91(End-outline, front position (side), rear-position (side), stop, side marker, daytime running lamps) | The requirements set out in UN Regulations No 7, No 87 and No 91 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
 | 23A | UN Regulation No 6(Direction indicators) | The requirements set out in UN Regulation No 6 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
 | 24A | UN Regulation No 4(Rear registration plate lamps) | The requirements set out in UN Regulation No 4 shall not apply. However, the correct functioning of the lights shall be checked by the technical service. |
-| 25C, 25E, 25F | UN Regulations No 98, No 112 and No 123(Headlamps (including bulbs)) | (a)The illumination produced by the passing beam of the headlamps fitted to the vehicle shall be checked under the provisions of paragraph 6 of UN Regulation No 112 concerning headlamps emitting an asymmetrical passing beam. The tolerances included in Annex 5 to that Regulation may be referred to for that purpose.(b)The same requirement shall apply to the passing beam of headlamps covered by UN Regulation No 98 or No 123. |
+| 25C, 25E, 25F | UN Regulations No 98, No 112 and No 123(Headlamps (including bulbs)) | (a) The illumination produced by the passing beam of the headlamps fitted to the vehicle shall be checked under the provisions of paragraph 6 of UN Regulation No 112 concerning headlamps emitting an asymmetrical passing beam. The tolerances included in Annex 5 to that Regulation may be referred to for that purpose.(b) The same requirement shall apply to the passing beam of headlamps covered by UN Regulation No 98 or No 123. |
 | 26A | UN Regulation No 19(Front fog lamps) | The provisions of UN Regulation No 19 shall be waived. However, the correct functioning of the lights if fitted shall be checked by the technical service. |
 | 27A | Regulation (EU) No 1005/2010(Towing hooks) | The requirements of Regulation (EU) No 1005/2010 shall be waived. |
 | 28A | UN Regulation No 38(Rear fog lamps) | The provisions of UN Regulation No 38 shall be waived. However, the correct functioning of the lights shall be checked by the technical service. |
 | 29A | UN Regulation No 23(Reversing lamps) | The provisions of UN Regulation No 23 shall be waived. However, the correct functioning of the lights if fitted shall be checked by the technical service. |
 | 30A | UN Regulation No 77(Parking lamps) | The provisions of UN Regulation No 77 shall be waived. However, the correct functioning of the lights if fitted shall be checked by the technical service. |
-| 31A | UN Regulation No 16(Seat belts and restraint systems) | Components(a)Seat belts shall not be required to be type-approved in accordance with UN Regulation No 16.(b)However, each seat belt shall bear an identification label.(c)The indications on the label shall be consistent with the decision concerning seat belt anchorages (Re: entry 19).Installation requirements(a)The vehicle shall be fitted with seat belts in accordance with the requirements set out in Annex XVI to UN Regulation No 16.(b)Where a number of seat belts have to be retrofitted in accordance with point (a), they shall be of an approved type in accordance with UN Regulation No 16. |
-| 33A | UN Regulation No 121(Identification of controls, tell-tales and indicators) | (a)The symbols including the colour of their corresponding tell-tales the presence of which is mandatory by virtue of UN Regulation No 121 shall comply with that UN Regulation.(b)Where this is not the case, the technical service shall verify that the symbols, tell-tales and indicators fitted to the vehicle provide the driver with comprehensible information about the operation of the controls in question. |
+| 31A | UN Regulation No 16(Seat belts and restraint systems) | Components(a) Seat belts shall not be required to be type-approved in accordance with UN Regulation No 16.(b) However, each seat belt shall bear an identification label.(c) The indications on the label shall be consistent with the decision concerning seat belt anchorages (Re: entry 19).Installation requirements(a) The vehicle shall be fitted with seat belts in accordance with the requirements set out in Annex XVI to UN Regulation No 16.(b) Where a number of seat belts have to be retrofitted in accordance with point (a), they shall be of an approved type in accordance with UN Regulation No 16. |
+| 33A | UN Regulation No 121(Identification of controls, tell-tales and indicators) | (a) The symbols including the colour of their corresponding tell-tales the presence of which is mandatory by virtue of UN Regulation No 121 shall comply with that UN Regulation.(b) Where this is not the case, the technical service shall verify that the symbols, tell-tales and indicators fitted to the vehicle provide the driver with comprehensible information about the operation of the controls in question. |
 | 34A | Regulation (EU) No 672/2010(Defrost/Demist) | The vehicle shall be equipped with adequate windscreen defrosting and windscreen demisting devices. |
 | 35A | Regulation (EU) No 1008/2010(Wash/Wipe) | The vehicle shall be equipped with adequate windscreen washing and windscreen wiping devices. |
-| 36A | UN Regulation No 122(Heating systems) | (a)The passenger compartment shall be fitted with a heating system.(b)Combustion heaters and their installation shall comply with Annex 7 to UN Regulation No 122. In addition, LPG combustion heaters and LPG heating systems shall fulfil the requirements set out in Annex 8 to UN Regulation No 122.(c)Additional heating systems that are retrofitted shall comply with the requirements set out in UN Regulation No 122. |
-| 41A | Regulation (EC) No 595/2009(Emissions (Euro VI) heavy-duty vehicles – OBD) | Tailpipe emissions(a)A test shall be conducted in accordance with Annex III to Commission Regulation (EU) No 582/2011˛ using the deterioration factors set out in point 3.6.1 of Annex VI to Regulation (EU) No 582/2011.(b)The limits to be applied shall be those set out in the table of Annex I to Regulation (EC) No 595/2009.(c)The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EU) No 582/2011.CO_2 emissionsThe CO_2 emissions and fuel consumption shall be determined in accordance with Annex VIII to Regulation (EU) No 582/2011.OBD(a)The vehicle shall be fitted with an OBD system.(b)The OBD-interface must be able to communicate with an external OBD scan-tool as described in Annex X to Regulation (EU) No 582/2011.Requirements to ensure the correct operation of NO_x control measuresThe vehicle shall be fitted with a system ensuring the correct operation of NO_x control measures in accordance with Annex XIII to Regulation (EU) No 582/2011.Power measurement(a)The applicant shall submit a statement from the manufacturer stating the maximum engine power output in Kw as well as the corresponding regime.(b)An engine power output curve providing the same information may alternatively be provided by the applicant. |
-| 45A | UN Regulation No 43 | Components(a)The glazing shall be made either of tempered or laminated safety glass.(b)Fitting of plastic glazing shall be permitted only on locations situated behind the ‘B’ pillar.(c)Glazing shall not be required to be approved under UN Regulation No 43.Installation(a)The installation requirements set out in Annex 21 to UN Regulation No 43 shall apply.(b)No tinted films that reduce the regular light transmission under the required minimum shall be permitted on the windscreen and on the glazing located in front of the ‘B’ pillar. |
-| 46A | Commission Regulation (EU) 458/2011(Installation of tyres) | Installation(a)The dimensions, load-capacity index and speed category of the tyres shall fulfil the requirements of Commission Regulation (EU) 458/2011.(b)The speed category symbol of the tyre shall be compatible with the maximum design speed of the vehicle.(c)This requirement shall apply notwithstanding the presence of a speed limiter.(d)The maximum speed of the vehicle shall be stated by the vehicle manufacturer. However, the technical service may assess the maximum design speed of the vehicle by using the engine maximum power output, the maximum number of revolutions per minute and the data concerning the kinematic chain. |
-| 46B | UN Regulation No 30(C_1 tyres) | ComponentsTyres shall bear a type-approval mark. |
+| 36A | UN Regulation No 122(Heating systems) | (a) The passenger compartment shall be fitted with a heating system.(b) Combustion heaters and their installation shall comply with Annex 7 to UN Regulation No 122. In addition, LPG combustion heaters and LPG heating systems shall fulfil the requirements set out in Annex 8 to UN Regulation No 122.(c) Additional heating systems that are retrofitted shall comply with the requirements set out in UN Regulation No 122. |
+| 41A | Regulation (EC) No 595/2009(Emissions (Euro VI) heavy-duty vehicles – OBD) | Tailpipe emissions(a) A test shall be conducted in accordance with Annex III to Commission Regulation (EU) No 582/2011˛ (1) using the deterioration factors set out in point 3.6.1 of Annex VI to Regulation (EU) No 582/2011.(b) The limits to be applied shall be those set out in the table of Annex I to Regulation (EC) No 595/2009.(c) The fuel to be used for the test shall be the reference fuel as prescribed in Annex IX to Regulation (EU) No 582/2011.CO2 emissionsThe CO2 emissions and fuel consumption shall be determined in accordance with Annex VIII to Regulation (EU) No 582/2011.OBD(a) The vehicle shall be fitted with an OBD system.(b) The OBD-interface must be able to communicate with an external OBD scan-tool as described in Annex X to Regulation (EU) No 582/2011.Requirements to ensure the correct operation of NOx control measuresThe vehicle shall be fitted with a system ensuring the correct operation of NOx control measures in accordance with Annex XIII to Regulation (EU) No 582/2011.Power measurement(a) The applicant shall submit a statement from the manufacturer stating the maximum engine power output in Kw as well as the corresponding regime.(b) An engine power output curve providing the same information may alternatively be provided by the applicant. |
+| 45A | UN Regulation No 43 | Components(a) The glazing shall be made either of tempered or laminated safety glass.(b) Fitting of plastic glazing shall be permitted only on locations situated behind the ‘B’ pillar.(c) Glazing shall not be required to be approved under UN Regulation No 43.Installation(a) The installation requirements set out in Annex 21 to UN Regulation No 43 shall apply.(b) No tinted films that reduce the regular light transmission under the required minimum shall be permitted on the windscreen and on the glazing located in front of the ‘B’ pillar. |
+| 46A | Commission Regulation (EU) 458/2011(Installation of tyres) | Installation(a) The dimensions, load-capacity index and speed category of the tyres shall fulfil the requirements of Commission Regulation (EU) 458/2011.(b) The speed category symbol of the tyre shall be compatible with the maximum design speed of the vehicle.(c) This requirement shall apply notwithstanding the presence of a speed limiter.(d) The maximum speed of the vehicle shall be stated by the vehicle manufacturer. However, the technical service may assess the maximum design speed of the vehicle by using the engine maximum power output, the maximum number of revolutions per minute and the data concerning the kinematic chain. |
+| 46B | UN Regulation No 30(C1 tyres) | ComponentsTyres shall bear a type-approval mark. |
 | 46D | UN Regulation No 117(Tyre rolling sound emissions, adhesion on wet surface and rolling resistance) | ComponentsTyres shall bear a type-approval mark. |
-| 46E | Regulation (EU) 2019/2144UN Regulation No 64(Temporary use spare unit, run-flat tyres, tyre rolling sound emissions, adhesion on wet surface and rolling resistance) | ComponentsTyres shall bear type-approval mark.The fitting of TPMS shall not be required. |
-| 48A | Regulation (EU) No 1230/2012(Masses and dimensions) | (a)The requirements of Annex I, Part A to Regulation (EU) No 1230/2012 shall be fulfilled.However, the requirements set out in point 5 of Part A of Annex I do not need to be fulfilled.(b)For the purposes of point (a) the masses to be considered are the following:the mass in running order as defined in point (4) of Article 2 of Regulation (EU) No 1230/2012 as measured by the technical service; andthe maximum laden masses either stated by the vehicle manufacturer or shown on the manufacturer's plate, including stickers or information available in the owner's manual. Those masses shall be regarded as the technically permissible maximum laden masses.(c)Technical changes made by the applicant in order to decrease the maximum technically permissible laden mass of the vehicle to 3,5 tonnes or less, so that the vehicle may be granted individual vehicle approval shall not be permitted.(d)No exemption shall be permitted in respect of the maximum permissible dimensions. |
-| 49A | UN Regulation No 61(External projections of cabs) | (a)The general requirements set out in section 5 of UN Regulation No 17 shall be fulfilled.(b)At the discretion of the technical service, the requirements set out in paragraphs 6.1, 6.5, 6.6, 6.7, 6.8 and 6.11 of UN Regulation No 17 shall be fulfilled. |
-| 50A | UN Regulation No 55(Couplings) | Separate technical units(a)OEM couplings intended for towing a trailer of which the maximum mass does not exceed 1500 kg shall not be required to be type-approved under UN Regulation No 55.(b)A coupling is deemed OEM equipment where it is described in the owner's manual or in an equivalent supporting document provided to the buyer by the vehicle manufacturer.(c)Where such coupling is approved with the vehicle, an appropriate text shall be included in the approval certificate stating that the owner is responsible for ensuring compatibility with the coupling device fitted to the trailer.(d)Couplings other than those referred to in point (a), as well as couplings that are retrofitted, shall be type-approved in accordance with UN Regulation No 55.Installation on the vehicleThe technical service shall check that the installation of the coupling devices comply with paragraph 6 to UN Regulation No 55. |
-| 54 | UN Regulation No 95(Side impact) | (a)The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:UN Regulation No 95;FMVSS No 214 (Side impact protection);Article 18 of JSRRV.(b)A test in accordance with section 5 of UN Regulation No 95 may be conducted on a production vehicle at the request of the applicant.(c)The test shall be conducted by a technical service that been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
+| 46E | ►M1 Regulation (EU) 2019/2144** ◄ **UN Regulation No 64(Temporary use spare unit, run-flat tyres, tyre rolling sound emissions, adhesion on wet surface and rolling resistance) | ComponentsTyres shall bear type-approval mark.The fitting of TPMS shall not be required. |
+| 48A | Regulation (EU) No 1230/2012(Masses and dimensions) | (a) The requirements of Annex I, Part A to Regulation (EU) No 1230/2012 shall be fulfilled.However, the requirements set out in point 5 of Part A of Annex I do not need to be fulfilled.(b) For the purposes of point (a) the masses to be considered are the following:— the mass in running order as defined in point (4) of Article 2 of Regulation (EU) No 1230/2012 as measured by the technical service; and— the maximum laden masses either stated by the vehicle manufacturer or shown on the manufacturer's plate, including stickers or information available in the owner's manual. Those masses shall be regarded as the technically permissible maximum laden masses.(c) Technical changes made by the applicant in order to decrease the maximum technically permissible laden mass of the vehicle to 3,5 tonnes or less, so that the vehicle may be granted individual vehicle approval shall not be permitted.(d) No exemption shall be permitted in respect of the maximum permissible dimensions. |
+| 49A | UN Regulation No 61(External projections of cabs) | (a) The general requirements set out in section 5 of UN Regulation No 17 shall be fulfilled.(b) At the discretion of the technical service, the requirements set out in paragraphs 6.1, 6.5, 6.6, 6.7, 6.8 and 6.11 of UN Regulation No 17 shall be fulfilled. |
+| 50A | UN Regulation No 55(Couplings) | Separate technical units(a) OEM couplings intended for towing a trailer of which the maximum mass does not exceed 1 500 kg shall not be required to be type-approved under UN Regulation No 55.(b) A coupling is deemed OEM equipment where it is described in the owner's manual or in an equivalent supporting document provided to the buyer by the vehicle manufacturer.(c) Where such coupling is approved with the vehicle, an appropriate text shall be included in the approval certificate stating that the owner is responsible for ensuring compatibility with the coupling device fitted to the trailer.(d) Couplings other than those referred to in point (a), as well as couplings that are retrofitted, shall be type-approved in accordance with UN Regulation No 55.Installation on the vehicleThe technical service shall check that the installation of the coupling devices comply with paragraph 6 to UN Regulation No 55. |
+| 54 | UN Regulation No 95(Side impact) | (a) The applicant shall submit a statement from the manufacturer establishing that the particular vehicle, of which the VIN has to be specified, complies with at least one of the following:— UN Regulation No 95;— FMVSS No 214 (Side impact protection);— Article 18 of JSRRV.(b) A test in accordance with section 5 of UN Regulation No 95 may be conducted on a production vehicle at the request of the applicant.(c) The test shall be conducted by a technical service that been designated for carrying out this test. A detailed report shall be issued by that technical service to the applicant. |
 | 56A | UN Regulation No 105(Vehicles intended for the transport of dangerous goods) | Vehicles intended for the transport of dangerous goods shall comply with UN Regulation No 105. |
+| ▼M1 |  |  |
 | 58 | UN Regulation No 127Regulation (EU) 2019/2144(Pedestrian protection) | Vehicles shall be fitted with an electronic antilock braking system acting on all wheels.The requirements of UN Regulation No 127 shall apply.Any frontal protection system shall either be an integral part of the vehicle and thus compliant with the requirements of UN Regulation No 127 or be type‐approved as separate technical unit |
+| ▼B |  |  |
 | 59 | Directive 2005/64/EC(Recyclability) | The requirements of that Directive shall not apply. |
 | 61 | Directive 2006/40/EC(Air-conditioning system) | The requirements of that Directive shall apply. |
-| 62 | UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system) | The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; orSAE J2578 – General Fuel Cell Vehicle Safety |
+| ▼M1 |  |  |
+| 62 | UN Regulation No 134Regulation (EU) 2019/2144(Hydrogen system) | The requirements of UN Regulation No 134 shall apply.Alternatively, it shall be demonstrated that the vehicle complies with:— Substantive requirements of Regulation (EC) No 79/2009 in its version applicable on 5 July 2022;— Attachment 100 – Technical Standard For Fuel Systems Of Motor Vehicle Fueled By Compressed Hydrogen Gas (Japan);— GB/T 24549-2009 Fuel cell electric vehicles – safety requirements (China);— International standard ISO 23273:2013 Part 1: Vehicle functional safety and Part 2: Protection against hydrogen hazards for vehicles fuelled with compressed hydrogen; or— SAE J2578 – General Fuel Cell Vehicle Safety |
+| ▼B |  |  |
 | 72 | Regulation (EU) 2015/758(eCall system) | The requirements of that Regulation shall not apply. |
+| (1)Commission Regulation (EU) No 582/2011 of 25 May 2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council (OJ L 167, 25.6.2011, p. 1). |  |  |
+
+Explanatory notes to Appendix 2
+
+1. Abbreviations used in this Appendix:
+
+‘OEM’ : original equipment provided by the manufacturer
+
+‘FMVSS’ : Federal Motor Vehicle Safety Standard of the U.S. Department of Transportation
+
+‘JSRRV’ : Japan Safety Regulations for Road Vehicles
+
+‘SAE’ : Society of Automotive Engineers
+
+‘CISPR’ : Comité international spécial des perturbations radioélectriques.
+
+2. Remarks:
+
+(a) the complete LPG or CNG installation shall be checked against the UN Regulations No 67, No 110 or No 115, as appropriate;
+
+(b) the formula to be used for the assessment of CO2 emissions shall be as follows: Petrol engine and manual gearbox: 2 Petrol engine and automatic gearbox 2 Petrol engine and hybrid electric: 2 Diesel engine and manual gearbox: 2 Diesel engine and automatic gearbox: 2 Where: CO2 is the combined mass of CO2 emissions in g/km, ‘m’ is the mass of the vehicle in running order in kg and ‘p’ the maximum engine power output in kW. Combined mass of CO2 shall be calculated with one decimal place, then rounded to the nearest whole number as follows: (i) if the figure following the decimal point is below 5, the total is rounded down; (ii) if the figure following the decimal point is equal to 5 or above 5, the total is rounded up;
+
+(c) the formula to be used for the assessment of fuel consumption shall be as follows: CFC = CO2 × k – 1 Where: CFC is the combined fuel consumption in l/100 km, CO2 is the combined mass of CO2 emissions in g/km after it has been rounded in accordance with the rule referred to in Remark (2 b), ‘k’ a coefficient equal to: 23,81 in the case of a petrol engine; 26,49 in the case of a diesel engine. Combined fuel consumption shall be calculated with two decimal places, then rounded as follows: (i) if the figure following the first decimal is below 5, the total is rounded down; (ii) if the figure following the first decimal is equal to 5 or above 5, the total is rounded up.
+
+PART II
+
+List of UN Regulations recognised as an alternative to the Directives or Regulations referred to in Part I
+
+Where reference is made to a separate Directive or Regulation in the table of Part I, a type-approval issued under the following UN regulations, or a Universal International Whole Vehicle Type Approval issued under UN Regulation No 0 (13) that includes type-approval of the relevant item under the following UN Regulations, to which the Union has acceded as a Contracting Party to the United Nations Economic Commission for Europe ‘Revised 1958 Agreement’ by virtue of Council Decision 97/836/EC (14), or subsequent Council decisions as referred to in Article 3(3) of that Decision, shall be considered equivalent to an EU type-approval granted under the relevant separate Directive or Regulation.
+
+Any further amendment to the UN Regulations listed in the following table (15) shall also be deemed to be equivalent to an EU type-approval, subject to the Decision referred to in Article 4(2) of Decision 97/836/EC.
+
+Installation requirements laid down in a Directive or Regulation in the table of Part I shall apply also to components and separate technical units approved in accordance with the UN Regulations listed in the following table.
+
+| Item | Subject | UN Regulation | Series of amendments |
+| --- | --- | --- | --- |
+| B14 | Acoustic vehicle alerting system | 138 | 01 |
+| G1 | Sound level | 51 59 | 0301 |
+| G13 | Recyclability (1) | 133 | 00 |
+| (1)The requirements set out in Annex I to Directive 2005/64/EC shall apply. |  |  |  |
+
+PART III
+
+**List of regulatory acts setting out the requirements for the purpose of EU type-approval of special purpose vehicles**
+
+EXPLANATORY NOTES
+
+to the tables in Appendices 1 to 6
+
+| X | : | Compliance with the regulatory act is required according to the vehicle category for which type-approval is sought. Any specific provisions noted in addition to this explanatory note shall be taken into account. |
+| --- | --- | --- |
+
+| G | : | In case of multi-stage approval, compliance with the regulatory act according to which the base vehicle (e.g. the chassis of which was used to build the special purpose vehicle) has been type-approved shall be accepted. In this case, any vehicle systems, their features, parts, equipment, components and separate technical units that have been modified or added by the manufacturer, may be assessed against the base vehicle’s requirements. Any specific provisions noted in addition to this explanatory note shall be taken into account. |
+| --- | --- | --- |
+
+| A | : | The approval authority may agree to fully or partly grant exemptions upon the condition that the manufacturer demonstrates to the satisfaction of the technical service that the vehicle cannot meet the full set of requirements due to its special purpose. The manufacturer shall however endeavour to meet the requirements to the largest possible extent taking into account proportionality. Those exemptions shall be described in Part 2 of the vehicle EU type-approval certificate as well as under ‘remarks’ in the Certificate of Conformity. Any specific provisions noted in addition to this explanatory note shall be taken into account. |
+| --- | --- | --- |
 
 <a id="appendix_1__3"></a>
 
 ### Appendix 1
 
-| Item | Subject | Regulatory act | M_1 ≤ 2 500 kg | M_1 > 2 500 kg | M_2 | M_3 |
+
+
+<a id="motor_caravans_ambulances_and_hearses"></a>
+
+### Motor-caravans, ambulances and hearses
+
+| Item | Subject | Regulatory act | M1 ≤ 2 500 kg | M1 > 2 500 kg | M2 | M3 |
 | --- | --- | --- | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |
-| A1 | Interior fittings | Regulation (EU) 2019/2144 | GApplication is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M_1. It does not apply to the patient compartment of ambulancesAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. | GApplication is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M_1. It does not apply to the patient compartment of ambulancesAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors orsubsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. | n/a for the passenger or patient compartmentAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. | n/a for the passenger or patient compartmentAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. |
-| A2 | Seats and head restraints | Regulation (EU) 2019/2144 | GApplication is limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.The energy dissipation and radii requirements are checked in accordance with paragraphs 5.2.3./5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M_1.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply. | GApplication is limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.The energy dissipation and radii requirements are checked in accordance with paragraphs 5.2.3./5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M_1.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. |
+| A1 | Interior fittings | Regulation (EU) 2019/2144 | GApplication is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M1. It does not apply to the patient compartment of ambulancesAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. | GApplication is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M1. It does not apply to the patient compartment of ambulancesAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors orsubsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. | n/a for the passenger or patient compartmentAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. | n/a for the passenger or patient compartmentAdditional requirements for new types of ambulances: The patient compartment of ambulances shall comply with the requirements of EN 1789:2020 on Medical vehicles and their equipment – Road ambulances with the exception of Section 6.5, list of equipment. Proof of compliance shall be provided with a test report of the technical service and may be based on an assessment carried out by subcontractors or subsidiaries of the technical service in accordance with the provisions of Article 71. If a wheelchair space is foreseen, the requirements for wheelchair accessible vehicles (code SH) relating to the wheelchair tie-down and occupant restraint systems shall also apply. |
+| A2 | Seats and head restraints | Regulation (EU) 2019/2144 | GApplication is limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.The energy dissipation and radii requirements are checked in accordance with paragraphs 5.2.3./5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M1.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply. | GApplication is limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text.The energy dissipation and radii requirements are checked in accordance with paragraphs 5.2.3./5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M1.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. |
 | A3 | Bus seats | Regulation (EU) 2019/2144 | not in scope | not in scope | XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.Seats that are not designated as such shall be clearly and permanently identified to users, either by means of a pictogram or a sign with an appropriate text. |
 | A4 | Safety-belt anchorages | Regulation (EU) 2019/2144 | XApplication limited to seats designated for normal use when the vehicle is used on a public road. | GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least anchorages for lap belts are required in the rear seating positions. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.At least anchorages for lap belts are required in the rear seating positions. | XApplication limited to seats designated for normal use when the vehicle is used on a public road.At least anchorages for lap belts are required in the rear seating positions. |
 | A5 | Safety-belts and restraint systems | Regulation (EU) 2019/2144 | XApplication limited to seats designated for normal use when the vehicle is used on a public road. | GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least lap belts are required in the rear seating positions. | GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least lap belts are required in the rear seating positions. | GApplication limited to seats designated for normal use when the vehicle is used on a public road.At least lap belts are required in the rear seating positions. |
@@ -3721,12 +3218,12 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | F16 | Flammability in buses | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | G for the cabX for the remaining part |
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. |
-| G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg. | not in scope |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | GIn the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. | GIn the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. | GIn the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. | Not in scope |
+| G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2 840 kg. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2 840 kg. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2 840 kg. | not in scope |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | GIn the case of multi-stage type-approval, the new CO2 value shall be calculated in accordance with the CO2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO2 interpolation is impractical, the CO2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. | GIn the case of multi-stage type-approval, the new CO2 value shall be calculated in accordance with the CO2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO2 interpolation is impractical, the CO2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. | GIn the case of multi-stage type-approval, the new CO2 value shall be calculated in accordance with the CO2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO2 interpolation is impractical, the CO2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. | Not in scope |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | not in scope | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope |
-| G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2840 kg. | G | G |
+| G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2 840 kg. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.In the case of ambulances, an EU type-approval granted to the most representative base vehicle remains valid irrespective of a change in the reference weight.Motor-caravans and hearses:In the case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. It is allowed for the reference mass of the converted vehicle to exceed 2 840 kg. | G | G |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | G | G | G | G |
 | G6 | Crankcase emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | G | G | G | G |
 | G7 | Evaporative emissions | Regulation (EC) No 715/2007 | G | G | G | not in scope |
@@ -3745,7 +3242,13 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 
 ### Appendix 2
 
-| Item | Subject | Regulatory act | M_1 | M_2 | M_3 | N_1 | N_2 | N_3 | O_1 | O_2 | O_3 | O_4 |
+
+
+<a id="armoured_vehicles"></a>
+
+### Armoured vehicles
+
+| Item | Subject | Regulatory act | M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |  |  |  |  |  |  |
 | A1 | Interior fittings | Regulation (EU) 2019/2144 | A | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope |
@@ -3856,10 +3359,10 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | F16 | Flammability in buses | Regulation (EU) 2019/2144 | not in scope | not in scope | X | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope |
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |  |  |  |  |  |  |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | X | X | X | X | X | X | not in scope | not in scope | not in scope | not in scope |
-| G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are to be described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | not in scope | not in scope | not in scope | not in scope |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are to be described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | not in scope | not in scope | not in scope | not in scope |
+| G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are to be described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | not in scope | not in scope | not in scope | not in scope |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are tobe described on the vehicle type-approval certificate and the certificate of conformity. | XAt the manufacturer’s request Regulation (EC) No 715/2007 may apply to vehicles with a reference mass exceeding 2 840 kg.The approval authority may only grant exemption(s) if the manufacturer demonstrates that the vehicle cannot meet the requirements due to its special purpose. The exemptions granted are to be described on the vehicle type-approval certificate and the certificate of conformity. | not in scope | not in scope | not in scope | not in scope | not in scope |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | X | X | X | X | X | X | not in scope | not in scope | not in scope | not in scope |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope |
 | G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | X | X | X | X | X | X | not in scope | not in scope | not in scope | not in scope |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | X | X | X | X | X | X | not in scope | not in scope | not in scope | not in scope |
@@ -3880,14 +3383,20 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 
 ### Appendix 3
 
-| Item | Subject | Regulatory act | M_1 |
+
+
+<a id="wheelchair_accessible_vehicles"></a>
+
+### Wheelchair-accessible vehicles
+
+| Item | Subject | Regulatory act | M1 |
 | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |
-| A1 | Interior fittings | Regulation (EU) 2019/2144 | GNote G may be applied to those fittings in the interior of the vehicle that are not significantly affected by the modification, however, any added or modified fittings in the interior shall comply with the requirements as applicable for vehicle category M_1Application is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H-point machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M_1. |
-| A2 | Seats and head restraints | Regulation (EU) 2019/2144 | GNote G may be applied to seats and head restraints of the vehicle that are not significantly affected by the modification, however, any added or modified fittings concerning seats and head restraints shall comply with the requirements as applicable for vehicle category M_1The energy dissipation and radii requirements of seats and head restraints are checked in accordance with paragraphs 5.2.3/5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M_1.The longitudinal plane of the intended wheelchair-travelling position shall be parallel to the longitudinal plane of the vehicle.Appropriate information is to be made available to the vehicle owner that, in order to withstand the forces transmitted by the tie-down mechanism during the various driving conditions, a wheelchair with a structure meeting the relevant part of ISO 7176-19:2008/Amd 1:2015 (or later revisions) is recommended.The seats of the vehicle may be adapted without further testing, provided it can be demonstrated to the satisfaction of the technical service that their anchorages, mechanisms and head restraints provide an adequate level of performance.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply. |
+| A1 | Interior fittings | Regulation (EU) 2019/2144 | GNote G may be applied to those fittings in the interior of the vehicle that are not significantly affected by the modification, however, any added or modified fittings in the interior shall comply with the requirements as applicable for vehicle category M1Application is limited to the passenger compartment in front of the transverse plane passing through the torso reference line of the 3-D H-point machine placed on the rearmost seat designated for normal use when the vehicle is used on a public road, as well as to the respective reference zones of each seating position designated for normal use as defined in the regulatory act when the vehicle type is subject to the requirements applicable to vehicle category M1. |
+| A2 | Seats and head restraints | Regulation (EU) 2019/2144 | GNote G may be applied to seats and head restraints of the vehicle that are not significantly affected by the modification, however, any added or modified fittings concerning seats and head restraints shall comply with the requirements as applicable for vehicle category M1The energy dissipation and radii requirements of seats and head restraints are checked in accordance with paragraphs 5.2.3/5.2.4.2. and 5.2.4. of UN Regulation No 17 when the vehicle type is subject to the requirements applicable to vehicle category M1.The longitudinal plane of the intended wheelchair-travelling position shall be parallel to the longitudinal plane of the vehicle.Appropriate information is to be made available to the vehicle owner that, in order to withstand the forces transmitted by the tie-down mechanism during the various driving conditions, a wheelchair with a structure meeting the relevant part of ISO 7176-19:2008/Amd 1:2015 (or later revisions) is recommended.The seats of the vehicle may be adapted without further testing, provided it can be demonstrated to the satisfaction of the technical service that their anchorages, mechanisms and head restraints provide an adequate level of performance.The luggage retention requirements of UN Regulation No 17 (para. 1, point (c) and Annex 9) do not apply. |
 | A3 | Bus seats | Regulation (EU) 2019/2144 | not in scope |
-| A4 | Safety-belt anchorages | Regulation (EU) 2019/2144 | XEach wheelchair location shall be provided with anchorages to which a wheelchair tie-down and occupant restraint system (WTORS) is to be fitted, and that complies with the additional provisions for testing the wheelchair tie down and occupant restraint system set out below.1.Definitions1.1.Surrogate wheelchair (SWC) means a rigid, re-usable test wheelchair, as defined in Section 3 of international standard ISO 10542-1:2012.1.2.Point P means a representation of the position of the wheelchair occupant’s hip when seated in the SWC, as defined in Section 3 of international standard ISO 10542-1:2012. At the request of the manufacturer, a heavier surrogate wheelchair may be used, provided it has the same dimensional characteristics and centre of gravity position as the prescribed version. The pneumatic tyres may be replaced with solid or foam-filled versions in the same size.1.3.WTORS means a wheelchair tie-down and occupant restraint system.2.General requirements2.1.Each wheelchair location shall be provided with anchorages to which a WTORS can be fitted.2.2.The wheelchair occupant’s lower belt anchorages shall be located in accordance with paragraph 5.4.2.2 UN Regulation No 14, relative to Point P on the SWC, when placed in the travelling position designated by the manufacturer. The upper actual anchorage(s) shall be located at least 1100 mm above the horizontal plane passing through the points of contact between the rear tyres of the SWC and the vehicle floor. That condition shall still be satisfied after the test carried out in accordance with points 3 or 4 below.Either point 3 or 4 shall apply.3.Static in-vehicle testing3.1.Wheelchair occupant restraint anchorages3.1.1.The wheelchair occupant restraint anchorages shall resist the static forces prescribed for occupant restraint anchorages in UN Regulation No 14, simultaneously with the static forces applied to the wheelchair tie-down anchorages as specified in point 3.2.3.2.Wheelchair tie-down anchoragesThe wheelchair tie-down anchorages shall resist the following forces, for at least 0,2 seconds, applied via the SWC (or a suitable surrogate wheelchair having a wheelbase, seat height and tie-down attachment points in accordance with the specification for the SWC), at a height of 300 +/– 100 mm from the surface on which the SWC rests:3.2.1.In the case of a forward-facing wheelchair, a simultaneous force, coinciding with the force applied to the occupant restraint anchorages, of 24,5 kN; and3.2.2.a second test applying a static force of 8,2 kN directed towards the rear of the vehicle.3.2.3.In the case of a rearward-facing wheelchair, a simultaneous force, coincident with the force applied to the occupant restraint anchorages, of 8,2 kN, and3.2.4.a second test applying a static force of 24,5 kN directed towards the front of the vehicle4.Dynamic in-vehicle testing4.1.The full assembly of the WTORS system shall be tested by an in-vehicle dynamic test in accordance with points 5.2.2 and 5.2.3 and Annex A to international standard ISO 10542-1:2012, testing all components/anchorages simultaneously, using a vehicle body-in-white or representative structure. |
-| A5 | Safety-belts and restraint systems | Regulation (EU) 2019/2144 | XEach wheelchair location is to be provided with an occupant restraint belt that complies with the additional provisions for testing the wheelchair tie down and occupant restraint system of set out below.When, due to the conversion, anchorage points for the safety belts need to be moved outside the tolerance provided for in paragraph 7.7.1 of UN Regulation No 16, the technical service shall check whether the alteration constitutes a worst-case or not. If that is the case, the test provided for in paragraph 7.7.1 of UN Regulation No 16 shall be performed. The test may be performed using components that have not undergone the conditioning test prescribed by UN Regulation No 16.1.Definitions1.1.Surrogate wheelchair (SWC) means a rigid, re-usable test wheelchair, as defined in Section 3 of international standard ISO 10542-1:2012.1.2.Point P means a representation of the position of the wheelchair occupant’s hip when seated in the SWC, as defined in Section 3 of international standard ISO 10542-1:2012. At the request of the manufacturer, a heavier surrogate wheelchair may be used, provided it has the same dimensional characteristics and centre of gravity position as the prescribed version. The pneumatic tyres may be replaced with solid or foam-filled versions in the same size.1.3.WTORS means a wheelchair tie-down and occupant restraint system.2.General requirements2.1.An assessment shall be made of the WTORS occupant belt to ensure compliance with paragraphs 8.2.2 to 8.2.2.4 and 8.3.1 to 8.3.4 of UN Regulation No 16.Either point 3. or 4. shall apply.3.Static in-vehicle testing3.1.Components of the system3.1.1.Where the WTORS anchorages have been tested statically in the vehicle, all components of the WTORS shall meet the relevant requirements of international standard ISO 10542-1:2012. However, the dynamic test specified in Annex A to, and points 5.2.2. and 5.2.3. of, international standard ISO 10542-1:2012 shall be carried out on the complete WTORS using the vehicle anchorage geometry instead of the test geometry specified in Annex A to international standard ISO 10542-1:2012. This may be carried out within the vehicle structure or on a surrogate structure representative of the vehicle’s WTORS anchorage geometry. The location of each anchorage used for the test shall lie within the tolerance provided for in paragraph 7.7.1 of UN Regulation No 16, of its true position relative to Point P.3.1.2.Where the occupant restraint part of the WTORS is approved in accordance with UN Regulation No 16, it shall be subject to the dynamic test as part of the complete WTORS specified in point 3.1.1., however, the requirements of points 5.1, 5.3 and 5.4 of international standard ISO10542-1:2012 shall be considered to have been met.4.Dynamic in-vehicle testing4.1.Where the WTORS anchorages have been tested dynamically in the vehicle, the component parts of the WTORS shall meet the relevant requirements of international standard ISO 10542-1:2012, points 5.1, 5.3 and 5.4. These requirements shall be deemed to have been met in respect of the occupant restraint if it is approved in accordance with UN Regulation No 16. |
+| A4 | Safety-belt anchorages | Regulation (EU) 2019/2144 | XEach wheelchair location shall be provided with anchorages to which a wheelchair tie-down and occupant restraint system (WTORS) is to be fitted, and that complies with the additional provisions for testing the wheelchair tie down and occupant restraint system set out below.1. Definitions1.1. Surrogate wheelchair (SWC) means a rigid, re-usable test wheelchair, as defined in Section 3 of international standard ISO 10542-1:2012.1.2. Point P means a representation of the position of the wheelchair occupant’s hip when seated in the SWC, as defined in Section 3 of international standard ISO 10542-1:2012. At the request of the manufacturer, a heavier surrogate wheelchair may be used, provided it has the same dimensional characteristics and centre of gravity position as the prescribed version. The pneumatic tyres may be replaced with solid or foam-filled versions in the same size.1.3. WTORS means a wheelchair tie-down and occupant restraint system.2. General requirements2.1. Each wheelchair location shall be provided with anchorages to which a WTORS can be fitted.2.2. The wheelchair occupant’s lower belt anchorages shall be located in accordance with paragraph 5.4.2.2 UN Regulation No 14, relative to Point P on the SWC, when placed in the travelling position designated by the manufacturer. The upper actual anchorage(s) shall be located at least 1 100 mm above the horizontal plane passing through the points of contact between the rear tyres of the SWC and the vehicle floor. That condition shall still be satisfied after the test carried out in accordance with points 3 or 4 below.Either point 3 or 4 shall apply.3. Static in-vehicle testing3.1. Wheelchair occupant restraint anchorages3.1.1. The wheelchair occupant restraint anchorages shall resist the static forces prescribed for occupant restraint anchorages in UN Regulation No 14, simultaneously with the static forces applied to the wheelchair tie-down anchorages as specified in point 3.2.3.2. Wheelchair tie-down anchoragesThe wheelchair tie-down anchorages shall resist the following forces, for at least 0,2 seconds, applied via the SWC (or a suitable surrogate wheelchair having a wheelbase, seat height and tie-down attachment points in accordance with the specification for the SWC), at a height of 300 +/– 100 mm from the surface on which the SWC rests:3.2.1. In the case of a forward-facing wheelchair, a simultaneous force, coinciding with the force applied to the occupant restraint anchorages, of 24,5 kN; and3.2.2. a second test applying a static force of 8,2 kN directed towards the rear of the vehicle.3.2.3. In the case of a rearward-facing wheelchair, a simultaneous force, coincident with the force applied to the occupant restraint anchorages, of 8,2 kN, and3.2.4. a second test applying a static force of 24,5 kN directed towards the front of the vehicle4. Dynamic in-vehicle testing4.1. The full assembly of the WTORS system shall be tested by an in-vehicle dynamic test in accordance with points 5.2.2 and 5.2.3 and Annex A to international standard ISO 10542-1:2012, testing all components/anchorages simultaneously, using a vehicle body-in-white or representative structure. |
+| A5 | Safety-belts and restraint systems | Regulation (EU) 2019/2144 | XEach wheelchair location is to be provided with an occupant restraint belt that complies with the additional provisions for testing the wheelchair tie down and occupant restraint system of set out below.When, due to the conversion, anchorage points for the safety belts need to be moved outside the tolerance provided for in paragraph 7.7.1 of UN Regulation No 16, the technical service shall check whether the alteration constitutes a worst-case or not. If that is the case, the test provided for in paragraph 7.7.1 of UN Regulation No 16 shall be performed. The test may be performed using components that have not undergone the conditioning test prescribed by UN Regulation No 16.1. Definitions1.1. Surrogate wheelchair (SWC) means a rigid, re-usable test wheelchair, as defined in Section 3 of international standard ISO 10542-1:2012.1.2. Point P means a representation of the position of the wheelchair occupant’s hip when seated in the SWC, as defined in Section 3 of international standard ISO 10542-1:2012. At the request of the manufacturer, a heavier surrogate wheelchair may be used, provided it has the same dimensional characteristics and centre of gravity position as the prescribed version. The pneumatic tyres may be replaced with solid or foam-filled versions in the same size.1.3. WTORS means a wheelchair tie-down and occupant restraint system.2. General requirements2.1. An assessment shall be made of the WTORS occupant belt to ensure compliance with paragraphs 8.2.2 to 8.2.2.4 and 8.3.1 to 8.3.4 of UN Regulation No 16.Either point 3. or 4. shall apply.3. Static in-vehicle testing3.1. Components of the system3.1.1. Where the WTORS anchorages have been tested statically in the vehicle, all components of the WTORS shall meet the relevant requirements of international standard ISO 10542-1:2012. However, the dynamic test specified in Annex A to, and points 5.2.2. and 5.2.3. of, international standard ISO 10542-1:2012 shall be carried out on the complete WTORS using the vehicle anchorage geometry instead of the test geometry specified in Annex A to international standard ISO 10542-1:2012. This may be carried out within the vehicle structure or on a surrogate structure representative of the vehicle’s WTORS anchorage geometry. The location of each anchorage used for the test shall lie within the tolerance provided for in paragraph 7.7.1 of UN Regulation No 16, of its true position relative to Point P.3.1.2. Where the occupant restraint part of the WTORS is approved in accordance with UN Regulation No 16, it shall be subject to the dynamic test as part of the complete WTORS specified in point 3.1.1., however, the requirements of points 5.1, 5.3 and 5.4 of international standard ISO10542-1:2012 shall be considered to have been met.4. Dynamic in-vehicle testing4.1. Where the WTORS anchorages have been tested dynamically in the vehicle, the component parts of the WTORS shall meet the relevant requirements of international standard ISO 10542-1:2012, points 5.1, 5.3 and 5.4. These requirements shall be deemed to have been met in respect of the occupant restraint if it is approved in accordance with UN Regulation No 16. |
 | A6 | Safety-belt reminders | Regulation (EU) 2019/2144 | n/a |
 | A7 | Partitioning systems | Regulation (EU) 2019/2144 | equipment |
 | A8 | Child restraint anchorages | Regulation (EU) 2019/2144 | IFThe minimum number of ISOFIX child seat anchorages need not to be provided. In the case of a multi-stage type approval where an ISOFIX anchorage system has been affected by the conversion, either the system shall be re-tested or the anchorages shall be rendered unusable. In the latter case the ISOFIX labels shall be removed and appropriate information shall be provided in the vehicle owner’s manual for the completed vehicle. |
@@ -3991,12 +3500,12 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | F16 | Flammability in buses | Regulation (EU) 2019/2144 | not in scope |
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | GModification of the exhaust system length is permitted without the need for retesting, provided that the exhaust back pressure remains similar. |
-| G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | GModification in the exhaust system is permitted without any further test of tailpipe emissions provided that the emission control devices, including particulate filters (if any), are not affected.In case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. In such a case it is acceptable if the reference mass of the converted vehicle will exceed 2840 kg. |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | GModification in the exhaust system is permitted without any further test of CO_2/fuel consumption provided that the emission control devices, including particulate filters (if any), are not affected.In the case of multi-stage type-approval, the new CO_2 value shall be calculated in accordance with the CO_2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO_2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO_2 interpolation is impractical, the CO_2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. |
-| G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | XModification in the exhaust system is permitted without any further test of tailpipe emissions and CO_2/fuel consumption provided that the emission control devices, including particulate filters (if any), are not affected. If the evaporative control devices are kept as fitted by the manufacturer of the original (complete or incomplete) vehicle, no new evaporative test is required on the modified vehicle. |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope |
+| G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | GModification in the exhaust system is permitted without any further test of tailpipe emissions provided that the emission control devices, including particulate filters (if any), are not affected.In case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. In such a case it is acceptable if the reference mass of the converted vehicle will exceed 2 840 kg. |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | GModification in the exhaust system is permitted without any further test of CO2/fuel consumption provided that the emission control devices, including particulate filters (if any), are not affected.In the case of multi-stage type-approval, the new CO2 value shall be calculated in accordance with the CO2 interpolation method, using the relevant data from the completed vehicle. Alternatively, the new CO2 value shall be calculated on the basis of the parameters of the completed vehicle as specified in paragraph 3.2.4 of Annex B7 to UN Regulation 154 and using the road load matrix tool supplied by the manufacturer of the base vehicle. If the tool is not available or CO2 interpolation is impractical, the CO2 value of Vehicle High from the base vehicle shall be used, at the request of the manufacturer responsible for the conversion, and with the agreement of the approval authority. |
+| G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | XModification in the exhaust system is permitted without any further test of tailpipe emissions and CO2/fuel consumption provided that the emission control devices, including particulate filters (if any), are not affected. If the evaporative control devices are kept as fitted by the manufacturer of the original (complete or incomplete) vehicle, no new evaporative test is required on the modified vehicle. |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | Not in scope |
-| G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | GIn case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. In such a case it is acceptable if the reference mass of the converted vehicle will exceed 2840 kg. |
+| G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | GIn case of conversion of a vehicle (e.g. in a multi-stage type-approval process), the manufacturer responsible for the conversion needs to consult the original (complete or incomplete) vehicle manufacturer to get confirmation that the converted vehicle is covered by the emission approval of the original (complete or incomplete) vehicle. In such a case it is acceptable if the reference mass of the converted vehicle will exceed 2 840 kg. |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | G |
 | G6 | Crankcase emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | G |
 | G7 | Evaporative emissions | Regulation (EC) No 715/2007 | GIf the evaporative control devices are kept as fitted by the manufacturer of the original (complete or incomplete) vehicle, no new evaporative test is required on the modified vehicle. |
@@ -4015,7 +3524,19 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 
 ### Appendix 4
 
-| Item | Subject | Regulatory act | M_2 | M_3 | N_1 | N_2 | N_3 | O_1 | O_2 | O_3 | O_4 |
+
+
+<a id="other_special_purpose_vehicles"></a>
+
+### Other special purpose vehicles
+
+
+
+<a id="including_special_group_multi_equipment_carrier_and_trailer_caravans"></a>
+
+### (including special group, multi-equipment carrier and trailer caravans)
+
+| Item | Subject | Regulatory act | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |  |  |  |  |  |  |  |
 | A1 | Interior fittings | Regulation (EU) 2019/2144 | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope | not in scope |
@@ -4127,9 +3648,9 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |  |  |  |  |  |  |  |
 | G1 | Sound level | Regulation (EU) No 540/2014 | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | GModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | not in scope | not in scope | not in scope | not in scope |
 | G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | not in scope | XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | not in scope | not in scope | not in scope | not in scope | not in scope |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | not in scope | not in scope | not in scope | not in scope |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope | Not in scope |
 | G4 | Tailipipe emissions on the road | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | XModification of exhaust system length after the last silencer not ex ceeding 2,0 m is permissible without any further test.Alternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive. | not in scope | not in scope | not in scope | not in scope |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 715/2007Regulation (EC) No 595/2009 | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | XModification of exhaust system length after the last silencer not exceeding 2,0 m is permissible without any further test. | not in scope | not in scope | not in scope | not in scope |
@@ -4150,7 +3671,13 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 
 ### Appendix 5
 
-| Item | Subject | Regulatory act | N_3 |
+
+
+<a id="mobile_cranes"></a>
+
+### Mobile cranes
+
+| Item | Subject | Regulatory act | N3 |
 | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |
 | A1 | Interior fittings | Regulation (EU) 2019/2144 | not in scope |
@@ -4200,7 +3727,7 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | C1 | Steering equipment | Regulation (EU) 2019/2144 | XCrab steering allowed |
 | C2 | Lane departure warning | Regulation (EU) 2019/2144 | n/a |
 | C3 | Emergency lane keeping | Regulation (EU) 2019/2144 | not in scope |
-| C4 | Braking | Regulation (EU) 2019/2144 | GTest to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down in the relevant regulatory acts. Derogations are admitted for vehicles having more than 4 axles, provided that:(a)they are justified by the particular construction; and(b)all the braking performances, related to parking, service and secondary braking laid down in the relevant regulatory act are fulfilled.Anti-lock braking system is not mandatory for vehicles with hydrostatic drive. |
+| C4 | Braking | Regulation (EU) 2019/2144 | GTest to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down in the relevant regulatory acts. Derogations are admitted for vehicles having more than 4 axles, provided that:(a) they are justified by the particular construction; and(b) all the braking performances, related to parking, service and secondary braking laid down in the relevant regulatory act are fulfilled.Anti-lock braking system is not mandatory for vehicles with hydrostatic drive. |
 | C5 | Replacement braking parts | Regulation (EU) 2019/2144 | equipment |
 | C6 | Brake assist | Regulation (EU) 2019/2144 | not in scope |
 | C7 | Stability control | Regulation (EU) 2019/2144 | n/a |
@@ -4260,11 +3787,11 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | F15 | Bus strength of superstructure | Regulation (EU) 2019/2144 | not in scope |
 | F16 | Flammability in buses | Regulation (EU) 2019/2144 | not in scope |
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |
-| G1 | Sound level | Regulation (EU) No 540/2014 | GTest to be performed only with the complete/completed vehicle. The vehicle can be tested in accordance with Directive 70/157/EEC, UN Regulation No 51.02 or Regulation (EC) No 540/2014. The following limit values are applicable, irrespective of the vehicle conditions such as engine type, gearbox type and any sub-classifications:(a)81 dB(A) for vehicles with an engine power of less than 75 kW;(b)83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW;(c)84 dB(A) for vehicles with an engine power of not less than 150 kW. |
+| G1 | Sound level | Regulation (EU) No 540/2014 | GTest to be performed only with the complete/completed vehicle. The vehicle can be tested in accordance with Directive 70/157/EEC, UN Regulation No 51.02 or Regulation (EC) No 540/2014. The following limit values are applicable, irrespective of the vehicle conditions such as engine type, gearbox type and any sub-classifications:(a) 81 dB(A) for vehicles with an engine power of less than 75 kW;(b) 83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW;(c) 84 dB(A) for vehicles with an engine power of not less than 150 kW. |
 | G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | not in scope |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | not in scope |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | not in scope |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | XAlternatively, Regulation (EU) 2016/1628 may apply. |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | Not in scope |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | Not in scope |
 | G4 | Tailipipe emissions on the road | Regulation Regulation (EC) No 595/2009 | XAlternatively, Regulation (EU) 2016/1628 may apply. |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 595/2009 | not in scope |
@@ -4285,7 +3812,13 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 
 ### Appendix 6
 
-| Item | Subject | Regulatory acts | N_3 | O_4 |
+
+
+<a id="exceptional_load_transport_vehicles"></a>
+
+### Exceptional load transport vehicles
+
+| Item | Subject | Regulatory acts | N3 | O4 |
 | --- | --- | --- | --- | --- |
 | A | RESTRAINT SYSTEMS, CRASH TESTING, FUEL SYSTEM INTEGRITY AND HIGH VOLTAGE ELECTRICAL SAFETY |  |  |  |
 | A1 | Interior fittings | Regulation (EU) 2019/2144 | not in scope | not in scope |
@@ -4335,7 +3868,7 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | C1 | Steering equipment | Regulation (EU) 2019/2144 | XCrab steering allowed | X |
 | C2 | Lane departure warning | Regulation (EU) 2019/2144 | n/a | not in scope |
 | C3 | Emergency lane keeping | Regulation (EU) 2019/2144 | not in scope | not in scope |
-| C4 | Braking | Regulation (EU) 2019/2144 | GTest to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down in the relevant regulatory acts. Derogations are admitted for vehicles having more than 4 axles, provided that:(a)they are justified by the particular construction; and(b)all the braking performances, related to parking, service and secondary braking laid down in the relevant regulatory act are fulfilled.Anti-lock braking system is not mandatory for vehicles with hydrostatic drive. | X |
+| C4 | Braking | Regulation (EU) 2019/2144 | GTest to be performed only with the complete/completed vehicle. Vehicles up to 4 axles shall comply with all the requirements laid down in the relevant regulatory acts. Derogations are admitted for vehicles having more than 4 axles, provided that:(a) they are justified by the particular construction; and(b) all the braking performances, related to parking, service and secondary braking laid down in the relevant regulatory act are fulfilled.Anti-lock braking system is not mandatory for vehicles with hydrostatic drive. | X |
 | C5 | Replacement braking parts | Regulation (EU) 2019/2144 | equipment | equipment |
 | C6 | Brake assist | Regulation (EU) 2019/2144 | not in scope | not in scope |
 | C7 | Stability control | Regulation (EU) 2019/2144 | n/a | X |
@@ -4395,11 +3928,11 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 | F15 | Bus strength of superstructure | Regulation (EU) 2019/2144 | not in scope | not in scope |
 | F16 | Flammability in buses | Regulation (EU) 2019/2144 | not in scope | not in scope |
 | G | ENVIRONMENTAL PERFORMANCE AND EMISSIONS |  |  |  |
-| G1 | Sound level | Regulation (EU) No 540/2014 | GTest to be performed only with the complete/completed vehicle. The vehicle can be tested in accordance with Directive 70/157/EEC, UN Regulation No 51.02 or Regulation (EC) No 540/2014. The following limit values are applicable, irrespective of the vehicle conditions such as engine type, gearbox type and any sub-classifications:(a)81 dB(A) for vehicles with an engine power of less than 75 kW;(b)83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW;(c)84 dB(A) for vehicles with an engine power of not less than 150 kW. | not in scope |
+| G1 | Sound level | Regulation (EU) No 540/2014 | GTest to be performed only with the complete/completed vehicle. The vehicle can be tested in accordance with Directive 70/157/EEC, UN Regulation No 51.02 or Regulation (EC) No 540/2014. The following limit values are applicable, irrespective of the vehicle conditions such as engine type, gearbox type and any sub-classifications:(a) 81 dB(A) for vehicles with an engine power of less than 75 kW;(b) 83 dB(A) for vehicles with an engine power of not less than 75 kW but less than 150 kW;(c) 84 dB(A) for vehicles with an engine power of not less than 150 kW. | not in scope |
 | G2 | Tailpipe emissions of vehicle in lab | Regulation (EC) No 715/2007 | not in scope | not in scope |
-| G2a | Determination of specific CO_2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | not in scope | not in scope |
+| G2a | Determination of specific CO2 emissions and fuel consumption of vehicle and device for monitoring on board the vehicle the consumption of fuel and/or electric energy | Regulation (EC) No 715/2007 | not in scope | not in scope |
 | G3 | Tailpipe emissions of engine in lab | Regulation (EC) No 595/2009 | XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive | not in scope |
-| G3a | Determination of specific CO_2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | not in scope | not in scope |
+| G3a | Determination of specific CO2 emissions and fuel consumption of vehicle | Regulation (EC) No 595/2009 | not in scope | not in scope |
 | G3b | Determination of specific energy efficiency performance of trailer | Regulation (EC) No 595/2009 | not in scope | not in scope |
 | G4 | Tailipipe emissions on the road | Regulation (EC) No 595/2009 | XAlternatively, Regulation (EU) 2016/1628 may also apply to vehicles with hydrostatic drive | not in scope |
 | G5 | Durability of tailpipe emissions | Regulation (EC) No 595/2009 | X | not in scope |
@@ -4422,23 +3955,17 @@ Explanatory notes to Appendix 21.Abbreviations used in this Appendix:‘OEM’or
 
 **PROCEDURES TO BE FOLLOWED WITH RESPECT TO EU TYPE-APPROVAL**
 
-**1.Objectives and scope**
+1. **Objectives and scope**
 
-1.1.
+| 1.1. | This Annex establishes the procedures for the proper conduct of the vehicle type-approval in accordance with Articles 26, 27 and 28. |
+| --- | --- |
 
-This Annex establishes the procedures for the proper conduct of the vehicle type-approval in accordance with Articles 26, 27 and 28.
+| 1.2. | It also includes:(a) the list of international standards which are of relevance for the designation of the technical services in accordance with Articles 68 and 70;(b) the description of the procedure to be followed for the assessment of the skills of technical services in accordance with Article 73;(c) the general requirements for the drafting of test reports by technical services. |
+| --- | --- |
 
-1.2.It also includes:
-
-(a) the list of international standards which are of relevance for the designation of the technical services in accordance with Articles 68 and 70;
-
-(b) the description of the procedure to be followed for the assessment of the skills of technical services in accordance with Article 73;
-
-(c) the general requirements for the drafting of test reports by technical services.
+2. **Type-approval procedure**
 
 When receiving an application for vehicle type-approval, the approval authority shall:
-
-**2.Type-approval procedure**
 
 (a) verify that all EU type-approval certificates issued pursuant to the regulatory acts as listed in Annex II which are applicable for vehicle type-approval cover the type of vehicle and correspond to the prescribed requirements;
 
@@ -4454,13 +3981,13 @@ When receiving an application for vehicle type-approval, the approval authority 
 
 (g) carry out or arrange to be carried out necessary checks in order to ensure that the requirements set out in explanatory note 5 of Part I of Annex II are fulfilled.
 
-The number of vehicles to be submitted shall be sufficient to permit the proper check of the various combinations to be type-approved according to the following criteria:
+3. **Combination of technical specifications**
 
-**3.Combination of technical specifications**
+The number of vehicles to be submitted shall be sufficient to permit the proper check of the various combinations to be type-approved according to the following criteria:
 
 | Technical specifications | Vehicle category |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| M_1 | M_2 | M_3 | N_1 | N_2 | N_3 | O_1 | O_2 | O_3 | O_4 |  |
+| M1 | M2 | M3 | N1 | N2 | N3 | O1 | O2 | O3 | O4 |  |
 | Engine | X | X | X | X | X | X | — | — | — | — |
 | Gear box | X | X | X | X | X | X | — | — | — | — |
 | Number of axles | — | X | X | X | X | X | X | X | X | X |
@@ -4472,9 +3999,9 @@ The number of vehicles to be submitted shall be sufficient to permit the proper 
 | Number of seats | X | X | X | X | X | X | — | — | — | — |
 | Level of equipment | X | X | X | X | X | X | — | — | — | — |
 
-Where no approval certificates as provided for in the relevant regulatory acts are available, the approval authority shall:
+4. **Specific provisions**
 
-**4.Specific provisions**
+Where no approval certificates as provided for in the relevant regulatory acts are available, the approval authority shall:
 
 (a) arrange for the necessary tests and checks as required by each of the relevant regulatory acts;
 
@@ -4486,473 +4013,152 @@ Where no approval certificates as provided for in the relevant regulatory acts a
 
 (e) carry out or arrange to be carried out necessary checks in order to ensure that the requirements set out in explanatory note 5 of Part I of Annex II are fulfilled.
 
-**Standards with which the technical services referred to in Article 68 have to comply**
-
-1.Activities related to testing for type-approval to be carried out in accordance with the regulatory acts listed in Annex II:
-
-1.1.Category A (tests performed in own facilities):
-
-- Standard EN ISO/IEC 17025:2005 on the general requirements for the competence of testing and calibration laboratories. Standard EN ISO/IEC 17025:2005 on the general requirements for the competence of testing and calibration laboratories.
-
-- A technical service designated for category A activities may also carry out the tests provided for in the regulatory acts for which it has been designated, in the facilities of a manufacturer or of a third party. In either case, the personnel responsible for using professional judgement for determination of conformity with the regulatory acts for which the technical service has been designated shall comply with the Standard EN ISO/IEC 17020:2012. A technical service designated for category A activities may also carry out the tests provided for in the regulatory acts for which it has been designated, in the facilities of a manufacturer or of a third party. In either case, the personnel responsible for using professional judgement for determination of conformity with the regulatory acts for which the technical service has been designated shall comply with the Standard EN ISO/IEC 17020:2012.
-
-1.2.Category B (supervision of tests, which includes test preparation, where such tests are performed at the manufacturer's facilities or at the facilities of a third party):
-
-- Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection. Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection.
-
-- Before performing or supervising any test in the manufacturer's facilities or in the facilities of a third party, the technical service shall verify that the tests facilities and measurement devices comply with the appropriate requirements of Standard EN ISO/IEC 17025:2005. Before performing or supervising any test in the manufacturer's facilities or in the facilities of a third party, the technical service shall verify that the tests facilities and measurement devices comply with the appropriate requirements of Standard EN ISO/IEC 17025:2005.
-
-**2.Activities related to conformity of production**
-
-2.1.
-
-Category C (procedure for the initial assessment and surveillance audits of the manufacturer's quality management system):
-
-Standard EN ISO/IEC 17021:2011 on the requirements for bodies providing audit and certification of management systems.
-
-2.2.
-
-Category D (inspection or testing of production samples or supervision thereof):
-
-Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection.
-
-**Procedure for the assessment of the technical services**
-
-**1.Objective and scope**
-
-1.1.
-
-This Appendix establishes the conditions in accordance with which the assessment procedure of the technical services shall be conducted by the authority, competent under Article 73 (‘competent authority’).
-
-1.2.
-
-Those requirements shall apply to all technical services, irrespective of their legal status (independent organisation, manufacturer or approval authority acting as technical service).
-
-The carrying out of an assessment shall be governed by the following:Auditors shall show trust and integrity. They shall respect confidentiality and discretion.They shall report truthfully and accurately about findings and conclusions.
-
-**2.Assessments**
-
-(a) principle of independence, which is the basis for the impartiality and objectivity of the conclusions; and
-
-(b) an evidence-based approach, which guarantees reliable and reproducible conclusions.
-
-**3.Skills requirements for auditors**
-
-3.1.
-
-The assessments may only be conducted by auditors having the technical and administrative knowledge necessary for such purposes.
-
-3.2.
-
-The auditors shall have been trained specifically for assessment activities. In addition, they shall have the specific knowledge of the technical area in which the technical service will exercise its activities.
-
-3.3.
-
-Without prejudice to points 3.1 and 3.2, the assessment referred to in Article 73 shall be conducted by auditors independent of the activities for which the assessment is conducted.
-
-**4.Application for designation**
-
-4.1.A duly authorised representative of the applicant technical service shall submit a formal application to the competent authority that includes the following information:
-
-(a) general features of the technical service, including corporate entity, name, addresses, legal status and technical resources;
-
-(b) a detailed description, including curriculum vitae, of the personnel in charge of testing and of the managerial staff, setting out their educational qualifications and professional skills;
-
-(c) technical services which use virtual testing methods shall provide evidence of their ability to work in a Computer-Aided-x environment;
-
-(d) general information concerning the technical service, including its activities, its relationship in a larger corporate entity, if any, and addresses of all its physical location(s) to be covered by the scope of designation;
-
-(e) an agreement to fulfil the requirements for designation and the other obligations of the technical service as provided for in the relevant regulatory acts for which it is designated;
-
-(f) a description of the conformity assessment services that the technical service undertakes in the framework of the relevant regulatory acts and a list of the regulatory acts for which the technical service applies for designation, including limits of capability, where applicable;
-
-(g) a copy of the quality assurance manual of the technical service.
-
-4.2.
-
-The competent authority shall review the adequacy of the information provided by the technical service.
-
-4.3.
-
-The technical service shall notify to the competent authority any modifications to the information provided in accordance with point 4.1.
-
-The competent authority shall review its ability to carry out the assessment of the technical service, in terms of its own policy, its competence and the availability of suitable auditors and experts.
-
-**5.Resource review**
-
-**6.Subcontracting the assessment**
-
-6.1.
-
-The competent authority may subcontract parts of the assessment to another competent authority or ask for support from technical experts provided by other competent authorities. The subcontractors and experts have to be accepted by the applicant technical service.
-
-6.2.
-
-The competent authority shall take into account accreditation certificates with adequate scope in order to complete its global assessment of the technical service.
-
-**7.Preparation for assessment**
-
-7.1.The competent authority shall formally appoint a joint assessment team. The competent authority shall ensure that the expertise brought to each joint assessment team is appropriate. In particular, the joint assessment team as a whole shall have both:
-
-(a) appropriate knowledge of the specific scope for which designation is sought; and
-
-(b) sufficient understanding to reliably assess the competence of the technical service to operate within its scope of designation.
-
-7.2.
-
-The competent authority shall clearly define the assignment given to the joint assessment team. The task of the joint assessment team is to review the documents collected from the applicant technical service and to conduct the on-site assessment.
-
-7.3.
-
-The competent authority shall agree, together with the technical service and the assigned assessment team, to the date and timetable for the assessment. However, it remains the responsibility of the competent authority to pursue a date that is in accordance with the surveillance and reassessment plan.
-
-7.4.
-
-The competent authority shall ensure that the joint assessment team is provided with the appropriate criteria documents, previous assessment records, and the relevant documents and records of the technical service.
-
-The joint assessment team shall conduct the assessment of the technical service at the premises of the technical service from which one or more key activities are performed and, where relevant, shall perform eyewitness assessment at other selected locations where the technical service operates.
-
-**8.On-site assessment**
-
-**9.Analysis of findings and assessment report**
-
-9.1.
-
-The joint assessment team shall analyse all relevant information and evidence gathered during the document and record review and the on-site assessment. That analysis shall be sufficient to allow the team to determine the extent of competence and conformity of the technical service with the requirements for designation.
-
-9.2.The competent authority's reporting procedures shall ensure that the following requirements are fulfilled.
-
-9.2.1.
-
-A meeting shall take place between the joint assessment team and the technical service prior to leaving the site. At that meeting, the joint assessment team shall provide a written and/or oral report on its findings obtained from the analysis. An opportunity shall be provided for the technical service to ask questions about the findings, including non-compliance, if any, and its basis.
-
-9.2.2.
-
-A written report on the outcome of the assessment shall be promptly brought to the attention of the technical service. That assessment report shall contain comments on competence and compliance, and shall identify non-compliance, if any, to be resolved in order to conform to all of the requirements for designation.
-
-9.2.3.
-
-The technical service shall be invited to respond to the assessment report and to describe the specific actions taken or planned to be taken, within a specific period of time, to resolve any identified non-compliance.
-
-9.3.
-
-The competent authority shall ensure that the responses of the technical service are sufficient and effective to resolve non-compliance. If the technical service responses are found to be insufficient, further information shall be requested. Additionally, evidence of effective implementation of actions taken may be requested, or a follow-up assessment may be carried out, to verify effective implementation of corrective actions.
-
-9.4.The assessment report shall include at least the following:
-
-(a) unique identification of the technical service;
-
-(b) date(s) of the on-site assessment;
-
-(c) name(s) of the auditors(s) and/or expert(s) involved in the assessment;
-
-(d) unique identification of all premises assessed;
-
-(e) proposed scope of designation that was assessed;
-
-(f) a statement on the adequacy of the internal organisation and procedures adopted by the technical service supporting its competence, as determined through its fulfilment of the requirements for designation;
-
-(g) information on resolving all non-compliance;
-
-(h) a recommendation of whether the applicant should be designated or confirmed as technical service and, if so, the scope of designation.
-
-**10.Granting, confirming or extending a designation**
-
-10.1.
-
-The competent authority shall, without undue delay, make the decision on whether to grant, confirm or extend a designation on the basis of the assessment report(s) and any other relevant information.
-
-10.2.The competent authority shall provide a certificate to the technical service. That certificate shall identify the following:
-
-(a) the identity and logo of the competent- authority;
-
-(b) the unique identity of the designated technical service;
-
-(c) the effective date of designation and the expiry date;
-
-(d) a brief indication of or a reference to the scope of designation (relevant regulatory acts or part of them);
-
-(e) a statement of conformity and a reference to this Regulation.
-
-**11.Reassessment and surveillance**
-
-11.1.
-
-Reassessment is similar to an initial assessment except that experience gained during previous assessments shall be taken into account. Surveillance on-site assessments are less comprehensive than reassessments.
-
-11.2.
-
-The competent authority shall design its plan for reassessment and surveillance of each designated technical service so that representative samples of the scope of designation are assessed on a regular basis.
-
-The interval between on-site assessments, whether reassessment or surveillance, depends on the proven stability that the technical service has reached.
-
-11.3.
-
-Where, during surveillance or reassessments, non-compliance is identified, the competent authority shall define strict time limits for corrective actions to be taken.
-
-11.4.
-
-Where the corrective or improvement actions have not been taken within the agreed time limit or are not deemed to be sufficient, the competent authority shall adopt appropriate measures, such as conducting a further assessment, or suspending or withdrawing the designation for one or more of the activities for which the technical service has been designated.
-
-11.5.
-
-Where the competent authority decides to suspend or withdraw the designation of a technical service, it shall inform the technical service of its decision by registered mail. In any case, the competent authority shall adopt all the necessary measures to ensure the continuity of the activities already undertaken by the technical service.
-
-**12.Records on designated technical services**
-
-12.1.
-
-The competent authority shall maintain records on technical services to demonstrate that the requirements for designation, including competence, have been effectively fulfilled.
-
-12.2.
-
-The competent authority shall keep the records on technical services secure to ensure confidentiality.
-
-12.3.Records on technical services shall include at least the following:
-
-(a) relevant correspondence;
-
-(b) assessment records and reports;
-
-(c) copies of designation certificates.
-
 <a id="appendix_1__4"></a>
 
 ### Appendix 1
 
-**Standards with which the technical services referred to in Article 68 have to comply**
+Standards with which the technical services referred to in Article 68 have to comply
 
-1.Activities related to testing for type-approval to be carried out in accordance with the regulatory acts listed in Annex II:
+| 1. | Activities related to testing for type-approval to be carried out in accordance with the regulatory acts listed in Annex II:1.1.Category A (tests performed in own facilities):Standard EN ISO/IEC 17025:2005 on the general requirements for the competence of testing and calibration laboratories.A technical service designated for category A activities may also carry out the tests provided for in the regulatory acts for which it has been designated, in the facilities of a manufacturer or of a third party. In either case, the personnel responsible for using professional judgement for determination of conformity with the regulatory acts for which the technical service has been designated shall comply with the Standard EN ISO/IEC 17020:2012.1.2.Category B (supervision of tests, which includes test preparation, where such tests are performed at the manufacturer's facilities or at the facilities of a third party):Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection.Before performing or supervising any test in the manufacturer's facilities or in the facilities of a third party, the technical service shall verify that the tests facilities and measurement devices comply with the appropriate requirements of Standard EN ISO/IEC 17025:2005. |
+| --- | --- |
+| 1.1. | Category A (tests performed in own facilities):Standard EN ISO/IEC 17025:2005 on the general requirements for the competence of testing and calibration laboratories.A technical service designated for category A activities may also carry out the tests provided for in the regulatory acts for which it has been designated, in the facilities of a manufacturer or of a third party. In either case, the personnel responsible for using professional judgement for determination of conformity with the regulatory acts for which the technical service has been designated shall comply with the Standard EN ISO/IEC 17020:2012. |
+| 1.2. | Category B (supervision of tests, which includes test preparation, where such tests are performed at the manufacturer's facilities or at the facilities of a third party):Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection.Before performing or supervising any test in the manufacturer's facilities or in the facilities of a third party, the technical service shall verify that the tests facilities and measurement devices comply with the appropriate requirements of Standard EN ISO/IEC 17025:2005. |
 
-1.1.Category A (tests performed in own facilities):
-
-- Standard EN ISO/IEC 17025:2005 on the general requirements for the competence of testing and calibration laboratories. Standard EN ISO/IEC 17025:2005 on the general requirements for the competence of testing and calibration laboratories.
-
-- A technical service designated for category A activities may also carry out the tests provided for in the regulatory acts for which it has been designated, in the facilities of a manufacturer or of a third party. In either case, the personnel responsible for using professional judgement for determination of conformity with the regulatory acts for which the technical service has been designated shall comply with the Standard EN ISO/IEC 17020:2012. A technical service designated for category A activities may also carry out the tests provided for in the regulatory acts for which it has been designated, in the facilities of a manufacturer or of a third party. In either case, the personnel responsible for using professional judgement for determination of conformity with the regulatory acts for which the technical service has been designated shall comply with the Standard EN ISO/IEC 17020:2012.
-
-1.2.Category B (supervision of tests, which includes test preparation, where such tests are performed at the manufacturer's facilities or at the facilities of a third party):
-
-- Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection. Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection.
-
-- Before performing or supervising any test in the manufacturer's facilities or in the facilities of a third party, the technical service shall verify that the tests facilities and measurement devices comply with the appropriate requirements of Standard EN ISO/IEC 17025:2005. Before performing or supervising any test in the manufacturer's facilities or in the facilities of a third party, the technical service shall verify that the tests facilities and measurement devices comply with the appropriate requirements of Standard EN ISO/IEC 17025:2005.
-
-**2.Activities related to conformity of production**
-
-2.1.
-
-Category C (procedure for the initial assessment and surveillance audits of the manufacturer's quality management system):
-
-Standard EN ISO/IEC 17021:2011 on the requirements for bodies providing audit and certification of management systems.
-
-2.2.
-
-Category D (inspection or testing of production samples or supervision thereof):
-
-Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection.
+| 2. | Activities related to conformity of production2.1.Category C (procedure for the initial assessment and surveillance audits of the manufacturer's quality management system):Standard EN ISO/IEC 17021:2011 on the requirements for bodies providing audit and certification of management systems.2.2.Category D (inspection or testing of production samples or supervision thereof):Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection. |
+| --- | --- |
+| 2.1. | Category C (procedure for the initial assessment and surveillance audits of the manufacturer's quality management system):Standard EN ISO/IEC 17021:2011 on the requirements for bodies providing audit and certification of management systems. |
+| 2.2. | Category D (inspection or testing of production samples or supervision thereof):Standard EN ISO/IEC 17020:2012 on the general criteria for the operation of various types of bodies performing inspection. |
 
 <a id="appendix_2__4"></a>
 
 ### Appendix 2
 
-**Procedure for the assessment of the technical services**
+Procedure for the assessment of the technical services
 
-**1.Objective and scope**
+1. **Objective and scope**
 
-1.1.
+| 1.1. | This Appendix establishes the conditions in accordance with which the assessment procedure of the technical services shall be conducted by the authority, competent under Article 73 (‘competent authority’). |
+| --- | --- |
 
-This Appendix establishes the conditions in accordance with which the assessment procedure of the technical services shall be conducted by the authority, competent under Article 73 (‘competent authority’).
+| 1.2. | Those requirements shall apply to all technical services, irrespective of their legal status (independent organisation, manufacturer or approval authority acting as technical service). |
+| --- | --- |
 
-1.2.
+2. **Assessments**
 
-Those requirements shall apply to all technical services, irrespective of their legal status (independent organisation, manufacturer or approval authority acting as technical service).
-
-The carrying out of an assessment shall be governed by the following:Auditors shall show trust and integrity. They shall respect confidentiality and discretion.They shall report truthfully and accurately about findings and conclusions.
-
-**2.Assessments**
+The carrying out of an assessment shall be governed by the following:
 
 (a) principle of independence, which is the basis for the impartiality and objectivity of the conclusions; and
 
 (b) an evidence-based approach, which guarantees reliable and reproducible conclusions.
 
-**3.Skills requirements for auditors**
+Auditors shall show trust and integrity. They shall respect confidentiality and discretion.
 
-3.1.
+They shall report truthfully and accurately about findings and conclusions.
 
-The assessments may only be conducted by auditors having the technical and administrative knowledge necessary for such purposes.
+3. **Skills requirements for auditors**
 
-3.2.
+| 3.1. | The assessments may only be conducted by auditors having the technical and administrative knowledge necessary for such purposes. |
+| --- | --- |
 
-The auditors shall have been trained specifically for assessment activities. In addition, they shall have the specific knowledge of the technical area in which the technical service will exercise its activities.
+| 3.2. | The auditors shall have been trained specifically for assessment activities. In addition, they shall have the specific knowledge of the technical area in which the technical service will exercise its activities. |
+| --- | --- |
 
-3.3.
+| 3.3. | Without prejudice to points 3.1 and 3.2, the assessment referred to in Article 73 shall be conducted by auditors independent of the activities for which the assessment is conducted. |
+| --- | --- |
 
-Without prejudice to points 3.1 and 3.2, the assessment referred to in Article 73 shall be conducted by auditors independent of the activities for which the assessment is conducted.
+4. **Application for designation**
 
-**4.Application for designation**
+| 4.1. | A duly authorised representative of the applicant technical service shall submit a formal application to the competent authority that includes the following information:(a) general features of the technical service, including corporate entity, name, addresses, legal status and technical resources;(b) a detailed description, including curriculum vitae, of the personnel in charge of testing and of the managerial staff, setting out their educational qualifications and professional skills;(c) technical services which use virtual testing methods shall provide evidence of their ability to work in a Computer-Aided-x environment;(d) general information concerning the technical service, including its activities, its relationship in a larger corporate entity, if any, and addresses of all its physical location(s) to be covered by the scope of designation;(e) an agreement to fulfil the requirements for designation and the other obligations of the technical service as provided for in the relevant regulatory acts for which it is designated;(f) a description of the conformity assessment services that the technical service undertakes in the framework of the relevant regulatory acts and a list of the regulatory acts for which the technical service applies for designation, including limits of capability, where applicable;(g) a copy of the quality assurance manual of the technical service. |
+| --- | --- |
 
-4.1.A duly authorised representative of the applicant technical service shall submit a formal application to the competent authority that includes the following information:
+| 4.2. | The competent authority shall review the adequacy of the information provided by the technical service. |
+| --- | --- |
 
-(a) general features of the technical service, including corporate entity, name, addresses, legal status and technical resources;
+| 4.3. | The technical service shall notify to the competent authority any modifications to the information provided in accordance with point 4.1. |
+| --- | --- |
 
-(b) a detailed description, including curriculum vitae, of the personnel in charge of testing and of the managerial staff, setting out their educational qualifications and professional skills;
-
-(c) technical services which use virtual testing methods shall provide evidence of their ability to work in a Computer-Aided-x environment;
-
-(d) general information concerning the technical service, including its activities, its relationship in a larger corporate entity, if any, and addresses of all its physical location(s) to be covered by the scope of designation;
-
-(e) an agreement to fulfil the requirements for designation and the other obligations of the technical service as provided for in the relevant regulatory acts for which it is designated;
-
-(f) a description of the conformity assessment services that the technical service undertakes in the framework of the relevant regulatory acts and a list of the regulatory acts for which the technical service applies for designation, including limits of capability, where applicable;
-
-(g) a copy of the quality assurance manual of the technical service.
-
-4.2.
-
-The competent authority shall review the adequacy of the information provided by the technical service.
-
-4.3.
-
-The technical service shall notify to the competent authority any modifications to the information provided in accordance with point 4.1.
+5. **Resource review**
 
 The competent authority shall review its ability to carry out the assessment of the technical service, in terms of its own policy, its competence and the availability of suitable auditors and experts.
 
-**5.Resource review**
+6. **Subcontracting the assessment**
 
-**6.Subcontracting the assessment**
+| 6.1. | The competent authority may subcontract parts of the assessment to another competent authority or ask for support from technical experts provided by other competent authorities. The subcontractors and experts have to be accepted by the applicant technical service. |
+| --- | --- |
 
-6.1.
+| 6.2. | The competent authority shall take into account accreditation certificates with adequate scope in order to complete its global assessment of the technical service. |
+| --- | --- |
 
-The competent authority may subcontract parts of the assessment to another competent authority or ask for support from technical experts provided by other competent authorities. The subcontractors and experts have to be accepted by the applicant technical service.
+7. **Preparation for assessment**
 
-6.2.
+| 7.1. | The competent authority shall formally appoint a joint assessment team. The competent authority shall ensure that the expertise brought to each joint assessment team is appropriate. In particular, the joint assessment team as a whole shall have both:(a) appropriate knowledge of the specific scope for which designation is sought; and(b) sufficient understanding to reliably assess the competence of the technical service to operate within its scope of designation. |
+| --- | --- |
 
-The competent authority shall take into account accreditation certificates with adequate scope in order to complete its global assessment of the technical service.
+| 7.2. | The competent authority shall clearly define the assignment given to the joint assessment team. The task of the joint assessment team is to review the documents collected from the applicant technical service and to conduct the on-site assessment. |
+| --- | --- |
 
-**7.Preparation for assessment**
+| 7.3. | The competent authority shall agree, together with the technical service and the assigned assessment team, to the date and timetable for the assessment. However, it remains the responsibility of the competent authority to pursue a date that is in accordance with the surveillance and reassessment plan. |
+| --- | --- |
 
-7.1.The competent authority shall formally appoint a joint assessment team. The competent authority shall ensure that the expertise brought to each joint assessment team is appropriate. In particular, the joint assessment team as a whole shall have both:
+| 7.4. | The competent authority shall ensure that the joint assessment team is provided with the appropriate criteria documents, previous assessment records, and the relevant documents and records of the technical service. |
+| --- | --- |
 
-(a) appropriate knowledge of the specific scope for which designation is sought; and
-
-(b) sufficient understanding to reliably assess the competence of the technical service to operate within its scope of designation.
-
-7.2.
-
-The competent authority shall clearly define the assignment given to the joint assessment team. The task of the joint assessment team is to review the documents collected from the applicant technical service and to conduct the on-site assessment.
-
-7.3.
-
-The competent authority shall agree, together with the technical service and the assigned assessment team, to the date and timetable for the assessment. However, it remains the responsibility of the competent authority to pursue a date that is in accordance with the surveillance and reassessment plan.
-
-7.4.
-
-The competent authority shall ensure that the joint assessment team is provided with the appropriate criteria documents, previous assessment records, and the relevant documents and records of the technical service.
+8. **On-site assessment**
 
 The joint assessment team shall conduct the assessment of the technical service at the premises of the technical service from which one or more key activities are performed and, where relevant, shall perform eyewitness assessment at other selected locations where the technical service operates.
 
-**8.On-site assessment**
+9. **Analysis of findings and assessment report**
 
-**9.Analysis of findings and assessment report**
+| 9.1. | The joint assessment team shall analyse all relevant information and evidence gathered during the document and record review and the on-site assessment. That analysis shall be sufficient to allow the team to determine the extent of competence and conformity of the technical service with the requirements for designation. |
+| --- | --- |
 
-9.1.
+| 9.2. | The competent authority's reporting procedures shall ensure that the following requirements are fulfilled.9.2.1.A meeting shall take place between the joint assessment team and the technical service prior to leaving the site. At that meeting, the joint assessment team shall provide a written and/or oral report on its findings obtained from the analysis. An opportunity shall be provided for the technical service to ask questions about the findings, including non-compliance, if any, and its basis.9.2.2.A written report on the outcome of the assessment shall be promptly brought to the attention of the technical service. That assessment report shall contain comments on competence and compliance, and shall identify non-compliance, if any, to be resolved in order to conform to all of the requirements for designation.9.2.3.The technical service shall be invited to respond to the assessment report and to describe the specific actions taken or planned to be taken, within a specific period of time, to resolve any identified non-compliance. |
+| --- | --- |
+| 9.2.1. | A meeting shall take place between the joint assessment team and the technical service prior to leaving the site. At that meeting, the joint assessment team shall provide a written and/or oral report on its findings obtained from the analysis. An opportunity shall be provided for the technical service to ask questions about the findings, including non-compliance, if any, and its basis. |
+| 9.2.2. | A written report on the outcome of the assessment shall be promptly brought to the attention of the technical service. That assessment report shall contain comments on competence and compliance, and shall identify non-compliance, if any, to be resolved in order to conform to all of the requirements for designation. |
+| 9.2.3. | The technical service shall be invited to respond to the assessment report and to describe the specific actions taken or planned to be taken, within a specific period of time, to resolve any identified non-compliance. |
 
-The joint assessment team shall analyse all relevant information and evidence gathered during the document and record review and the on-site assessment. That analysis shall be sufficient to allow the team to determine the extent of competence and conformity of the technical service with the requirements for designation.
+| 9.3. | The competent authority shall ensure that the responses of the technical service are sufficient and effective to resolve non-compliance. If the technical service responses are found to be insufficient, further information shall be requested. Additionally, evidence of effective implementation of actions taken may be requested, or a follow-up assessment may be carried out, to verify effective implementation of corrective actions. |
+| --- | --- |
 
-9.2.The competent authority's reporting procedures shall ensure that the following requirements are fulfilled.
+| 9.4. | The assessment report shall include at least the following:(a) unique identification of the technical service;(b) date(s) of the on-site assessment;(c) name(s) of the auditors(s) and/or expert(s) involved in the assessment;(d) unique identification of all premises assessed;(e) proposed scope of designation that was assessed;(f) a statement on the adequacy of the internal organisation and procedures adopted by the technical service supporting its competence, as determined through its fulfilment of the requirements for designation;(g) information on resolving all non-compliance;(h) a recommendation of whether the applicant should be designated or confirmed as technical service and, if so, the scope of designation. |
+| --- | --- |
 
-9.2.1.
+10. **Granting, confirming or extending a designation**
 
-A meeting shall take place between the joint assessment team and the technical service prior to leaving the site. At that meeting, the joint assessment team shall provide a written and/or oral report on its findings obtained from the analysis. An opportunity shall be provided for the technical service to ask questions about the findings, including non-compliance, if any, and its basis.
+| 10.1. | The competent authority shall, without undue delay, make the decision on whether to grant, confirm or extend a designation on the basis of the assessment report(s) and any other relevant information. |
+| --- | --- |
 
-9.2.2.
+| 10.2. | The competent authority shall provide a certificate to the technical service. That certificate shall identify the following:(a) the identity and logo of the competent- authority;(b) the unique identity of the designated technical service;(c) the effective date of designation and the expiry date;(d) a brief indication of or a reference to the scope of designation (relevant regulatory acts or part of them);(e) a statement of conformity and a reference to this Regulation. |
+| --- | --- |
 
-A written report on the outcome of the assessment shall be promptly brought to the attention of the technical service. That assessment report shall contain comments on competence and compliance, and shall identify non-compliance, if any, to be resolved in order to conform to all of the requirements for designation.
+11. **Reassessment and surveillance**
 
-9.2.3.
+| 11.1. | Reassessment is similar to an initial assessment except that experience gained during previous assessments shall be taken into account. Surveillance on-site assessments are less comprehensive than reassessments. |
+| --- | --- |
 
-The technical service shall be invited to respond to the assessment report and to describe the specific actions taken or planned to be taken, within a specific period of time, to resolve any identified non-compliance.
+| 11.2. | The competent authority shall design its plan for reassessment and surveillance of each designated technical service so that representative samples of the scope of designation are assessed on a regular basis.The interval between on-site assessments, whether reassessment or surveillance, depends on the proven stability that the technical service has reached. |
+| --- | --- |
 
-9.3.
+| 11.3. | Where, during surveillance or reassessments, non-compliance is identified, the competent authority shall define strict time limits for corrective actions to be taken. |
+| --- | --- |
 
-The competent authority shall ensure that the responses of the technical service are sufficient and effective to resolve non-compliance. If the technical service responses are found to be insufficient, further information shall be requested. Additionally, evidence of effective implementation of actions taken may be requested, or a follow-up assessment may be carried out, to verify effective implementation of corrective actions.
+| 11.4. | Where the corrective or improvement actions have not been taken within the agreed time limit or are not deemed to be sufficient, the competent authority shall adopt appropriate measures, such as conducting a further assessment, or suspending or withdrawing the designation for one or more of the activities for which the technical service has been designated. |
+| --- | --- |
 
-9.4.The assessment report shall include at least the following:
+| 11.5. | Where the competent authority decides to suspend or withdraw the designation of a technical service, it shall inform the technical service of its decision by registered mail. In any case, the competent authority shall adopt all the necessary measures to ensure the continuity of the activities already undertaken by the technical service. |
+| --- | --- |
 
-(a) unique identification of the technical service;
+12. **Records on designated technical services**
 
-(b) date(s) of the on-site assessment;
+| 12.1. | The competent authority shall maintain records on technical services to demonstrate that the requirements for designation, including competence, have been effectively fulfilled. |
+| --- | --- |
 
-(c) name(s) of the auditors(s) and/or expert(s) involved in the assessment;
+| 12.2. | The competent authority shall keep the records on technical services secure to ensure confidentiality. |
+| --- | --- |
 
-(d) unique identification of all premises assessed;
-
-(e) proposed scope of designation that was assessed;
-
-(f) a statement on the adequacy of the internal organisation and procedures adopted by the technical service supporting its competence, as determined through its fulfilment of the requirements for designation;
-
-(g) information on resolving all non-compliance;
-
-(h) a recommendation of whether the applicant should be designated or confirmed as technical service and, if so, the scope of designation.
-
-**10.Granting, confirming or extending a designation**
-
-10.1.
-
-The competent authority shall, without undue delay, make the decision on whether to grant, confirm or extend a designation on the basis of the assessment report(s) and any other relevant information.
-
-10.2.The competent authority shall provide a certificate to the technical service. That certificate shall identify the following:
-
-(a) the identity and logo of the competent- authority;
-
-(b) the unique identity of the designated technical service;
-
-(c) the effective date of designation and the expiry date;
-
-(d) a brief indication of or a reference to the scope of designation (relevant regulatory acts or part of them);
-
-(e) a statement of conformity and a reference to this Regulation.
-
-**11.Reassessment and surveillance**
-
-11.1.
-
-Reassessment is similar to an initial assessment except that experience gained during previous assessments shall be taken into account. Surveillance on-site assessments are less comprehensive than reassessments.
-
-11.2.
-
-The competent authority shall design its plan for reassessment and surveillance of each designated technical service so that representative samples of the scope of designation are assessed on a regular basis.
-
-The interval between on-site assessments, whether reassessment or surveillance, depends on the proven stability that the technical service has reached.
-
-11.3.
-
-Where, during surveillance or reassessments, non-compliance is identified, the competent authority shall define strict time limits for corrective actions to be taken.
-
-11.4.
-
-Where the corrective or improvement actions have not been taken within the agreed time limit or are not deemed to be sufficient, the competent authority shall adopt appropriate measures, such as conducting a further assessment, or suspending or withdrawing the designation for one or more of the activities for which the technical service has been designated.
-
-11.5.
-
-Where the competent authority decides to suspend or withdraw the designation of a technical service, it shall inform the technical service of its decision by registered mail. In any case, the competent authority shall adopt all the necessary measures to ensure the continuity of the activities already undertaken by the technical service.
-
-**12.Records on designated technical services**
-
-12.1.
-
-The competent authority shall maintain records on technical services to demonstrate that the requirements for designation, including competence, have been effectively fulfilled.
-
-12.2.
-
-The competent authority shall keep the records on technical services secure to ensure confidentiality.
-
-12.3.Records on technical services shall include at least the following:
-
-(a) relevant correspondence;
-
-(b) assessment records and reports;
-
-(c) copies of designation certificates.
+| 12.3. | Records on technical services shall include at least the following:(a) relevant correspondence;(b) assessment records and reports;(c) copies of designation certificates. |
+| --- | --- |
 
 <a id="anx_iv"></a>
 
@@ -4960,141 +4166,89 @@ The competent authority shall keep the records on technical services secure to e
 
 **CONFORMITY OF PRODUCTION PROCEDURES**
 
-**1.Objectives**
+1. **Objectives**
 
-1.1.
-
-The conformity of production procedure aims to ensure that each vehicle, system, component and technical separate unit, part or equipment produced is in conformity with the approved type.
-
-1.2.
-
-The conformity of production procedure shall always include the assessment of quality-assurance management systems, referred to in point 2 as the ‘initial assessment’, and the verification of the type-approval subject and product-related controls, referred to in point 3 as ‘product conformity arrangements’.
-
-**2.Initial assessment**
-
-2.1.
-
-Before granting type-approval, the approval authority shall verify that the manufacturer has established satisfactory arrangements and procedures for ensuring that vehicles, systems, components, separate technical units or parts and equipment are produced in conformity with the approved type.
-
-2.2.
-
-Guidance for conducting those assessments may be found in standard EN ISO 19011:2011 — Guidelines for auditing management systems.
-
-2.3.Compliance with the requirements of point 2.1 shall be verified to the satisfaction of the approval authority, as follows:The approval authority shall be satisfied with the initial assessment and the product conformity arrangements referred to in point 3, taking into account one of the arrangements referred to in points 2.3.1 to 2.3.3, or a combination of those arrangements in full or in part as appropriate.
-
-2.3.1.The initial assessment and verification of product conformity arrangements shall be carried out by the approval authority or a body designated for that purpose by the approval authority.
-
-2.3.1.1.When considering the extent of the initial assessment to be carried out, the approval authority may take into account the following information:
-
-(a) whether the manufacturer has a certification similar to the one referred to in point 2.3.3, but which has not been qualified or recognised under that point;
-
-(b) in the case of a type-approval of a system, component or separate technical unit, quality system assessments that have been performed by vehicle manufacturer(s) in the premises of the manufacturer of the system, component or separate technical unit, in accordance with one or more of the industry sector specifications satisfying the requirements in the standard EN ISO 9001:2015 or ISO/TS16949:2009;
-
-(c) whether in one of the Member States one or more of the manufacturer's type-approvals recently have been withdrawn, due to unsatisfactory control of conformity of production. In that case, the initial assessment by the approval authority shall not be limited to accepting the manufacturer's quality system certification, but shall include a verification whether all necessary improvements for ensuring effective control have been implemented, so that vehicles, components, systems or separate technical units are produced in conformity with the approved type.
-
-2.3.2.The initial assessment and verification of product conformity arrangements may be carried out by the approval authority of another Member State or by the body designated for that purpose by the approval authority.
-
-2.3.2.1.
-
-The approval authority of that other Member State shall in that case prepare a statement of compliance, which outlines the areas and production facilities that that approval authority has covered as relevant to the product(s) to be type-approved and to the regulatory acts in accordance with which these products are to be type-approved.
-
-2.3.2.2.
-
-Upon receiving a request for a statement of compliance from the approval authority of a Member State granting type-approval, the approval authority of another Member State shall immediately send that statement of compliance or inform that approval authority that is unable to provide such a statement.
-
-2.3.2.3.The statement of compliance shall include at least the following:
-
-| (a)Group or company | (e.g. XYZ Automotive) |
+| 1.1. | The conformity of production procedure aims to ensure that each vehicle, system, component and technical separate unit, part or equipment produced is in conformity with the approved type. |
 | --- | --- |
-| (b)Particular organisation | (e.g. regional Division) |
-| (c)Plants/Sites | (e.g. Engine Plant 1 (in country A) — Vehicle Plant 2 (in country B)) |
-| (d)Vehicle/Component range | (e.g. All Category M_1 models) |
-| (e)Areas assessed | (e.g. Engine assembly, body pressing and assembly, vehicle assembly) |
-| (f)Documents examined | (e.g. Company and site quality manual and procedures) |
-| (g)Date of the assessment | (e.g. Audit conducted from dd/mm/yyyy to dd/mm/yyyy) |
-| (h)Planned monitoring visit | (e.g. mm/yyyy) |
 
-2.3.3.
+| 1.2. | The conformity of production procedure shall always include the assessment of quality-assurance management systems, referred to in point 2 as the ‘initial assessment’, and the verification of the type-approval subject and product-related controls, referred to in point 3 as ‘product conformity arrangements’. |
+| --- | --- |
 
-An approval authority may also accept the manufacturer's certification to standards EN ISO 9001:2015 or ISO/TS16949:2009 (the scope of that certification shall in that case cover the product(s) to be approved), or an equivalent certification standard as satisfying the initial assessment requirements of point 2.3., provided that conformity of production is indeed covered by the quality management system and that the manufacturer's type-approval has not been withdrawn as referred to in point 2.3.1.1.(c). The manufacturer shall provide details of the certification and inform the approval authority of any revisions to its validity or scope.
+2. **Initial assessment**
 
-2.4.
+| 2.1. | Before granting type-approval, the approval authority shall verify that the manufacturer has established satisfactory arrangements and procedures for ensuring that vehicles, systems, components, separate technical units or parts and equipment are produced in conformity with the approved type. |
+| --- | --- |
 
-For the purpose of vehicle type-approval, the initial assessments carried out for the granting of type-approvals for systems, components and separate technical units of the vehicle need not be repeated, but shall be completed by an assessment of the locations and activities relating to the assembly of the whole vehicle that have not been covered by the initial assessments.
+| 2.2. | Guidance for conducting those assessments may be found in standard EN ISO 19011:2011 — Guidelines for auditing management systems. |
+| --- | --- |
 
-**3.Product conformity arrangements**
+| 2.3. | Compliance with the requirements of point 2.1 shall be verified to the satisfaction of the approval authority, as follows:The approval authority shall be satisfied with the initial assessment and the product conformity arrangements referred to in point 3, taking into account one of the arrangements referred to in points 2.3.1 to 2.3.3, or a combination of those arrangements in full or in part as appropriate.2.3.1.The initial assessment and verification of product conformity arrangements shall be carried out by the approval authority or a body designated for that purpose by the approval authority.2.3.1.1.When considering the extent of the initial assessment to be carried out, the approval authority may take into account the following information:(a) whether the manufacturer has a certification similar to the one referred to in point 2.3.3, but which has not been qualified or recognised under that point;(b) in the case of a type-approval of a system, component or separate technical unit, quality system assessments that have been performed by vehicle manufacturer(s) in the premises of the manufacturer of the system, component or separate technical unit, in accordance with one or more of the industry sector specifications satisfying the requirements in the standard EN ISO 9001:2015 or ISO/TS16949:2009;(c) whether in one of the Member States one or more of the manufacturer's type-approvals recently have been withdrawn, due to unsatisfactory control of conformity of production. In that case, the initial assessment by the approval authority shall not be limited to accepting the manufacturer's quality system certification, but shall include a verification whether all necessary improvements for ensuring effective control have been implemented, so that vehicles, components, systems or separate technical units are produced in conformity with the approved type.2.3.2.The initial assessment and verification of product conformity arrangements may be carried out by the approval authority of another Member State or by the body designated for that purpose by the approval authority.2.3.2.1.The approval authority of that other Member State shall in that case prepare a statement of compliance, which outlines the areas and production facilities that that approval authority has covered as relevant to the product(s) to be type-approved and to the regulatory acts in accordance with which these products are to be type-approved.2.3.2.2.Upon receiving a request for a statement of compliance from the approval authority of a Member State granting type-approval, the approval authority of another Member State shall immediately send that statement of compliance or inform that approval authority that is unable to provide such a statement.2.3.2.3.The statement of compliance shall include at least the following:(a) Group or company(e.g. XYZ Automotive)(b) Particular organisation(e.g. regional Division)(c) Plants/Sites(e.g. Engine Plant 1 (in country A) — Vehicle Plant 2 (in country B))(d) Vehicle/Component range(e.g. All Category M1 models)(e) Areas assessed(e.g. Engine assembly, body pressing and assembly, vehicle assembly)(f) Documents examined(e.g. Company and site quality manual and procedures)(g) Date of the assessment(e.g. Audit conducted from dd/mm/yyyy to dd/mm/yyyy)(h) Planned monitoring visit(e.g. mm/yyyy)2.3.3.An approval authority may also accept the manufacturer's certification to standards EN ISO 9001:2015 or ISO/TS16949:2009 (the scope of that certification shall in that case cover the product(s) to be approved), or an equivalent certification standard as satisfying the initial assessment requirements of point 2.3., provided that conformity of production is indeed covered by the quality management system and that the manufacturer's type-approval has not been withdrawn as referred to in point 2.3.1.1.(c). The manufacturer shall provide details of the certification and inform the approval authority of any revisions to its validity or scope. |
+| --- | --- |
+| 2.3.1. | The initial assessment and verification of product conformity arrangements shall be carried out by the approval authority or a body designated for that purpose by the approval authority.2.3.1.1.When considering the extent of the initial assessment to be carried out, the approval authority may take into account the following information:(a) whether the manufacturer has a certification similar to the one referred to in point 2.3.3, but which has not been qualified or recognised under that point;(b) in the case of a type-approval of a system, component or separate technical unit, quality system assessments that have been performed by vehicle manufacturer(s) in the premises of the manufacturer of the system, component or separate technical unit, in accordance with one or more of the industry sector specifications satisfying the requirements in the standard EN ISO 9001:2015 or ISO/TS16949:2009;(c) whether in one of the Member States one or more of the manufacturer's type-approvals recently have been withdrawn, due to unsatisfactory control of conformity of production. In that case, the initial assessment by the approval authority shall not be limited to accepting the manufacturer's quality system certification, but shall include a verification whether all necessary improvements for ensuring effective control have been implemented, so that vehicles, components, systems or separate technical units are produced in conformity with the approved type. |
+| 2.3.1.1. | When considering the extent of the initial assessment to be carried out, the approval authority may take into account the following information:(a) whether the manufacturer has a certification similar to the one referred to in point 2.3.3, but which has not been qualified or recognised under that point;(b) in the case of a type-approval of a system, component or separate technical unit, quality system assessments that have been performed by vehicle manufacturer(s) in the premises of the manufacturer of the system, component or separate technical unit, in accordance with one or more of the industry sector specifications satisfying the requirements in the standard EN ISO 9001:2015 or ISO/TS16949:2009;(c) whether in one of the Member States one or more of the manufacturer's type-approvals recently have been withdrawn, due to unsatisfactory control of conformity of production. In that case, the initial assessment by the approval authority shall not be limited to accepting the manufacturer's quality system certification, but shall include a verification whether all necessary improvements for ensuring effective control have been implemented, so that vehicles, components, systems or separate technical units are produced in conformity with the approved type. |
+| 2.3.2. | The initial assessment and verification of product conformity arrangements may be carried out by the approval authority of another Member State or by the body designated for that purpose by the approval authority.2.3.2.1.The approval authority of that other Member State shall in that case prepare a statement of compliance, which outlines the areas and production facilities that that approval authority has covered as relevant to the product(s) to be type-approved and to the regulatory acts in accordance with which these products are to be type-approved.2.3.2.2.Upon receiving a request for a statement of compliance from the approval authority of a Member State granting type-approval, the approval authority of another Member State shall immediately send that statement of compliance or inform that approval authority that is unable to provide such a statement.2.3.2.3.The statement of compliance shall include at least the following:(a) Group or company(e.g. XYZ Automotive)(b) Particular organisation(e.g. regional Division)(c) Plants/Sites(e.g. Engine Plant 1 (in country A) — Vehicle Plant 2 (in country B))(d) Vehicle/Component range(e.g. All Category M1 models)(e) Areas assessed(e.g. Engine assembly, body pressing and assembly, vehicle assembly)(f) Documents examined(e.g. Company and site quality manual and procedures)(g) Date of the assessment(e.g. Audit conducted from dd/mm/yyyy to dd/mm/yyyy)(h) Planned monitoring visit(e.g. mm/yyyy) |
+| 2.3.2.1. | The approval authority of that other Member State shall in that case prepare a statement of compliance, which outlines the areas and production facilities that that approval authority has covered as relevant to the product(s) to be type-approved and to the regulatory acts in accordance with which these products are to be type-approved. |
+| 2.3.2.2. | Upon receiving a request for a statement of compliance from the approval authority of a Member State granting type-approval, the approval authority of another Member State shall immediately send that statement of compliance or inform that approval authority that is unable to provide such a statement. |
+| 2.3.2.3. | The statement of compliance shall include at least the following:(a) Group or company(e.g. XYZ Automotive)(b) Particular organisation(e.g. regional Division)(c) Plants/Sites(e.g. Engine Plant 1 (in country A) — Vehicle Plant 2 (in country B))(d) Vehicle/Component range(e.g. All Category M1 models)(e) Areas assessed(e.g. Engine assembly, body pressing and assembly, vehicle assembly)(f) Documents examined(e.g. Company and site quality manual and procedures)(g) Date of the assessment(e.g. Audit conducted from dd/mm/yyyy to dd/mm/yyyy)(h) Planned monitoring visit(e.g. mm/yyyy) |
+| (a) Group or company | (e.g. XYZ Automotive) |
+| (b) Particular organisation | (e.g. regional Division) |
+| (c) Plants/Sites | (e.g. Engine Plant 1 (in country A) — Vehicle Plant 2 (in country B)) |
+| (d) Vehicle/Component range | (e.g. All Category M1 models) |
+| (e) Areas assessed | (e.g. Engine assembly, body pressing and assembly, vehicle assembly) |
+| (f) Documents examined | (e.g. Company and site quality manual and procedures) |
+| (g) Date of the assessment | (e.g. Audit conducted from dd/mm/yyyy to dd/mm/yyyy) |
+| (h) Planned monitoring visit | (e.g. mm/yyyy) |
+| 2.3.3. | An approval authority may also accept the manufacturer's certification to standards EN ISO 9001:2015 or ISO/TS16949:2009 (the scope of that certification shall in that case cover the product(s) to be approved), or an equivalent certification standard as satisfying the initial assessment requirements of point 2.3., provided that conformity of production is indeed covered by the quality management system and that the manufacturer's type-approval has not been withdrawn as referred to in point 2.3.1.1.(c). The manufacturer shall provide details of the certification and inform the approval authority of any revisions to its validity or scope. |
 
-3.1.
+| 2.4. | For the purpose of vehicle type-approval, the initial assessments carried out for the granting of type-approvals for systems, components and separate technical units of the vehicle need not be repeated, but shall be completed by an assessment of the locations and activities relating to the assembly of the whole vehicle that have not been covered by the initial assessments. |
+| --- | --- |
 
-Every vehicle, system, component or separate technical unit, part or item of equipment approved pursuant to a UN Regulation annexed to the Revised 1958 Agreement and to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of this Annex, the said UN Regulation and this Regulation.
+3. **Product conformity arrangements**
 
-3.2.
+| 3.1. | Every vehicle, system, component or separate technical unit, part or item of equipment approved pursuant to a UN Regulation annexed to the Revised 1958 Agreement and to this Regulation shall be so manufactured as to conform to the type approved by meeting the requirements of this Annex, the said UN Regulation and this Regulation. |
+| --- | --- |
 
-Before granting a type-approval pursuant to this Regulation and to a UN Regulation annexed to the Revised 1958 Agreement, the approval authority shall verify the existence of adequate product conformity arrangements and documented control plans, to be agreed with the manufacturer for each approval, to carry out at specified intervals the tests or associated checks that are necessary to verify continued conformity with the approved type, including, where applicable, tests specified in this Regulation and the said UN Regulation.
+| 3.2. | Before granting a type-approval pursuant to this Regulation and to a UN Regulation annexed to the Revised 1958 Agreement, the approval authority shall verify the existence of adequate product conformity arrangements and documented control plans, to be agreed with the manufacturer for each approval, to carry out at specified intervals the tests or associated checks that are necessary to verify continued conformity with the approved type, including, where applicable, tests specified in this Regulation and the said UN Regulation. |
+| --- | --- |
 
-3.3.The holder of the type-approval shall, in particular:
+| 3.3. | The holder of the type-approval shall, in particular:3.3.1. ensure the existence and application of procedures for effective control of the conformity of vehicles, systems, components, separate technical units, parts or equipment to the approved type;3.3.2. have access to the testing or other appropriate equipment necessary for checking the conformity to each approved type;3.3.3. ensure that the data resulting from tests or checks are recorded and that annexed documents remain available for a period of up to 10 years to be determined in agreement with the approval authority;3.3.4. analyse the results of each type of test or check, in order to verify and ensure the stability of the product characteristics, making allowance for variation of an industrial production;3.3.5. ensure that for each type of product, at least the checks prescribed in this Regulation and the tests prescribed in the relevant regulatory acts listed in Annex II are carried out;3.3.6. ensure that any set of samples or test pieces that gives evidence of non-conformity in the type of test in question, gives rise to a further sampling and testing. All the necessary steps shall be taken to restore the production process to ensure conformity with the approved type. |
+| --- | --- |
 
-3.3.1. ensure the existence and application of procedures for effective control of the conformity of vehicles, systems, components, separate technical units, parts or equipment to the approved type;
+| 3.4. | In the case of step-by-step, mixed or multi-stage type-approvals, the approval authority that is granting a whole-vehicle type-approval may request from any approval authority that has granted type-approval of any relevant system, component or separate technical unit specific details regarding compliance with the conformity of production requirements set out in this Annex. |
+| --- | --- |
 
-3.3.2. have access to the testing or other appropriate equipment necessary for checking the conformity to each approved type;
+| 3.5. | The approval authority that is granting a whole-vehicle type-approval and is not satisfied with the reported information referred to in point 3.4., and that has communicated this in writing to the relevant manufacturer and to the approval authority granting the type-approval for the system, component or separate technical unit, shall request the performance of additional conformity of production audits or checks, which shall be performed at the site of the manufacturer(s) of those systems, components or separate technical units. The results of this additional conformity of production audits or checks shall immediately be made available to that approval authority. |
+| --- | --- |
 
-3.3.3. ensure that the data resulting from tests or checks are recorded and that annexed documents remain available for a period of up to 10 years to be determined in agreement with the approval authority;
+| 3.6. | Where points 3.4. and 3.5. apply and the approval authority granting the whole-vehicle type-approval has not been satisfied with the additional audit or check results, the manufacturer shall ensure that conformity of production is restored as soon as possible to the satisfaction of that approval authority and of the approval authority granting type-approval of the system, component or separate technical unit. |
+| --- | --- |
 
-3.3.4. analyse the results of each type of test or check, in order to verify and ensure the stability of the product characteristics, making allowance for variation of an industrial production;
+4. **Continued verification arrangements**
 
-3.3.5. ensure that for each type of product, at least the checks prescribed in this Regulation and the tests prescribed in the relevant regulatory acts listed in Annex II are carried out;
+| 4.1. | The approval authority that has granted type-approval may at any time verify the conformity control methods applied in each production facility by means of periodic audits. The manufacturer shall for that purpose allow access to that authority to the manufacturing, inspection, testing, storage and distribution sites and shall provide all necessary information with regard to the quality management system documentation and records.4.1.1.The normal arrangements for such periodic audits shall be to monitor the continued effectiveness of the procedures laid down in points 2 and 3 (initial assessment and product conformity arrangements).4.1.1.1.Surveillance activities carried out by the technical services (qualified or recognised as required in point 2.3.3) shall be accepted as satisfying the requirement of point 4.1.1 with regard to the procedures established at initial assessment.4.1.1.2.The normal frequency of verifications by the approval authority (other than those referred to in point 4.1.1.1) shall be such as to ensure that the relevant controls applied in accordance with points 2 and 3 are reviewed at intervals based on a risk assessment methodology that complies with the international standard ISO 31000:2018 – Risk Management – Principles and Guidelines, and such verification shall in any case be conducted at least once every three years. This methodology shall in particular take into account any non-conformity raised by other Member States in the context of Article 54(1). |
+| --- | --- |
+| 4.1.1. | The normal arrangements for such periodic audits shall be to monitor the continued effectiveness of the procedures laid down in points 2 and 3 (initial assessment and product conformity arrangements).4.1.1.1.Surveillance activities carried out by the technical services (qualified or recognised as required in point 2.3.3) shall be accepted as satisfying the requirement of point 4.1.1 with regard to the procedures established at initial assessment.4.1.1.2.The normal frequency of verifications by the approval authority (other than those referred to in point 4.1.1.1) shall be such as to ensure that the relevant controls applied in accordance with points 2 and 3 are reviewed at intervals based on a risk assessment methodology that complies with the international standard ISO 31000:2018 – Risk Management – Principles and Guidelines, and such verification shall in any case be conducted at least once every three years. This methodology shall in particular take into account any non-conformity raised by other Member States in the context of Article 54(1). |
+| 4.1.1.1. | Surveillance activities carried out by the technical services (qualified or recognised as required in point 2.3.3) shall be accepted as satisfying the requirement of point 4.1.1 with regard to the procedures established at initial assessment. |
+| 4.1.1.2. | The normal frequency of verifications by the approval authority (other than those referred to in point 4.1.1.1) shall be such as to ensure that the relevant controls applied in accordance with points 2 and 3 are reviewed at intervals based on a risk assessment methodology that complies with the international standard ISO 31000:2018 – Risk Management – Principles and Guidelines, and such verification shall in any case be conducted at least once every three years. This methodology shall in particular take into account any non-conformity raised by other Member States in the context of Article 54(1). |
 
-3.3.6. ensure that any set of samples or test pieces that gives evidence of non-conformity in the type of test in question, gives rise to a further sampling and testing. All the necessary steps shall be taken to restore the production process to ensure conformity with the approved type.
+| 4.2. | At every review, records of tests or checks and records of production, in particular records of those tests or checks documented as required in point 2.2, shall be made available to the inspector. |
+| --- | --- |
 
-3.4.
+| 4.3. | The inspector may select samples at random manner to be tested in the manufacturer's laboratory or in the facilities of the technical service. In such a case only physical test shall be carried out. The minimum number of samples may be determined on the basis of the results of the manufacturer's own verification. |
+| --- | --- |
 
-In the case of step-by-step, mixed or multi-stage type-approvals, the approval authority that is granting a whole-vehicle type-approval may request from any approval authority that has granted type-approval of any relevant system, component or separate technical unit specific details regarding compliance with the conformity of production requirements set out in this Annex.
+| 4.4. | The inspector who is of the opinion that the level of control is unsatisfactory, or who deems it necessary to verify the validity of the tests carried out in accordance with point 4.2, shall select samples to be sent to a technical service to perform physical tests in accordance with the requirements on conformity of production, set out in the regulatory acts listed in Annex II. |
+| --- | --- |
 
-3.5.
+| 4.5. | Where unsatisfactory results are found during an inspection or a monitoring review, the approval authority shall take all necessary steps to ensure that the manufacturer restores the conformity of production as rapidly as possible. |
+| --- | --- |
 
-The approval authority that is granting a whole-vehicle type-approval and is not satisfied with the reported information referred to in point 3.4., and that has communicated this in writing to the relevant manufacturer and to the approval authority granting the type-approval for the system, component or separate technical unit, shall request the performance of additional conformity of production audits or checks, which shall be performed at the site of the manufacturer(s) of those systems, components or separate technical units. The results of this additional conformity of production audits or checks shall immediately be made available to that approval authority.
+| 4.6. | In cases where compliance with UN Regulations is required by this Regulation, the manufacturer may choose to apply this Annex as an equivalent alternative to the conformity of production requirements in the respective UN Regulations. However, if points 4.4. or 4.5. apply, all separate conformity of production requirements in the UN Regulations have to be complied with to the satisfaction of the approval authority until it decides that conformity of production has been restored. |
+| --- | --- |
 
-3.6.
-
-Where points 3.4. and 3.5. apply and the approval authority granting the whole-vehicle type-approval has not been satisfied with the additional audit or check results, the manufacturer shall ensure that conformity of production is restored as soon as possible to the satisfaction of that approval authority and of the approval authority granting type-approval of the system, component or separate technical unit.
-
-**4.Continued verification arrangements**
-
-4.1.The approval authority that has granted type-approval may at any time verify the conformity control methods applied in each production facility by means of periodic audits. The manufacturer shall for that purpose allow access to that authority to the manufacturing, inspection, testing, storage and distribution sites and shall provide all necessary information with regard to the quality management system documentation and records.
-
-4.1.1.The normal arrangements for such periodic audits shall be to monitor the continued effectiveness of the procedures laid down in points 2 and 3 (initial assessment and product conformity arrangements).
-
-4.1.1.1.
-
-Surveillance activities carried out by the technical services (qualified or recognised as required in point 2.3.3) shall be accepted as satisfying the requirement of point 4.1.1 with regard to the procedures established at initial assessment.
-
-4.1.1.2.
-
-The normal frequency of verifications by the approval authority (other than those referred to in point 4.1.1.1) shall be such as to ensure that the relevant controls applied in accordance with points 2 and 3 are reviewed at intervals based on a risk assessment methodology that complies with the international standard ISO 31000:2018 – Risk Management – Principles and Guidelines, and such verification shall in any case be conducted at least once every three years. This methodology shall in particular take into account any non-conformity raised by other Member States in the context of Article 54(1).
-
-4.2.
-
-At every review, records of tests or checks and records of production, in particular records of those tests or checks documented as required in point 2.2, shall be made available to the inspector.
-
-4.3.
-
-The inspector may select samples at random manner to be tested in the manufacturer's laboratory or in the facilities of the technical service. In such a case only physical test shall be carried out. The minimum number of samples may be determined on the basis of the results of the manufacturer's own verification.
-
-4.4.
-
-The inspector who is of the opinion that the level of control is unsatisfactory, or who deems it necessary to verify the validity of the tests carried out in accordance with point 4.2, shall select samples to be sent to a technical service to perform physical tests in accordance with the requirements on conformity of production, set out in the regulatory acts listed in Annex II.
-
-4.5.
-
-Where unsatisfactory results are found during an inspection or a monitoring review, the approval authority shall take all necessary steps to ensure that the manufacturer restores the conformity of production as rapidly as possible.
-
-4.6.
-
-In cases where compliance with UN Regulations is required by this Regulation, the manufacturer may choose to apply this Annex as an equivalent alternative to the conformity of production requirements in the respective UN Regulations. However, if points 4.4. or 4.5. apply, all separate conformity of production requirements in the UN Regulations have to be complied with to the satisfaction of the approval authority until it decides that conformity of production has been restored.
+5. **Arrangements concerning software update**
 
 The software update management system of the manufacturer as well as the whole vehicle type shall comply with the requirements as set out in UN Regulation 156.
-
-**5.Arrangements concerning software update**
 
 <a id="anx_v"></a>
 
@@ -5102,35 +4256,33 @@ The software update management system of the manufacturer as well as the whole v
 
 **SMALL SERIES AND END-OF-SERIES LIMITS**
 
-**A.SMALL SERIES QUANTITIVE ANNUAL LIMITS**
+A. **SMALL SERIES QUANTITIVE ANNUAL LIMITS**
 
-1.The number of units of one type of vehicle to be registered, made available on the market or entered into service annually in the Union shall not exceed, pursuant to Article 41, the quantitive annual limits shown in the following table for the vehicle category in question:
-
-| Category | Units |
+| 1. | The number of units of one type of vehicle to be registered, made available on the market or entered into service annually in the Union shall not exceed, pursuant to Article 41, the quantitive annual limits shown in the following table for the vehicle category in question:▼M4CategoryUnitsM11 500 M2, M30 until the date of application of the delegated acts referred to in Article 41(5).For fully automated vehicles produced in small series:1 500 from 6 December 2022N11 500 N2, N30 until the date of application of the delegated acts referred to in Article 41(5).For fully automated vehicles produced in small series:1 500 from 6 December 2022O1, O20O3, O40▼B |
 | --- | --- |
-| M_1 | 1500 |
-| M_2, M_3 | 0 until the date of application of the delegated acts referred to in Article 41(5).For fully automated vehicles produced in small series:1500 from 6 December 2022 |
-| N_1 | 1500 |
-| N_2, N_3 | 0 until the date of application of the delegated acts referred to in Article 41(5).For fully automated vehicles produced in small series:1500 from 6 December 2022 |
-| O_1, O_2 | 0 |
-| O_3, O_4 | 0 |
-
-2.The number of units of one type of vehicle to be registered, made available on the market or entered into service annually in a Member State, shall be determined by that Member State but shall not exceed, pursuant to Article 42, the quantitative annual limits shown in the following table for the vehicle category in question:
-
 | Category | Units |
+| M1 | 1 500 |
+| M2, M3 | 0 until the date of application of the delegated acts referred to in Article 41(5).For fully automated vehicles produced in small series:1 500 from 6 December 2022 |
+| N1 | 1 500 |
+| N2, N3 | 0 until the date of application of the delegated acts referred to in Article 41(5).For fully automated vehicles produced in small series:1 500 from 6 December 2022 |
+| O1, O2 | 0 |
+| O3, O4 | 0 |
+
+| 2. | The number of units of one type of vehicle to be registered, made available on the market or entered into service annually in a Member State, shall be determined by that Member State but shall not exceed, pursuant to Article 42, the quantitative annual limits shown in the following table for the vehicle category in question:CategoryUnitsM1250M2, M3250N1250N2, N3250O1, O2500O3, O4250 |
 | --- | --- |
-| M_1 | 250 |
-| M_2, M_3 | 250 |
-| N_1 | 250 |
-| N_2, N_3 | 250 |
-| O_1, O_2 | 500 |
-| O_3, O_4 | 250 |
+| Category | Units |
+| M1 | 250 |
+| M2, M3 | 250 |
+| N1 | 250 |
+| N2, N3 | 250 |
+| O1, O2 | 500 |
+| O3, O4 | 250 |
+
+B. **END-OF-SERIES LIMITS**
 
 The maximum number of complete and completed vehicles entered into service in each Member State under the procedure ‘End-of-Series’ shall be restricted in one of the following ways to be chosen by the Member State:
 
-**B.END-OF-SERIES LIMITS**
-
-1. The maximum number of vehicles of one or more types may, in the case of category M_1, not exceed 10 % and in the case of all other categories not exceed 30 % of the vehicles of all types concerned entered into service in that Member State during the previous year. Should 10 %, respectively 30 %, be less than 100 vehicles, then the Member State may allow the entry into service of a maximum of 100 vehicles.
+1. The maximum number of vehicles of one or more types may, in the case of category M1, not exceed 10 % and in the case of all other categories not exceed 30 % of the vehicles of all types concerned entered into service in that Member State during the previous year. Should 10 %, respectively 30 %, be less than 100 vehicles, then the Member State may allow the entry into service of a maximum of 100 vehicles.
 
 2. Vehicles of any one type shall be restricted to those for which a valid certificate of conformity was issued on or after the date of manufacture of the vehicle and which remained valid for at least three months after its date of issue but subsequently lost its validity due to the entry into force of a regulatory act.
 
@@ -5140,7 +4292,7 @@ The maximum number of complete and completed vehicles entered into service in ea
 
 **LIST OF PARTS OR EQUIPMENT THAT MAY POSE A SERIOUS RISK TO THE CORRECT FUNCTIONING OF SYSTEMS THAT ARE ESSENTIAL FOR THE SAFETY OF THE VEHICLE OR ITS ENVIRONMENTAL PERFORMANCE, THE PERFORMANCE REQUIREMENTS OF SUCH PARTS AND EQUIPMENT, THE APPROPRIATE TEST PROCEDURES, AND MARKING AND PACKAGING PROVISIONS**
 
-**I.Parts or equipment having a significant impact on vehicle safety**
+I. **Parts or equipment having a significant impact on vehicle safety**
 
 | Item No | Item description | Performance requirement | Test procedure | Marking requirement | Packaging requirements |
 | --- | --- | --- | --- | --- | --- |
@@ -5148,7 +4300,7 @@ The maximum number of complete and completed vehicles entered into service in ea
 | 2 |  |  |  |  |  |
 | 3 |  |  |  |  |  |
 
-**II.Parts or equipment having a significant impact on the environmental performance of the vehicle**
+II. **Parts or equipment having a significant impact on the environmental performance of the vehicle**
 
 | Item No | Item description | Performance requirement | Test procedure | Marking requirement | Packaging requirements |
 | --- | --- | --- | --- | --- | --- |
@@ -5162,31 +4314,23 @@ The maximum number of complete and completed vehicles entered into service in ea
 
 **REGULATORY ACTS FOR WHICH A MANUFACTURER MAY BE DESIGNATED AS A TECHNICAL SERVICE**
 
-**1.Objectives and scope**
+1. **Objectives and scope**
 
-1.1.
+| 1.1. | This Annex lays down the list of the regulatory acts for which an in-house technical service of a manufacturer may be designated as a technical service in accordance with Article 72(1). |
+| --- | --- |
 
-This Annex lays down the list of the regulatory acts for which an in-house technical service of a manufacturer may be designated as a technical service in accordance with Article 72(1).
+| 1.2. | It also includes appropriate provisions concerning the designation of an in-house technical service of a manufacturer as technical service, to be applied in the framework of the type-approval of vehicles, components and separate technical units concerned by Part I of Annex II. |
+| --- | --- |
 
-1.2.
+| 1.3. | This Annex however does not apply to manufacturers who apply for the EU type-approval of vehicles produced in small series, as referred to in Article 41. |
+| --- | --- |
 
-It also includes appropriate provisions concerning the designation of an in-house technical service of a manufacturer as technical service, to be applied in the framework of the type-approval of vehicles, components and separate technical units concerned by Part I of Annex II.
+2. **Designation of an in-house technical service of a manufacturer as a technical service**
 
-1.3.
+| 2.1. | An in-house technical service of a manufacturer designated as a technical service is a manufacturer which has been designated by the type-approval authority as a testing laboratory to carry out on its behalf the approval tests.The expression ‘to carry out tests’ is not restricted to the measurement of performances, but also covers the registration of test results and the submission to the type-approval authority of a report, including the relevant conclusions.It also covers the checking of compliance with those provisions that do not necessarily require measurement. This is the case for the assessment whether the design complies with the legislative requirements. |
+| --- | --- |
 
-This Annex however does not apply to manufacturers who apply for the EU type-approval of vehicles produced in small series, as referred to in Article 41.
-
-**2.Designation of an in-house technical service of a manufacturer as a technical service**
-
-2.1.
-
-An in-house technical service of a manufacturer designated as a technical service is a manufacturer which has been designated by the type-approval authority as a testing laboratory to carry out on its behalf the approval tests.
-
-The expression ‘to carry out tests’ is not restricted to the measurement of performances, but also covers the registration of test results and the submission to the type-approval authority of a report, including the relevant conclusions.
-
-It also covers the checking of compliance with those provisions that do not necessarily require measurement. This is the case for the assessment whether the design complies with the legislative requirements.
-
-**3.List of regulatory acts and restrictions**
+3. **List of regulatory acts and restrictions**
 
 |  | Subject | Regulatory act reference |
 | --- | --- | --- |
@@ -5204,75 +4348,42 @@ It also covers the checking of compliance with those provisions that do not nece
 | 44A | Masses and dimensions | Regulation (EC) No 661/2009Regulation (EU) No 1230/2012 |
 | 45A | Safety glazing materials and their installation on vehicles | Regulation (EC) No 661/2009UN Regulation No 43Restricted to the provisions included in Annex 21 |
 | 46A | Installation of tyres | Regulation (EC) No 661/2009Regulation (EU) No 458/2011 |
+| ▼M3 |  |  |
 | 46B | Rolling resistance determination | Regulation (EU) 2017/2400, Annex X |
+| ▼B |  |  |
 | 48A | Masses and dimensions | Regulation (EC) No 661/2009Regulation (EU) No 1230/2012 |
 | 49A | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Regulation (EC) No 661/2009UN Regulation No 61 |
 | 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009UN Regulation No 55Restricted to the provisions included in Annex 5 (up to and including paragraph 8) and Annex 7 |
 | 61 | Air-conditioning system | Directive 2006/40/EC |
 
-**Designation of an in-house technical service of a manufacturer as technical service and subcontracting**
-
-**1.General**
-
-1.1.
-
-The designation and notification of an in-house technical service of a manufacturer as a technical service shall be made in accordance with Articles 68 to 81 and any subcontracting shall be done in accordance with this Appendix.
-
-**2.Subcontracting**
-
-2.1.
-
-In accordance with Article 71(1), a technical service may nominate a subcontractor for performing tests on his behalf.
-
-2.2.
-
-For the purposes of this Appendix ‘Subcontractor’ means either a subsidiary of the technical service that has been entrusted by that technical service with testing activities inside its own organisation or a third party under contract with that technical service to perform test activities.
-
-2.3.
-
-The use of the services of a subcontractor does not release the technical service from its obligation to comply with Articles 69, 70, 80 and 81, and in particular with those concerning the skills of the technical services and compliance with Standard EN ISO/IEC 17025:2005.
-
-2.4.
-
-Point 2 of Annex VII shall apply to the subcontractor.
-
-Test reports shall be drafted in accordance with the implementing acts referred to in Article 30(3).
-
-**3.Test report**
-
 <a id="appendix"></a>
 
 ### Appendix
 
-**Designation of an in-house technical service of a manufacturer as technical service and subcontracting**
+Designation of an in-house technical service of a manufacturer as technical service and subcontracting
 
-**1.General**
+1. **General**
 
-1.1.
+| 1.1. | The designation and notification of an in-house technical service of a manufacturer as a technical service shall be made in accordance with Articles 68 to 81 and any subcontracting shall be done in accordance with this Appendix. |
+| --- | --- |
 
-The designation and notification of an in-house technical service of a manufacturer as a technical service shall be made in accordance with Articles 68 to 81 and any subcontracting shall be done in accordance with this Appendix.
+2. **Subcontracting**
 
-**2.Subcontracting**
+| 2.1. | In accordance with Article 71(1), a technical service may nominate a subcontractor for performing tests on his behalf. |
+| --- | --- |
 
-2.1.
+| 2.2. | For the purposes of this Appendix ‘Subcontractor’ means either a subsidiary of the technical service that has been entrusted by that technical service with testing activities inside its own organisation or a third party under contract with that technical service to perform test activities. |
+| --- | --- |
 
-In accordance with Article 71(1), a technical service may nominate a subcontractor for performing tests on his behalf.
+| 2.3. | The use of the services of a subcontractor does not release the technical service from its obligation to comply with Articles 69, 70, 80 and 81, and in particular with those concerning the skills of the technical services and compliance with Standard EN ISO/IEC 17025:2005. |
+| --- | --- |
 
-2.2.
+| 2.4. | Point 2 of Annex VII shall apply to the subcontractor. |
+| --- | --- |
 
-For the purposes of this Appendix ‘Subcontractor’ means either a subsidiary of the technical service that has been entrusted by that technical service with testing activities inside its own organisation or a third party under contract with that technical service to perform test activities.
-
-2.3.
-
-The use of the services of a subcontractor does not release the technical service from its obligation to comply with Articles 69, 70, 80 and 81, and in particular with those concerning the skills of the technical services and compliance with Standard EN ISO/IEC 17025:2005.
-
-2.4.
-
-Point 2 of Annex VII shall apply to the subcontractor.
+3. **Test report**
 
 Test reports shall be drafted in accordance with the implementing acts referred to in Article 30(3).
-
-**3.Test report**
 
 <a id="anx_viii"></a>
 
@@ -5280,11 +4391,11 @@ Test reports shall be drafted in accordance with the implementing acts referred 
 
 **CONDITIONS FOR THE USE OF VIRTUAL TESTING METHODS BY A MANUFACTURER OR A TECHNICAL SERVICE**
 
+1. **Objectives and scope**
+
 This Annex lays down provisions concerning virtual testing in accordance with Article 30(7).
 
-**1.Objectives and scope**
-
-**2.List of regulatory acts**
+2. **List of regulatory acts**
 
 |  | Subject | Regulatory act reference |
 | --- | --- | --- |
@@ -5304,90 +4415,19 @@ This Annex lays down provisions concerning virtual testing in accordance with Ar
 | 49A | Commercial vehicles with regard to their external projections forward of the cab's rear panel | Regulation (EC) No 661/2009UN Regulation No 61 |
 | 50A | Mechanical coupling components of combinations of vehicles | Regulation (EC) No 661/2009UN Regulation No 55 |
 | 50B | Close-coupling device (CCD); fitting of an approved type of CCD | Regulation (EC) No 661/2009UN Regulation No 102 |
-| 52A | M_2 and M_3 vehicles | Regulation (EC) No 661/2009UN Regulation No 107 |
+| 52A | M2 and M3 vehicles | Regulation (EC) No 661/2009UN Regulation No 107 |
 | 52B | Strength of the superstructure of large passenger vehicles | Regulation (EC) No 661/2009UN Regulation No 66 |
 | 57A | Front underrun protective devices (FUPDs) and their installation; front underrun protection (FUP) | Regulation (EC) No 661/2009UN Regulation No 93 |
-
-**General conditions for the use of virtual testing methods**
-
-The following scheme shall be used as basis structure for describing and conducting virtual testing:
-
-**1.Virtual test pattern**
-
-(a) purpose;
-
-(b) structure model;
-
-(c) boundary conditions;
-
-(d) load assumptions;
-
-(e) calculation;
-
-(f) assessment;
-
-(g) documentation.
-
-**2.Fundamentals of computer simulation and calculation**
-
-The mathematical model shall be supplied by the manufacturer. It shall reflect the complexity of the structure of the vehicle, system, component or separate technical unit to be tested in relation to the requirements of the relevant regulatory act and its boundary conditions.The same provisions shall apply for testing components or separate technical units independently from the vehicle.
-
-**2.1.Mathematical model**
-
-The mathematical model shall be validated against the actual test conditions.To that effect a physical test shall be conducted to compare the results obtained when using the mathematical model with the results of a physical test. Comparability of the test results shall be proven. The manufacturer or the technical service shall draft a validation report and submit it to the approval authority.Any change to the mathematical model or to the software that is likely to invalidate the validation report shall be brought to the attention of the approval authority, which may require that a new validation process is conducted.The flow chart of the validation process is shown in Appendix 3.
-
-**2.2.Validation process of the mathematical model**
-
-The manufacturer shall make available to the technical service and document the data and auxiliary tools used for simulation and calculation.
-
-**2.3.Documentation**
-
-The manufacturer shall supply the technical service at its request with the necessary tools to conduct the virtual testing, including appropriate software, or provide that technical service access to these tools.The manufacturer shall also provide appropriate support to the technical service.The access and support provided by the manufacturer to a technical service does not exempt the technical service from its obligations regarding the skills of its personnel, the payment of licence rights and confidentiality.
-
-**3.Tools and support**
-
-**Specific conditions for the use of virtual testing methods**
-
-**1.List of regulatory acts**
-
-|  | Regulatory act reference | Annex and paragraphs | Specific conditions |
-| --- | --- | --- | --- |
-| 3B | Regulation (EC) No 661/2009UN Regulation No 58 | Paragraphs 2.3, 7.3. and 25.6 of UN Regulation No 58. | Dimensions and resistance to forces. |
-| 6A | Regulation (EC) No 661/2009Regulation (EU) No 130/2012 | Annex II, Part 1 and 2 of Regulation (EU) No 130/2012. | Dimensions of steps, running boards and handholds. |
-| 6B | Regulation (EC) No 661/2009UN Regulation No 11 | Annex 3 of UN Regulation No 11.Annex 4, paragraph 2.1. of UN Regulation No 11.Annex 5 of UN Regulation No 11. | Tensile strength tests and resistance of latches to acceleration. |
-| 8A | Regulation (EC) No 661/2009UN Regulation No 46 | Paragraph 15.2.4. of UN Regulation No 46. | Prescribed fields of vision of rear-view mirrors. |
-| 12A | Regulation (EC) No 661/2009UN Regulation No 21 | (a)Paragraphs 5. to 5.7. of UN Regulation No 21. | (a)Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
-| (b)Paragraph 2.3. of UN Regulation No 21. | (b)Determination of the head-impact zone. |  |  |
-| 16A | Regulation (EC) No 661/2009UN Regulation No 26 | Paragraph 5.2.4. of UN Regulation No 26All provisions in paragraphs 5 (General requirements) and 6 (Particular requirements) of UN Regulation No 26. | Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
-| 20A | Regulation (EC) No 661/2009UN Regulation No 48 | Paragraph 6. (Individual specifications), and Annexes 4, 5 and 6 to UN Regulation No 48. | The test drive provided for in paragraph 6.22.9.2.2 shall be performed on a real vehicle. |
-| 27A | Regulation (EC) No 661/2009Regulation (EU) No 1005/2010 | Annex II, point 1.2. of Regulation (EU) No 1005/2010. | Tractive and compressive static force. |
-| 32A | Regulation (EC) No 661/2009UN Regulation No 125 | Paragraph 5 (Specifications) of UN Regulation No 125. | Obstructions and field of vision. |
-| 35A | Regulation (EC) No 661/2009Regulation (EU) No 1008/2010 | Annex III, points 1.1.2. and 1.1.3. of Regulation (EU) No 1008/2010. | Determination of the swept area only. |
-| 37A | Regulation (EC) No 661/2009Regulation (EU) No 1009/2010 | Annex II, point 2. of Regulation (EU) No 1009/2010. | Verification of the dimensional requirements. |
-| 42A | Regulation (EC) No 661/2009UN Regulation No 73 | Paragraph 12.10 of UN Regulation No 73. | Resistance under a horizontal force and deflection measurement. |
-| 48A | Regulation (EC) No 661/2009Regulation (EU) No 1230/2012 | (a)Annex I, Part B, points 7 and 8 of Regulation (EU) No 1230/2012. | (a)Check of compliance with the manoeuvrability requirements including manoeuvrability of vehicles fitted with lift- or loadable axles. |
-| (b)Annex I, Part C, points 6 and 7 of Regulation (EU) No 1230/2012. | (b)Measurement of the maximum rear swing-out. |  |  |
-| 49A | Regulation (EC) No 661/2009UN Regulation No 61 | Paragraphs 5 and 6 of UN Regulation No 61. | Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
-| 50A | Regulation (EC) No 661/2009UN Regulation No 55 | (a)Annex 5 ‘Requirements for mechanical coupling devices’ of UN Regulation No 55. | (a)All provisions of paragraphs 1 to 8 included. |
-| (b)Annex 6, paragraph 1.1. of UN Regulation No 55. | (b)Strength tests on mechanicals couplings of simple design may be replaced by virtual tests. |  |  |
-| (c)Annex 6, paragraph 3 of UN Regulation No 55. | (c)Paragraphs 3.6.1. (Strength test), 3.6.2. (Resistance to buckling) and 3.6.3. (Resistance to bending moment) only. |  |  |
-| 52A | Regulation (EC) No 661/2009UN Regulation No 107 | Annex 3 of UN Regulation No 107. | Paragraph 7.4.5. (calculation method). |
-| 52B | Regulation (EC) No 661/2009UN Regulation No 66 | Annex 9 of UN Regulation No 66. | Computer simulation of rollover test on complete vehicle as an equivalent approval method. |
-| 57A | Regulation (EC) No 661/2009UN Regulation No 93 | Annex 5, paragraph 3 of UN Regulation No 93. | Resistance under a horizontal force and deflection measurement. |
-
-[other image: L_2018151EN.01019902.tif]
-
-**Validation process**
 
 <a id="appendix_1__5"></a>
 
 ### Appendix 1
 
-**General conditions for the use of virtual testing methods**
+General conditions for the use of virtual testing methods
+
+1. **Virtual test pattern**
 
 The following scheme shall be used as basis structure for describing and conducting virtual testing:
-
-**1.Virtual test pattern**
 
 (a) purpose;
 
@@ -5403,31 +4443,43 @@ The following scheme shall be used as basis structure for describing and conduct
 
 (g) documentation.
 
-**2.Fundamentals of computer simulation and calculation**
+2. **Fundamentals of computer simulation and calculation**
 
-The mathematical model shall be supplied by the manufacturer. It shall reflect the complexity of the structure of the vehicle, system, component or separate technical unit to be tested in relation to the requirements of the relevant regulatory act and its boundary conditions.The same provisions shall apply for testing components or separate technical units independently from the vehicle.
+2.1. **Mathematical model**
 
-**2.1.Mathematical model**
+The mathematical model shall be supplied by the manufacturer. It shall reflect the complexity of the structure of the vehicle, system, component or separate technical unit to be tested in relation to the requirements of the relevant regulatory act and its boundary conditions.
 
-The mathematical model shall be validated against the actual test conditions.To that effect a physical test shall be conducted to compare the results obtained when using the mathematical model with the results of a physical test. Comparability of the test results shall be proven. The manufacturer or the technical service shall draft a validation report and submit it to the approval authority.Any change to the mathematical model or to the software that is likely to invalidate the validation report shall be brought to the attention of the approval authority, which may require that a new validation process is conducted.The flow chart of the validation process is shown in Appendix 3.
+The same provisions shall apply for testing components or separate technical units independently from the vehicle.
 
-**2.2.Validation process of the mathematical model**
+2.2. **Validation process of the mathematical model**
+
+The mathematical model shall be validated against the actual test conditions.
+
+To that effect a physical test shall be conducted to compare the results obtained when using the mathematical model with the results of a physical test. Comparability of the test results shall be proven. The manufacturer or the technical service shall draft a validation report and submit it to the approval authority.
+
+Any change to the mathematical model or to the software that is likely to invalidate the validation report shall be brought to the attention of the approval authority, which may require that a new validation process is conducted.
+
+The flow chart of the validation process is shown in Appendix 3.
+
+2.3. **Documentation**
 
 The manufacturer shall make available to the technical service and document the data and auxiliary tools used for simulation and calculation.
 
-**2.3.Documentation**
+3. **Tools and support**
 
-The manufacturer shall supply the technical service at its request with the necessary tools to conduct the virtual testing, including appropriate software, or provide that technical service access to these tools.The manufacturer shall also provide appropriate support to the technical service.The access and support provided by the manufacturer to a technical service does not exempt the technical service from its obligations regarding the skills of its personnel, the payment of licence rights and confidentiality.
+The manufacturer shall supply the technical service at its request with the necessary tools to conduct the virtual testing, including appropriate software, or provide that technical service access to these tools.
 
-**3.Tools and support**
+The manufacturer shall also provide appropriate support to the technical service.
+
+The access and support provided by the manufacturer to a technical service does not exempt the technical service from its obligations regarding the skills of its personnel, the payment of licence rights and confidentiality.
 
 <a id="appendix_2__5"></a>
 
 ### Appendix 2
 
-**Specific conditions for the use of virtual testing methods**
+Specific conditions for the use of virtual testing methods
 
-**1.List of regulatory acts**
+1. **List of regulatory acts**
 
 |  | Regulatory act reference | Annex and paragraphs | Specific conditions |
 | --- | --- | --- | --- |
@@ -5435,8 +4487,8 @@ The manufacturer shall supply the technical service at its request with the nece
 | 6A | Regulation (EC) No 661/2009Regulation (EU) No 130/2012 | Annex II, Part 1 and 2 of Regulation (EU) No 130/2012. | Dimensions of steps, running boards and handholds. |
 | 6B | Regulation (EC) No 661/2009UN Regulation No 11 | Annex 3 of UN Regulation No 11.Annex 4, paragraph 2.1. of UN Regulation No 11.Annex 5 of UN Regulation No 11. | Tensile strength tests and resistance of latches to acceleration. |
 | 8A | Regulation (EC) No 661/2009UN Regulation No 46 | Paragraph 15.2.4. of UN Regulation No 46. | Prescribed fields of vision of rear-view mirrors. |
-| 12A | Regulation (EC) No 661/2009UN Regulation No 21 | (a)Paragraphs 5. to 5.7. of UN Regulation No 21. | (a)Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
-| (b)Paragraph 2.3. of UN Regulation No 21. | (b)Determination of the head-impact zone. |  |  |
+| 12A | Regulation (EC) No 661/2009UN Regulation No 21 | (a) Paragraphs 5. to 5.7. of UN Regulation No 21. | (a) Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
+| (b) Paragraph 2.3. of UN Regulation No 21. | (b) Determination of the head-impact zone. |  |  |
 | 16A | Regulation (EC) No 661/2009UN Regulation No 26 | Paragraph 5.2.4. of UN Regulation No 26All provisions in paragraphs 5 (General requirements) and 6 (Particular requirements) of UN Regulation No 26. | Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
 | 20A | Regulation (EC) No 661/2009UN Regulation No 48 | Paragraph 6. (Individual specifications), and Annexes 4, 5 and 6 to UN Regulation No 48. | The test drive provided for in paragraph 6.22.9.2.2 shall be performed on a real vehicle. |
 | 27A | Regulation (EC) No 661/2009Regulation (EU) No 1005/2010 | Annex II, point 1.2. of Regulation (EU) No 1005/2010. | Tractive and compressive static force. |
@@ -5444,12 +4496,12 @@ The manufacturer shall supply the technical service at its request with the nece
 | 35A | Regulation (EC) No 661/2009Regulation (EU) No 1008/2010 | Annex III, points 1.1.2. and 1.1.3. of Regulation (EU) No 1008/2010. | Determination of the swept area only. |
 | 37A | Regulation (EC) No 661/2009Regulation (EU) No 1009/2010 | Annex II, point 2. of Regulation (EU) No 1009/2010. | Verification of the dimensional requirements. |
 | 42A | Regulation (EC) No 661/2009UN Regulation No 73 | Paragraph 12.10 of UN Regulation No 73. | Resistance under a horizontal force and deflection measurement. |
-| 48A | Regulation (EC) No 661/2009Regulation (EU) No 1230/2012 | (a)Annex I, Part B, points 7 and 8 of Regulation (EU) No 1230/2012. | (a)Check of compliance with the manoeuvrability requirements including manoeuvrability of vehicles fitted with lift- or loadable axles. |
-| (b)Annex I, Part C, points 6 and 7 of Regulation (EU) No 1230/2012. | (b)Measurement of the maximum rear swing-out. |  |  |
+| 48A | Regulation (EC) No 661/2009Regulation (EU) No 1230/2012 | (a) Annex I, Part B, points 7 and 8 of Regulation (EU) No 1230/2012. | (a) Check of compliance with the manoeuvrability requirements including manoeuvrability of vehicles fitted with lift- or loadable axles. |
+| (b) Annex I, Part C, points 6 and 7 of Regulation (EU) No 1230/2012. | (b) Measurement of the maximum rear swing-out. |  |  |
 | 49A | Regulation (EC) No 661/2009UN Regulation No 61 | Paragraphs 5 and 6 of UN Regulation No 61. | Measurement of all radii of curvature and of all projections except for those requirements where a force has to be applied in order to check compliance with the provisions. |
-| 50A | Regulation (EC) No 661/2009UN Regulation No 55 | (a)Annex 5 ‘Requirements for mechanical coupling devices’ of UN Regulation No 55. | (a)All provisions of paragraphs 1 to 8 included. |
-| (b)Annex 6, paragraph 1.1. of UN Regulation No 55. | (b)Strength tests on mechanicals couplings of simple design may be replaced by virtual tests. |  |  |
-| (c)Annex 6, paragraph 3 of UN Regulation No 55. | (c)Paragraphs 3.6.1. (Strength test), 3.6.2. (Resistance to buckling) and 3.6.3. (Resistance to bending moment) only. |  |  |
+| 50A | Regulation (EC) No 661/2009UN Regulation No 55 | (a) Annex 5 ‘Requirements for mechanical coupling devices’ of UN Regulation No 55. | (a) All provisions of paragraphs 1 to 8 included. |
+| (b) Annex 6, paragraph 1.1. of UN Regulation No 55. | (b) Strength tests on mechanicals couplings of simple design may be replaced by virtual tests. |  |  |
+| (c) Annex 6, paragraph 3 of UN Regulation No 55. | (c) Paragraphs 3.6.1. (Strength test), 3.6.2. (Resistance to buckling) and 3.6.3. (Resistance to bending moment) only. |  |  |
 | 52A | Regulation (EC) No 661/2009UN Regulation No 107 | Annex 3 of UN Regulation No 107. | Paragraph 7.4.5. (calculation method). |
 | 52B | Regulation (EC) No 661/2009UN Regulation No 66 | Annex 9 of UN Regulation No 66. | Computer simulation of rollover test on complete vehicle as an equivalent approval method. |
 | 57A | Regulation (EC) No 661/2009UN Regulation No 93 | Annex 5, paragraph 3 of UN Regulation No 93. | Resistance under a horizontal force and deflection measurement. |
@@ -5458,9 +4510,7 @@ The manufacturer shall supply the technical service at its request with the nece
 
 ### Appendix 3
 
-[other image: L_2018151EN.01019902.tif]
-
-**Validation process**
+Validation process
 
 <a id="anx_ix"></a>
 
@@ -5468,135 +4518,55 @@ The manufacturer shall supply the technical service at its request with the nece
 
 **PROCEDURES TO BE FOLLOWED DURING MULTI-STAGE TYPE-APPROVAL**
 
-**1.Obligations of manufacturers**
+1. **Obligations of manufacturers**
 
-1.1.
+| 1.1. | The satisfactory operation of the multi-stage type-approval requires joint action by all the manufacturers concerned. To that end approval authorities must ensure, before granting first and subsequent stage type-approvals, that suitable arrangements exist between the relevant manufacturers for the supply and interchange of documents and information, so that the completed type of vehicle meets the technical requirements of all the relevant regulatory acts listed in Annex II. Such information must include details of relevant system, component and separate technical unit type-approvals and of vehicle parts that form part of the incomplete vehicle but have not yet been type-approved. |
+| --- | --- |
 
-The satisfactory operation of the multi-stage type-approval requires joint action by all the manufacturers concerned. To that end approval authorities must ensure, before granting first and subsequent stage type-approvals, that suitable arrangements exist between the relevant manufacturers for the supply and interchange of documents and information, so that the completed type of vehicle meets the technical requirements of all the relevant regulatory acts listed in Annex II. Such information must include details of relevant system, component and separate technical unit type-approvals and of vehicle parts that form part of the incomplete vehicle but have not yet been type-approved.
+| 1.2. | Each manufacturer involved in a multi-stage type-approval shall be responsible for the approval and conformity of production of all systems, components or separate technical units manufactured or added by that manufacturer to the previously built stage. The manufacturer of the subsequent stage shall not be responsible for objects that have been approved in an earlier stage, except where that manufacturer modifies relevant parts to such an extent that the previously granted type-approval becomes invalid. |
+| --- | --- |
 
-1.2.
+2. **Obligations of approval authorities**
 
-Each manufacturer involved in a multi-stage type-approval shall be responsible for the approval and conformity of production of all systems, components or separate technical units manufactured or added by that manufacturer to the previously built stage. The manufacturer of the subsequent stage shall not be responsible for objects that have been approved in an earlier stage, except where that manufacturer modifies relevant parts to such an extent that the previously granted type-approval becomes invalid.
+| 2.1. | The approval authority shall:(a) verify that all EU type-approval certificates issued pursuant to the regulatory acts that are applicable for vehicle type-approval cover the type of vehicle at its state of completion and correspond to the prescribed requirements;(b) ensure that all the relevant data, taking account of the state of completion of the vehicle, is included in the information folder;(c) by reference to the documentation ensure that the vehicle specification(s) and data contained in the information folder are included in the data in the information packages and in the EU type-approval certificates issued in accordance with the relevant regulatory acts; and in the case of a completed vehicle, where an item number of the information folder is not included in the information package of any of the regulatory acts, confirm that the relevant part or characteristic conforms to the particulars in the information folder;(d) on a selected sample of vehicles from the type to be approved carry out or arrange to be carried out inspections of vehicle parts and systems to verify that the vehicle(s) is/are built in accordance with the relevant data contained in the authenticated information package in accordance with all relevant regulatory acts; and(e) where required carry out, or arrange to be carried out, relevant installation checks for separate technical units. |
+| --- | --- |
 
-**2.Obligations of approval authorities**
+| 2.2. | The number of vehicles to be inspected for the purposes of point 2.1 (d) shall be sufficient to permit the proper control of the various combinations to be EU type-approved according to the state of completion of the vehicle and the following criteria:— engine;— gearbox;— powered axles (number, position, interconnection);— steered axles (number and position);— body styles;— number of doors;— hand of drive;— number of seats;— level of equipment. |
+| --- | --- |
 
-2.1.The approval authority shall:
+3. **Applicable requirements**
 
-(a) verify that all EU type-approval certificates issued pursuant to the regulatory acts that are applicable for vehicle type-approval cover the type of vehicle at its state of completion and correspond to the prescribed requirements;
+| 3.1. | Multi-stage type-approvals shall be granted on the basis of the state of completion of the type of vehicle and shall incorporate all type-approvals granted at earlier stages. |
+| --- | --- |
 
-(b) ensure that all the relevant data, taking account of the state of completion of the vehicle, is included in the information folder;
+| 3.2. | For the whole-vehicle type-approval, this Regulation (in particular the requirements of Annex I and the particular regulatory acts listed in Annex II) shall apply in the same manner as if the approval would have been granted (or extended) to the manufacturer of the base vehicle.3.2.1.Where a type of system, component or separate technical unit has not been modified, the system, component or separate technical unit type-approval granted in the previous stage shall remain valid until the expiration date for the first registration, as specified in the particular regulatory act.3.2.2.Where a type of system has been modified at the subsequent stage of completion of the vehicle, to the extent that the system has to be retested for type-approval purposes, that retesting shall be limited to only those parts of the system that have been modified or affected by the changes.3.2.3.Where a type of vehicle or a type of system has been modified by another manufacturer at the subsequent stage of completion of the vehicle, to the extent that, apart from the manufacturers name, the vehicle or system may still be considered as the same type, the requirement applying to existing types may still be applied as long as the date for first registration in the relevant regulatory act has not been reached.3.2.4.The change of category of a vehicle shall lead to the application of the relevant requirements to the new category of vehicle. The EU type-approval certificates from the previous category shall be accepted provided that the vehicle complies with the same requirements as, or more stringent than, those applying to the new category. |
+| --- | --- |
+| 3.2.1. | Where a type of system, component or separate technical unit has not been modified, the system, component or separate technical unit type-approval granted in the previous stage shall remain valid until the expiration date for the first registration, as specified in the particular regulatory act. |
+| 3.2.2. | Where a type of system has been modified at the subsequent stage of completion of the vehicle, to the extent that the system has to be retested for type-approval purposes, that retesting shall be limited to only those parts of the system that have been modified or affected by the changes. |
+| 3.2.3. | Where a type of vehicle or a type of system has been modified by another manufacturer at the subsequent stage of completion of the vehicle, to the extent that, apart from the manufacturers name, the vehicle or system may still be considered as the same type, the requirement applying to existing types may still be applied as long as the date for first registration in the relevant regulatory act has not been reached. |
+| 3.2.4. | The change of category of a vehicle shall lead to the application of the relevant requirements to the new category of vehicle. The EU type-approval certificates from the previous category shall be accepted provided that the vehicle complies with the same requirements as, or more stringent than, those applying to the new category. |
 
-(c) by reference to the documentation ensure that the vehicle specification(s) and data contained in the information folder are included in the data in the information packages and in the EU type-approval certificates issued in accordance with the relevant regulatory acts; and in the case of a completed vehicle, where an item number of the information folder is not included in the information package of any of the regulatory acts, confirm that the relevant part or characteristic conforms to the particulars in the information folder;
+| 3.3. | Subject to the agreement of the approval authority, a whole-vehicle type-approval granted to the manufacturer of the subsequent stage of completion of the vehicle does not need to be extended or revised where an extension given at the previous stage vehicle does not affect the subsequent stage or the technical data of the vehicle. However, the type-approval number including the extension of the previous stage(s) vehicle shall be copied in the certificate of conformity of the subsequent stage vehicle. |
+| --- | --- |
 
-(d) on a selected sample of vehicles from the type to be approved carry out or arrange to be carried out inspections of vehicle parts and systems to verify that the vehicle(s) is/are built in accordance with the relevant data contained in the authenticated information package in accordance with all relevant regulatory acts; and
+| 3.4. | Where the cargo area of a complete or completed vehicle of category N or O is modified by another manufacturer for the addition of removable fittings to store and secure the cargo (for example, load space lining, storage racks and roof racks), such items can be treated as part of the pay-mass and a type-approval is not needed, provided both of the following conditions are met:(a) the modifications do not affect the vehicle's type-approval in any way, other than an increase of the actual mass of the vehicle;(b) the added fittings can be removed without using special tools. |
+| --- | --- |
 
-(e) where required carry out, or arrange to be carried out, relevant installation checks for separate technical units.
+4. **Identification of the vehicle**
 
-2.2.The number of vehicles to be inspected for the purposes of point 2.1 (d) shall be sufficient to permit the proper control of the various combinations to be EU type-approved according to the state of completion of the vehicle and the following criteria:
+| 4.1. | The VIN, prescribed by Regulation (EU) No 19/2011, shall be retained during all the subsequent stages of the type-approval to ensure the traceability of the process. |
+| --- | --- |
 
-- engine; engine;
-
-- gearbox; gearbox;
-
-- powered axles (number, position, interconnection); powered axles (number, position, interconnection);
-
-- steered axles (number and position); steered axles (number and position);
-
-- body styles; body styles;
-
-- number of doors; number of doors;
-
-- hand of drive; hand of drive;
-
-- number of seats; number of seats;
-
-- level of equipment. level of equipment.
-
-**3.Applicable requirements**
-
-3.1.
-
-Multi-stage type-approvals shall be granted on the basis of the state of completion of the type of vehicle and shall incorporate all type-approvals granted at earlier stages.
-
-3.2.For the whole-vehicle type-approval, this Regulation (in particular the requirements of Annex I and the particular regulatory acts listed in Annex II) shall apply in the same manner as if the approval would have been granted (or extended) to the manufacturer of the base vehicle.
-
-3.2.1.
-
-Where a type of system, component or separate technical unit has not been modified, the system, component or separate technical unit type-approval granted in the previous stage shall remain valid until the expiration date for the first registration, as specified in the particular regulatory act.
-
-3.2.2.
-
-Where a type of system has been modified at the subsequent stage of completion of the vehicle, to the extent that the system has to be retested for type-approval purposes, that retesting shall be limited to only those parts of the system that have been modified or affected by the changes.
-
-3.2.3.
-
-Where a type of vehicle or a type of system has been modified by another manufacturer at the subsequent stage of completion of the vehicle, to the extent that, apart from the manufacturers name, the vehicle or system may still be considered as the same type, the requirement applying to existing types may still be applied as long as the date for first registration in the relevant regulatory act has not been reached.
-
-3.2.4.
-
-The change of category of a vehicle shall lead to the application of the relevant requirements to the new category of vehicle. The EU type-approval certificates from the previous category shall be accepted provided that the vehicle complies with the same requirements as, or more stringent than, those applying to the new category.
-
-3.3.
-
-Subject to the agreement of the approval authority, a whole-vehicle type-approval granted to the manufacturer of the subsequent stage of completion of the vehicle does not need to be extended or revised where an extension given at the previous stage vehicle does not affect the subsequent stage or the technical data of the vehicle. However, the type-approval number including the extension of the previous stage(s) vehicle shall be copied in the certificate of conformity of the subsequent stage vehicle.
-
-3.4.Where the cargo area of a complete or completed vehicle of category N or O is modified by another manufacturer for the addition of removable fittings to store and secure the cargo (for example, load space lining, storage racks and roof racks), such items can be treated as part of the pay-mass and a type-approval is not needed, provided both of the following conditions are met:
-
-(a) the modifications do not affect the vehicle's type-approval in any way, other than an increase of the actual mass of the vehicle;
-
-(b) the added fittings can be removed without using special tools.
-
-**4.Identification of the vehicle**
-
-4.1.
-
-The VIN, prescribed by Regulation (EU) No 19/2011, shall be retained during all the subsequent stages of the type-approval to ensure the traceability of the process.
-
-4.2.At the second and subsequent stages, in addition to the statutory plate prescribed by Regulation (EU) No 19/2011, each manufacturer shall affix to the vehicle an additional plate the model of which is shown in the Appendix to this Annex. This plate shall be firmly attached, in a conspicuous and readily accessible position on a part not subject to replacement in use. It shall clearly and indelibly show the following information in the order listed:Unless otherwise provided for in point 4.1 and this point the additional plate shall comply with the requirements set out in Annex I and Annex II to Regulation (EU) No 19/2011.
-
-- the name of the manufacturer; the name of the manufacturer;
-
-- sections 1, 3 and 4 of the EU type-approval number; sections 1, 3 and 4 of the EU type-approval number;
-
-- the stage of approval; the stage of approval;
-
-- the VIN of the base vehicle; the VIN of the base vehicle;
-
-- the technically permissible maximum laden mass of the vehicle where the value has changed during the current stage of approval; the technically permissible maximum laden mass of the vehicle where the value has changed during the current stage of approval;
-
-- the technically permissible maximum laden mass of the combination (where the value has changed during the current stage of approval and where the vehicle is permitted to tow a trailer). ‘0’ shall be used if the vehicle is not permitted to tow a trailer; the technically permissible maximum laden mass of the combination (where the value has changed during the current stage of approval and where the vehicle is permitted to tow a trailer). ‘0’ shall be used if the vehicle is not permitted to tow a trailer;
-
-- the technically permissible maximum mass on each axle, listed in order from front to rear where the value has changed during the current stage of approval; the technically permissible maximum mass on each axle, listed in order from front to rear where the value has changed during the current stage of approval;
-
-- in the case of a semi-trailer or centre axle trailer, the technically permissible maximum mass at the coupling point where the value has changed during the current stage of approval. in the case of a semi-trailer or centre axle trailer, the technically permissible maximum mass at the coupling point where the value has changed during the current stage of approval.
-
-The example below is given as a guide only.
-
-**Model of the manufacturer's additional plate**
-
-MANUFACTURER'S NAME (stage 3)
-
-e2*201X/XX*2609
-
-Stage 3
-
-WD9VD58D98D234560
-
-1500 kg
-
-2500 kg
-
-1 – 700 kg
-
-2 – 810 kg
+| 4.2. | At the second and subsequent stages, in addition to the statutory plate prescribed by Regulation (EU) No 19/2011, each manufacturer shall affix to the vehicle an additional plate the model of which is shown in the Appendix to this Annex. This plate shall be firmly attached, in a conspicuous and readily accessible position on a part not subject to replacement in use. It shall clearly and indelibly show the following information in the order listed:— the name of the manufacturer;— sections 1, 3 and 4 of the EU type-approval number;— the stage of approval;— the VIN of the base vehicle;— the technically permissible maximum laden mass of the vehicle where the value has changed during the current stage of approval;— the technically permissible maximum laden mass of the combination (where the value has changed during the current stage of approval and where the vehicle is permitted to tow a trailer). ‘0’ shall be used if the vehicle is not permitted to tow a trailer;— the technically permissible maximum mass on each axle, listed in order from front to rear where the value has changed during the current stage of approval;— in the case of a semi-trailer or centre axle trailer, the technically permissible maximum mass at the coupling point where the value has changed during the current stage of approval.Unless otherwise provided for in point 4.1 and this point the additional plate shall comply with the requirements set out in Annex I and Annex II to Regulation (EU) No 19/2011. |
+| --- | --- |
 
 <a id="appendix__2"></a>
 
 ### Appendix
 
-The example below is given as a guide only.
+Model of the manufacturer's additional plate
 
-**Model of the manufacturer's additional plate**
+The example below is given as a guide only.
 
 MANUFACTURER'S NAME (stage 3)
 
@@ -5606,9 +4576,9 @@ Stage 3
 
 WD9VD58D98D234560
 
-1500 kg
+1 500 kg
 
-2500 kg
+2 500 kg
 
 1 – 700 kg
 
@@ -5620,593 +4590,132 @@ WD9VD58D98D234560
 
 **ACCESS TO VEHICLE OBD INFORMATION AND VEHICLE REPAIR AND MAINTENANCE INFORMATION**
 
+1. **Introduction**
+
 This Annex lays down technical requirements for the access to vehicle OBD information and vehicle repair and maintenance information.
 
-**1.Introduction**
+2. **Access to vehicle OBD information and vehicle repair and maintenance information**
 
-**2.Access to vehicle OBD information and vehicle repair and maintenance information**
+| 2.1. | A manufacturer shall put in place the necessary arrangements and procedures, in accordance with Article 61(2), second subparagraph, first sentence, to ensure that vehicle OBD information and vehicle repair and maintenance information is accessible through websites. Compliance with the obligation for manufacturers to provide OBD information and vehicle repair and maintenance information on their websites through a standardised format shall be presumed by conforming to Part 1 ‘General information and use case definition’, Part 2 ‘Technical requirements’, Part 3 ‘Functional user interface requirements’ of standard EN ISO 18541 – 2014, Part 4 ‘Conformance test’ of standard EN ISO 18541 – 2015 and Part 5 ‘Heavy duty specific provision’‘Road vehicles – Standardized access to automotive repair and maintenance information (RMI)’ of standard EN ISO 18541 – 2018. Access to vehicle OBD information and vehicle repair and maintenance information shall be granted in a readily accessible and prompt manner. |
+| --- | --- |
 
-2.1.
+| 2.2. | An approval authority shall only grant type-approval after receiving from the manufacturer a certificate on access to vehicle OBD information and vehicle repair and maintenance information. |
+| --- | --- |
 
-A manufacturer shall put in place the necessary arrangements and procedures, in accordance with Article 61(2), second subparagraph, first sentence, to ensure that vehicle OBD information and vehicle repair and maintenance information is accessible through websites. Compliance with the obligation for manufacturers to provide OBD information and vehicle repair and maintenance information on their websites through a standardised format shall be presumed by conforming to Part 1 ‘General information and use case definition’, Part 2 ‘Technical requirements’, Part 3 ‘Functional user interface requirements’ of standard EN ISO 18541 – 2014, Part 4 ‘Conformance test’ of standard EN ISO 18541 – 2015 and Part 5 ‘Heavy duty specific provision’‘Road vehicles – Standardized access to automotive repair and maintenance information (RMI)’ of standard EN ISO 18541 – 2018. Access to vehicle OBD information and vehicle repair and maintenance information shall be granted in a readily accessible and prompt manner.
+| 2.3. | The certificate on access to vehicle OBD information and vehicle repair and maintenance information shall serve as the proof of compliance with Article 64. |
+| --- | --- |
 
-2.2.
+| 2.4. | The certificate on access to vehicle OBD information and vehicle repair and maintenance information shall be drawn up in accordance with the model set out in Appendix 1. |
+| --- | --- |
 
-An approval authority shall only grant type-approval after receiving from the manufacturer a certificate on access to vehicle OBD information and vehicle repair and maintenance information.
+| 2.5. | The vehicle OBD information and vehicle repair and maintenance information shall include the following:2.5.1. an unequivocal identification of the vehicle, system, component or separate technical unit for which the manufacturer is responsible;▼M22.5.2. service handbooks, including service and maintenance records, and technical specifications references regarding fluids including on lubricants, brake fluids and cooling liquids;▼B2.5.3. technical manuals;2.5.4. component and diagnosis information (such as minimum and maximum theoretical values for measurements);2.5.5. wiring diagrams;2.5.6. diagnostic trouble codes, including manufacturer specific codes;2.5.7. the software calibration identification number applicable to a type of vehicle;2.5.8. information provided concerning, and delivered by means of, proprietary tools and equipment;2.5.9. data record information and two-directional monitoring and test data;2.5.10. standard work units or time periods for repair and maintenance tasks if they are made available to authorised dealers and repairers of the manufacturer either directly or through a third party;2.5.11. in case of multi-stage type-approval, the information required under point 3, and all other information necessary to comply with the requirements set out in Article 61. |
+| --- | --- |
 
-2.3.
+| 2.6. | The manufacturer shall make available to interested parties the following information:2.6.1. relevant information to enable the development of replacement components that are critical to the correct functioning of the OBD system;2.6.2. information to enable the development of generic diagnostic tools. |
+| --- | --- |
 
-The certificate on access to vehicle OBD information and vehicle repair and maintenance information shall serve as the proof of compliance with Article 64.
+| 2.7. | For the purposes of point 2.6.1., the development of replacement components shall not be restricted by any of the following:2.7.1. the unavailability of pertinent information;2.7.2. the technical requirements relating to malfunction indication strategies if the OBD thresholds are exceeded or if the OBD system is unable to fulfil the basic OBD monitoring requirements of this Regulation;2.7.3. specific modifications to the handling of OBD information to deal independently with vehicle operation on petrol or on gas;2.7.4. the type-approval of gas-fuelled vehicles that contain a limited number of minor deficiencies. |
+| --- | --- |
 
-2.4.
+| 2.8. | For the purposes of point 2.6.2, where manufacturers use diagnostic and test tools in accordance with ISO 22900 – Modular vehicle communication interface (MVCI) – and ISO 22901 – Open diagnostic data exchange (ODX) in their franchised networks –, the ODX files shall be accessible to independent operators via the website of the manufacturer. |
+| --- | --- |
 
-The certificate on access to vehicle OBD information and vehicle repair and maintenance information shall be drawn up in accordance with the model set out in Appendix 1.
+| 2.9. | ►M2 For the purpose of vehicle OBD, diagnostics, repair and maintenance, monitoring and inspection, the direct vehicle data stream, including fault codes and diagnostic functions, shall be made available through the serial data port on the standardised data link connector specified in paragraph 6.5.1.4 and in accordance with the specifications set out in section 6.5.3 of Appendix 1 of Annex 11 to Regulation No 83 of the Economic Commission for Europe of the United Nations (UN/ECE) (16) and in accordance with paragraph 4.7.3 of Annex 9B and the reference standard documents set out in Appendix 6 to that Annex to Regulation No 49 of the Economic Commission for Europe of the United Nations (UN/ECE) (17).** ◄ **When the vehicle is in motion, the data shall only be made available for read-only functions. |
+| --- | --- |
 
-2.5.The vehicle OBD information and vehicle repair and maintenance information shall include the following:
+3. **Multi-stage type-approval**
 
-2.5.1. an unequivocal identification of the vehicle, system, component or separate technical unit for which the manufacturer is responsible;
+| 3.1. | In the case of a multi-stage type-approval, the final manufacturer shall be responsible for providing access to vehicle OBD information and vehicle repair and maintenance information regarding its own manufacturing stage(s) and the link to the previous stage(s). |
+| --- | --- |
 
-2.5.2. service handbooks, including service and maintenance records, and technical specifications references regarding fluids including on lubricants, brake fluids and cooling liquids;
+| 3.2. | In addition, the final manufacturer shall on its website provide independent operators with the following information:3.2.1. the website address of the manufacturer(s) responsible for the previous stage(s);3.2.2. the name and address of all the manufacturers responsible for the previous stage(s);3.2.3. the type-approval number(s) of the previous stage(s);3.2.4. the engine number. |
+| --- | --- |
 
-2.5.3. technical manuals;
+| 3.3. | Each manufacturer responsible for a particular stage or stages of type-approval shall be responsible for providing through his website access to vehicle OBD and vehicle repair and maintenance information regarding the stage(s) of type-approval for which he is responsible and the link to the previous stage(s). |
+| --- | --- |
 
-2.5.4. component and diagnosis information (such as minimum and maximum theoretical values for measurements);
+| 3.4. | The manufacturer responsible for a particular stage or stages of type-approval shall provide the following information to the manufacturer responsible for the next stage:3.4.1. the certificate of conformity relating to the stage(s) for which he is responsible;3.4.2. the certificate on access to vehicle OBD information and vehicle repair and maintenance information, including its annexes;3.4.3. the type-approval number corresponding to the stage(s) for which he is responsible;3.4.4. the documents referred to in points 3.4.1, 3.4.2 and 3.4.3 as provided by the manufacturer(s) involved in the previous stage(s). |
+| --- | --- |
 
-2.5.5. wiring diagrams;
+| 3.5. | Each manufacturer shall authorise the manufacturer responsible for the next stage to pass the documents to the manufacturers responsible for any subsequent stages and the final stage. |
+| --- | --- |
 
-2.5.6. diagnostic trouble codes, including manufacturer specific codes;
+| 3.6. | In addition, on a contractual basis, the manufacturer responsible for a particular stage or stages of type-approval shall:3.6.1. provide the manufacturer responsible for the next stage with access to vehicle OBD information and vehicle repair and maintenance information and interface information corresponding to the particular stage(s) for which he is responsible;3.6.2. provide, at the request of a manufacturer responsible for a subsequent stage of type-approval, with access to vehicle OBD information and vehicle repair and maintenance information and interface information corresponding to the particular stage(s) for which he is responsible. |
+| --- | --- |
 
-2.5.7. the software calibration identification number applicable to a type of vehicle;
+| 3.7. | A manufacturer, including a final manufacturer, may only charge fees in accordance with Article 63 concerning the particular stage(s) for which he is responsible.A manufacturer, including a final manufacturer, shall not charge fees for providing information relating to the website address or contact details of any other manufacturer. |
+| --- | --- |
 
-2.5.8. information provided concerning, and delivered by means of, proprietary tools and equipment;
+4. **Customer adaptations**
 
-2.5.9. data record information and two-directional monitoring and test data;
+| 4.1. | By derogation from point 2, if the number of systems, components or separate technical units subject to a specific customer adaptation is lower than 250 units produced worldwide, repair and maintenance information for the customer adaptation shall be provided in a readily accessible and prompt manner, and in a manner which is non-discriminatory compared to the provisions given or access granted to authorised dealers and repairers.For the servicing and reprogramming of the electronic control units relating to the customer adaptation, the manufacturer shall make the respective proprietary specialist diagnostic tool or test equipment available to independent operators as provided to authorised repairers.The customer adaptations shall be listed on the manufacturer's repair and maintenance information website and mentioned in the certificate on access to vehicle OBD information and vehicle repair and maintenance information at the time of type-approval. |
+| --- | --- |
 
-2.5.10. standard work units or time periods for repair and maintenance tasks if they are made available to authorised dealers and repairers of the manufacturer either directly or through a third party;
+| 4.2. | Manufacturers shall make the proprietary specialist diagnostic tool or test equipment to service the customer-adapted systems, components or technical units available to independent operators via sale and rent. |
+| --- | --- |
 
-2.5.11. in case of multi-stage type-approval, the information required under point 3, and all other information necessary to comply with the requirements set out in Article 61.
+| 4.3. | The manufacturer shall mention in the certificate on access to vehicle OBD information and vehicle repair and maintenance information, at the time of type-approval, the customer adaptations for which the obligation under point 2 to provide access to vehicle OBD information and vehicle repair and maintenance information in a standardised format is derogated from and any electronic control unit related to them.Those customer adaptations and any electronic control unit related to them shall also be listed on the manufacturer's repair and maintenance information website. |
+| --- | --- |
 
-2.6.The manufacturer shall make available to interested parties the following information:
+5. **Small volume manufacturers**
 
-2.6.1. relevant information to enable the development of replacement components that are critical to the correct functioning of the OBD system;
+| 5.1. | By derogation from point 2, manufacturers whose worldwide annual production of a type of vehicle, system, component or separate technical unit subject to this Regulation is for vehicles of category M1 and N1 less than 1 000 vehicles or for vehicles of category M2, M3, N2, N3 and O less than 250 units, shall provide access to vehicle repair and maintenance information in a readily accessible and prompt manner, and in a manner that is non-discriminatory compared to the provisions given or access granted to authorised dealers and repairers. |
+| --- | --- |
 
-2.6.2. information to enable the development of generic diagnostic tools.
+| 5.2. | The vehicle, system, component and separate technical unit subject to point 5.1 shall be listed on the manufacturer's repair and maintenance information website. |
+| --- | --- |
 
-2.7.For the purposes of point 2.6.1., the development of replacement components shall not be restricted by any of the following:
+| 5.3. | The approval authority shall inform the Commission of each type-approval granted to small volume manufacturers. |
+| --- | --- |
 
-2.7.1. the unavailability of pertinent information;
+6. **Requirements**
 
-2.7.2. the technical requirements relating to malfunction indication strategies if the OBD thresholds are exceeded or if the OBD system is unable to fulfil the basic OBD monitoring requirements of this Regulation;
+| 6.1. | ►M2 Compliance with the obligation for manufacturers to provide OBD information and vehicle repair and maintenance information on their websites through a standardised format shall be presumed by conforming with the Parts of standard EN ISO 18541 referred to in point 2.1.** ◄ **Those requiring the right to duplicate or republish the information shall negotiate directly with the manufacturer concerned. Information for training material shall also be available, but may be presented through other media than websites.Information on all parts of the vehicle, with which the vehicle, as identified by the VIN and any additional criteria such as wheelbase, engine output, trim level or options, is equipped by the vehicle manufacturer and that can be replaced by spare parts offered by the vehicle manufacturer to its authorised repairers or dealers or third parties by means of reference to original equipment (OE) parts number, shall be made available, in the form of machine readable and electronically processable datasets, in a database that is easily accessible to independent operators.This database shall comprise the VIN, OE parts numbers, OE naming of the parts, validity attributes (valid-from and valid-to dates), fitting attributes and, where applicable, structuring characteristics.The information on the database shall be updated regularly. If this information is available to authorised dealers, the updates shall include in particular all modifications to individual vehicles after their production. |
+| --- | --- |
 
-2.7.3. specific modifications to the handling of OBD information to deal independently with vehicle operation on petrol or on gas;
+| 6.2. | ►M2 Access to vehicle security features shall be made available to independent operators under protection of security technology in accordance with the following requirements:** ◄ **6.2.1. data shall be exchanged ensuring confidentiality, integrity and protection against replay;6.2.2. the standard https//ssl-tls (RFC4346) shall be used;6.2.3. security certificates in accordance with international standard ISO 20828 shall be used for mutual authentication of independent operators and manufacturers;6.2.4. the independent operator's private key shall be protected by secure hardware. |
+| --- | --- |
 
-2.7.4. the type-approval of gas-fuelled vehicles that contain a limited number of minor deficiencies.
+| 6.3. | ►M2 The procedure for the approval and authorisation of independent operators to access vehicle security features as referred to in point 6.2 is set out in Appendix 3. The role and responsibilities of the bodies involved in the accreditation, approval and authorisation of independent operators are detailed through functional requirements consisting of examples and use cases laid down in Commission Notice.** ◄ ** The independent operator shall be approved and authorised for this purpose on the basis of documents demonstrating that he pursues a legitimate business activity and has not been convicted of any relevant criminal activity.▼M2For the purposes of that procedure, operators shall not be considered to pursue a legitimate business activity where they advertise or offer repair or maintenance operations that would negatively impact the emissions performance of the vehicle. This shall include:(a) deactivating or removing pollution control devices or emission control systems, or degrading their performance or concealing their malfunction;(b) installing defeat devices (18), or defeat strategies (19);(c) deactivating, removing or tampering with devices for the monitoring of the consumption of fuel or electric energy, or tampering with odometer readings;(d) tampering with the engine control unit, including the rated engine power.▼B |
+| --- | --- |
 
-2.8.
+| 6.4. | Reprogramming of control units shall be conducted in accordance with either international standard ISO 22900-2 or SAE J2534 or TMC RP1210B using non-proprietary hardware.For the validation of the compatibility of the manufacturer-specific application and the vehicle communication interfaces (VCI) complying to international standard ISO 22900-2 or SAE J2534 or TMC RP1210B, the manufacturer shall offer either a validation of independently developed VCIs or the information, and loan of any special hardware, required for a VCI manufacturer to conduct such validation himself.The conditions of Article 63(1) shall apply to fees for such validation or information and hardware. |
+| --- | --- |
 
-For the purposes of point 2.6.2, where manufacturers use diagnostic and test tools in accordance with ISO 22900 – Modular vehicle communication interface (MVCI) – and ISO 22901 – Open diagnostic data exchange (ODX) in their franchised networks –, the ODX files shall be accessible to independent operators via the website of the manufacturer.
+| 6.5. | The requirements of point 6.4. shall not apply in the case of reprogramming of speed limitation devices and recording equipment. |
+| --- | --- |
 
-2.9.
+| 6.6. | All emission-related DTCs shall be consistent with Annex XI to Regulation (EC) No 692/2008 and Annex X to Regulation (EU) No 582/2011. |
+| --- | --- |
 
-For the purpose of vehicle OBD, diagnostics, repair and maintenance, monitoring and inspection, the direct vehicle data stream, including fault codes and diagnostic functions, shall be made available through the serial data port on the standardised data link connector specified in paragraph 6.5.1.4 and in accordance with the specifications set out in section 6.5.3 of Appendix 1 of Annex 11 to Regulation No 83 of the Economic Commission for Europe of the United Nations (UN/ECE) and in accordance with paragraph 4.7.3 of Annex 9B and the reference standard documents set out in Appendix 6 to that Annex to Regulation No 49 of the Economic Commission for Europe of the United Nations (UN/ECE).
+| 6.7. | For access to any vehicle OBD information and vehicle repair and maintenance information other than that relating to secure areas of the vehicle, registration requirements for use of the manufacturer's website by an independent operator shall require only such information as is necessary to confirm how payment for the information is to be made. For information concerning access to secure areas of the vehicle, the independent operator shall present a certificate in accordance with international standard ISO 20828 to identify himself and the organisation to which he belongs and the manufacturer shall respond with his own certificate in accordance with international standard ISO 20828 to confirm to the independent operator that he is accessing a legitimate site of the intended manufacturer. Both parties shall keep a log of any such transactions indicating the vehicles and changes made to them under this provision. |
+| --- | --- |
 
-When the vehicle is in motion, the data shall only be made available for read-only functions.
+| 6.8. | Manufacturers shall indicate in their repair information websites the type-approval number by model. |
+| --- | --- |
 
-**3.Multi-stage type-approval**
+| 6.9. | If the vehicle OBD information and vehicle repair and maintenance information that is available on a manufacturer's website does not contain specific relevant information to permit the proper design and manufacture of alternative fuels retrofit systems, any interested alternative fuels retrofit system manufacturer shall be able to obtain the information required by contacting the manufacturer directly with such a request. Contact details for that purpose shall be clearly indicated on the manufacturer's website and the information shall be provided within 30 days. It shall only be necessary to provide such information for alternative fuels retrofit systems that are subject to UN Regulation No 115 or for alternative fuels retrofit components that form part of systems subject to UN Regulation No 115. In addition, it shall only be necessary to provide such information in response to a request that clearly specifies the exact specification of the vehicle model for which the information is required and that specifically confirms that the information is required for the development of alternative fuels retrofit systems or components subject to UN Regulation No 115. |
+| --- | --- |
 
-3.1.
+7. **Requirements for type-approval**
 
-In the case of a multi-stage type-approval, the final manufacturer shall be responsible for providing access to vehicle OBD information and vehicle repair and maintenance information regarding its own manufacturing stage(s) and the link to the previous stage(s).
+| 7.1. | In order to receive a type-approval, the manufacturer shall submit the filled in certificate, the template of which is provided in Appendix 1. |
+| --- | --- |
 
-3.2.In addition, the final manufacturer shall on its website provide independent operators with the following information:
+| 7.2. | Where the vehicle OBD information and vehicle repair and maintenance information is not available, or does not conform to the requirements of this Annex, the manufacturer shall provide that information within six months of the date of the type-approval. |
+| --- | --- |
 
-3.2.1. the website address of the manufacturer(s) responsible for the previous stage(s);
+| 7.3. | The obligation to provide information within the period referred to in point 7.2. shall apply only if, following the type-approval, the vehicle is placed on the market.Where the vehicle is placed on the market more than six months after the type-approval has been granted the information shall be provided on the date on which the vehicle is placed on the market. |
+| --- | --- |
 
-3.2.2. the name and address of all the manufacturers responsible for the previous stage(s);
-
-3.2.3. the type-approval number(s) of the previous stage(s);
-
-3.2.4. the engine number.
-
-3.3.
-
-Each manufacturer responsible for a particular stage or stages of type-approval shall be responsible for providing through his website access to vehicle OBD and vehicle repair and maintenance information regarding the stage(s) of type-approval for which he is responsible and the link to the previous stage(s).
-
-3.4.The manufacturer responsible for a particular stage or stages of type-approval shall provide the following information to the manufacturer responsible for the next stage:
-
-3.4.1. the certificate of conformity relating to the stage(s) for which he is responsible;
-
-3.4.2. the certificate on access to vehicle OBD information and vehicle repair and maintenance information, including its annexes;
-
-3.4.3. the type-approval number corresponding to the stage(s) for which he is responsible;
-
-3.4.4. the documents referred to in points 3.4.1, 3.4.2 and 3.4.3 as provided by the manufacturer(s) involved in the previous stage(s).
-
-3.5.
-
-Each manufacturer shall authorise the manufacturer responsible for the next stage to pass the documents to the manufacturers responsible for any subsequent stages and the final stage.
-
-3.6.In addition, on a contractual basis, the manufacturer responsible for a particular stage or stages of type-approval shall:
-
-3.6.1. provide the manufacturer responsible for the next stage with access to vehicle OBD information and vehicle repair and maintenance information and interface information corresponding to the particular stage(s) for which he is responsible;
-
-3.6.2. provide, at the request of a manufacturer responsible for a subsequent stage of type-approval, with access to vehicle OBD information and vehicle repair and maintenance information and interface information corresponding to the particular stage(s) for which he is responsible.
-
-3.7.
-
-A manufacturer, including a final manufacturer, may only charge fees in accordance with Article 63 concerning the particular stage(s) for which he is responsible.
-
-A manufacturer, including a final manufacturer, shall not charge fees for providing information relating to the website address or contact details of any other manufacturer.
-
-**4.Customer adaptations**
-
-4.1.
-
-By derogation from point 2, if the number of systems, components or separate technical units subject to a specific customer adaptation is lower than 250 units produced worldwide, repair and maintenance information for the customer adaptation shall be provided in a readily accessible and prompt manner, and in a manner which is non-discriminatory compared to the provisions given or access granted to authorised dealers and repairers.
-
-For the servicing and reprogramming of the electronic control units relating to the customer adaptation, the manufacturer shall make the respective proprietary specialist diagnostic tool or test equipment available to independent operators as provided to authorised repairers.
-
-The customer adaptations shall be listed on the manufacturer's repair and maintenance information website and mentioned in the certificate on access to vehicle OBD information and vehicle repair and maintenance information at the time of type-approval.
-
-4.2.
-
-Manufacturers shall make the proprietary specialist diagnostic tool or test equipment to service the customer-adapted systems, components or technical units available to independent operators via sale and rent.
-
-4.3.
-
-The manufacturer shall mention in the certificate on access to vehicle OBD information and vehicle repair and maintenance information, at the time of type-approval, the customer adaptations for which the obligation under point 2 to provide access to vehicle OBD information and vehicle repair and maintenance information in a standardised format is derogated from and any electronic control unit related to them.
-
-Those customer adaptations and any electronic control unit related to them shall also be listed on the manufacturer's repair and maintenance information website.
-
-**5.Small volume manufacturers**
-
-5.1.
-
-By derogation from point 2, manufacturers whose worldwide annual production of a type of vehicle, system, component or separate technical unit subject to this Regulation is for vehicles of category M_1 and N_1 less than 1000 vehicles or for vehicles of category M_2, M_3, N_2, N_3 and O less than 250 units, shall provide access to vehicle repair and maintenance information in a readily accessible and prompt manner, and in a manner that is non-discriminatory compared to the provisions given or access granted to authorised dealers and repairers.
-
-5.2.
-
-The vehicle, system, component and separate technical unit subject to point 5.1 shall be listed on the manufacturer's repair and maintenance information website.
-
-5.3.
-
-The approval authority shall inform the Commission of each type-approval granted to small volume manufacturers.
-
-**6.Requirements**
-
-6.1.
-
-Compliance with the obligation for manufacturers to provide OBD information and vehicle repair and maintenance information on their websites through a standardised format shall be presumed by conforming with the Parts of standard EN ISO 18541 referred to in point 2.1.
-
-Those requiring the right to duplicate or republish the information shall negotiate directly with the manufacturer concerned. Information for training material shall also be available, but may be presented through other media than websites.
-
-Information on all parts of the vehicle, with which the vehicle, as identified by the VIN and any additional criteria such as wheelbase, engine output, trim level or options, is equipped by the vehicle manufacturer and that can be replaced by spare parts offered by the vehicle manufacturer to its authorised repairers or dealers or third parties by means of reference to original equipment (OE) parts number, shall be made available, in the form of machine readable and electronically processable datasets, in a database that is easily accessible to independent operators.
-
-This database shall comprise the VIN, OE parts numbers, OE naming of the parts, validity attributes (valid-from and valid-to dates), fitting attributes and, where applicable, structuring characteristics.
-
-The information on the database shall be updated regularly. If this information is available to authorised dealers, the updates shall include in particular all modifications to individual vehicles after their production.
-
-6.2.Access to vehicle security features shall be made available to independent operators under protection of security technology in accordance with the following requirements:
-
-6.2.1. data shall be exchanged ensuring confidentiality, integrity and protection against replay;
-
-6.2.2. the standard https//ssl-tls (RFC4346) shall be used;
-
-6.2.3. security certificates in accordance with international standard ISO 20828 shall be used for mutual authentication of independent operators and manufacturers;
-
-6.2.4. the independent operator's private key shall be protected by secure hardware.
-
-6.3.The procedure for the approval and authorisation of independent operators to access vehicle security features as referred to in point 6.2 is set out in Appendix 3. The role and responsibilities of the bodies involved in the accreditation, approval and authorisation of independent operators are detailed through functional requirements consisting of examples and use cases laid down in Commission Notice. The independent operator shall be approved and authorised for this purpose on the basis of documents demonstrating that he pursues a legitimate business activity and has not been convicted of any relevant criminal activity.For the purposes of that procedure, operators shall not be considered to pursue a legitimate business activity where they advertise or offer repair or maintenance operations that would negatively impact the emissions performance of the vehicle. This shall include:
-
-(a) deactivating or removing pollution control devices or emission control systems, or degrading their performance or concealing their malfunction;
-
-(b) installing defeat devices, or defeat strategies;
-
-(c) deactivating, removing or tampering with devices for the monitoring of the consumption of fuel or electric energy, or tampering with odometer readings;
-
-(d) tampering with the engine control unit, including the rated engine power.
-
-6.4.
-
-Reprogramming of control units shall be conducted in accordance with either international standard ISO 22900-2 or SAE J2534 or TMC RP1210B using non-proprietary hardware.
-
-For the validation of the compatibility of the manufacturer-specific application and the vehicle communication interfaces (VCI) complying to international standard ISO 22900-2 or SAE J2534 or TMC RP1210B, the manufacturer shall offer either a validation of independently developed VCIs or the information, and loan of any special hardware, required for a VCI manufacturer to conduct such validation himself.
-
-The conditions of Article 63(1) shall apply to fees for such validation or information and hardware.
-
-6.5.
-
-The requirements of point 6.4. shall not apply in the case of reprogramming of speed limitation devices and recording equipment.
-
-6.6.
-
-All emission-related DTCs shall be consistent with Annex XI to Regulation (EC) No 692/2008 and Annex X to Regulation (EU) No 582/2011.
-
-6.7.
-
-For access to any vehicle OBD information and vehicle repair and maintenance information other than that relating to secure areas of the vehicle, registration requirements for use of the manufacturer's website by an independent operator shall require only such information as is necessary to confirm how payment for the information is to be made. For information concerning access to secure areas of the vehicle, the independent operator shall present a certificate in accordance with international standard ISO 20828 to identify himself and the organisation to which he belongs and the manufacturer shall respond with his own certificate in accordance with international standard ISO 20828 to confirm to the independent operator that he is accessing a legitimate site of the intended manufacturer. Both parties shall keep a log of any such transactions indicating the vehicles and changes made to them under this provision.
-
-6.8.
-
-Manufacturers shall indicate in their repair information websites the type-approval number by model.
-
-6.9.
-
-If the vehicle OBD information and vehicle repair and maintenance information that is available on a manufacturer's website does not contain specific relevant information to permit the proper design and manufacture of alternative fuels retrofit systems, any interested alternative fuels retrofit system manufacturer shall be able to obtain the information required by contacting the manufacturer directly with such a request. Contact details for that purpose shall be clearly indicated on the manufacturer's website and the information shall be provided within 30 days. It shall only be necessary to provide such information for alternative fuels retrofit systems that are subject to UN Regulation No 115 or for alternative fuels retrofit components that form part of systems subject to UN Regulation No 115. In addition, it shall only be necessary to provide such information in response to a request that clearly specifies the exact specification of the vehicle model for which the information is required and that specifically confirms that the information is required for the development of alternative fuels retrofit systems or components subject to UN Regulation No 115.
-
-**7.Requirements for type-approval**
-
-7.1.
-
-In order to receive a type-approval, the manufacturer shall submit the filled in certificate, the template of which is provided in Appendix 1.
-
-7.2.
-
-Where the vehicle OBD information and vehicle repair and maintenance information is not available, or does not conform to the requirements of this Annex, the manufacturer shall provide that information within six months of the date of the type-approval.
-
-7.3.
-
-The obligation to provide information within the period referred to in point 7.2. shall apply only if, following the type-approval, the vehicle is placed on the market.
-
-Where the vehicle is placed on the market more than six months after the type-approval has been granted the information shall be provided on the date on which the vehicle is placed on the market.
-
-7.4.
-
-On the basis of a completed certificate on access to vehicle OBD information and vehicle repair and maintenance information, the approval authority may presume that the manufacturer has put in place satisfactory arrangements and procedures with regard to access to vehicle OBD information and vehicle repair and maintenance information, provided that no complaint has been made and that the manufacturer provides that certificate within the period referred to in point 7.2.
-
-[form image: L_2018151EN.01020802.tif]
-
-**Manufacturer's certificate on access to vehicle OBD information and vehicle repair and maintenance information**
-
-**WEBSITE ADDRESSES REFERRED TO IN THIS CERTIFICATE:**
-
-**CONTACT DETAILS OF THE MANUFACTURER'S REPRESENTATIVE REFERRED TO IN THIS CERTIFICATE:**
-
-**TYPES OF VEHICLE, SYSTEM, COMPONENT OR SEPARATE TECHNICAL UNIT:**
-
-**Vehicle OBD information**
-
-1.
-
-The vehicle manufacturer shall provide the information required in this Appendix for the purposes of enabling the manufacture of OBD-compatible replacement or service parts and diagnostic tools and test equipment.
-
-2.Upon request, the following information shall be made available, on a non-discriminatory basis, to any interested manufacturer of components, diagnostic tools or test equipment:
-
-2.1. a description of the type and number of the preconditioning cycles used for the original type-approval of the vehicle;
-
-2.2. a description of the type of the OBD demonstration cycle used for the original type-approval of the vehicle for the component monitored by the OBD system;
-
-2.3. a comprehensive document describing all sensed components with the strategy for fault detection and MI activation (fixed number of driving cycles or statistical method), including a list of relevant secondary sensed parameters for each component monitored by the OBD system and a list of all OBD output codes and format used (with an explanation of each code and format) associated with individual emission-related power-train components and individual non-emission related components, where monitoring of the component is used to determine MI activation. In particular, in the case of types of vehicles that use a communication link in accordance with ISO 15765-4 ‘Road vehicles — Diagnostics on controller area network (CAN) — Part 4: Requirements for emissions-related systems’, a comprehensive explanation for the data given in service $ 05 Test ID $ 21 to FF and the data given in service $ 06, and a comprehensive explanation for the data given in service $ 06 Test ID $ 00 to FF, for each OBD monitor ID supported, shall be provided. In case other communication protocols standards are used, equivalent comprehensive explanation shall be provided. This information may be provided in the form of a table, with the following column and row headings: Component Fault code; Monitoring strategy; Fault detection criteria; MI activation criteria; Secondary parameters; Preconditioning Demonstration test. Catalyst P0420 Oxygen sensor; 1 and 2 signals; Difference between sensor 1 and sensor 2 signals; 3rd cycle Engine speed; engine load; A/F mode; catalyst temperature; Two Type 1 cycles; Type 1.
-
-In order to facilitate the provision of generic diagnostic tools for multi-make repairers, vehicle manufacturers shall make available the information referred to in points 3.1, 3.2 and 3.3 through their repair information websites. That information shall include all diagnostic tool functions and all the links to repair information and troubleshooting instructions. The access to the information may be subject to the payment of a reasonable fee.
-
-**3.Information required for the manufacturing of diagnostic tools**
-
-The following information shall be required indexed against vehicle make, model and variant, or another workable definition such as the VIN or the vehicle and systems identification:
-
-**3.1.Communication protocol information**
-
-3.1.1. any additional protocol information system necessary to enable complete diagnostics in addition to the standards prescribed in paragraph 4.7.3 of Annex 9B to UN Regulation No 49 and in paragraph 6.5.1.4 of Annex 11 to UN Regulation No 83, including any additional hardware or software protocol information, parameter identification, transfer functions, ‘keep alive’ requirements, or error conditions;
-
-3.1.2. details of how to obtain and interpret all the fault codes that do not comply with the standards prescribed in paragraph 4.7.3 of Annex 9B to UN Regulation No 49 and in paragraph 6.5.1.4 of Annex 11 to UN Regulation No 83;
-
-3.1.3. a list of all available live data parameters, including scaling and access information;
-
-3.1.4. a list of all available functional tests, including device activation or control and the means to implement them;
-
-3.1.5. details of how to obtain all component and status information, time stamps, pending DTC and freeze frames;
-
-3.1.6. resetting adaptive learning parameters, variant coding and replacement component setup, and customer preferences;
-
-3.1.7. Electronic control unit (ECU) identification and variant coding;
-
-3.1.8. details of how to reset service lights;
-
-3.1.9. location of diagnostic connector and connector details;
-
-3.1.10. engine code identification.
-
-The following information shall be required:
-
-**3.2.Test and diagnosis of OBD monitored components**
-
-3.2.1. a description of tests to confirm the functionality, at the component or in the harness;
-
-3.2.2. information concerning the test procedure, including test parameters and component information;
-
-3.2.3. connection details, including minimum and maximum input and output and driving and loading values;
-
-3.2.4. values to be expected under certain driving conditions, including idling;
-
-3.2.5. electrical values for the component in its static and dynamic states;
-
-3.2.6. failure mode values for each of the scenarios;
-
-3.2.7. failure mode diagnostic sequences, including fault trees and guided diagnostics elimination.
-
-The following information shall be required:
-
-**3.3.Data required to perform the repair**
-
-3.3.1. ECU and component initialisation (in the event of replacements being fitted);
-
-3.3.2. initialisation of new or replacement ECU's where relevant using pass-through (re-) programming techniques.
-
-This Appendix contains the requirements for the purposes of approval and authorisation of independent operators requiring access to security-related vehicle repair and maintenance information (RMI).It specifies in detail the process and the bodies required to approve and authorise independent operators to be granted access to security-related vehicle repair and maintenance information for light passenger and commercial vehicles and heavy duty vehicles.
-
-**1.Scope**
-
-**2.Definitions and abbreviated terms**
-
-For the purposes of this Appendix, the following definitions shall apply:
-
-**2.1.Definitions**
-
-‘accreditation’ shall mean accreditation as defined in Article 2, point 10 of Regulation (EC) No 765/2008
-
-**2.1.1.Accreditation**
-
-‘IO employee’ shall mean the employee of an approved independent operator (IO) who, upon authorisation from his or her conformity assessment body (CAB), will have access to security-related RMI
-
-**2.1.2.IO employee**
-
-‘security-related repair and maintenance information’ or ‘security-related RMI’ shall mean the information, software, functions and services required to repair and maintain the features that are included in a vehicle by the manufacturer to prevent the vehicle from being stolen or driven away and to enable the vehicle to be tracked and recovered.
-
-**2.1.3.Security-related repair and maintenance information or security-related RMI**
-
-‘approval inspection certificate’ shall mean the certificate issued by the CAB to IOs complying with the approval criteria set out in this Appendix and which confirms that those IOs are approved and that IO employees can request the authorisation to access security-related RMI.
-
-**2.1.4.Approval inspection certificate**
-
-‘authorisation inspection certificate’ shall mean the certificate issued by the CAB to IO employees complying with the authorisation criteria set out in this Appendix and which confirms that those employees are authorised to access security-related RMI on the website of a vehicle manufacturer.
-
-**2.1.5.Authorisation inspection certificate**
-
-‘trust centre’ or ‘TC’ shall mean the body designated by SERMI and approved by the Commission and that is responsible for:
-
-**2.1.6.Trust centre or TC**
-
-(a) managing the digital certificates and authorisation status of the IO employees and for providing to the CAB the necessary security tokens and digital certificates for authorised IO employees;
-
-(b) providing a vehicle manufacturer with information regarding the authorisation status of an IO employee.
-
-‘security token’ shall mean a device that allows a secure authentication of an IO.
-
-**2.1.7.Security token**
-
-‘digital certificate’ shall mean a digital certificate which requires a digital signature of the issuing trust centre to bind a public key to the identity of the IO employee in accordance with the standard ISO 9594.
-
-**2.1.8.Digital certificate**
-
-‘authorisation database’ shall mean a database held by the trust centre and which contains the authorisation details of the anonymised authorised IO employees and the registration of approved IOs.
-
-**2.1.9.Authorisation database**
-
-‘certification database’ shall mean a database held by the trust centre to manage the digital certificate validity and the identifiers of authorised IO employees.
-
-**2.1.10.Certification database**
-
-‘European cooperation for Accreditation’ or ‘EA’ shall mean the body recognised by the Commission in accordance with Article 14 of Regulation (EC) No 765/2008 and which is responsible for the development, maintenance and implementation of accreditation in the Union.
-
-**2.1.11.European cooperation for Accreditation or EA**
-
-The ‘Forum for Access to Security-Related Vehicle RMI’ or ‘SERMI’ means the entity that is in charge of coordinating and advising the Commission on the implementation of the procedures of accreditation, approval and authorisation for the purpose of accessing security-related RMI.
-
-**2.1.12.Forum for Access to Security-Related Vehicle RMI or SERMI**
-
-‘relevant authorities’ shall mean those public authorities that have a legal mandate to act in the area of vehicle security crime protection, investigation and prosecution.
-
-**2.1.13.Relevant authorities**
-
-Only CABs that are accredited by the national accreditation body (‘NAB’), as defined in Article 2, point 11 of Regulation (EC) No 765/2008, of the Member State in which they are established shall issue approval inspection certificates certifying that an IO has been approved and authorisation inspection certificates certifying that an IO employee is to access security-related RMI.The approval of the IO and the authorisation of the IO employee shall be granted for a period of 60 months starting from the date of issuance of the relevant inspection certificates.IOs wishing to receive security-related RMI shall obtain an approval inspection certificate from a CAB accredited by the NAB of the Member State where the IO is established.IO employees who are to handle security-related RMI shall obtain an authorisation inspection certificate from a CAB accredited by the NAB of the Member State where the IO employee resides.CABs shall inform TCs of any approval inspection certificates or authorisation inspection certificates issued, upon which TCs shall create an authorisation record and issue a security token and a digital certificate containing details that allow IO employees to be uniquely identifiable to the vehicle manufacturer RMI website. CABs shall provide individual IO employees with a security token and the digital certificate.Vehicle manufacturers may demand a fee for the registration of IO employees on those vehicle manufacturers’ RMI websites and for access to security-related RMI. Such fee shall be proportionate to the cost for such registration and provision of access. The fees due shall be specified on the vehicle manufacturers’ RMI websites. All digital data transfers between IOs, TCs and CABs shall be carried out via business to business (B2B) transactions using secure protocols and in a timely manner.[other image: L_2021272EN.01002101.tif]A declaration that certifies that the IO pursues a legitimate business activity as referred to in point 6.3 of this Annex shall be signed by the IO requesting to be authorised by the CAB. An IO shall only be approved after an inspection by the CAB that shall verify that this declaration has been signed and that shall assess whether the IO and its individual employees comply with the requirements laid down in this Appendix.Individual IO employees shall only be authorised after an inspection by a CAB. CABs shall check the documents submitted and shall verify whether the IO employee concerned made a previous request for authorisation that has been rejected by the CAB concerned or any other CAB at Union level.CABs shall send all data to the TC that are necessary for the TC to produce the digital certificate and the security token, which the CAB shall send to the IO employees..IO employees that have been authorised shall receive from their CABs the PIN associated with the digital certificate.[other image: L_2021272EN.01002201.tif]
-
-**3.Accreditation of CABs, approval of IOs and authorisation of IO employees**
-
-Vehicle manufacturers shall provide access to security-related RMI through their RMI website, provided that the IO employees are authorised and are able to produce the authorisation inspection certificate, and that the IO on whose behalf the IO employees are working has an approval inspection certificate.Manufacturers may offer access to an on-line ordering facility for security-related parts using a specialised application linked to the RMI website to authorised IO employees that work for approved IOs.Upon receipt of a request for access to an RMI website, the vehicle manufacturers’ websites shall require identification through the IO employee unique identifier and request authentication. Authentication of IO employees shall be carried out exclusively using digital certificates. Upon receipt of a digital certificate, vehicle manufacturer RMI websites shall verify the IO employee unique identifier and the current status of the digital certificate and authorisation, by communicating with the TC identified in the digital certificate.All digital data transfers between IOs, vehicle manufacturers, TCs and CABs shall be carried out via business to business (B2B) transactions, using secure protocols and in a timely manner. Once the IO employee unique identifier and authorisation status of the IO employee have been verified, access to the required security-related RMI shall be provided by the vehicle manufacturer through its website.[other image: L_2021272EN.01002301.tif]
-
-**3.1.Overview of the access to security-related RMI**
-
-**4.Detailed rules concerning access to security-related RMI**
-
-**4.1.The role of SERMI**
-
-SERMI shall monitor the implementation of the accreditation process across the Member States and inform the Commission accordingly. SERMI shall advise the Commission on requests for changes to the accreditation process.
-
-**4.1.1.Responsibilities and obligations**
-
-(a) SERMI shall advise the Commission on requests for changes to the accreditation process. SERMI shall monitor the implementation of the accreditation process across the Member States and inform the Commission accordingly;
-
-(b) SERMI shall consult the Commission on the creation of the TC selection criteria;
-
-(c) SERMI shall advise the Commission on the introduction of technical implementation guidelines for interaction between the entities involved in the process;
-
-(d) SERMI shall follow the EA’s rules on scheme ownership;
-
-(e) the members of the SERMI shall be represented by the stakeholders engaged in the process of accreditation, approval and authorisation for the purpose of accessing security-related RMI.
-
-The TC shall be selected by SERMI and be notified to the Commission for approval.Selected TC shall comply with standard ETSI TS 319411-3, fulfil the requirements on electronic signatures laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council and the requirements laid down in point 4.6 of this Appendix.In addition, the TC shall:
-
-**4.1.2.Trust centre selection**
-
-- have the technical and managerial competence, and the financial viability and experience relevant to the accreditation process; have the technical and managerial competence, and the financial viability and experience relevant to the accreditation process;
-
-- have key personnel that has the skills, experience and availability necessary for the accreditation process; have key personnel that has the skills, experience and availability necessary for the accreditation process;
-
-- be able to operate across Member States; be able to operate across Member States;
-
-- have in place a quality assurance process at operational level. have in place a quality assurance process at operational level.
-
-The NAB shall be responsible for the accreditation of CABs for the purposes of approving IOs and authorising IO employees for access to security-related RMI.
-
-**4.2.The role of NABs**
-
-The responsibilities and requirements of the NAB are set out in Articles 8 to 12 of Regulation (EC) No 765/2008.
-
-**4.2.1.Responsibilities and requirements**
-
-CABs shall be accredited as type A inspection bodies in accordance with ISO/IEC 17020:2012. CABs shall comply with the requirements concerning the highest level of independence.Additionally, the NAB shall assess CABs’ capability to comply with the requirements laid down in points 4.3.1 to 4.3.4.The personnel in charge of IO inspections shall have a level of knowledge in the automotive vehicle repair and maintenance business and of the automotive aftermarket specifics that is appropriate for the tasks they are performing.
-
-**4.2.2.Criteria for CAB accreditation**
-
-The CAB shall be responsible for the inspection of IOs and their respective IO employees and for issuing approval and authorisation inspection certificates in accordance with this Appendix, and for revoking such certificates.
-
-**4.3.The role of CABs**
-
-**4.3.1.Responsibilities and requirements**
-
-(a) CABs shall keep the data submitted for the approval of an IO;
-
-(b) CABs shall establish a secure communication channel with the TC and provide the inspection results to the TC in order to issue the security token with a digital certificate;
-
-(c) CABs shall notify IO employees 6 months before their authorisation expires;
-
-(d) CABs shall maintain a database containing data submitted for the authorisation of IO employees;
-
-(e) CABs that refuse to approve an IO or authorise an IO employee shall communicate the inspection results concerning that IO or that employee to the TC;
-
-(f) CABs shall only collect and use data required for the approval or authorisation process;
-
-(g) CABs shall keep all data relating to IO and IO employees confidential and shall ensure that only authorised employees have access to such data;
-
-(h) CABs shall provide once a year statistics on the number of approval and authorisations issued and also on the number of refusals to SERMI and the Commission;
-
-(i) CABs shall retain secure records of approval and authorisation inspections for a period of 5 years;
-
-(j) CABs shall inform all other CABs in the Member State in which it is established about negative inspection results of an IO;
-
-(k) IOs and IO employees that have received a negative inspection result may provide the CAB with additional information correcting minor deficiencies within 15 working days from receiving the negative inspection result. CABs shall accordingly determine whether the inspection result is to be changed;
-
-(l) CABs shall notify IOs 6 months before their approval expires;
-
-(m) CABs shall make random und unannounced on-site inspections of IOs within the 60 months approval validity period, and subject each approved IO to at least one random, on-site inspection over the 60 months approval validity period;
-
-(n) On the basis of a complaint against an approved IO or an authorised IO employee, CABs shall check that the concerned IO or IO employee are in compliance with the criteria against which they were respectively approved or authorised. The CAB shall determine during its investigation whether an on-site inspection is required;
-
-(o) For the purposes of on-site inspections, CABs may request the assistance of market surveillance authorities from the Member State they are established;
-
-(p) CABs shall revoke IO approvals and IO employee authorisations where they no longer comply with the criteria against which they were respectively approved or authorised. CABs shall accordingly request the TC to suspend and repeal digital certificate of the concerned IO employees.
-
-CABs shall, upon request by an IO or 6 months prior to the expiry of validity of the approval, make an on-site inspection, and in case of a positive inspection result, renew the approval.CABs shall issue a new approval inspection certificate for IO that fulfils the approval criteria.CABs shall assess applications for renewals of authorisations and issue an authorisation inspection certificate to IO employees fulfilling the authorisation criteria.
-
-**4.3.2.Renewal of the approval**
-
-Before approving an IO and during any on-site inspection during the approval validity period, CABs shall check the following:
-
-**4.3.3.Criteria for IO approval by the CAB**
-
-(a) documented ownership of IO, name of managing director;
-
-(b) the list provided by the IO of employees to be authorised;
-
-(c) information about the responsibility and the function of employees referred to in point (a);
-
-(d) whether the IO has a liability insurance with a minimum amount of coverage of 1 million Euro for bodily injury and 0,5 million Euro for property damage;
-
-(e) whether the approval of the IO has been revoked for reasons of misuse;
-
-(f) whether the IO has provided proof of activity in the automotive area;
-
-(g) whether the declaration certifying that the IO pursues a legitimate business activity as referred to in point 6.3 has been signed by the IO and during an on-site inspection whether the IO effectively conducts a legitimate business activity;
-
-(h) whether the IO or the IO employees have a clean criminal record;
-
-(i) whether there is declaration signed by the IO legal representative that compliance with the procedural requirements laid down in point 4.3.4 is ensured for all operations related to vehicle security.
-
-Before authorising an employee as an IO employee, and during any on-site inspection during the approval validity period, CABs shall verify the following:
-
-**4.3.4.Criteria for IO employee authorisation by the CAB**
-
-(a) that the employee concerned did not have a previous authorisation which has been revoked because of misuse of that authorisation;
-
-(b) that the employee has a clean criminal record;
-
-(c) that there is an employment agreement between the employee concerned and an approved IO;
-
-(d) that the employee concerned has a valid country specific identity card or an equivalent document.
-
-**4.4.Role of the IOs**
-
-**4.4.1.Responsibilities and requirements**
-
-(a) IOs shall request an inspection from their CAB to obtain approval;
-
-(b) IOs shall inform their CAB about changes in their contact details;
-
-(c) IOs shall inform their CAB when their business is dissolved;
-
-(d) IOs shall record every security related RMI transaction and operation;
-
-(e) IOs shall inform their CAB of any termination of employment of any of their authorised employees;
-
-(f) IOs shall report to the relevant authorities any offence or misconduct that has been committed by their authorised employees and that concerns security related RMI;
-
-(g) IOs shall ensure that their authorised employees only use their own authorisation inspection certificates;
-
-(h) IOs shall ensure that all fees relating to their IO employee’s authorisation have been paid;
-
-(i) IOs shall ensure that their IO employees are trained for repair activities concerning automotive maintenance, reprogramming and security and safety functions;
-
-(j) IO shall request their CAB for an on-site inspection in the six months prior to the expiration of their approval inspection certificate.
-
-**4.5.Role of IO employees**
-
-**4.5.1.Responsibilities and requirements**
-
-(a) IO employees shall request their CAB for authorisation;
-
-(b) IO employees shall register themselves on the vehicle manufacturer’s RMI system;
-
-(c) IO employees shall access security-related RMI in accordance with EN ISO standard 18541 – 2014;
-
-(d) IO employees shall ensure that all records of security related RMI downloaded from the vehicle manufacturer RMI system shall not be stored any longer than necessary for performing the operation for which the information is needed;
-
-(e) where applicable, IO employees shall notify their IO employer that their digital certificate is no longer required;
-
-(f) IO employee shall not share with any third party the security token, the digital certificate or the PIN;
-
-(g) IO employees shall be responsible for using the personal security token and PIN correctly;
-
-(h) IO employees shall inform their IO and their TC about any loss or misuse of their security token within 24 hours of such loss or misuse;
-
-(i) IO employees shall report to the relevant authorities any request or act from other IO employees relating to security-related RMI that does not constitute a legitimate business activity as referred to in point 6.3 of this Annex.
-
-TCs shall create and send the digital certificates to the IOs via the respective CABs to the IOs and the IO employees. TCs shall maintain a database of issued authorisation inspection certificates. TCs shall provide vehicle manufacturers access to an interface to verify the status of the digital certificates and the authorisation inspection certificates.TCs shall keep the information regarding IO employees in the authorisation database for an additional period of maximum 60 months. That period shall not be longer than the remaining validity period of the approval granted to the IO where the IO employee is working.
-
-**4.6.Role of the trust centre**
-
-**4.6.1.Responsibilities and requirements**
-
-(a) TCs can suspend and repeal digital certificates upon request from the CAB;
-
-(b) TCs shall provide the software to use the digital certificates to the IO and IO employees;
-
-(c) TCs shall operate 24 hours a day, 7 days a week.
-
-Vehicle manufacturers shall provide to all approved IOs and authorised IO employees access to security-related repair and maintenance information. Vehicle manufacturers shall communicate with TCs to verify the authorisation and authentication status of IO employees seeking access to such information.
-
-**4.7.Role of vehicle manufacturers**
-
-**4.7.1.Responsibilities and requirements**
-
-(a) vehicle manufacturers shall ensure that their websites are adapted to support the access of IOs to security-related RMI;
-
-(b) vehicle manufacturers shall ensure that they download the technical specifications made available on the SERMI website.
-
-Vehicle manufacturers shall not grant access to security-related RMI, unless all of the following procedural requirements have been complied with:
-
-**4.7.2.Procedural requirements for vehicle manufacturers**
-
-(1) Procedural requirements for stolen vehicles Vehicle manufacturers shall keep a record of all vehicles of its brand reported by the authorities as stolen. Vehicle manufacturers shall put in place a process that provides clear traceability and accountability and enables the relevant authorities to trace the data supplied by the vehicle manufacturer to the IO employee who was granted access to the information related to the stolen vehicle.
-
-(2) Procedural requirements for storing information Vehicle manufacturers shall store the following information for each access granted to security-related repair and maintenance information: (a) the Vehicle Identification Number (VIN) of the vehicle for which the information was requested; (b) the date the request was made; (c) the vehicle registration number of the vehicle for which the information was requested, where available; (d) type variant of the vehicle for which the information was requested and the version of that vehicle, where available. Vehicle manufacturers shall store those data for 5 years.
+| 7.4. | On the basis of a completed certificate on access to vehicle OBD information and vehicle repair and maintenance information, the approval authority may presume that the manufacturer has put in place satisfactory arrangements and procedures with regard to access to vehicle OBD information and vehicle repair and maintenance information, provided that no complaint has been made and that the manufacturer provides that certificate within the period referred to in point 7.2. |
+| --- | --- |
 
 <a id="appendix_1__6"></a>
 
 ### Appendix 1
 
-[form image: L_2018151EN.01020802.tif]
-
-**Manufacturer's certificate on access to vehicle OBD information and vehicle repair and maintenance information**
+Manufacturer's certificate on access to vehicle OBD information and vehicle repair and maintenance information
 
 <a id="anx_a"></a>
 
@@ -6230,159 +4739,140 @@ Vehicle manufacturers shall not grant access to security-related RMI, unless all
 
 ### Appendix 2
 
-**Vehicle OBD information**
+Vehicle OBD information
 
-1.
+| 1. | The vehicle manufacturer shall provide the information required in this Appendix for the purposes of enabling the manufacture of OBD-compatible replacement or service parts and diagnostic tools and test equipment. |
+| --- | --- |
 
-The vehicle manufacturer shall provide the information required in this Appendix for the purposes of enabling the manufacture of OBD-compatible replacement or service parts and diagnostic tools and test equipment.
+| 2. | Upon request, the following information shall be made available, on a non-discriminatory basis, to any interested manufacturer of components, diagnostic tools or test equipment:2.1. a description of the type and number of the preconditioning cycles used for the original type-approval of the vehicle;2.2. a description of the type of the OBD demonstration cycle used for the original type-approval of the vehicle for the component monitored by the OBD system;2.3. a comprehensive document describing all sensed components with the strategy for fault detection and MI activation (fixed number of driving cycles or statistical method), including a list of relevant secondary sensed parameters for each component monitored by the OBD system and a list of all OBD output codes and format used (with an explanation of each code and format) associated with individual emission-related power-train components and individual non-emission related components, where monitoring of the component is used to determine MI activation. In particular, in the case of types of vehicles that use a communication link in accordance with ISO 15765-4 ‘Road vehicles — Diagnostics on controller area network (CAN) — Part 4: Requirements for emissions-related systems’, a comprehensive explanation for the data given in service $ 05 Test ID $ 21 to FF and the data given in service $ 06, and a comprehensive explanation for the data given in service $ 06 Test ID $ 00 to FF, for each OBD monitor ID supported, shall be provided.In case other communication protocols standards are used, equivalent comprehensive explanation shall be provided.This information may be provided in the form of a table, with the following column and row headings:Component Fault code; Monitoring strategy; Fault detection criteria; MI activation criteria; Secondary parameters; Preconditioning Demonstration test.Catalyst P0420 Oxygen sensor; 1 and 2 signals; Difference between sensor 1 and sensor 2 signals; 3rd cycle Engine speed; engine load; A/F mode; catalyst temperature; Two Type 1 cycles; Type 1. |
+| --- | --- |
 
-2.Upon request, the following information shall be made available, on a non-discriminatory basis, to any interested manufacturer of components, diagnostic tools or test equipment:
-
-2.1. a description of the type and number of the preconditioning cycles used for the original type-approval of the vehicle;
-
-2.2. a description of the type of the OBD demonstration cycle used for the original type-approval of the vehicle for the component monitored by the OBD system;
-
-2.3. a comprehensive document describing all sensed components with the strategy for fault detection and MI activation (fixed number of driving cycles or statistical method), including a list of relevant secondary sensed parameters for each component monitored by the OBD system and a list of all OBD output codes and format used (with an explanation of each code and format) associated with individual emission-related power-train components and individual non-emission related components, where monitoring of the component is used to determine MI activation. In particular, in the case of types of vehicles that use a communication link in accordance with ISO 15765-4 ‘Road vehicles — Diagnostics on controller area network (CAN) — Part 4: Requirements for emissions-related systems’, a comprehensive explanation for the data given in service $ 05 Test ID $ 21 to FF and the data given in service $ 06, and a comprehensive explanation for the data given in service $ 06 Test ID $ 00 to FF, for each OBD monitor ID supported, shall be provided. In case other communication protocols standards are used, equivalent comprehensive explanation shall be provided. This information may be provided in the form of a table, with the following column and row headings: Component Fault code; Monitoring strategy; Fault detection criteria; MI activation criteria; Secondary parameters; Preconditioning Demonstration test. Catalyst P0420 Oxygen sensor; 1 and 2 signals; Difference between sensor 1 and sensor 2 signals; 3rd cycle Engine speed; engine load; A/F mode; catalyst temperature; Two Type 1 cycles; Type 1.
-
-In order to facilitate the provision of generic diagnostic tools for multi-make repairers, vehicle manufacturers shall make available the information referred to in points 3.1, 3.2 and 3.3 through their repair information websites. That information shall include all diagnostic tool functions and all the links to repair information and troubleshooting instructions. The access to the information may be subject to the payment of a reasonable fee.
-
-**3.Information required for the manufacturing of diagnostic tools**
-
-The following information shall be required indexed against vehicle make, model and variant, or another workable definition such as the VIN or the vehicle and systems identification:
-
-**3.1.Communication protocol information**
-
-3.1.1. any additional protocol information system necessary to enable complete diagnostics in addition to the standards prescribed in paragraph 4.7.3 of Annex 9B to UN Regulation No 49 and in paragraph 6.5.1.4 of Annex 11 to UN Regulation No 83, including any additional hardware or software protocol information, parameter identification, transfer functions, ‘keep alive’ requirements, or error conditions;
-
-3.1.2. details of how to obtain and interpret all the fault codes that do not comply with the standards prescribed in paragraph 4.7.3 of Annex 9B to UN Regulation No 49 and in paragraph 6.5.1.4 of Annex 11 to UN Regulation No 83;
-
-3.1.3. a list of all available live data parameters, including scaling and access information;
-
-3.1.4. a list of all available functional tests, including device activation or control and the means to implement them;
-
-3.1.5. details of how to obtain all component and status information, time stamps, pending DTC and freeze frames;
-
-3.1.6. resetting adaptive learning parameters, variant coding and replacement component setup, and customer preferences;
-
-3.1.7. Electronic control unit (ECU) identification and variant coding;
-
-3.1.8. details of how to reset service lights;
-
-3.1.9. location of diagnostic connector and connector details;
-
-3.1.10. engine code identification.
-
-The following information shall be required:
-
-**3.2.Test and diagnosis of OBD monitored components**
-
-3.2.1. a description of tests to confirm the functionality, at the component or in the harness;
-
-3.2.2. information concerning the test procedure, including test parameters and component information;
-
-3.2.3. connection details, including minimum and maximum input and output and driving and loading values;
-
-3.2.4. values to be expected under certain driving conditions, including idling;
-
-3.2.5. electrical values for the component in its static and dynamic states;
-
-3.2.6. failure mode values for each of the scenarios;
-
-3.2.7. failure mode diagnostic sequences, including fault trees and guided diagnostics elimination.
-
-The following information shall be required:
-
-**3.3.Data required to perform the repair**
-
-3.3.1. ECU and component initialisation (in the event of replacements being fitted);
-
-3.3.2. initialisation of new or replacement ECU's where relevant using pass-through (re-) programming techniques.
+| 3. | Information required for the manufacturing of diagnostic toolsIn order to facilitate the provision of generic diagnostic tools for multi-make repairers, vehicle manufacturers shall make available the information referred to in points 3.1, 3.2 and 3.3 through their repair information websites. That information shall include all diagnostic tool functions and all the links to repair information and troubleshooting instructions. The access to the information may be subject to the payment of a reasonable fee.3.1. **Communication protocol information**The following information shall be required indexed against vehicle make, model and variant, or another workable definition such as the VIN or the vehicle and systems identification:3.1.1. any additional protocol information system necessary to enable complete diagnostics in addition to the standards prescribed in paragraph 4.7.3 of Annex 9B to UN Regulation No 49 and in paragraph 6.5.1.4 of Annex 11 to UN Regulation No 83, including any additional hardware or software protocol information, parameter identification, transfer functions, ‘keep alive’ requirements, or error conditions;3.1.2. details of how to obtain and interpret all the fault codes that do not comply with the standards prescribed in paragraph 4.7.3 of Annex 9B to UN Regulation No 49 and in paragraph 6.5.1.4 of Annex 11 to UN Regulation No 83;3.1.3. a list of all available live data parameters, including scaling and access information;3.1.4. a list of all available functional tests, including device activation or control and the means to implement them;3.1.5. details of how to obtain all component and status information, time stamps, pending DTC and freeze frames;3.1.6. resetting adaptive learning parameters, variant coding and replacement component setup, and customer preferences;3.1.7. Electronic control unit (ECU) identification and variant coding;3.1.8. details of how to reset service lights;3.1.9. location of diagnostic connector and connector details;3.1.10. engine code identification.3.2. **Test and diagnosis of OBD monitored components**The following information shall be required:3.2.1. a description of tests to confirm the functionality, at the component or in the harness;3.2.2. information concerning the test procedure, including test parameters and component information;3.2.3. connection details, including minimum and maximum input and output and driving and loading values;3.2.4. values to be expected under certain driving conditions, including idling;3.2.5. electrical values for the component in its static and dynamic states;3.2.6. failure mode values for each of the scenarios;3.2.7. failure mode diagnostic sequences, including fault trees and guided diagnostics elimination.3.3. **Data required to perform the repair**The following information shall be required:3.3.1. ECU and component initialisation (in the event of replacements being fitted);3.3.2. initialisation of new or replacement ECU's where relevant using pass-through (re-) programming techniques. |
+| --- | --- |
 
 <a id="appendix_3__3"></a>
 
-### Appendix 3
+### **Appendix 3**
 
-This Appendix contains the requirements for the purposes of approval and authorisation of independent operators requiring access to security-related vehicle repair and maintenance information (RMI).It specifies in detail the process and the bodies required to approve and authorise independent operators to be granted access to security-related vehicle repair and maintenance information for light passenger and commercial vehicles and heavy duty vehicles.
 
-**1.Scope**
 
-**2.Definitions and abbreviated terms**
+<a id="procedure_for_the_approval_and_authorisation_of_independent_operators_to_access_vehicle_security_features_20"></a>
+
+### Procedure for the approval and authorisation of independent operators to access vehicle security features (20)
+
+1. **Scope**
+
+This Appendix contains the requirements for the purposes of approval and authorisation of independent operators requiring access to security-related vehicle repair and maintenance information (RMI).
+
+It specifies in detail the process and the bodies required to approve and authorise independent operators to be granted access to security-related vehicle repair and maintenance information for light passenger and commercial vehicles and heavy duty vehicles.
+
+2. **Definitions and abbreviated terms**
+
+2.1. **Definitions**
 
 For the purposes of this Appendix, the following definitions shall apply:
 
-**2.1.Definitions**
+2.1.1. **‘Accreditation’**
 
 ‘accreditation’ shall mean accreditation as defined in Article 2, point 10 of Regulation (EC) No 765/2008
 
-**2.1.1.Accreditation**
+2.1.2. **‘IO employee’**
 
 ‘IO employee’ shall mean the employee of an approved independent operator (IO) who, upon authorisation from his or her conformity assessment body (CAB), will have access to security-related RMI
 
-**2.1.2.IO employee**
+2.1.3. **‘Security-related repair and maintenance information’ or ‘security-related RMI’**
 
 ‘security-related repair and maintenance information’ or ‘security-related RMI’ shall mean the information, software, functions and services required to repair and maintain the features that are included in a vehicle by the manufacturer to prevent the vehicle from being stolen or driven away and to enable the vehicle to be tracked and recovered.
 
-**2.1.3.Security-related repair and maintenance information or security-related RMI**
+2.1.4. **‘Approval inspection certificate’**
 
 ‘approval inspection certificate’ shall mean the certificate issued by the CAB to IOs complying with the approval criteria set out in this Appendix and which confirms that those IOs are approved and that IO employees can request the authorisation to access security-related RMI.
 
-**2.1.4.Approval inspection certificate**
+2.1.5. **‘Authorisation inspection certificate’**
 
 ‘authorisation inspection certificate’ shall mean the certificate issued by the CAB to IO employees complying with the authorisation criteria set out in this Appendix and which confirms that those employees are authorised to access security-related RMI on the website of a vehicle manufacturer.
 
-**2.1.5.Authorisation inspection certificate**
+2.1.6. **‘Trust centre’ or ‘TC’**
 
 ‘trust centre’ or ‘TC’ shall mean the body designated by SERMI and approved by the Commission and that is responsible for:
-
-**2.1.6.Trust centre or TC**
 
 (a) managing the digital certificates and authorisation status of the IO employees and for providing to the CAB the necessary security tokens and digital certificates for authorised IO employees;
 
 (b) providing a vehicle manufacturer with information regarding the authorisation status of an IO employee.
 
+2.1.7. **‘Security token’**
+
 ‘security token’ shall mean a device that allows a secure authentication of an IO.
 
-**2.1.7.Security token**
+2.1.8. **‘Digital certificate’**
 
 ‘digital certificate’ shall mean a digital certificate which requires a digital signature of the issuing trust centre to bind a public key to the identity of the IO employee in accordance with the standard ISO 9594.
 
-**2.1.8.Digital certificate**
+2.1.9. **‘Authorisation database’**
 
 ‘authorisation database’ shall mean a database held by the trust centre and which contains the authorisation details of the anonymised authorised IO employees and the registration of approved IOs.
 
-**2.1.9.Authorisation database**
+2.1.10. **‘Certification database’**
 
 ‘certification database’ shall mean a database held by the trust centre to manage the digital certificate validity and the identifiers of authorised IO employees.
 
-**2.1.10.Certification database**
+2.1.11. **‘European cooperation for Accreditation’ or ‘EA’**
 
 ‘European cooperation for Accreditation’ or ‘EA’ shall mean the body recognised by the Commission in accordance with Article 14 of Regulation (EC) No 765/2008 and which is responsible for the development, maintenance and implementation of accreditation in the Union.
 
-**2.1.11.European cooperation for Accreditation or EA**
+2.1.12. **‘Forum for Access to Security-Related Vehicle RMI’ or ‘SERMI’**
 
 The ‘Forum for Access to Security-Related Vehicle RMI’ or ‘SERMI’ means the entity that is in charge of coordinating and advising the Commission on the implementation of the procedures of accreditation, approval and authorisation for the purpose of accessing security-related RMI.
 
-**2.1.12.Forum for Access to Security-Related Vehicle RMI or SERMI**
+2.1.13. **‘Relevant authorities’**
 
 ‘relevant authorities’ shall mean those public authorities that have a legal mandate to act in the area of vehicle security crime protection, investigation and prosecution.
 
-**2.1.13.Relevant authorities**
+3. **Accreditation of CABs, approval of IOs and authorisation of IO employees**
 
-Only CABs that are accredited by the national accreditation body (‘NAB’), as defined in Article 2, point 11 of Regulation (EC) No 765/2008, of the Member State in which they are established shall issue approval inspection certificates certifying that an IO has been approved and authorisation inspection certificates certifying that an IO employee is to access security-related RMI.The approval of the IO and the authorisation of the IO employee shall be granted for a period of 60 months starting from the date of issuance of the relevant inspection certificates.IOs wishing to receive security-related RMI shall obtain an approval inspection certificate from a CAB accredited by the NAB of the Member State where the IO is established.IO employees who are to handle security-related RMI shall obtain an authorisation inspection certificate from a CAB accredited by the NAB of the Member State where the IO employee resides.CABs shall inform TCs of any approval inspection certificates or authorisation inspection certificates issued, upon which TCs shall create an authorisation record and issue a security token and a digital certificate containing details that allow IO employees to be uniquely identifiable to the vehicle manufacturer RMI website. CABs shall provide individual IO employees with a security token and the digital certificate.Vehicle manufacturers may demand a fee for the registration of IO employees on those vehicle manufacturers’ RMI websites and for access to security-related RMI. Such fee shall be proportionate to the cost for such registration and provision of access. The fees due shall be specified on the vehicle manufacturers’ RMI websites. All digital data transfers between IOs, TCs and CABs shall be carried out via business to business (B2B) transactions using secure protocols and in a timely manner.[other image: L_2021272EN.01002101.tif]A declaration that certifies that the IO pursues a legitimate business activity as referred to in point 6.3 of this Annex shall be signed by the IO requesting to be authorised by the CAB. An IO shall only be approved after an inspection by the CAB that shall verify that this declaration has been signed and that shall assess whether the IO and its individual employees comply with the requirements laid down in this Appendix.Individual IO employees shall only be authorised after an inspection by a CAB. CABs shall check the documents submitted and shall verify whether the IO employee concerned made a previous request for authorisation that has been rejected by the CAB concerned or any other CAB at Union level.CABs shall send all data to the TC that are necessary for the TC to produce the digital certificate and the security token, which the CAB shall send to the IO employees..IO employees that have been authorised shall receive from their CABs the PIN associated with the digital certificate.[other image: L_2021272EN.01002201.tif]
+Only CABs that are accredited by the national accreditation body (‘NAB’), as defined in Article 2, point 11 of Regulation (EC) No 765/2008, of the Member State in which they are established shall issue approval inspection certificates certifying that an IO has been approved and authorisation inspection certificates certifying that an IO employee is to access security-related RMI.
 
-**3.Accreditation of CABs, approval of IOs and authorisation of IO employees**
+The approval of the IO and the authorisation of the IO employee shall be granted for a period of 60 months starting from the date of issuance of the relevant inspection certificates.
 
-Vehicle manufacturers shall provide access to security-related RMI through their RMI website, provided that the IO employees are authorised and are able to produce the authorisation inspection certificate, and that the IO on whose behalf the IO employees are working has an approval inspection certificate.Manufacturers may offer access to an on-line ordering facility for security-related parts using a specialised application linked to the RMI website to authorised IO employees that work for approved IOs.Upon receipt of a request for access to an RMI website, the vehicle manufacturers’ websites shall require identification through the IO employee unique identifier and request authentication. Authentication of IO employees shall be carried out exclusively using digital certificates. Upon receipt of a digital certificate, vehicle manufacturer RMI websites shall verify the IO employee unique identifier and the current status of the digital certificate and authorisation, by communicating with the TC identified in the digital certificate.All digital data transfers between IOs, vehicle manufacturers, TCs and CABs shall be carried out via business to business (B2B) transactions, using secure protocols and in a timely manner. Once the IO employee unique identifier and authorisation status of the IO employee have been verified, access to the required security-related RMI shall be provided by the vehicle manufacturer through its website.[other image: L_2021272EN.01002301.tif]
+IOs wishing to receive security-related RMI shall obtain an approval inspection certificate from a CAB accredited by the NAB of the Member State where the IO is established.
 
-**3.1.Overview of the access to security-related RMI**
+IO employees who are to handle security-related RMI shall obtain an authorisation inspection certificate from a CAB accredited by the NAB of the Member State where the IO employee resides.
 
-**4.Detailed rules concerning access to security-related RMI**
+CABs shall inform TCs of any approval inspection certificates or authorisation inspection certificates issued, upon which TCs shall create an authorisation record and issue a security token and a digital certificate containing details that allow IO employees to be uniquely identifiable to the vehicle manufacturer RMI website. CABs shall provide individual IO employees with a security token and the digital certificate.
 
-**4.1.The role of SERMI**
+Vehicle manufacturers may demand a fee for the registration of IO employees on those vehicle manufacturers’ RMI websites and for access to security-related RMI. Such fee shall be proportionate to the cost for such registration and provision of access. The fees due shall be specified on the vehicle manufacturers’ RMI websites. All digital data transfers between IOs, TCs and CABs shall be carried out via business to business (B2B) transactions using secure protocols and in a timely manner.
+
+*Figure 1***The bodies involved in the accreditation of CABs, approval of IOs and authorisation of IO employees and their relationship**
+
+A declaration that certifies that the IO pursues a legitimate business activity as referred to in point 6.3 of this Annex shall be signed by the IO requesting to be authorised by the CAB. An IO shall only be approved after an inspection by the CAB that shall verify that this declaration has been signed and that shall assess whether the IO and its individual employees comply with the requirements laid down in this Appendix.
+
+Individual IO employees shall only be authorised after an inspection by a CAB. CABs shall check the documents submitted and shall verify whether the IO employee concerned made a previous request for authorisation that has been rejected by the CAB concerned or any other CAB at Union level.
+
+CABs shall send all data to the TC that are necessary for the TC to produce the digital certificate and the security token, which the CAB shall send to the IO employees..
+
+IO employees that have been authorised shall receive from their CABs the PIN associated with the digital certificate.
+
+*Figure 2***IO approval and IO employee authorisation process**
+
+3.1. **Overview of the access to security-related RMI**
+
+Vehicle manufacturers shall provide access to security-related RMI through their RMI website, provided that the IO employees are authorised and are able to produce the authorisation inspection certificate, and that the IO on whose behalf the IO employees are working has an approval inspection certificate.
+
+Manufacturers may offer access to an on-line ordering facility for security-related parts using a specialised application linked to the RMI website to authorised IO employees that work for approved IOs.
+
+Upon receipt of a request for access to an RMI website, the vehicle manufacturers’ websites shall require identification through the IO employee unique identifier and request authentication. Authentication of IO employees shall be carried out exclusively using digital certificates. Upon receipt of a digital certificate, vehicle manufacturer RMI websites shall verify the IO employee unique identifier and the current status of the digital certificate and authorisation, by communicating with the TC identified in the digital certificate.
+
+All digital data transfers between IOs, vehicle manufacturers, TCs and CABs shall be carried out via business to business (B2B) transactions, using secure protocols and in a timely manner. Once the IO employee unique identifier and authorisation status of the IO employee have been verified, access to the required security-related RMI shall be provided by the vehicle manufacturer through its website.
+
+*Figure 3***Access to security-related RMI**
+
+4. **Detailed rules concerning access to security-related RMI**
+
+4.1. **The role of SERMI**
+
+4.1.1. **Responsibilities and obligations**
 
 SERMI shall monitor the implementation of the accreditation process across the Member States and inform the Commission accordingly. SERMI shall advise the Commission on requests for changes to the accreditation process.
-
-**4.1.1.Responsibilities and obligations**
 
 (a) SERMI shall advise the Commission on requests for changes to the accreditation process. SERMI shall monitor the implementation of the accreditation process across the Member States and inform the Commission accordingly;
 
@@ -6394,35 +4884,43 @@ SERMI shall monitor the implementation of the accreditation process across the M
 
 (e) the members of the SERMI shall be represented by the stakeholders engaged in the process of accreditation, approval and authorisation for the purpose of accessing security-related RMI.
 
-The TC shall be selected by SERMI and be notified to the Commission for approval.Selected TC shall comply with standard ETSI TS 319411-3, fulfil the requirements on electronic signatures laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council and the requirements laid down in point 4.6 of this Appendix.In addition, the TC shall:
+4.1.2. **Trust centre selection**
 
-**4.1.2.Trust centre selection**
+The TC shall be selected by SERMI and be notified to the Commission for approval.
 
-- have the technical and managerial competence, and the financial viability and experience relevant to the accreditation process; have the technical and managerial competence, and the financial viability and experience relevant to the accreditation process;
+Selected TC shall comply with standard ETSI TS 319 411 -3, fulfil the requirements on electronic signatures laid down in Regulation (EU) No 910/2014 of the European Parliament and of the Council (21) and the requirements laid down in point 4.6 of this Appendix.
 
-- have key personnel that has the skills, experience and availability necessary for the accreditation process; have key personnel that has the skills, experience and availability necessary for the accreditation process;
+In addition, the TC shall:
 
-- be able to operate across Member States; be able to operate across Member States;
+— have the technical and managerial competence, and the financial viability and experience relevant to the accreditation process;
 
-- have in place a quality assurance process at operational level. have in place a quality assurance process at operational level.
+— have key personnel that has the skills, experience and availability necessary for the accreditation process;
+
+— be able to operate across Member States;
+
+— have in place a quality assurance process at operational level.
+
+4.2. **The role of NABs**
 
 The NAB shall be responsible for the accreditation of CABs for the purposes of approving IOs and authorising IO employees for access to security-related RMI.
 
-**4.2.The role of NABs**
+4.2.1. **Responsibilities and requirements**
 
 The responsibilities and requirements of the NAB are set out in Articles 8 to 12 of Regulation (EC) No 765/2008.
 
-**4.2.1.Responsibilities and requirements**
+4.2.2. **Criteria for CAB accreditation**
 
-CABs shall be accredited as type A inspection bodies in accordance with ISO/IEC 17020:2012. CABs shall comply with the requirements concerning the highest level of independence.Additionally, the NAB shall assess CABs’ capability to comply with the requirements laid down in points 4.3.1 to 4.3.4.The personnel in charge of IO inspections shall have a level of knowledge in the automotive vehicle repair and maintenance business and of the automotive aftermarket specifics that is appropriate for the tasks they are performing.
+CABs shall be accredited as type A inspection bodies in accordance with ISO/IEC 17020:2012. CABs shall comply with the requirements concerning the highest level of independence.
 
-**4.2.2.Criteria for CAB accreditation**
+Additionally, the NAB shall assess CABs’ capability to comply with the requirements laid down in points 4.3.1 to 4.3.4.
+
+The personnel in charge of IO inspections shall have a level of knowledge in the automotive vehicle repair and maintenance business and of the automotive aftermarket specifics that is appropriate for the tasks they are performing.
+
+4.3. **The role of CABs**
 
 The CAB shall be responsible for the inspection of IOs and their respective IO employees and for issuing approval and authorisation inspection certificates in accordance with this Appendix, and for revoking such certificates.
 
-**4.3.The role of CABs**
-
-**4.3.1.Responsibilities and requirements**
+4.3.1. **Responsibilities and requirements**
 
 (a) CABs shall keep the data submitted for the approval of an IO;
 
@@ -6456,13 +4954,17 @@ The CAB shall be responsible for the inspection of IOs and their respective IO e
 
 (p) CABs shall revoke IO approvals and IO employee authorisations where they no longer comply with the criteria against which they were respectively approved or authorised. CABs shall accordingly request the TC to suspend and repeal digital certificate of the concerned IO employees.
 
-CABs shall, upon request by an IO or 6 months prior to the expiry of validity of the approval, make an on-site inspection, and in case of a positive inspection result, renew the approval.CABs shall issue a new approval inspection certificate for IO that fulfils the approval criteria.CABs shall assess applications for renewals of authorisations and issue an authorisation inspection certificate to IO employees fulfilling the authorisation criteria.
+4.3.2. **Renewal of the approval**
 
-**4.3.2.Renewal of the approval**
+CABs shall, upon request by an IO or 6 months prior to the expiry of validity of the approval, make an on-site inspection, and in case of a positive inspection result, renew the approval.
+
+CABs shall issue a new approval inspection certificate for IO that fulfils the approval criteria.
+
+CABs shall assess applications for renewals of authorisations and issue an authorisation inspection certificate to IO employees fulfilling the authorisation criteria.
+
+4.3.3. **Criteria for IO approval by the CAB**
 
 Before approving an IO and during any on-site inspection during the approval validity period, CABs shall check the following:
-
-**4.3.3.Criteria for IO approval by the CAB**
 
 (a) documented ownership of IO, name of managing director;
 
@@ -6482,9 +4984,9 @@ Before approving an IO and during any on-site inspection during the approval val
 
 (i) whether there is declaration signed by the IO legal representative that compliance with the procedural requirements laid down in point 4.3.4 is ensured for all operations related to vehicle security.
 
-Before authorising an employee as an IO employee, and during any on-site inspection during the approval validity period, CABs shall verify the following:
+4.3.4. **Criteria for IO employee authorisation by the CAB**
 
-**4.3.4.Criteria for IO employee authorisation by the CAB**
+Before authorising an employee as an IO employee, and during any on-site inspection during the approval validity period, CABs shall verify the following:
 
 (a) that the employee concerned did not have a previous authorisation which has been revoked because of misuse of that authorisation;
 
@@ -6494,9 +4996,9 @@ Before authorising an employee as an IO employee, and during any on-site inspect
 
 (d) that the employee concerned has a valid country specific identity card or an equivalent document.
 
-**4.4.Role of the IOs**
+4.4. **Role of the IOs**
 
-**4.4.1.Responsibilities and requirements**
+4.4.1. **Responsibilities and requirements**
 
 (a) IOs shall request an inspection from their CAB to obtain approval;
 
@@ -6518,9 +5020,9 @@ Before authorising an employee as an IO employee, and during any on-site inspect
 
 (j) IO shall request their CAB for an on-site inspection in the six months prior to the expiration of their approval inspection certificate.
 
-**4.5.Role of IO employees**
+4.5. **Role of IO employees**
 
-**4.5.1.Responsibilities and requirements**
+4.5.1. **Responsibilities and requirements**
 
 (a) IO employees shall request their CAB for authorisation;
 
@@ -6540,11 +5042,13 @@ Before authorising an employee as an IO employee, and during any on-site inspect
 
 (i) IO employees shall report to the relevant authorities any request or act from other IO employees relating to security-related RMI that does not constitute a legitimate business activity as referred to in point 6.3 of this Annex.
 
-TCs shall create and send the digital certificates to the IOs via the respective CABs to the IOs and the IO employees. TCs shall maintain a database of issued authorisation inspection certificates. TCs shall provide vehicle manufacturers access to an interface to verify the status of the digital certificates and the authorisation inspection certificates.TCs shall keep the information regarding IO employees in the authorisation database for an additional period of maximum 60 months. That period shall not be longer than the remaining validity period of the approval granted to the IO where the IO employee is working.
+4.6. **Role of the trust centre**
 
-**4.6.Role of the trust centre**
+TCs shall create and send the digital certificates to the IOs via the respective CABs to the IOs and the IO employees. TCs shall maintain a database of issued authorisation inspection certificates. TCs shall provide vehicle manufacturers access to an interface to verify the status of the digital certificates and the authorisation inspection certificates.
 
-**4.6.1.Responsibilities and requirements**
+TCs shall keep the information regarding IO employees in the authorisation database for an additional period of maximum 60 months. That period shall not be longer than the remaining validity period of the approval granted to the IO where the IO employee is working.
+
+4.6.1. **Responsibilities and requirements**
 
 (a) TCs can suspend and repeal digital certificates upon request from the CAB;
 
@@ -6552,19 +5056,19 @@ TCs shall create and send the digital certificates to the IOs via the respective
 
 (c) TCs shall operate 24 hours a day, 7 days a week.
 
+4.7. **Role of vehicle manufacturers**
+
 Vehicle manufacturers shall provide to all approved IOs and authorised IO employees access to security-related repair and maintenance information. Vehicle manufacturers shall communicate with TCs to verify the authorisation and authentication status of IO employees seeking access to such information.
 
-**4.7.Role of vehicle manufacturers**
-
-**4.7.1.Responsibilities and requirements**
+4.7.1. **Responsibilities and requirements**
 
 (a) vehicle manufacturers shall ensure that their websites are adapted to support the access of IOs to security-related RMI;
 
 (b) vehicle manufacturers shall ensure that they download the technical specifications made available on the SERMI website.
 
-Vehicle manufacturers shall not grant access to security-related RMI, unless all of the following procedural requirements have been complied with:
+4.7.2. **Procedural requirements for vehicle manufacturers**
 
-**4.7.2.Procedural requirements for vehicle manufacturers**
+Vehicle manufacturers shall not grant access to security-related RMI, unless all of the following procedural requirements have been complied with:
 
 (1) Procedural requirements for stolen vehicles Vehicle manufacturers shall keep a record of all vehicles of its brand reported by the authorities as stolen. Vehicle manufacturers shall put in place a process that provides clear traceability and accountability and enables the relevant authorities to trace the data supplied by the vehicle manufacturer to the IO employee who was granted access to the information related to the stolen vehicle.
 
@@ -6576,7 +5080,7 @@ Vehicle manufacturers shall not grant access to security-related RMI, unless all
 
 **CORRELATION TABLE**
 
-**1.Regulation (EC) No 715/2007**
+1. **Regulation (EC) No 715/2007**
 
 | Regulation (EC) No 715/2007 | This Regulation |
 | --- | --- |
@@ -6588,7 +5092,7 @@ Vehicle manufacturers shall not grant access to security-related RMI, unless all
 | Article 9 | — |
 | Article 13(2), point (e) | Article 86(1), point (5) |
 
-**2.Regulation (EC) No 595/2009**
+2. **Regulation (EC) No 595/2009**
 
 | Regulation (EC) No 595/2009 | This Regulation |
 | --- | --- |
@@ -6597,7 +5101,7 @@ Vehicle manufacturers shall not grant access to security-related RMI, unless all
 | Article 6 | Article 61 |
 | Article 11(2), point (e) | Article 84(3), point (a) |
 
-**3.Directive 2007/46/EC**
+3. **Directive 2007/46/EC**
 
 | Directive 2007/46/EC | This Regulation |
 | --- | --- |
@@ -6857,3 +5361,45 @@ Vehicle manufacturers shall not grant access to security-related RMI, unless all
 | Annex XIX | — |
 | Annex XX | — |
 | Annex XXI | Annex XI |
+
+(1) Regulation (EU) No 167/2013 of the European Parliament and of the Council of 5 February 2013 on the approval and market surveillance of agricultural or forestry vehicles (OJ L 60, 2.3.2013, p. 1).
+
+(2) Regulation (EU) No 168/2013 of the European Parliament and of the Council of 15 January 2013 on the approval and market surveillance of two- or three-wheel vehicles and quadricycles (OJ L 60, 2.3.2013, p. 52).
+
+(3) Directive 2006/42/EC of the European Parliament and of the Council of 17 May 2006 on machinery, and amending Directive 95/16/EC (OJ L 157, 9.6.2006, p. 24).
+
+(4) Council Directive 96/53/EC of 25 July 1996 laying down for certain road vehicles circulating within the Community the maximum authorized dimensions in national and international traffic and the maximum authorized weights in international traffic (OJ L 235, 17.9.1996, p. 59).
+
+(5) Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 on general product safety (OJ L 11, 15.1.2002, p. 4).
+
+(6) Commission Regulation (EU) 19/2011 of 11 January 2011 concerning type-approval requirements for the manufacturer's statutory plate and for the vehicle identification number of motor vehicles and their trailers and implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council concerning type-approval requirements for the general safety of motor vehicles, their trailers and systems, components and separate technical units intended therefor (OJ L 8, 12.1.2011, p. 1).
+
+(7) Commission Regulation (EC) No 692/2008 of 18 July 2008 implementing and amending Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 199, 28.7.2008, p. 1).
+
+(8) Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to units of measurement and on the repeal of Directive 71/354/EEC (OJ L 39, 15.2.1980, p. 40).
+
+(9) Commission Regulation (EU) 2017/1151 of 1 June 2017 supplementing Regulation (EC) No 715/2007 of the European Parliament and of the Council on type-approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information, amending Directive 2007/46/EC of the European Parliament and of the Council, Commission Regulation (EC) No 692/2008 and Commission Regulation (EU) No 1230/2012 and repealing Commission Regulation (EC) No 692/2008 (OJ L 175, 7.7.2017, p. 1).
+
+(10) Regulation (EU) No 510/2011 of the European Parliament and of the Council of 11 May 2011 setting emission performance standards for new light commercial vehicles as part of the Union's integrated approach to reduce CO2 emissions from light-duty vehicles (OJ L 145, 31.5.2011, p. 1).
+
+(11) Commission Regulation (EU) No 1230/2012 of 12 December 2012 implementing Regulation (EC) No 661/2009 of the European Parliament and of the Council with regard to type-approval requirements for masses and dimensions of motor vehicles and their trailers and amending Directive 2007/46/EC of the European Parliament and of the Council (OJ L 353, 21.12.2012, p. 31).
+
+(12) In the absence of a registration document, the competent authority may refer to available documented evidence of date of manufacture or documented evidence of first purchase.
+
+(13) OJ L 135, 31.5.2018, p. 1.
+
+(14) OJ L 346, 17.12.1997, p. 78.
+
+(15) For subsequent amendments, see UNECE TRANS/WP.29/343.
+
+►M2 (16) Regulation No 83 of the Economic Commission for Europe of the United Nations (UN/ECE) – Uniform provisions concerning the approval of vehicles with regard to the emission of pollutants according to engine fuel requirements (OJ L 42, 15.2.2012, p. 1).
+
+(17) Regulation No 49 of the Economic Commission for Europe of the United Nations (UN/ECE) – Uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines for use in vehicles, and the emission of gaseous pollutants from positive-ignition engines fuelled with natural gas or liquefied petroleum gas for use in vehicles (OJ L 180, 8.7.2011, p. 53).** ◄ **
+
+(18) As defined in Article 3(10) of Regulation (EC) No 715/2007.
+
+(19) As defined in Article 3(8) of Regulation (EC) No 595/2009.
+
+(20) The requirements set out in this Appendix are based on those laid down in the ‘Scheme for accreditation, approval and authorization to Access Security-related Repair and Maintenance Information (RMI)’ validated on 19 May 2016 by the European cooperation for Accreditation (https://www.vehiclesermi.eu/).
+
+(21) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73).

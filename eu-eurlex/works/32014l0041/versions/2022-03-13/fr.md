@@ -4,13 +4,15 @@ title: 'Directive 2014/41/EU'
 valid_from: '2022-03-13'
 valid_to: 'open'
 source: 'https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:02014L0041-20220313'
-source_sha256: '4026363cb27fec0299ce93b0d5bea2765d8ed8033998409bd38cfef15025f51d'
+source_sha256: 'f9a7522deeebd82f9dace9f5f30025da62585613f5b51f972ac32e0df6b2bf5e'
 license: 'EU reuse-with-attribution (Commission Decision 2011/833/EU)'
 attribution: '© European Union, 1998-2026; reuse with attribution (Commission Decision 2011/833/EU); consolidated texts have no legal effect'
-generator: 'fmx4-eu/1 · lex derive'
+generator: 'xhtml-eu/1 · lex derive'
 ---
 
-## CHAPITRE I — LA DÉCISION D'ENQUÊTE EUROPÉENNE
+## CHAPITRE I
+
+### **LA DÉCISION D'ENQUÊTE EUROPÉENNE**
 
 <a id="art_premier"></a>
 
@@ -44,7 +46,7 @@ d) «autorité d'exécution», une autorité compétente pour reconnaître une d
 
 ### Article 3 — Champ d'application de la décision d'enquête européenne
 
-La décision d'enquête européenne couvre toute mesure d'enquête, à l'exception de la création d'une équipe commune d'enquête et de l'obtention de preuves dans le cadre de cette équipe telle qu'elle est prévue à l'article 13 de la convention relative à l'entraide judiciaire en matière pénale entre les États membres de l'Union européenne (ci-après dénommée «convention») et à la décision-cadre 2002/465/JAI du Conseil, sauf aux fins de l'application, respectivement, de l'article 13, paragraphe 8, de la convention, et de l'article 1^er, paragraphe 8, de ladite décision-cadre.
+La décision d'enquête européenne couvre toute mesure d'enquête, à l'exception de la création d'une équipe commune d'enquête et de l'obtention de preuves dans le cadre de cette équipe telle qu'elle est prévue à l'article 13 de la convention relative à l'entraide judiciaire en matière pénale entre les États membres de l'Union européenne (1) (ci-après dénommée «convention») et à la décision-cadre 2002/465/JAI du Conseil (2), sauf aux fins de l'application, respectivement, de l'article 13, paragraphe 8, de la convention, et de l'article 1er, paragraphe 8, de ladite décision-cadre.
 
 <a id="art_4"></a>
 
@@ -82,17 +84,15 @@ e) une description de la ou des mesures d'enquête demandées et des preuves à 
 
 **3.** L'autorité compétente de l'État d'émission procède à la traduction de la décision d'enquête européenne figurant à l'annexe A dans une langue officielle de l'État d'exécution ou dans toute autre langue indiquée par l'État d'exécution conformément au paragraphe 2 du présent article.
 
-## CHAPITRE II — PROCÉDURES ET GARANTIES POUR L'ÉTAT D'ÉMISSION
+## CHAPITRE II
+
+### **PROCÉDURES ET GARANTIES POUR L'ÉTAT D'ÉMISSION**
 
 <a id="art_6"></a>
 
 ### Article 6 — Conditions d'émission et de transmission d'une décision d'enquête européenne
 
-**1.** L'autorité d'émission ne peut émettre une décision d'enquête européenne que si les conditions suivantes sont réunies:
-
-a) l'émission de la décision d'enquête européenne est nécessaire et proportionnée aux finalités des procédures visées à l'article 4, compte tenu des droits du suspect ou de la personne poursuivie; et
-
-b) la ou les mesures d'enquête indiquées dans la décision d'enquête européenne auraient pu être ordonnées dans les mêmes conditions dans le cadre d'une procédure nationale similaire.
+**1.** L'autorité d'émission ne peut émettre une décision d'enquête européenne que si les conditions suivantes sont réunies:a) l'émission de la décision d'enquête européenne est nécessaire et proportionnée aux finalités des procédures visées à l'article 4, compte tenu des droits du suspect ou de la personne poursuivie; etb) la ou les mesures d'enquête indiquées dans la décision d'enquête européenne auraient pu être ordonnées dans les mêmes conditions dans le cadre d'une procédure nationale similaire.
 
 **2.** Dans chaque cas, le respect des conditions visées au paragraphe 1 est vérifié par l'autorité d'émission.
 
@@ -108,7 +108,7 @@ b) la ou les mesures d'enquête indiquées dans la décision d'enquête europée
 
 **3.** Sans préjudice de l'article 2, point d), chaque État membre peut désigner une autorité centrale ou, lorsque son ordre juridique le prévoit, plusieurs autorités centrales, pour assister les autorités compétentes. Un État membre peut, si cela s'avère nécessaire en raison de l'organisation de son système judiciaire interne, confier à sa ou à ses autorités centrales la transmission administrative et la réception des décisions d'enquête européenne, ainsi que de toute autre correspondance officielle les concernant.
 
-**4.** L'autorité d'émission peut transmettre les décisions d'enquête européenne par le biais du système de télécommunications du Réseau judiciaire européen (RJE) créé par l'action commune 98/428/JAI du Conseil.
+**4.** L'autorité d'émission peut transmettre les décisions d'enquête européenne par le biais du système de télécommunications du Réseau judiciaire européen (RJE) créé par l'action commune 98/428/JAI du Conseil (3).
 
 **5.** Si l'identité de l'autorité d'exécution lui est inconnue, l'autorité d'émission sollicite par tout moyen, y compris les points de contact du RJE, le renseignement de la part de l'État d'exécution.
 
@@ -126,7 +126,9 @@ b) la ou les mesures d'enquête indiquées dans la décision d'enquête europée
 
 **3.** La décision d'enquête européenne qui complète une décision d'enquête européenne antérieure est certifiée conformément à l'article 5, paragraphe 1, premier alinéa, et, le cas échéant, est validée conformément à l'article 2, point c).
 
-## CHAPITRE III — PROCÉDURES ET GARANTIES POUR L'ÉTAT D'EXÉCUTION
+## CHAPITRE III
+
+### **PROCÉDURES ET GARANTIES POUR L'ÉTAT D'EXÉCUTION**
 
 <a id="art_9"></a>
 
@@ -148,23 +150,9 @@ b) la ou les mesures d'enquête indiquées dans la décision d'enquête europée
 
 ### Article 10 — Recours à un type différent de mesure d'enquête
 
-**1.** L'autorité d'exécution a recours, chaque fois que cela s'avère possible, à une mesure d'enquête autre que celle prévue dans la décision d'enquête européenne lorsque:
+**1.** L'autorité d'exécution a recours, chaque fois que cela s'avère possible, à une mesure d'enquête autre que celle prévue dans la décision d'enquête européenne lorsque:a) la mesure d'enquête indiquée dans la décision d'enquête européenne n'existe pas dans le droit de l'État d'exécution; oub) la mesure d'enquête indiquée dans la décision d'enquête européenne ne serait pas disponible dans le cadre d'une procédure nationale similaire.
 
-a) la mesure d'enquête indiquée dans la décision d'enquête européenne n'existe pas dans le droit de l'État d'exécution; ou
-
-b) la mesure d'enquête indiquée dans la décision d'enquête européenne ne serait pas disponible dans le cadre d'une procédure nationale similaire.
-
-**2.** Sans préjudice de l'article 11, le paragraphe 1 ne s'applique pas aux mesures d'enquête ci-après, auxquelles il doit toujours être possible de recourir au titre du droit de l'État d'exécution:
-
-a) l'obtention d'informations ou d'éléments de preuve qui sont déjà en possession de l'autorité d'exécution et qui auraient pu être obtenus, conformément au droit de l'État d'exécution, dans le cadre d'une procédure pénale ou aux fins de la décision d'enquête européenne;
-
-b) l'obtention d'informations contenues dans des bases de données détenues par la police ou les autorités judiciaires et auxquelles l'autorité d'exécution peut accéder directement dans le cadre d'une procédure pénale;
-
-c) l'audition d'un témoin, d'un expert, d'une victime, d'un suspect, d'une personne poursuivie ou d'un tiers sur le territoire de l'État d'exécution;
-
-d) toute mesure d'enquête non intrusive telle qu'elle est définie par le droit de l'État d'exécution;
-
-e) l'identification d'abonnés titulaires d'un numéro de téléphone spécifique ou de personnes détentrices d'une adresse IP spécifique.
+**2.** Sans préjudice de l'article 11, le paragraphe 1 ne s'applique pas aux mesures d'enquête ci-après, auxquelles il doit toujours être possible de recourir au titre du droit de l'État d'exécution:a) l'obtention d'informations ou d'éléments de preuve qui sont déjà en possession de l'autorité d'exécution et qui auraient pu être obtenus, conformément au droit de l'État d'exécution, dans le cadre d'une procédure pénale ou aux fins de la décision d'enquête européenne;b) l'obtention d'informations contenues dans des bases de données détenues par la police ou les autorités judiciaires et auxquelles l'autorité d'exécution peut accéder directement dans le cadre d'une procédure pénale;c) l'audition d'un témoin, d'un expert, d'une victime, d'un suspect, d'une personne poursuivie ou d'un tiers sur le territoire de l'État d'exécution;d) toute mesure d'enquête non intrusive telle qu'elle est définie par le droit de l'État d'exécution;e) l'identification d'abonnés titulaires d'un numéro de téléphone spécifique ou de personnes détentrices d'une adresse IP spécifique.
 
 **3.** L'autorité d'exécution peut également recourir à une mesure d'enquête autre que celle indiquée dans la décision d'enquête européenne si la mesure d'enquête choisie par l'autorité d'exécution permet d'obtenir le même résultat que la mesure indiquée dans la décision d'enquête européenne par des moyens moins intrusifs.
 
@@ -176,23 +164,7 @@ e) l'identification d'abonnés titulaires d'un numéro de téléphone spécifiqu
 
 ### Article 11 — Motifs de non-reconnaissance ou de non-exécution
 
-**1.** Sans préjudice de l'article 1, paragraphe 4, la reconnaissance ou l'exécution d'une décision d'enquête européenne peut être refusée dans l'État d'exécution lorsque:
-
-a) il existe une immunité ou un privilège au titre du droit de l'État d'exécution qui rend impossible l'exécution de la décision d'enquête européenne, ou il existe des règles relatives à l'établissement et à la limitation de la responsabilité pénale concernant la liberté de la presse ou la liberté d'expression dans d'autres médias qui rendent impossible l'exécution de la décision d'enquête européenne;
-
-b) dans un cas particulier, l'exécution de la décision d'enquête européenne risque de nuire à des intérêts nationaux essentiels en matière de sécurité, de mettre en danger la source d'information ou de comporter l'utilisation d'informations classifiées se rapportant à des activités de renseignement particulières;
-
-c) la décision d'enquête européenne a été émise dans le cadre d'une procédure visée à l'article 4, points b) et c), et la mesure d'enquête ne serait pas autorisée au titre du droit de l'État d'exécution dans le cadre d'une procédure nationale similaire;
-
-d) l'exécution de la décision d'enquête européenne serait contraire au principe non bis in idem;
-
-e) la décision d'enquête européenne concerne une infraction pénale qui est présumée avoir été commise hors du territoire de l'État d'émission et en totalité ou en partie sur le territoire de l'État d'exécution, et les faits pour lesquels elle a été émise ne constituent pas une infraction dans l'État d'exécution;
-
-f) il existe des motifs sérieux de croire que l'exécution de la mesure d'enquête indiquée dans la décision d'enquête européenne serait incompatible avec les obligations de l'État d'exécution conformément à l'article 6 du traité sur l'Union européenne et à la charte;
-
-g) les faits pour lesquels la décision d'enquête européenne a été émise ne constituent pas une infraction au titre du droit de l'État d'exécution, à moins qu'ils ne concernent une infraction figurant dans les catégories d'infractions figurant à l'annexe D, conformément à ce qui a été indiqué par l'autorité d'émission dans la décision d'enquête européenne, si ces faits sont passibles dans l'État d'émission d'une peine ou d'une mesure de sûreté privative de liberté d'un maximum d'au moins trois ans; ou
-
-h) le recours à la mesure d'enquête indiquée dans la décision d'enquête européenne est limité en vertu du droit de l'État d'exécution à une liste ou catégorie d'infractions ou à des infractions passibles de sanctions d'un certain seuil qui ne comprennent pas l'infraction sur laquelle porte la décision d'enquête européenne.
+**1.** Sans préjudice de l'article 1, paragraphe 4, la reconnaissance ou l'exécution d'une décision d'enquête européenne peut être refusée dans l'État d'exécution lorsque:a) il existe une immunité ou un privilège au titre du droit de l'État d'exécution qui rend impossible l'exécution de la décision d'enquête européenne, ou il existe des règles relatives à l'établissement et à la limitation de la responsabilité pénale concernant la liberté de la presse ou la liberté d'expression dans d'autres médias qui rendent impossible l'exécution de la décision d'enquête européenne;b) dans un cas particulier, l'exécution de la décision d'enquête européenne risque de nuire à des intérêts nationaux essentiels en matière de sécurité, de mettre en danger la source d'information ou de comporter l'utilisation d'informations classifiées se rapportant à des activités de renseignement particulières;c) la décision d'enquête européenne a été émise dans le cadre d'une procédure visée à l'article 4, points b) et c), et la mesure d'enquête ne serait pas autorisée au titre du droit de l'État d'exécution dans le cadre d'une procédure nationale similaire;d) l'exécution de la décision d'enquête européenne serait contraire au principe non bis in idem;e) la décision d'enquête européenne concerne une infraction pénale qui est présumée avoir été commise hors du territoire de l'État d'émission et en totalité ou en partie sur le territoire de l'État d'exécution, et les faits pour lesquels elle a été émise ne constituent pas une infraction dans l'État d'exécution;f) il existe des motifs sérieux de croire que l'exécution de la mesure d'enquête indiquée dans la décision d'enquête européenne serait incompatible avec les obligations de l'État d'exécution conformément à l'article 6 du traité sur l'Union européenne et à la charte;g) les faits pour lesquels la décision d'enquête européenne a été émise ne constituent pas une infraction au titre du droit de l'État d'exécution, à moins qu'ils ne concernent une infraction figurant dans les catégories d'infractions figurant à l'annexe D, conformément à ce qui a été indiqué par l'autorité d'émission dans la décision d'enquête européenne, si ces faits sont passibles dans l'État d'émission d'une peine ou d'une mesure de sûreté privative de liberté d'un maximum d'au moins trois ans; ouh) le recours à la mesure d'enquête indiquée dans la décision d'enquête européenne est limité en vertu du droit de l'État d'exécution à une liste ou catégorie d'infractions ou à des infractions passibles de sanctions d'un certain seuil qui ne comprennent pas l'infraction sur laquelle porte la décision d'enquête européenne.
 
 **2.** Le paragraphe 1, points g) et h), ne s'applique pas aux mesures d'enquête visées à l'article 10, paragraphe 2.
 
@@ -254,11 +226,7 @@ Lorsque cela est demandé dans la décision d'enquête européenne, et dans la m
 
 ### Article 15 — Motifs de report de la reconnaissance ou de l'exécution
 
-**1.** La reconnaissance ou l'exécution de la décision d'enquête européenne peut être reportée dans l'État d'exécution lorsque:
-
-a) son exécution risque de nuire à une enquête criminelle ou à des poursuites pénales en cours, jusqu'au moment jugé raisonnable par l'État d'exécution;
-
-b) les objets, documents ou données concernés sont déjà utilisés dans le cadre d'une autre procédure, jusqu'à ce qu'ils ne soient plus nécessaires à cette fin.
+**1.** La reconnaissance ou l'exécution de la décision d'enquête européenne peut être reportée dans l'État d'exécution lorsque:a) son exécution risque de nuire à une enquête criminelle ou à des poursuites pénales en cours, jusqu'au moment jugé raisonnable par l'État d'exécution;b) les objets, documents ou données concernés sont déjà utilisés dans le cadre d'une autre procédure, jusqu'à ce qu'ils ne soient plus nécessaires à cette fin.
 
 **2.** Dès que le motif de report cesse d'exister, l'autorité d'exécution prend immédiatement les mesures nécessaires à l'exécution de la décision d'enquête européenne et en informe l'autorité d'émission par tout moyen permettant de laisser une trace écrite.
 
@@ -272,21 +240,11 @@ Lorsqu'une autorité centrale a été désignée conformément à l'article 7, p
 
 Dans les cas visés à l'article 7, paragraphe 6, cette obligation s'applique tant à l'autorité compétente qui a reçu en premier lieu la décision d'enquête européenne qu'à l'autorité d'exécution à laquelle cette décision est finalement transmise.
 
-**2.** Sans préjudice de l'article 10, paragraphes 4 et 5, l'autorité d'exécution informe l'autorité d'émission, immédiatement et par tout moyen disponible:
-
-a) s'il est impossible à l'autorité d'exécution de prendre une décision sur la reconnaissance ou l'exécution en raison du fait que le formulaire prévu à l'annexe A est incomplet ou manifestement incorrect;
-
-b) si, au cours de l'exécution de la décision d'enquête européenne, l'autorité d'exécution juge opportun, sans plus ample informé, de diligenter des mesures d'enquête non prévues initialement ou qui n'avaient pas pu être spécifiées au moment de l'émission de la décision d'enquête européenne, pour permettre à l'autorité d'émission de prendre de nouvelles mesures dans le cas d'espèce; ou
-
-c) si l'autorité d'exécution constate que, dans le cas d'espèce, elle ne peut respecter les formalités et procédures expressément indiquées par l'autorité d'émission conformément à l'article 9.
+**2.** Sans préjudice de l'article 10, paragraphes 4 et 5, l'autorité d'exécution informe l'autorité d'émission, immédiatement et par tout moyen disponible:a) s'il est impossible à l'autorité d'exécution de prendre une décision sur la reconnaissance ou l'exécution en raison du fait que le formulaire prévu à l'annexe A est incomplet ou manifestement incorrect;b) si, au cours de l'exécution de la décision d'enquête européenne, l'autorité d'exécution juge opportun, sans plus ample informé, de diligenter des mesures d'enquête non prévues initialement ou qui n'avaient pas pu être spécifiées au moment de l'émission de la décision d'enquête européenne, pour permettre à l'autorité d'émission de prendre de nouvelles mesures dans le cas d'espèce; ouc) si l'autorité d'exécution constate que, dans le cas d'espèce, elle ne peut respecter les formalités et procédures expressément indiquées par l'autorité d'émission conformément à l'article 9.
 
 À la demande de l'autorité d'émission, cette information est confirmée sans tarder par tout moyen permettant de laisser une trace écrite.
 
-**3.** Sans préjudice de l'article 10, paragraphes 4 et 5, l'autorité d'exécution informe l'autorité d'émission sans tarder et par tout moyen permettant de laisser une trace écrite:
-
-a) de toute décision prise en vertu de l'article 10 ou 11;
-
-b) de toute décision reportant l'exécution ou la reconnaissance de la décision d'enquête européenne, des motifs du report et, si possible, de la durée prévue du report.
+**3.** Sans préjudice de l'article 10, paragraphes 4 et 5, l'autorité d'exécution informe l'autorité d'émission sans tarder et par tout moyen permettant de laisser une trace écrite:a) de toute décision prise en vertu de l'article 10 ou 11;b) de toute décision reportant l'exécution ou la reconnaissance de la décision d'enquête européenne, des motifs du report et, si possible, de la durée prévue du report.
 
 <a id="art_17"></a>
 
@@ -318,14 +276,6 @@ Lorsqu'ils sont présents sur le territoire de l'État d'exécution dans le cadr
 
 **4.** Chaque État membre prend les mesures nécessaires pour faire en sorte que les banques ne divulguent pas au client de la banque concerné ni à d'autres tiers que des informations ont été transmises à l'État d'émission conformément aux articles 26 et 27, ou qu'une enquête est en cours.
 
-<a id="art_20"></a>
-
-### Article 20 — Protection des données à caractère personnel
-
-Lorsqu'ils transposent la présente directive, les États membres veillent à ce que les données à caractère personnel soient protégées et qu'elles puissent uniquement être traitées conformément à la décision-cadre 2008/977/JAI du Conseilet aux principes énoncés dans la convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel du 28 janvier 1981 et son protocole additionnel.
-
-L'accès à ces données est limité, sans préjudice des droits de la personne concernée. Seules les personnes autorisées peuvent avoir accès à ces données.
-
 <a id="art_21"></a>
 
 ### Article 21 — Coûts
@@ -336,13 +286,11 @@ L'accès à ces données est limité, sans préjudice des droits de la personne 
 
 L'autorité d'exécution informe préalablement l'autorité d'émission des spécifications détaillées de la part des coûts considérée comme étant exceptionnellement élevée.
 
-**3.** Dans des circonstances exceptionnelles, si aucun accord ne peut être dégagé en ce qui concerne les coûts visés au paragraphe 2, l'autorité d'émission peut décider:
+**3.** Dans des circonstances exceptionnelles, si aucun accord ne peut être dégagé en ce qui concerne les coûts visés au paragraphe 2, l'autorité d'émission peut décider:a) de retirer la décision d'enquête européenne en tout ou en partie; oub) de maintenir la décision d'enquête européenne, et de supporter la part des coûts considérée comme étant exceptionnellement élevée.
 
-a) de retirer la décision d'enquête européenne en tout ou en partie; ou
+## CHAPITRE IV
 
-b) de maintenir la décision d'enquête européenne, et de supporter la part des coûts considérée comme étant exceptionnellement élevée.
-
-## CHAPITRE IV — DISPOSITIONS PARTICULIÈRES RELATIVES À CERTAINES MESURES D'ENQUÊTE
+### **DISPOSITIONS PARTICULIÈRES RELATIVES À CERTAINES MESURES D'ENQUÊTE**
 
 <a id="art_22"></a>
 
@@ -350,11 +298,7 @@ b) de maintenir la décision d'enquête européenne, et de supporter la part des
 
 **1.** Une décision d'enquête européenne peut être émise en vue du transfèrement temporaire d'une personne détenue dans l'État d'exécution aux fins de l'exécution d'une mesure d'enquête en vue de l'obtention de preuves requérant la présence de cette personne sur le territoire de l'État d'émission, sous réserve qu'elle soit renvoyée dans le délai fixé par l'État d'exécution.
 
-**2.** Outre les motifs de non-reconnaissance ou de non-exécution visés à l'article 11, l'exécution d'une décision d'enquête européenne peut également être refusée au motif:
-
-a) que la personne détenue ne donne pas son consentement; ou
-
-b) que le transfèrement est susceptible de prolonger la détention de cette personne.
+**2.** Outre les motifs de non-reconnaissance ou de non-exécution visés à l'article 11, l'exécution d'une décision d'enquête européenne peut également être refusée au motif:a) que la personne détenue ne donne pas son consentement; oub) que le transfèrement est susceptible de prolonger la détention de cette personne.
 
 **3.** Sans préjudice du paragraphe 2, point a), lorsque l'État d'exécution le juge nécessaire compte tenu de l'âge de la personne ou de son état physique ou mental, le représentant légal de la personne détenue a la possibilité d'exprimer un avis sur le transfèrement temporaire.
 
@@ -368,11 +312,7 @@ b) que le transfèrement est susceptible de prolonger la détention de cette per
 
 **8.** Sans préjudice du paragraphe 6, une personne transférée n'est ni poursuivie, ni détenue, ni soumise à aucune autre restriction de sa liberté individuelle dans l'État d'émission pour des faits commis ou des condamnations prononcées avant son départ du territoire de l'État d'exécution et qui ne sont pas précisés dans la décision d'enquête européenne.
 
-**9.** L'immunité visée au paragraphe 8 cesse d'exister si la personne transférée, ayant eu la possibilité de partir pendant une période de quinze jours consécutifs à compter de la date à partir de laquelle sa présence n'est plus requise par les autorités d'émission, est:
-
-a) néanmoins restée sur le territoire; ou
-
-b) y est revenue après l'avoir quitté.
+**9.** L'immunité visée au paragraphe 8 cesse d'exister si la personne transférée, ayant eu la possibilité de partir pendant une période de quinze jours consécutifs à compter de la date à partir de laquelle sa présence n'est plus requise par les autorités d'émission, est:a) néanmoins restée sur le territoire; oub) y est revenue après l'avoir quitté.
 
 **10.** Les frais résultant de l'application du présent article sont pris en charge conformément à l'article 21, à l'exclusion des frais occasionnés par le transfèrement de la personne vers l'État d'émission et depuis celui-ci, qui sont à la charge dudit État.
 
@@ -394,33 +334,13 @@ b) y est revenue après l'avoir quitté.
 
 L'autorité d'émission peut également émettre une décision d'enquête européenne aux fins d'entendre un suspect ou une personne poursuivie par vidéoconférence ou par un autre moyen de transmission audiovisuelle.
 
-**2.** Outre les motifs de non-reconnaissance ou de non-exécution visés à l'article 11, l'exécution d'une décision d'enquête européenne peut être refusée si:
+**2.** Outre les motifs de non-reconnaissance ou de non-exécution visés à l'article 11, l'exécution d'une décision d'enquête européenne peut être refusée si:a) le suspect ou la personne poursuivie ne donne pas son consentement; oub) l'exécution d'une telle mesure d'enquête dans un cas particulier serait contraire aux principes fondamentaux du droit de l'État d'exécution.
 
-a) le suspect ou la personne poursuivie ne donne pas son consentement; ou
-
-b) l'exécution d'une telle mesure d'enquête dans un cas particulier serait contraire aux principes fondamentaux du droit de l'État d'exécution.
-
-**3.** L'autorité d'émission et l'autorité d'exécution fixent les modalités pratiques d'un commun accord. Par cet accord, l'autorité d'exécution s'engage à:
-
-a) citer le témoin ou l'expert concerné à comparaître, en indiquant l'heure et le lieu de l'audition;
-
-b) citer le suspect ou la personne poursuivie à comparaître en vue de l'entendre conformément aux règles détaillées prévues par le droit de l'État d'exécution et à informer ces personnes de leurs droits au titre du droit de l'État d'émission, dans un délai leur permettant d'exercer effectivement leurs droits de la défense;
-
-c) veiller à ce que la personne à entendre soit dûment identifiée.
+**3.** L'autorité d'émission et l'autorité d'exécution fixent les modalités pratiques d'un commun accord. Par cet accord, l'autorité d'exécution s'engage à:a) citer le témoin ou l'expert concerné à comparaître, en indiquant l'heure et le lieu de l'audition;b) citer le suspect ou la personne poursuivie à comparaître en vue de l'entendre conformément aux règles détaillées prévues par le droit de l'État d'exécution et à informer ces personnes de leurs droits au titre du droit de l'État d'émission, dans un délai leur permettant d'exercer effectivement leurs droits de la défense;c) veiller à ce que la personne à entendre soit dûment identifiée.
 
 **4.** Si, dans les circonstances d'un cas d'espèce, l'autorité d'exécution ne dispose pas des moyens techniques permettant d'organiser une audition par vidéoconférence, l'État d'émission peut les mettre à sa disposition d'un commun accord.
 
-**5.** Lorsqu'une audition se tient par vidéoconférence ou par un autre moyen de transmission audiovisuelle, les règles suivantes s'appliquent:
-
-a) l'audition a lieu en présence d'un représentant de l'autorité compétente de l'État d'exécution, assisté au besoin d'un interprète; ce représentant est également responsable de l'identité de la personne entendue et du respect des principes fondamentaux du droit de l'État d'exécution. Si l'autorité d'exécution estime que les principes fondamentaux du droit de l'État d'exécution ne sont pas respectés au cours de l'audition, elle prend immédiatement les mesures nécessaires pour faire en sorte que l'audition se poursuive conformément à ces principes;
-
-b) les autorités compétentes de l'État d'émission et de l'État d'exécution conviennent, le cas échéant, des mesures relatives à la protection de la personne à entendre;
-
-c) l'audition est menée directement par l'autorité compétente de l'État d'émission, ou sous sa direction, conformément à son droit interne;
-
-d) à la demande de l'État d'émission ou de la personne à entendre, l'État d'exécution veille à ce que la personne à entendre soit assistée d'un interprète lorsque cela est nécessaire;
-
-e) les suspects ou les personnes poursuivies sont informés avant l'audition des droits procéduraux qui leur sont reconnus par le droit de l'État d'exécution et de l'État d'émission, y compris le droit de ne pas témoigner. Les témoins et les experts peuvent invoquer le droit de ne pas témoigner qui leur serait reconnu par le droit de l'État d'exécution ou de l'État d'émission et sont informés de ce droit avant l'audition.
+**5.** Lorsqu'une audition se tient par vidéoconférence ou par un autre moyen de transmission audiovisuelle, les règles suivantes s'appliquent:a) l'audition a lieu en présence d'un représentant de l'autorité compétente de l'État d'exécution, assisté au besoin d'un interprète; ce représentant est également responsable de l'identité de la personne entendue et du respect des principes fondamentaux du droit de l'État d'exécution.Si l'autorité d'exécution estime que les principes fondamentaux du droit de l'État d'exécution ne sont pas respectés au cours de l'audition, elle prend immédiatement les mesures nécessaires pour faire en sorte que l'audition se poursuive conformément à ces principes;b) les autorités compétentes de l'État d'émission et de l'État d'exécution conviennent, le cas échéant, des mesures relatives à la protection de la personne à entendre;c) l'audition est menée directement par l'autorité compétente de l'État d'émission, ou sous sa direction, conformément à son droit interne;d) à la demande de l'État d'émission ou de la personne à entendre, l'État d'exécution veille à ce que la personne à entendre soit assistée d'un interprète lorsque cela est nécessaire;e) les suspects ou les personnes poursuivies sont informés avant l'audition des droits procéduraux qui leur sont reconnus par le droit de l'État d'exécution et de l'État d'émission, y compris le droit de ne pas témoigner. Les témoins et les experts peuvent invoquer le droit de ne pas témoigner qui leur serait reconnu par le droit de l'État d'exécution ou de l'État d'émission et sont informés de ce droit avant l'audition.
 
 **6.** Sans préjudice de toute mesure convenue en ce qui concerne la protection des personnes, à l'issue de l'audition, l'autorité d'exécution établit un procès-verbal de l'audition indiquant la date et le lieu de l'audition, l'identité de la personne entendue, les identités et qualités de toutes les autres personnes ayant participé à l'audition dans l'État d'exécution, toutes les éventuelles prestations de serment et les conditions techniques dans lesquelles l'audition s'est déroulée. Le document est transmis par l'autorité d'exécution à l'autorité d'émission.
 
@@ -468,11 +388,7 @@ e) les suspects ou les personnes poursuivies sont informés avant l'audition des
 
 ### Article 28 — Mesures d'enquête impliquant l'obtention de preuves en temps réel, de manière continue et au cours d'une période déterminée
 
-**1.** Lorsque la décision d'enquête européenne est émise aux fins de l'exécution d'une mesure d'enquête qui requiert l'obtention de preuves en temps réel, de manière continue et au cours d'une période déterminée, telle que:son exécution peut être refusée, outre les motifs de non-reconnaissance et de non-exécution visés à l'article 11, si l'exécution de la mesure d'enquête concernée ne serait pas autorisée dans le cadre d'une procédure nationale similaire.
-
-a) le suivi d'opérations bancaires ou d'autres opérations financières qui sont réalisées sur un ou plusieurs comptes spécifiques;
-
-b) des livraisons contrôlées sur le territoire de l'État d'exécution,
+**1.** Lorsque la décision d'enquête européenne est émise aux fins de l'exécution d'une mesure d'enquête qui requiert l'obtention de preuves en temps réel, de manière continue et au cours d'une période déterminée, telle que:a) le suivi d'opérations bancaires ou d'autres opérations financières qui sont réalisées sur un ou plusieurs comptes spécifiques;b) des livraisons contrôlées sur le territoire de l'État d'exécution,son exécution peut être refusée, outre les motifs de non-reconnaissance et de non-exécution visés à l'article 11, si l'exécution de la mesure d'enquête concernée ne serait pas autorisée dans le cadre d'une procédure nationale similaire.
 
 **2.** L'État d'émission et l'État d'exécution fixent d'un commun accord les modalités pratiques de la mesure d'enquête visée au paragraphe 1, point b), et ailleurs si nécessaire.
 
@@ -488,15 +404,13 @@ b) des livraisons contrôlées sur le territoire de l'État d'exécution,
 
 **2.** Dans la décision d'enquête européenne, l'autorité d'émission indique les raisons pour lesquelles elle considère que l'enquête discrète est susceptible d'être pertinente aux fins de la procédure pénale concernée. La décision relative à la reconnaissance et à l'exécution d'une décision d'enquête européenne émise au titre du présent article est prise dans chaque cas individuel par les autorités compétentes de l'État d'exécution dans le respect de son droit interne et des procédures nationales.
 
-**3.** Outre les motifs de non-reconnaissance et de non-exécution visés à l'article 11, l'autorité d'exécution peut refuser d'exécuter une décision d'enquête européenne visée au paragraphe 1, lorsque:
-
-a) l'exécution d'une enquête discrète ne serait pas autorisée dans le cadre d'une procédure nationale similaire; ou
-
-b) il n'a pas été possible de parvenir à un accord sur les modalités des enquêtes discrètes au titre du paragraphe 4.
+**3.** Outre les motifs de non-reconnaissance et de non-exécution visés à l'article 11, l'autorité d'exécution peut refuser d'exécuter une décision d'enquête européenne visée au paragraphe 1, lorsque:a) l'exécution d'une enquête discrète ne serait pas autorisée dans le cadre d'une procédure nationale similaire; oub) il n'a pas été possible de parvenir à un accord sur les modalités des enquêtes discrètes au titre du paragraphe 4.
 
 **4.** Les enquêtes discrètes sont menées conformément au droit interne et aux procédures nationales de l'État membre sur le territoire duquel elles se déroulent. Le droit d'agir, de diriger et de contrôler les opérations liées aux enquêtes discrètes relève des seules autorités compétentes de l'État d'exécution. L'État d'émission et l'État d'exécution conviennent, dans le respect de leur droit interne et de leurs procédures nationales, de la durée de l'enquête discrète, de ses modalités précises et du statut juridique des agents concernés participant aux enquêtes discrètes.
 
-## CHAPITRE V — INTERCEPTION DE TÉLÉCOMMUNICATIONS
+## CHAPITRE V
+
+### **INTERCEPTION DE TÉLÉCOMMUNICATIONS**
 
 <a id="art_30"></a>
 
@@ -506,23 +420,13 @@ b) il n'a pas été possible de parvenir à un accord sur les modalités des enq
 
 **2.** Lorsque plus d'un État membre est en mesure de fournir l'assistance technique nécessaire complète pour la même interception de télécommunications, la décision d'enquête européenne est envoyée à l'un d'entre eux seulement. La priorité est toujours donnée à l'État membre où se trouve ou se trouvera la cible de l'interception.
 
-**3.** Une décision d'enquête européenne visée au paragraphe 1 contient également les informations suivantes:
-
-a) les informations nécessaires à l'identification de la cible de l'interception;
-
-b) la durée souhaitée de l'interception; et
-
-c) la fourniture de données techniques suffisantes, en particulier l'identificateur de cible, afin de garantir que la décision d'enquête européenne puisse être exécutée.
+**3.** Une décision d'enquête européenne visée au paragraphe 1 contient également les informations suivantes:a) les informations nécessaires à l'identification de la cible de l'interception;b) la durée souhaitée de l'interception; etc) la fourniture de données techniques suffisantes, en particulier l'identificateur de cible, afin de garantir que la décision d'enquête européenne puisse être exécutée.
 
 **4.** L'autorité d'émission indique dans la décision d'enquête européenne les raisons pour lesquelles elle estime que la mesure d'enquête indiquée est pertinente aux fins de la procédure pénale concernée.
 
 **5.** Outre les motifs de non-reconnaissance ou de non-exécution visés à l'article 11, l'exécution d'une décision d'enquête européenne visée au paragraphe 1 peut également être refusée lorsque la mesure d'enquête concernée n'aurait pas été autorisée dans le cadre d'une procédure nationale similaire. L'État d'exécution peut subordonner son consentement au respect des conditions qui seraient respectées dans le cadre d'une procédure nationale similaire.
 
-**6.** Une décision d'enquête européenne visée au paragraphe 1 peut être exécutée:
-
-a) en transmettant les télécommunications immédiatement à l'État d'émission; ou
-
-b) en interceptant, enregistrant et transmettant ultérieurement le résultat de l'interception des télécommunications à l'État d'émission.
+**6.** Une décision d'enquête européenne visée au paragraphe 1 peut être exécutée:a) en transmettant les télécommunications immédiatement à l'État d'émission; oub) en interceptant, enregistrant et transmettant ultérieurement le résultat de l'interception des télécommunications à l'État d'émission.
 
 L'autorité d'émission et l'autorité d'exécution se consultent en vue de se mettre d'accord sur le point de savoir si l'interception est réalisée conformément au point a) ou b).
 
@@ -534,23 +438,17 @@ L'autorité d'émission et l'autorité d'exécution se consultent en vue de se m
 
 ### Article 31 — Notification de l'État membre où se trouve la cible de l'interception et dont l'assistance technique n'est pas nécessaire
 
-**1.** Lorsque l'autorité compétente d'un État membre qui effectue l'interception (ci-après dénommé «État membre interceptant») a autorisé, aux fins de l'exécution d'une mesure d'enquête, l'interception de télécommunications et que l'adresse de communication de la cible de l'interception précisée dans l'ordre d'interception est utilisée sur le territoire d'un autre État membre (ci-après dénommé «État membre notifié») dont l'assistance technique n'est pas nécessaire pour effectuer cette interception, l'État membre interceptant notifie l'interception à l'autorité compétente de l'État membre notifié:
-
-a) avant l'interception dans les cas où l'autorité compétente de l'État membre interceptant sait déjà, au moment d'ordonner l'interception, que la cible de l'interception se trouve ou se trouvera sur le territoire de l'État membre notifié;
-
-b) au cours de l'interception ou après sa réalisation, dès qu'elle s'aperçoit que la cible de l'interception se trouve ou s'est trouvée sur le territoire de l'État membre notifié au moment de l'interception.
+**1.** Lorsque l'autorité compétente d'un État membre qui effectue l'interception (ci-après dénommé «État membre interceptant») a autorisé, aux fins de l'exécution d'une mesure d'enquête, l'interception de télécommunications et que l'adresse de communication de la cible de l'interception précisée dans l'ordre d'interception est utilisée sur le territoire d'un autre État membre (ci-après dénommé «État membre notifié») dont l'assistance technique n'est pas nécessaire pour effectuer cette interception, l'État membre interceptant notifie l'interception à l'autorité compétente de l'État membre notifié:a) avant l'interception dans les cas où l'autorité compétente de l'État membre interceptant sait déjà, au moment d'ordonner l'interception, que la cible de l'interception se trouve ou se trouvera sur le territoire de l'État membre notifié;b) au cours de l'interception ou après sa réalisation, dès qu'elle s'aperçoit que la cible de l'interception se trouve ou s'est trouvée sur le territoire de l'État membre notifié au moment de l'interception.
 
 **2.** La notification visée au paragraphe 1 se fait au moyen du formulaire figurant à l'annexe C.
 
-**3.** L'autorité compétente des États membres notifiés peut, dans le cas où l'interception ne serait pas autorisée dans le cadre d'une procédure nationale similaire, notifier sans tarder et au plus tard dans les 96 heures suivant la réception de la notification visée au paragraphe 1, l'autorité compétente de l'État membre interceptant:
-
-a) que l'interception ne peut pas être effectuée ou doit être interrompue; et
-
-b) si nécessaire, que les données interceptées alors que la cible de l'interception se trouvait sur son territoire ne peuvent pas être utilisées ou ne peuvent être utilisées que dans les conditions qu'elle spécifie. L'autorité compétente de l'État membre notifié informe l'autorité compétente de l'État membre interceptant des motifs qui justifient lesdites conditions.
+**3.** L'autorité compétente des États membres notifiés peut, dans le cas où l'interception ne serait pas autorisée dans le cadre d'une procédure nationale similaire, notifier sans tarder et au plus tard dans les 96 heures suivant la réception de la notification visée au paragraphe 1, l'autorité compétente de l'État membre interceptant:a) que l'interception ne peut pas être effectuée ou doit être interrompue; etb) si nécessaire, que les données interceptées alors que la cible de l'interception se trouvait sur son territoire ne peuvent pas être utilisées ou ne peuvent être utilisées que dans les conditions qu'elle spécifie. L'autorité compétente de l'État membre notifié informe l'autorité compétente de l'État membre interceptant des motifs qui justifient lesdites conditions.
 
 **4.** L'article 5, paragraphe 2, s'applique mutatis mutandis à la notification visée au paragraphe 2.
 
-## CHAPITRE VI — MESURES PROVISOIRES
+## CHAPITRE VI
+
+### **MESURES PROVISOIRES**
 
 <a id="art_32"></a>
 
@@ -566,37 +464,27 @@ b) si nécessaire, que les données interceptées alors que la cible de l'interc
 
 **5.** L'autorité d'exécution peut, après avoir consulté l'autorité d'émission et conformément au droit et aux pratiques nationales, poser des conditions appropriées aux circonstances de l'espèce afin de limiter la durée pendant laquelle la mesure provisoire visée au paragraphe 1 doit être maintenue. Si, conformément à ces conditions, elle envisage de lever la mesure provisoire, l'autorité d'exécution en informe l'autorité d'émission et lui donne la possibilité de formuler des observations. L'autorité d'émission informe immédiatement l'autorité d'exécution que la mesure provisoire visée au paragraphe 1 a été levée.
 
-## CHAPITRE VII — DISPOSITIONS FINALES
+## CHAPITRE VII
+
+### **DISPOSITIONS FINALES**
 
 <a id="art_33"></a>
 
 ### Article 33 — Notifications
 
-**1.** Au plus tard le 22 mai 2017, chaque État membre communique à la Commission les informations suivantes:
-
-a) l'autorité ou les autorités qui, conformément à son droit interne, sont compétentes conformément à l'article 2, points c) et d), lorsque cet État membre est l'État d'émission ou d'exécution;
-
-b) les langues acceptées pour une décision d'enquête européenne, visées à l'article 5, paragraphe 2;
-
-c) les informations relatives à l'autorité ou aux autorités centrales désignées si l'État membre souhaite faire usage de la possibilité prévue à l'article 7, paragraphe 3. Ces informations lient les autorités de l'État d'émission.
+**1.** Au plus tard le 22 mai 2017, chaque État membre communique à la Commission les informations suivantes:a) l'autorité ou les autorités qui, conformément à son droit interne, sont compétentes conformément à l'article 2, points c) et d), lorsque cet État membre est l'État d'émission ou d'exécution;b) les langues acceptées pour une décision d'enquête européenne, visées à l'article 5, paragraphe 2;c) les informations relatives à l'autorité ou aux autorités centrales désignées si l'État membre souhaite faire usage de la possibilité prévue à l'article 7, paragraphe 3. Ces informations lient les autorités de l'État d'émission.
 
 **2.** Chaque État membre peut également fournir à la Commission la liste des documents nécessaires qu'il exigerait au titre de l'article 22, paragraphe 4.
 
 **3.** Les États membres communiquent à la Commission toute modification ultérieure apportée aux informations visées aux paragraphes 1 et 2.
 
-**4.** La Commission met les informations reçues au titre du présent article à la disposition de tous les États membres et du RJE. Le RJE met les informations à disposition sur le site internet visé à l'article 9 de la décision 2008/976/JAI du Conseil.
+**4.** La Commission met les informations reçues au titre du présent article à la disposition de tous les États membres et du RJE. Le RJE met les informations à disposition sur le site internet visé à l'article 9 de la décision 2008/976/JAI du Conseil (4).
 
 <a id="art_34"></a>
 
 ### Article 34 — Relations avec d'autres instruments juridiques, conventions et accords
 
-**1.** Sans préjudice de leur application entre États membres et États tiers ni de leur application temporaire en vertu de l'article 35, la présente directive remplace, à partir du 22 mai 2017, les dispositions correspondantes des conventions suivantes, applicables entre les États membres liés par la présente directive:
-
-a) la convention européenne d'entraide judiciaire en matière pénale du Conseil de l'Europe du 20 avril 1959, ainsi que les deux protocoles additionnels à celle-ci, et les accords bilatéraux conclus en vertu de l'article 26 de ladite convention;
-
-b) la convention d'application de l'accord de Schengen;
-
-c) la convention relative à l'entraide judiciaire en matière pénale entre les États membres de l'Union européenne et le protocole à celle-ci.
+**1.** Sans préjudice de leur application entre États membres et États tiers ni de leur application temporaire en vertu de l'article 35, la présente directive remplace, à partir du 22 mai 2017, les dispositions correspondantes des conventions suivantes, applicables entre les États membres liés par la présente directive:a) la convention européenne d'entraide judiciaire en matière pénale du Conseil de l'Europe du 20 avril 1959, ainsi que les deux protocoles additionnels à celle-ci, et les accords bilatéraux conclus en vertu de l'article 26 de ladite convention;b) la convention d'application de l'accord de Schengen;c) la convention relative à l'entraide judiciaire en matière pénale entre les États membres de l'Union européenne et le protocole à celle-ci.
 
 **2.** La décision-cadre 2008/978/JAI est remplacée par la présente directive pour les États membres liés par la présente directive. Les dispositions de la décision-cadre 2003/577/JAI sont remplacées pour les États membres liés par la présente directive pour ce qui concerne le gel d'éléments de preuve.
 
@@ -646,690 +534,118 @@ Les États membres sont destinataires de la présente directive, conformément a
 
 ### ANNEXE A
 
+
+
+<a id="decision_d_enquete_europeenne"></a>
+
+### DÉCISION D'ENQUÊTE EUROPÉENNE
+
 La présente décision d'enquête européenne a été émise par une autorité compétente. L'autorité d'émission certifie que l'émission de la présente décision d'enquête européenne est nécessaire et proportionnée aux fins des procédures qui y sont énoncées, compte tenu des droits du suspect ou de la personne poursuivie, et que les mesures d'enquête demandées auraient pu être ordonnées dans les mêmes conditions dans le cadre d'une procédure nationale similaire. Je demande l'exécution de la ou des mesures d'enquête indiquées ci-après en tenant dûment compte de la confidentialité de l'enquête et le transfert des éléments de preuve obtenus à la suite de l'exécution de la décision d'enquête européenne.
 
-SECTION A
-
-État d'émission:
-
-État d'exécution:
-
-SECTION B: Urgence
-
-Veuillez indiquer s'il s'agit d'un cas d'urgence justifié par
-
-la dissimulation ou la destruction de preuves
-
-l'imminence du procès
-
-toute autre raison
-
-Veuillez préciser ci-après:
-
-Les délais impartis pour exécuter la décision d'enquête européenne sont fixés dans la directive 2014/41/UE. Toutefois, si un délai plus court ou un délai spécifique est nécessaire, veuillez fournir la date et la justifier:
-
-SECTION C: Mesure(s) d'enquête à exécuter
-
-1. Décrire l'assistance/la ou les mesures d'enquête demandées ET indiquer, le cas échéant, s'il s'agit de l'une des mesures d'enquête ci-après:
-
-Obtention d'informations ou d'éléments de preuve qui sont déjà en possession de l'autorité d'exécution
-
-Audition
-
-d'un témoin
-
-d'un expert
-
-d'un suspect ou d'une personne poursuivie
-
-d'une victime
-
-d'un tiers
-
-Obtention d'informations contenues dans des bases de données détenues par la police ou les autorités judiciaires
-
-Identification d'abonnés titulaires d'un numéro de téléphone spécifique ou de personnes détentrices d'une adresse IP spécifique
-
-Transfèrement temporaire d'une personne détenue vers l'État d'émission
-
-Transfèrement temporaire d'une personne détenue vers l'État d'exécution
-
-Audition par vidéoconférence ou par un autre moyen de transmission audiovisuelle
-
-d'un témoin
-
-d'un expert
-
-d'un suspect ou d'une personne poursuivie
-
-Audition par téléconférence
-
-d'un témoin
-
-d'un expert
-
-Informations relatives aux comptes bancaires et autres comptes financiers
-
-Informations relatives aux opérations bancaires et autres opérations financières
-
-Mesures d'enquête impliquant l'obtention de preuves en temps réel, de manière continue et au cours d'une période déterminée
-
-Suivi des opérations bancaires et autres opérations financières
-
-Livraisons surveillées
-
-Autres
-
-Enquête discrète
-
-Interception de télécommunications
-
-Mesure(s) provisoire(s) visant à empêcher toute opération de destruction, de transformation, de déplacement, de transfert ou d'aliénation d'éléments susceptibles d'être utilisés comme preuve
-
-SECTION D: Lien avec une décision d'enquête européenne antérieure
-
-Indiquer si la présente décision d'enquête européenne vient compléter une décision d'enquête européenne antérieure. Le cas échéant, communiquer les informations permettant de déterminer de quelle décision d'enquête européenne antérieure il s'agit (la date d'émission de la décision d'enquête européenne, l'autorité à laquelle ce document a été transmis et, si l'information est disponible, la date de transmission de la décision d'enquête européenne et les numéros de référence donnés par les autorités d'émission et d'exécution):
-
-Le cas échéant, indiquer également si une décision d'enquête européenne a déjà été adressée à un autre État membre dans la même procédure:
-
-SECTION E: Identité de la personne concernée
-
-1. Indiquer toutes les informations, dans la mesure où elles sont connues, relatives à l'identité de la ou des personne(s) (i) physique(s) ou (ii) morale(s) concernées par la mesure d'enquête (si plus d'une personne est concernée, veuillez fournir les informations pour chacune d'entre elles):
-
-(i) S'il s'agit d'une/de personne(s) physique(s)
-
-Nom:
-
-Prénom(s):
-
-Tout autre nom utile, le cas échéant:
-
-Pseudonyme(s), le cas échéant:
-
-Sexe:
-
-Nationalité:
-
-Numéro d'identité ou numéro de sécurité sociale:
-
-Type et numéro de la (des) pièce(s) d'identité (carte d'identité, passeport), s'ils sont disponibles:
-
-Date de naissance:
-
-Lieu de naissance:
-
-Résidence et/ou adresse connue (si l'adresse est inconnue, indiquer la dernière adresse connue):
-
-Langue(s) que la personne comprend:
-
-ii) S'il s'agit d'une (de) personne(s) morale(s)
-
-Dénomination:
-
-Forme juridique:
-
-Dénomination abrégée, dénomination communément utilisée ou raison commerciale, le cas échéant:
-
-Siège social:
-
-Numéro d'immatriculation:
-
-Adresse de la personne morale:
-
-Nom du représentant de la personne morale:
-
-Veuillez décrire la qualité de la personne concernée au stade actuel de la procédure:
-
-Suspect ou personne poursuivie
-
-Victime
-
-Témoin
-
-Expert
-
-Tiers
-
-Autre (veuillez préciser)
-
-2. Si elle diffère de l'adresse indiquée ci-dessus, veuillez indiquer le lieu où la mesure d'enquête doit être exécutée:
-
-3. Fournir toute autre information qui aidera à l'exécution de la décision d'enquête européenne:
-
-SECTION F: Type de procédure pour laquelle la décision d'enquête européenne est émise:
-
-a) en ce qui concerne des procédures pénales engagées par une autorité judiciaire, ou qui peuvent être engagées devant celle-ci, concernant une infraction pénale au titre du droit interne de l'État d'émission; ou
-
-b) procédures engagées par des autorités administratives pour des faits qui, constituant des infractions aux règles de droit, sont punissables selon le droit interne de l'État d'émission et lorsque la décision peut donner lieu à un recours devant une juridiction compétente, notamment en matière pénale; ou
-
-c) procédures engagées par des autorités judiciaires pour des faits qui, constituant des infractions aux règles de droit, sont punissables selon le droit interne de l'État d'émission et lorsque la décision peut donner lieu à un recours devant une juridiction compétente, notamment en matière pénale;
-
-d) en relation avec les procédures visées aux points a), b) et c) portant sur des faits ou des infractions pouvant engager la responsabilité d'une personne morale ou entraîner une peine à son encontre dans l'État d'émission.
-
-SECTION G: Motifs de l'émission de la décision d'enquête européenne
-
-1. Résumé des faits
-
-Exposer les raisons pour lesquelles la décision d'enquête européenne est émise, y compris un résumé des faits en cause, une description des infractions reprochées ou faisant l'objet de l'enquête, le stade actuel de l'enquête, ce qui justifie les facteurs de risque invoqués et toute autre information utile.
-
-2. Nature et qualification juridique de l'infraction ou des infractions pour lesquelles la décision d'enquête européenne est émise et disposition juridique ou code applicable:
-
-3. L'infraction pour laquelle la décision d'enquête européenne est émise est-elle passible dans l'État d'émission d'une peine ou d'une mesure de sûreté privative de liberté d'au moins trois ans au maximum, définies par le droit de l'État d'émission et figure-t-elle dans la liste d'infractions ci-dessous? (Cocher la case correspondante):
-
-participation à une organisation criminelle,
-
-terrorisme,
-
-traite des êtres humains,
-
-exploitation sexuelle des enfants et pédopornographie,
-
-trafic de stupéfiants et de substances psychotropes,
-
-trafic d'armes, de munitions et d'explosifs,
-
-corruption,
-
-fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes,
-
-blanchiment des produits du crime,
-
-faux-monnayage et contrefaçon de monnaie, y compris de l'euro,
-
-cybercriminalité,
-
-crimes contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées,
-
-aide à l'entrée et au séjour irréguliers,
-
-homicide volontaire, coups et blessures graves,
-
-trafic d'organes et de tissus humains,
-
-enlèvement, séquestration et prise d'otage,
-
-racisme et xénophobie,
-
-vol organisé ou vol à main armée,
-
-trafic illicite de biens culturels, y compris d'antiquités et d'œuvres d'art,
-
-escroquerie,
-
-racket et extorsion de fonds,
-
-contrefaçon et piratage de produits,
-
-falsification de documents administratifs et trafic de faux,
-
-falsification de moyens de paiementfalsification de moyens de paiement,
-
-trafic illicite de substances hormonales et d'autres facteurs de croissance,
-
-trafic illicite de matières nucléaires et radioactives,
-
-trafic de véhicules volés
-
-viol,
-
-incendie volontaire,
-
-crimes relevant de la compétence de la Cour pénale internationale
-
-détournement illicite d'aéronefs/de navires,
-
-sabotage.
-
-SECTION H: Exigences complémentaires pour certaines mesures
-
-Remplir les sections pertinentes pour la ou les mesure(s) d'enquête demandées:
-
-SECTION H1: Transfèrement d'une personne détenue
-
-(1) Si le transfèrement temporaire d'une personne détenue vers l'État d'émission aux fins de l'exécution d'une mesure d'enquête est demandé, veuillez indiquer si la personne a donné son consentement à cette mesure:
-
-Oui Non Je demande que le consentement de la personne soit demandé
-
-(2) Si le transfèrement temporaire d'une personne détenue vers l'État d'exécution aux fins de l'exécution d'une mesure d'enquête est demandé, veuillez indiquer si la personne a donné son consentement à cette mesure:
-
-Oui Non
-
-SECTION H2: Vidéoconférence ou téléconférence ou autre moyen de transmission audiovisuelle
-
-Si une audition par vidéoconférence ou téléconférence ou un autre moyen de transmission audiovisuelle est demandée:
-
-Veuillez indiquer le nom de l'autorité qui mènera l'audition (coordonnées/langue):
-
-Veuillez indiquer les motifs pour lesquels cette mesure est demandée:
-
-a) Audition par vidéoconférence ou par un autre moyen de transmission audiovisuelle:
-
-Le suspect ou la personne poursuivie a donné son consentement
-
-b) Audition par téléconférence
-
-SECTION H3: Mesures provisoires
-
-Si une mesure provisoire visant à empêcher toute opération de destruction, de transformation, de déplacement, de transfert ou d'aliénation d'éléments susceptibles d'être utilisés comme preuve est demandée, veuillez indiquer si:
-
-l'élément doit être transféré à l'État d'émission
-
-l'élément doit rester dans l'État d'exécution; veuillez indiquer la date prévue:
-
-pour la levée de la mesure provisoire:
-
-pour la présentation d'une demande ultérieure concernant l'élément:
-
-SECTION H4: Informations relatives aux comptes bancaires et autres comptes financiers
-
-1) Si des informations relatives aux comptes bancaires et autres comptes financiers que la personne détient ou contrôle sont demandées, veuillez indiquer, pour chacun d'entre eux, les raisons pour lesquelles vous estimez la mesure pertinente aux fins de la procédure pénale et pour quels motifs vous supposez que les banques de l'État d'exécution détiennent le compte:
-
-Informations relatives aux comptes bancaires que la personne détient ou sur lesquels elle a procuration
-
-Informations relatives aux comptes financiers que la personne détient ou sur lesquels elle a procuration
-
-2) Si des informations relatives aux opérations bancaires ou autres opérations financières sont demandées, veuillez indiquer, pour chacune d'entre elles, les raisons pour lesquelles vous estimez la mesure pertinente aux fins de la procédure pénale::
-
-Informations relatives aux opérations bancaires
-
-Informations relatives aux autres opérations financières
-
-Indiquer la période et les comptes concernés:
-
-SECTION H5: Mesures d'enquête impliquant l'obtention de preuves en temps réel, de manière continue et au cours d'une période déterminée
-
-Si cette mesure d'enquête est demandée, veuillez indiquer les raisons pour lesquelles vous estimez les informations demandées pertinentes aux fins de la procédure pénale:
-
-SECTION H6: Enquêtes discrètes
-
-Si une enquête discrète est demandée, veuillez indiquer les raisons pour lesquelles vous estimez que la mesure d'enquête est susceptible d'être pertinente aux fins de la procédure pénale:
-
-SECTION H7: Interception de télécommunications
-
-1) Si l'interception de télécommunications est demandée, veuillez indiquer les raisons pour lesquelles vous estimez la mesure d'enquête pertinente aux fins de la procédure pénale:
-
-2) Veuillez fournir les informations ci-après:
-
-a) informations permettant d'identifier la cible de l'interception:
-
-b) durée souhaitée de l'interception:
-
-c) données techniques (en particulier l'identificateur de cible – par exemple des données relatives au téléphone mobile, au téléphone fixe, à l'adresse électronique, à la connexion internet) pour que la décision d'enquête européenne puisse être exécutée:
-
-(3) Veuillez indiquer votre préférence concernant la méthode d'exécution:
-
-Transmission immédiate
-
-Enregistrement et transmission ultérieure
-
-Veuillez indiquer si vous demandez aussi une transcription, un décodage ou un déchiffrement des données interceptées (*):
-
-(*) Veuillez noter que les frais occasionnés par toute transcription, tout décodage ou tout déchiffrement doivent être pris en charge par l'État d'émission.
-
-SECTION I: Formalités et procédures demandées pour l'exécution
-
-1. Cocher et remplir, le cas échéant
-
-Il est demandé que l'autorité d'exécution respecte les formalités et procédures suivantes (…):
-
-2. Cocher et remplir, le cas échéant
-
-Il est demandé qu'un ou plusieurs fonctionnaires de l'État d'émission participent à l'exécution de la décision d'enquête européenne afin d'apporter un appui aux autorités compétentes de l'État d'exécution.
-
-Coordonnées des fonctionnaires:
-
-Langues dans lesquelles il est possible de communiquer:
-
-SECTION J: Voies de recours
-
-1. Veuillez indiquer si un recours a déjà été formé contre l'émission d'une décision d'enquête européenne et, dans l'affirmative, veuillez préciser (description des voies de recours, y compris des démarches qu'il est nécessaire d'effectuer, et délais):
-
-2. Autorité dans l'État d'émission pouvant fournir des informations complémentaires sur les voies de recours dans l'État d'émission et indiquer s'il est possible de disposer d'une assistance juridique ou de services d'interprétation et de traduction:
-
-Nom:
-
-Personne à contacter (le cas échéant):
-
-Adresse:
-
-N° de téléphone: (indicatif de pays) (indicatif de zone ou urbain)
-
-N° de télécopieur: (indicatif de pays) (indicatif de zone ou urbain)
-
-Adresse électronique:
-
-SECTION K: Coordonnées de l'autorité qui a émis la décision d'enquête européenne
-
-Cocher le type d'autorité qui a émis la décision d'enquête européenne:
-
-autorité judiciaire
-
-(*) toute autre autorité compétente telle qu'elle est définie par le droit de l'État d'émission
-
-(*) Veuillez aussi compléter la section (L)
-
-Nom de l'autorité:
-
-Nom du représentant/point de contact:
-
-Dossier n^o:
-
-Adresse:
-
-N° de téléphone: (indicatif de pays) (indicatif de zone ou urbain)
-
-N° de télécopieur: (indicatif de pays) (indicatif de zone ou urbain)
-
-Adresse électronique:
-
-Langues dans lesquelles il est possible de communiquer avec l'autorité d'émission:
-
-Si elles diffèrent de celles indiquées précédemment, les coordonnées de la (ou des) personne(s) à contacter en vue d'obtenir des informations complémentaires ou de prendre les dispositions pratiques nécessaires au transfert des éléments de preuve:
-
-Nom/Titre/Organisation:
-
-Adresse:
-
-Adresse électronique/n^o de téléphone:
-
-Signature de l'autorité d'émission et/ou de son représentant certifiant que le contenu de la
-
-décision d'enquête européenne est exact et correct:
-
-Nom:
-
-Fonction (titre/grade):
-
-Date:
-
-Cachet officiel (le cas échéant):
-
-SECTION L: Coordonnées de l'autorité judiciaire qui a validé la décision d'enquête européenne
-
-Veuillez indiquer le type d'autorité judiciaire qui a validé la décision d'enquête européenne:
-
-a) un juge ou une juridiction
-
-b) un juge d'instruction
-
-c) un procureur
-
-Nom officiel de l'autorité ayant validé la décision d'enquête européenne:
-
-Nom de son représentant:
-
-Fonction (titre/grade):
-
-Dossier n^o:
-
-Adresse:
-
-N° de téléphone: (indicatif de pays) (indicatif de zone ou urbain)
-
-N° de télécopieur: (indicatif de pays) (indicatif de zone ou urbain)
-
-Adresse électronique:
-
-Langues dans lesquelles il est possible de communiquer avec l'autorité ayant validé la décision:
-
-Veuillez indiquer si le principal point de contact pour l'autorité d'exécution devrait être:
-
-l'autorité d'émission
-
-l'autorité ayant validé la décision
-
-Signature et coordonnées de l'autorité ayant validé la décision
-
-Nom:
-
-Fonction (titre/grade):
-
-Date:
-
-Cachet officiel (le cas échéant):
+►(1) C1
 
 <a id="annexe_b"></a>
 
 ### ANNEXE B
 
+
+
+<a id="confirmation_de_la_reception_d_une_decision_d_enquete_europeenne"></a>
+
+### CONFIRMATION DE LA RÉCEPTION D'UNE DÉCISION D'ENQUÊTE EUROPÉENNE
+
 Le présent formulaire doit être rempli par l'autorité de l'État d'exécution qui a reçu la décision d'enquête européenne mentionnée ci-dessous.
-
-A) DÉCISION D'ENQUÊTE EUROPÉENNE CONCERNÉE
-
-Autorité qui a émis la décision d'enquête européenne:
-
-Référence du dossier:
-
-Date d'émission:
-
-Date de réception:
-
-(B) AUTORITÉ QUI A REÇU LA DÉCISION D'ENQUÊTE EUROPÉENNE ( 1 )
-
-Nom officiel de l'autorité compétente:
-
-Nom de son représentant:
-
-Fonction (titre/grade):
-
-Adresse:
-
-N° de téléphone: (indicatif de pays) (indicatif de zone ou urbain)
-
-N° de télécopieur: (indicatif de pays) (indicatif de zone ou urbain)
-
-Adresse électronique:
-
-Référence du dossier:
-
-Langues dans lesquelles il est possible de communiquer avec l'autorité:
-
-C) (LE CAS ÉCHÉANT) AUTORITÉ COMPÉTENTE À LAQUELLE LA DÉCISION D'ENQUÊTE EUROPÉENNE EST TRANSMISE PAR L'AUTORITÉ MENTIONNÉE SOUS B)
-
-Nom officiel de l'autorité:
-
-Nom de son représentant:
-
-Fonction (titre/grade):
-
-Adresse:
-
-N° de téléphone: (indicatif de pays) (indicatif de zone ou urbain)
-
-N° de télécopieur: (indicatif de pays) (indicatif de zone ou urbain)
-
-Adresse électronique:
-
-Date de transmission:
-
-Référence du dossier:
-
-Langues dans lesquelles il est possible de communiquer:
-
-( 1 ) Cette partie doit être remplie par chaque autorité qui a reçu la décision d'enquête européenne. Cette obligation incombe à l'autorité compétente pour reconnaître et exécuter la décision d'enquête européenne et, le cas échéant, à l'autorité centrale ou à l'autorité qui a transmis la décision d'enquête européenne à l'autorité compétente.
-
-D) TOUTE AUTRE INFORMATION SUSCEPTIBLE D'ÊTRE PERTINENTE POUR L'AUTORITÉ D'ÉMISSION:
-
-(E) SIGNATURE ET DATE
-
-Signature:
-
-Date:
-
-Cachet officiel (le cas échéant):
 
 <a id="annexe_c"></a>
 
 ### ANNEXE C
 
+
+
+<a id="notification"></a>
+
+### Notification
+
 Le présent formulaire est utilisé afin de notifier à un État membre l'interception de télécommunications qui sera, qui est ou qui a été réalisée sur son territoire sans son assistance technique. J'informe … (État membre notifié) de l'interception.
-
-A) ( 1 ) L'AUTORITÉ COMPÉTENTE
-
-Nom officiel de l'autorité compétente de l'État membre interceptant:
-
-Nom de son représentant:
-
-Fonction (titre/grade):
-
-Adresse:
-
-N° de téléphone: (indicatif de pays) (indicatif de zone ou urbain)
-
-N° de télécopieur: (indicatif de pays) (indicatif de zone ou urbain)
-
-Adresse électronique:
-
-Référence du dossier:
-
-Date d'émission:
-
-Langues dans lesquelles il est possible de communiquer avec l'autorité:
-
-B) INFORMATIONS CONCERNANT L'INTERCEPTION
-
-I) Informations sur l'état de la situation: cette notification a lieu (veuillez cocher la case correspondante)
-
-avant l'interception
-
-au cours de l'interception
-
-après l'interception
-
-II) La durée (prévue) de l'interception (connue de l'autorité d'émission):
-
-, à compter du
-
-III) Cible de l'interception: (numéro de téléphone, adresse IP ou adresse électronique)
-
-IV) Identité des personnes concernées
-
-Indiquer toutes les informations, dans la mesure où elles sont connues, relatives à l'identité de la ou des personne(s) (i) physique(s) ou (ii) morale(s) contre laquelle ou lesquelles la procédure a/peut avoir lieu:
-
-i) S'il s'agit d'une/de personne(s) physique(s)
-
-Nom:
-
-Prénom(s):
-
-Tout nom utile, le cas échéant:
-
-Pseudonyme, le cas échéant:
-
-Sexe:
-
-Nationalité:
-
-Numéro d'identité ou numéro de sécurité sociale:
-
-( 1 ) L'autorité visée ici est celle qui devrait être contactée pour la correspondance ultérieure avec l'État d'émission.
-
-Date de naissance:
-
-Lieu de naissance:
-
-Résidence et/ou adresse connue; si l'adresse est inconnue, indiquer la dernière adresse connue:
-
-Langue(s) que la personne comprend:
-
-ii) S'il s'agit de personne(s) morale(s)
-
-Nom:
-
-Forme:
-
-Dénomination abrégée, dénomination communément utilisée ou raison commerciale, le cas échéant:
-
-Siège social
-
-Numéro d'immatriculation:
-
-Adresse de la personne morale:
-
-Nom et coordonnées du représentant de la personne morale:
-
-V) Informations concernant l'objet de cette interception:
-
-Indiquer toutes les informations nécessaires, y compris la description du dossier, la qualification juridique de l'infraction ou des infractions et la disposition législative ou le code applicable, afin de permettre à l'autorité notifiée d'évaluer les éléments suivants:
-
-si l'interception serait autorisée dans le cadre d'une procédure nationale similaire; et si les données interceptées peuvent être utilisées dans le cadre d'une procédure judiciaire;
-
-lorsque l'interception a déjà eu lieu, si ces données peuvent être utilisées dans le cadre d'une procédure judiciaire
-
-Veuillez noter que toute objection à l'égard de l'interception ou de l'utilisation des données déjà interceptées doit être formulée au plus tard 96 heures après réception de la présente notification.
-
-C) SIGNATURE ET DATE
-
-Signature:
-
-Date:
-
-Cachet officiel (le cas échéant):
 
 <a id="annexe_d"></a>
 
 ### ANNEXE D
 
-- participation à une organisation criminelle, participation à une organisation criminelle,
 
-- terrorisme, terrorisme,
 
-- traite des êtres humains, traite des êtres humains,
+<a id="les_categories_d_infractions_visees_a_l_article_11"></a>
 
-- exploitation sexuelle des enfants et pédopornographie, exploitation sexuelle des enfants et pédopornographie,
+### LES CATÉGORIES D'INFRACTIONS VISÉES À L'ARTICLE 11
 
-- trafic de stupéfiants et de substances psychotropes, trafic de stupéfiants et de substances psychotropes,
+— participation à une organisation criminelle,
 
-- trafic d'armes, de munitions et d'explosifs, trafic d'armes, de munitions et d'explosifs,
+— terrorisme,
 
-- corruption, corruption,
+— traite des êtres humains,
 
-- fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes, fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes,
+— exploitation sexuelle des enfants et pédopornographie,
 
-- blanchiment des produits du crime, blanchiment des produits du crime,
+— trafic de stupéfiants et de substances psychotropes,
 
-- faux-monnayage et contrefaçon de monnaie, y compris de l'euro, faux-monnayage et contrefaçon de monnaie, y compris de l'euro,
+— trafic d'armes, de munitions et d'explosifs,
 
-- cybercriminalité, cybercriminalité,
+— corruption,
 
-- crimes contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées, crimes contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées,
+— fraude, y compris la fraude portant atteinte aux intérêts financiers des Communautés européennes au sens de la convention du 26 juillet 1995 relative à la protection des intérêts financiers des Communautés européennes,
 
-- aide à l'entrée et au séjour irréguliers, aide à l'entrée et au séjour irréguliers,
+— blanchiment des produits du crime,
 
-- homicide volontaire, coups et blessures graves, homicide volontaire, coups et blessures graves,
+— faux-monnayage et contrefaçon de monnaie, y compris de l'euro,
 
-- trafic d'organes et de tissus humains, trafic d'organes et de tissus humains,
+— cybercriminalité,
 
-- enlèvement, séquestration et prise d'otage, enlèvement, séquestration et prise d'otage,
+— crimes contre l'environnement, y compris le trafic d'espèces animales menacées et le trafic d'espèces et d'essences végétales menacées,
 
-- racisme et xénophobie, racisme et xénophobie,
+— aide à l'entrée et au séjour irréguliers,
 
-- vol organisé ou vol à main armée, vol organisé ou vol à main armée,
+— homicide volontaire, coups et blessures graves,
 
-- trafic illicite de biens culturels, y compris d'antiquités et d'œuvres d'art, trafic illicite de biens culturels, y compris d'antiquités et d'œuvres d'art,
+— trafic d'organes et de tissus humains,
 
-- escroquerie, escroquerie,
+— enlèvement, séquestration et prise d'otage,
 
-- racket et extorsion de fonds, racket et extorsion de fonds,
+— racisme et xénophobie,
 
-- contrefaçon et piratage de produits, contrefaçon et piratage de produits,
+— vol organisé ou vol à main armée,
 
-- falsification de documents administratifs et trafic de faux, falsification de documents administratifs et trafic de faux,
+— trafic illicite de biens culturels, y compris d'antiquités et d'œuvres d'art,
 
-- falsification de moyens de paiement, falsification de moyens de paiement,
+— escroquerie,
 
-- trafic illicite de substances hormonales et d'autres facteurs de croissance, trafic illicite de substances hormonales et d'autres facteurs de croissance,
+— racket et extorsion de fonds,
 
-- trafic illicite de matières nucléaires et radioactives, trafic illicite de matières nucléaires et radioactives,
+— contrefaçon et piratage de produits,
 
-- trafic de véhicules volés, trafic de véhicules volés,
+— falsification de documents administratifs et trafic de faux,
 
-- viol, viol,
+— falsification de moyens de paiement,
 
-- incendie volontaire, incendie volontaire,
+— trafic illicite de substances hormonales et d'autres facteurs de croissance,
 
-- crimes relevant de la Cour pénale internationale, crimes relevant de la Cour pénale internationale,
+— trafic illicite de matières nucléaires et radioactives,
 
-- détournement illicite d'aéronefs/de navires, détournement illicite d'aéronefs/de navires,
+— trafic de véhicules volés,
 
-- sabotage. sabotage.
+— viol,
+
+— incendie volontaire,
+
+— crimes relevant de la Cour pénale internationale,
+
+— détournement illicite d'aéronefs/de navires,
+
+— sabotage.
+
+(1) Convention établie par le Conseil conformément à l'article 34 du traité sur l'Union européenne, relative à l'entraide judiciaire en matière pénale entre les États membres de l'Union européenne (JO C 197 du 12.7.2000, p. 3).
+
+(2) Décision-cadre 2002/465/JAI du Conseil du 13 juin 2002 relative aux équipes communes d'enquête (JO L 162 du 20.6.2002, p. 1).
+
+(3) Action commune 98/428/JAI du 29 juin 1998 adoptée par le Conseil sur la base de l'article K.3 du traité sur l'Union européenne concernant la création d'un Réseau judiciaire européen (JO L 191 du 7.7.1998, p. 4).
+
+(4) Décision 2008/976/JAI du Conseil du 16 décembre 2008 concernant le Réseau judiciaire européen (JO L 348 du 24.12.2008, p. 130).
