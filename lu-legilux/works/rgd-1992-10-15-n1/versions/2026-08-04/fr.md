@@ -1,10 +1,10 @@
 ---
-lex_id: 'lu-legilux:rgd-1992-10-15-n1:2017-07-28'
+lex_id: 'lu-legilux:rgd-1992-10-15-n1:2026-08-04'
 title: 'Version consolidée applicable au 04/08/2026 : Règlement grand-ducal du 15 octobre 1992 concernant le mode d''élection des représentants des agents tombant sous le statut de la Fonction Publique au conseil d''administration de l''Entreprise des Postes et Télécommunications et l''exercice de leurs fonctions.'
-valid_from: '2017-07-28'
-valid_to: '2022-07-23'
-source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n1/consolide/20170728/fr'
-source_sha256: '5c27c3a31a852865d5fef653a65713798b8ca82ff58c74be65c94b5a6394ae14'
+valid_from: '2026-08-04'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n1/consolide/20260804/fr'
+source_sha256: '16b6e3773a54c8a4ed1d35c25f874811e9f5d773130d5e973b581af57fe11b09'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
@@ -40,7 +40,7 @@ Pour être éligible, l'électeur doit en plus:
 
 La date des élections est fixée par le membre du Gouvernement ayant les postes et télécommunications dans ses attributions, désigné dans les dispositions qui suivent par les termes «le ministre compétent».
 
-Cette date est portée à la connaissance des électeurs au moins six semaines avant les élections par un avis publié au Mémorial et par une circulaire interne diffusée par l'entreprise.
+Cette date est portée à la connaissance des électeurs au plus tard cinquante jours avant les élections par un avis publié au Mémorial et par une circulaire interne diffusée par l'entreprise.
 
 <a id="art_3"></a>
 
@@ -60,7 +60,7 @@ La liste des électeurs est établie par ordre alphabétique par le service du p
 
 ### Art 5.
 
-La liste des électeurs, arrêtée provisoirement, est déposée un mois au moins avant la date fixée pour les élections pendant dix jours à l'inspection des agents dans un ou plusieurs locaux désignés à cette fin par le service du personnel au siège de l'entreprise.
+La liste des électeurs, arrêtée provisoirement, est déposée au plus tard quarante jours avant la date fixée pour les élections pendant dix jours à l'inspection des agents dans un ou plusieurs locaux désignés à cette fin par le service du personnel au siège de l'entreprise.
 
 Une circulaire interne porte le dépôt à la connaissance des agents.
 
@@ -70,13 +70,13 @@ Pendant les dix jours au cours desquels les listes sont déposées à l'inspecti
 
 ### Art 6.
 
-Dans les trois jours à partir de l'expiration du délai de recours, le service du personnel transmet les recours et toutes les pièces qui s'y rapportent au ministre compétent, ou à son délégué dûment mandaté à cet effet, qui statue dans les trois jours.
+Dans les trois jours à partir de l'expiration du délai de recours, le service du personnel transmet les recours et toutes les pièces qui s'y rapportent au président de la commission chargée du dépouillement du scrutin à cet effet, qui statue dans les trois jours.
 
 <a id="art_7"></a>
 
 ### Art 7.
 
-Le comité exécutif de l'entreprise modifie incontinent les listes électorales en respectant les décisions du ministre, ou de son délégué ayant statué sur les recours. Les listes des électeurs seront ainsi arrêtées définitivement au plus tard deux semaines avant la date des élections.
+Le comité exécutif de l'entreprise modifie incontinent les listes électorales en respectant les décisions du président de la commission chargée du dépouillement du scrutin ayant statué sur les recours. Les listes des électeurs seront ainsi arrêtées définitivement au plus tard vingt-quatre jours avant la date des élections.
 
 <a id="art_8"></a>
 
@@ -104,25 +104,25 @@ Nul ne peut figurer ni comme candidat, ni comme électeur présentant une liste 
 
 Chaque liste de candidats doit être déposée par un mandataire désigné par et parmi les électeurs qui la présentent et qui l'ont signée à cet effet. Le mandataire remplit en outre tous les autres devoirs qui lui sont imposés par le présent règlement.
 
-Chaque liste doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l'expiration du délai imparti pour les déclarations de candidature, ces listes sont désignées par une lettre d'ordre par le ministre compétent ou son délégué dûment mandaté à cet effet.
+Chaque liste doit porter une dénomination et, dans le cas où des listes différentes portent des dénominations identiques, les mandataires sont invités à établir les distinctions nécessaires, à défaut de quoi, et avant l'expiration du délai imparti pour les déclarations de candidature, ces listes sont désignées par une lettre d'ordre par le président de la commission chargée du dépouillement du scrutin.
 
-Les formules imprimées des listes, attestations et déclarations visées au présent article sont imprimées par les soins du service du personnel de l'entreprise. Elles doivent être disponibles au plus tard trois semaines avant le jour des élections.
+Les formules imprimées des listes, attestations et déclarations visées au présent article sont imprimées par les soins du service du personnel de l'entreprise. Elles doivent être disponibles au plus tard trente jours avant le jour des élections.
 
 <a id="art_10"></a>
 
 ### Art 10.
 
-Les listes de candidats doivent être déposées entre les mains du ministre compétent ou de son délégué dûment mandaté à cet effet au plus tard le dixième jour ouvrable avant les élections, à dix-huit heures. Un récépissé est délivré au mandataire de la liste.
+Les listes de candidats doivent être déposées entre les mains du président de la commission chargée du dépouillement du scrutin au plus tard vingt jours avant les élections, à dix-huit heures. Un récépissé est délivré au mandataire de la liste.
 
 L'enregistrement est refusé à toute liste qui ne répond pas aux conditions prévues par l'article 9.
 
-Lors du dépôt de la liste, le mandataire peut désigner un témoin et un témoin suppléant qui peuvent assister aux opérations de dépouillement du scrutin.
+Lors du dépôt de la liste, le mandataire peut désigner un témoin et un témoin suppléant qui peuvent assister aux opérations de dépouillement du scrutin. Les témoins ne peuvent être candidats.
 
 <a id="art_11"></a>
 
 ### Art 11.
 
-A l'expiration du terme fixé à l'article 10 alinéa 1er, le ministre compétent ou son délégué arrête les listes de candidats. Pour chaque liste, l'ordre de présentation des candidats y est maintenu.
+A l'expiration du terme fixé à l'article 10 alinéa 1er, le président de la commission chargée du dépouillement du scrutin arrête les listes de candidats. Pour chaque liste, l'ordre de présentation des candidats y est maintenu.
 
 Après avoir arrêté les listes de candidats, le ministre compétent ou son délégué, assisté de deux membres de la commission chargée du dépouillement du scrutin, détermine aussitôt, par tirage au sort, l'ordre d'inscription des listes de candidats sur les bulletins de vote ainsi que sur les circulaires internes de l'entreprise.
 
@@ -130,7 +130,7 @@ Après avoir arrêté les listes de candidats, le ministre compétent ou son dé
 
 ### Art 12.
 
-Les listes ainsi arrêtées, leurs désignations et les numéros d'ordre sont communiqués au plus tard huit jours ouvrables avant la date des élections au service du personnel de l'entreprise qui en informe le personnel par une circulaire interne diffusée au plus tard six jours ouvrables avant la date des élections.
+Les listes ainsi arrêtées, leurs désignations et les numéros d'ordre sont communiqués au plus tard dix-huit jours avant la date des élections au service du personnel de l'entreprise qui en informe le personnel par une circulaire interne diffusée au plus tard seize jour avant la date des élections.
 
 Cette circulaire reproduit les noms, prénoms, situations statutaires et les sous-groupes respectivement de traitement ou d’indemnité ainsi que les désignations de service des candidats. Les listes y sont placées suivant l'ordre déterminé par le tirage au sort visé à l'article 11. Un chiffre arabe correspondant au numéro d'ordre ainsi que la dénomination sont imprimés en tête de chaque liste.
 
@@ -158,21 +158,15 @@ Le papier électoral servant à la confection des bulletins est fourni par l'ent
 
 ### Art 14.
 
-Au plus tard le sixième jour ouvrable avant la date des élections, le président de la commission chargée du dépouillement du scrutin envoie par envoi recommandé à chaque électeur un bulletin de vote et les instructions pour l'électeur qui sont annexées au présent règlement.
+Au plus tard quinze jours avant la date des élections, le président de la commission chargée du dépouillement du scrutin fait parvenir, par envoi recommandé, à chaque électeur un bulletin de vote et les instructions pour l’électeur qui sont annexées au présent règlement.
 
-Les bulletins de vote sont pliés en quatre, à l'angle droit, l'estampille des élections à l'extérieur.
+Les bulletins de vote sont prépliés à angle droit, l’estampille des élections à l’extérieur. Le bulletin de vote est placé dans une première enveloppe, laissée ouverte et portant l’indication « Élection des représentants du personnel au conseil d’administration de l’entreprise des P&T ». Une deuxième enveloppe, laissée également ouverte, est jointe à l’envoi et porte l’adresse du président de la commission chargée du dépouillement du scrutin.
 
-Le bulletin de vote est placé dans une première enveloppe, laissée ouverte et portant l'indication «Election des représentants du personnel au conseil d'administration de l'entreprise des P. & T». Une deuxième enveloppe, laissée également ouverte, est jointe à l'envoi et porte l'adresse du président de la commission chargée du dépouillement du scrutin.
+Dans l’angle supérieur droit de cette enveloppe est inscrite la mention « port payé par le destinataire ». Le numéro d’ordre sous lequel l’électeur figure dans la liste électorale est inscrit dans l’angle inférieur gauche de cette enveloppe.
 
-Dans l'angle supérieur gauche de cette enveloppe est inscrite la mention «recommandé», dans l'angle supérieur droit, la mention «port payé par le destinataire». Le numéro d'ordre sous lequel l'électeur figure dans la liste électorale est inscrit dans l'angle inférieur gauche de cette enveloppe.
+Le tout est inséré dans une troisième enveloppe à l’adresse de l’électeur. Dans l’angle supérieur gauche du recto de cette enveloppe figure l’adresse du président de la commission chargée du dépouillement du scrutin.
 
-Le tout est renfermé dans une troisième enveloppe à l'adresse de l'électeur. Dans l'angle supérieur gauche du recto de cette enveloppe figure l'adresse du président de la commission chargée du dépouillement du scrutin. La mention «recommandé électoral» est portée en dessous de cette adresse. La mention «Service postal» figure dans l'angle supérieur droit.
-
-Ces envois sont à déposer dans les boîtes aux lettres des électeurs. Le facteur certifie ce dépôt globalement en bas de la formule prévue à cet effet par la réglementation sur les recommandés électoraux.
-
-Pour les envois qui n'ont pu être remis pour une raison quelconque, une remarque appropriée est portée sur cette formule en regard des inscriptions concernées.
-
-Un exemplaire de cette formule, ensemble avec les envois non remis, à l'exception de ceux à réexpédier qui sont dirigés sur leur nouvelle destination, est transmis incontinent au président de la commission chargée du dépouillement du scrutin.
+Les envois non remis sont retournés immédiatement au président de la commission chargée du dépouillement du scrutin qui envoie un nouveau bulletin de vote, conformément aux alinéas 1er à 5, à la nouvelle adresse si le changement de résidence est le motif du renvoi.
 
 <a id="art_15"></a>
 
@@ -196,7 +190,7 @@ L’électeur s’abstient de faire sur le bulletin toute autre inscription, sig
 
 L'électeur met le bulletin, plié en quatre, l'estampille des élections à l'extérieur, dans la première enveloppe qui porte l'indication «Election des représentants du personnel au conseil d'administration de l'entreprise des postes et télécommunications».
 
-Il ferme cette enveloppe sous peine de nullité du vote et remet celle-ci dans la seconde enveloppe sur laquelle figurent notamment l'adresse du président de la commission chargée du dépouillement du scrutin ainsi que le numéro d'ordre de l'électeur. Il ferme également cette enveloppe et la remet, soit au facteur en tournée, soit au guichet d'un bureau de poste, soit exceptionnellement dans une boîte aux lettres publique, au plus tard le jour de l'élection, le timbre à date du bureau expéditeur faisant foi. L'enveloppe est soumise à la formalité de la recommandation.
+Il ferme cette enveloppe sous peine de nullité du vote et remet celle-ci dans la seconde enveloppe sur laquelle figurent notamment l'adresse du président de la commission chargée du dépouillement du scrutin ainsi que le numéro d'ordre de l'électeur. Il ferme également cette enveloppe et la remet à la poste, sous la forme d’une lettre simple, au plus tard le jour de l’élection. L'enveloppe est soumise à la formalité de la recommandation.
 
 <a id="art_17"></a>
 
@@ -236,7 +230,7 @@ La commission chargée du dépouillement du scrutin siège à Luxembourg dans un
 
 ### Art 22.
 
-La commission procède au dépouillement du scrutin le troisième jour ouvrable suivant celui de l'élection. Sans préjudice des dispositions de l'article 16, seuls les bulletins parvenus à la commission jusqu'à ce jour avant midi seront pris en considération.
+La commission procède au dépouillement du scrutin au plus tard trois jours suivant celui de l'élection. Sans préjudice des dispositions de l'article 16, seuls les bulletins parvenus à la commission jusqu'à ce jour avant midi seront pris en considération.
 
 Les enveloppes sont comptées et leur nombre est inscrit au procès-verbal. Les numéros d'ordre figurant sur les enveloppes sont pointés sur la liste des électeurs. Les enveloppes extérieures sont ensuite ouvertes et détruites immédiatement.
 
@@ -344,7 +338,7 @@ Le résultat du scrutin ainsi que les noms et prénoms des élus sont proclamés
 
 Cet extrait est communiqué au service du personnel de l'entreprise qui diffuse le résultat des élections sans désemparer au personnel de l'entreprise par circulaire.
 
-Tout électeur a le droit de réclamer contre les opérations électorales. La réclamation doit être formulée par écrit, énoncer tous les moyens du recours et être remise au ministre compétent dans les trois jours qui suivent la proclamation du résultat sous peine de forclusion. Le ministre statuera dans les plus brefs délais possibles.
+Tout électeur a le droit de réclamer contre les opérations électorales. La réclamation doit être formulée par écrit, énoncer tous les moyens du recours et être remise au ministre compétent dans les cinq jours qui suivent la proclamation du résultat sous peine de forclusion. Le ministre statuera dans les plus brefs délais possibles.
 
 <a id="art_30"></a>
 
@@ -409,7 +403,7 @@ Si l’électeur qui a procédé de cette façcon désire attribuer les autres s
 
 5. L’électeur procède aux inscriptions sur le bulletin de vote à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue.
 
-6. L’électeur met le bulletin de vote, plié en quatre, l’estampille des élections à l’extérieur dans l’enveloppe portant l’indication «Election des représentants du personnel au conseil d’administration de l’Entreprise des Postes et Télécommunications». Il ferme cette enveloppe et il met celle-ci dans l’enveloppe qui porte l’adresse du président de la commission chargée du dépouillement du scrutin. Il ferme également cette enveloppe et la remet comme lettre recommandée au plus tard le jour de l’élection, le tampon du bureau expéditeur faisant foi.
+6. L’électeur met le bulletin de vote, plié en quatre, l’estampille des élections à l’extérieur dans l’enveloppe portant l’indication «Election des représentants du personnel au conseil d’administration de l’Entreprise des Postes et Télécommunications». Il ferme cette enveloppe et il met celle-ci dans l’enveloppe qui porte l’adresse du président de la commission chargée du dépouillement du scrutin. Il ferme également cette enveloppe et la remet à la poste, sous la forme d’une lettre simple, au plus tard le jour de l’élection, le tampon du bureau expéditeur faisant foi.
 
 7. Sont nuls:
 

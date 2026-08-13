@@ -1,0 +1,213 @@
+{
+  "schema": "lex-articles/1",
+  "lex_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03",
+  "language": "fr",
+  "title": "Version consolidée applicable au 03/04/2017 : Règlement grand-ducal du 13 février 2007 relatif à la surveillance du commerce des précurseurs de drogues et déterminant les modalités d'application et sanctions des dispositions: \\n1.du règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues;\\n2.du règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers;\\n3.du règlement (CE) n° 1277/2005 de la Commission du 27 juillet 2005 établissant les modalités d'application du règlement (CE) n° 273/2004 du Parlement européen et du Conseil relatif aux précurseurs de drogues et du règlement (CE) n° 111/2005 du Conseil fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers.",
+  "valid_from": "2017-04-03",
+  "valid_to": null,
+  "valid_time_source": "publisher",
+  "derived_from": {
+    "corpus_repo": "lex-corpus-lu-legilux",
+    "path": "works/rgd-2007-02-13-n2/versions/2017-04-03/fr.xml",
+    "sha256": "805aa9f6da7eb2e3156211b38a8178b3cb8140604f7d9de4de3b5087a17ed3b9",
+    "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/consolide/20170403/fr"
+  },
+  "generator": {
+    "profile": "akn-lu/1",
+    "tool": "lex derive"
+  },
+  "license": "CC-BY-4.0",
+  "attribution": "Legilux — Ministère d'État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)",
+  "provisions": [
+    {
+      "anchor": "art_1",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_1",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_1/20070226",
+      "type": "article",
+      "num": "Art. 1.",
+      "heading": "Champ d'application.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "Le présent règlement fixe les mesures d'application du règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues, du règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers et du règlement (CE) n° 1277/2005 de la Commission du 27 juillet 2005 établissant les modalités d'application du règlement (CE) n° 273/2004 du Parlement européen et du Conseil relatif aux précurseurs de drogues et du règlement (CE) n° 111/2005 du Conseil fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers, y compris leurs modifications ultérieures.\n\nIl détermine les sanctions applicables en cas de violations des textes visés à l'alinéa qui précède.\n\nAux fins du présent règlement les définitions, procédures et notions fixées par chacun des règlements communautaires visés à l'alinéa premier s'appliquent",
+      "text_sha256": "9bd1b426fefff747c9d7983bc08914c610be34db15595b56f81422a2f1f48087",
+      "md_span": {
+        "start": 1413,
+        "end": 2437
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_2",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_2",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_2/20070226",
+      "type": "article",
+      "num": "Art. 2.",
+      "heading": "Autorités compétentes.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "**(1)** Les autorités nationales compétentes pour la surveillance et le contrôle des précurseurs, de même que pour la vérification de l'application par les opérateurs des dispositions des règlements communautaires visés à l'article premier, sont celles désignées à l'article 4 (1) de la loi modifiée du 17 mars 1992 portant:\n\n1. approbation de la Convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes, faite à Vienne, le 20 décembre 1988;\n2. loi du 19 février 1973\n3. Code de procédure pénale\n\nSans préjudice des pouvoirs directement conférés aux autorités compétentes par les textes communautaires visés à l'article premier, les agents visés à l'article 4 (1) de la loi modifiée du 17 mars 1992 précitée jouissent dans l'exercice de leurs missions des pouvoirs prévus au paragraphe (4) du prédit article.\n\n**(2)** Les opérateurs sont tenus de notifier immédiatement aux autorités chargées de la surveillance des précurseurs de drogues tous les éléments, tels que des commandes ou des transactions inhabituelles portant sur des substances classifiées, qui donnent lieu à penser que ces substances destinées à l'importation, à l'exportation ou à des activités intermédiaires pourraient être détournées pour la fabrication illicite de stupéfiants ou de substances psychotropes.",
+      "text_sha256": "856fb95e48bcaa13bba9a54843fcad4675afe4b9442d5b13550f1a7f49b405f4",
+      "md_span": {
+        "start": 2495,
+        "end": 3816
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/03/17/n1/jo",
+          "text": "loi modifiée du 17 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_3",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_3",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_3/20070226",
+      "type": "article",
+      "num": "Art. 3.",
+      "heading": "Agréments, enregistrements, notifications et déclarations.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "**(1)** Le ministre ayant la Santé dans ses attributions, ci-après dénommé «le ministre», est chargé d'agréer et d'enregistrer les opérateurs tombant sous le champ d'application des règlements communautaires visés à l'article premier. Il peut procéder au retrait ou à la suspension des agréments.\n\nLes demandes afférentes sont instruites pour compte du ministre par la Direction de la Santé, Division de la Pharmacie et des Médicaments.\n\n**(2)** La Division de la Pharmacie et des Médicaments est chargée de recevoir pour compte du ministre les déclarations et notifications prévues par les règlements communautaires visés à l'article premier.",
+      "text_sha256": "4cb9a6ebec6c06f57cf9f34316451206349fc19c59c736f72abbd2a2e43147e0",
+      "md_span": {
+        "start": 3910,
+        "end": 4553
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_4",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_4",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_4/20070226",
+      "type": "article",
+      "num": "Art. 4.",
+      "heading": "Importation à partir de et exportation à destination de pays tiers.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "La Direction de la Santé, Division de la Pharmacie et des Médicaments, instruit pour compte du ministre les demandes d'exportation et d'importation avec les pays tiers. Elle procède aux notifications préalables et aux notifications simplifiées préalables.",
+      "text_sha256": "dff3e6ef087067274b9d0b243a8e91f91f1cfd4ad2c3b22c6e8b5d2ce0f641f9",
+      "md_span": {
+        "start": 4656,
+        "end": 4911
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_5",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_5",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_5/20070226",
+      "type": "article",
+      "num": "Art. 5.",
+      "heading": "Registre des transactions.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "Les informations sur les opérations visées par les articles 17 et 18 du règlement (CE) n° 1277/2005 sont à communiquer à la Division de la Pharmacie et des Médicaments avant le délai visé à l'article 19 du règlement précité.\n\nA ces fins les opérateurs tiennent un registre qui reprend sous une forme synthétique les informations qui doivent être obligatoirement fournies.",
+      "text_sha256": "4fd9b9a19ab7d82e4f52034ec3e612c6b05da9d5cc72303de8bebb446a8288c4",
+      "md_span": {
+        "start": 4973,
+        "end": 5344
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_6",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_6",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_6/20070226",
+      "type": "article",
+      "num": "Art. 6.",
+      "heading": "Lignes directrices.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "La Division de la Pharmacie et des Médicaments et l'Administration des Douanes tiennent à la disposition des opérateurs et de l'industrie une version actualisée des lignes directrices communautaires, y compris la liste des produits non classifiés.\n\nEn cas de modification de ces lignes directrices ou de la liste des produits non classifiés, la Division de la Pharmacie et des Médicaments et l'Administration des Douanes veillent à en informer les opérateurs concernés.",
+      "text_sha256": "250fcb68a4d877c23c952d6d089963154d38ccef0eeb9d7dd3a2f3366e570b1d",
+      "md_span": {
+        "start": 5399,
+        "end": 5868
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_7",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_7",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_7/20070226",
+      "type": "article",
+      "num": "Art. 7.",
+      "heading": "Communication à la Commission et échange d'information.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "Les autorités compétentes sont autorisées à s'échanger dans l'exécution de leurs missions les informations nécessaires à l'application du présent règlement. Pour l'échange des informations au titre de la coopération administrative entre les autorités nationales compétentes, d'une part, la Commission européenne et les autorités compétentes des autres Etats membres, d'autre part, les dispositions du règlement (CE) n° 515/97 du Conseil du 13 mars 1997 relatifs à l'assistance mutuelle entre les autorités administratives des Etats membres et à la collaboration entre celles-ci et la Commission en vue d'assurer la bonne application des réglementations douanière et agricole sont applicables par analogie.",
+      "text_sha256": "1f4dd1eeae4fbf0851d317d3f631eaa46d7736cb513c1e2648fa8c5ab024de84",
+      "md_span": {
+        "start": 5959,
+        "end": 6664
+      },
+      "citations": []
+    },
+    {
+      "anchor": "art_8",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_8",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_8/20070226",
+      "type": "article",
+      "num": "Art. 8.",
+      "heading": "Dispositions pénales.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "Est puni des peines prévues à l'article 4 paragraphe 5 de la loi du 17 mars 1992 précitée, tout manquement aux dispositions de surveillance des précurseurs de drogues instaurées par le présent règlement et les règlements communautaires visés à l'article premier, notamment:\n\n- le fait de mettre sur le marché communautaire des substances classifiées;\n- le fait de détenir, de tenter de se procurer, ou de fournir à une personne physique ou morale non spécialement agrée, une des substances classifiées;\n- le fait par un opérateur de ne pas procéder aux déclarations et notifications prévues par les règlements communautaires, notamment en ce qui concerne les locaux de fabrication, la notification d'une personne responsable, la déclaration de fourniture de substances classifiées et la déclaration de leur usage, la notification aux autorités compétentes des commandes ou transactions inhabituelles;\n- le défaut de procéder au marquage ou à l'étiquetage des substances classifiées ou l'inobservation des obligations de documentation requises;\n- le fait, par un opérateur qui procède à une opération d'importation, d'exportation, ou à une activité intermédiaire du commerce avec un pays tiers, de ne pas faire accompagner les substances classifiées des documents douaniers et commerciaux requis;\n- le défaut de veiller à la protection des locaux contre l'enlèvement de substances classifiées au titre de la catégorie 1 de la classification de l'annexe I du règlement communautaire (CE) n° 273/2004 ou de la catégorie 1 de la classification de l'annexe I du règlement communautaire (CE) n° 111/2005, visés à l'article 1.",
+      "text_sha256": "b43eeb21ea31f02814acb9fabdc509d0d7a8ebde743714f4725895afc3f43ca2",
+      "md_span": {
+        "start": 6721,
+        "end": 8340
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/loi/1992/03/17/n1/jo",
+          "text": "loi du 17 mars 1992"
+        }
+      ]
+    },
+    {
+      "anchor": "art_9",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_9",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_9/20070226",
+      "type": "article",
+      "num": "Art. 9.",
+      "heading": "Disposition abrogatoire.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "Le règlement grand-ducal du 7 juin 1996 déterminant les mesures d'application et de sanction du règlement CEE modifié N° 3677/90 du Conseil relatif au commerce de précurseurs de drogues entre la Communauté et les pays tiers et le règlement grand-ducal modifié du 2 février 1995 relatif à la fabrication et à la mise sur le marché de certaines substances utilisées pour la fabrication illicite de stupéfiants et de substances psychotropes sont abrogés.",
+      "text_sha256": "89b13cfe14afa737e1c4328997c465e14b86eda0c8f5862884b5dfd49d8c8980",
+      "md_span": {
+        "start": 8400,
+        "end": 8851
+      },
+      "citations": [
+        {
+          "href": "/eli/etat/leg/rgd/1996/06/07/n1/jo",
+          "text": "règlement grand-ducal du 7 juin 1996"
+        },
+        {
+          "href": "/eli/etat/leg/rgd/1995/02/02/n1/jo",
+          "text": "règlement grand-ducal modifié du 2 février 1995"
+        }
+      ]
+    },
+    {
+      "anchor": "art_10",
+      "provision_id": "lu-legilux:rgd-2007-02-13-n2:2017-04-03#art_10",
+      "eli": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/02/13/n2/art_10/20070226",
+      "type": "article",
+      "num": "Art. 10.",
+      "heading": "Exécution.",
+      "path": [],
+      "article_valid_from": "2007-02-26",
+      "text_md": "Notre Ministre de la Santé et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement, qui sera publié au Mémorial.",
+      "text_sha256": "cd0db9956f58bd93129f3714caa6fd1333f36954589c68c4ed60f2067da48040",
+      "md_span": {
+        "start": 8899,
+        "end": 9067
+      },
+      "citations": []
+    }
+  ],
+  "notes": []
+}

@@ -1,10 +1,10 @@
 ---
-lex_id: 'lu-legilux:loi-2004-11-12-n1:2026-07-27'
+lex_id: 'lu-legilux:loi-2004-11-12-n1:2026-08-08'
 title: 'Loi du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme.'
-valid_from: '2026-07-27'
-valid_to: '2026-08-07'
-source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20260727/fr'
-source_sha256: '41a878b4ab1328811bd98d0aba52a2eeac2551195686060a10c9b25c458de304'
+valid_from: '2026-08-08'
+valid_to: 'open'
+source: 'https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20260808/fr'
+source_sha256: '85970a0e23228513cbd3f1dc5bcbeb825da42c0992b2c1fdef422e4f5368eac6'
 license: 'CC-BY-4.0'
 attribution: 'Legilux — Ministère d''État, Service central de législation, Grand-Duché de Luxembourg (CC-BY-4.0)'
 generator: 'akn-lu/1 · lex derive'
@@ -611,6 +611,20 @@ Par dérogation aux alinéas précédents, un règlement grand-ducal peut interd
 Lorsque les professionnels visés à l’article 2 paragraphe (1) points 8, 9, 11, 12 et 13, s'efforcent de dissuader un client de prendre part à une activité illégale, il n'y a pas de divulgation au sens de l’alinéa 1er.
 
 **(6)** Les informations concernant des soupçons selon lesquels des fonds proviennent d'un blanchiment, d’une infraction sous-jacente associée ou sont liés au financement du terrorisme qui ont été transmises à la CRF sont partagées au sein du groupe, sauf instruction contraire émanant de la CRF.
+
+<a id="art_5-1"></a>
+
+### Art. 5-1. Signalements de la CRF
+
+Les professionnels visés à l’article 2 paragraphe 1er point 1 et point 20 peuvent solliciter la réception des signalements prévus par l’article 74-4bis de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire, en adressant à la CRF une demande par l’intermédiaire de son système informatique sécurisé.
+
+Les professionnels concernés utilisent ces signalements exclusivement dans le cadre de la lutte contre le blanchiment, les infractions sous-jacentes associées et le financement du terrorisme.
+
+L’utilisation de ces signalements se fait sous leur seule responsabilité.
+
+Les professionnels concernés ne peuvent pas révéler ces signalements au client concerné ou à des personnes tierces.
+
+Les professionnels concernés suppriment toutes les informations reçues dans le cadre des signalements opérés en vertu de l’article 74-4bis, paragraphe 4, alinéa 1er, de la loi modifiée du 7 mars 1980 sur l’organisation judiciaire dans un délai de six mois à compter de leur réception
 
 ### Chapitre 3 — Dispositions particulières à certains professionnels
 
